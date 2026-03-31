@@ -1230,11 +1230,8 @@ spare,1_0_19_8A0_12C_77E_DC00000_0_0_0.png,spare.png,8.0W,(60) 8.0W KU-band Eute
 ,1_0_1_2C1_7_800_DC90000_0_0_0.png,.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 ,1_0_1_2C5_7_800_DC90000_0_0_0.png,.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 1 IRAQ Drama,1_0_1_13_1_FFFF_DC92A3F_0_0_0.png,1iraqdrama.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
-11804H SID 0x3f3,1_0_1_3F3_A_800_DC90000_0_0_0.png,11804hsid0x3f3.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
-11804H SID 0x3f4,1_0_1_3F4_A_800_DC90000_0_0_0.png,11804hsid0x3f4.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
-11804H SID 0x3f5,1_0_1_3F5_A_800_DC90000_0_0_0.png,11804hsid0x3f5.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
 11823V SID 0x0a,1_0_1_A_B_800_DC90000_0_0_0.png,11823vsid0x0a.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
-2M MAROC HD,1_0_1_169_C9_800_DC90000_0_0_0.png,2mmarochd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
+2M MAROC HD,1_0_1_169_C9_800_DC90000_0_0_0.png,2mmarochd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 2M Maroc,1_0_1_51C_D_800_DC90000_0_0_0.png,2mmaroc.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 5 KIDS,1_0_19_638_10_800_DC90000_0_0_0.png,5kids.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 A TV,1_0_1_C8C_20_800_DC90000_0_0_0.png,atv.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
@@ -1243,16 +1240,16 @@ AB IRAQ TV,1_0_1_A_1_FFFF_DC92A3F_0_0_0.png,abiraqtv.png,7.1W,(61) 7.1W KU-band 
 AD Nat Geo HD,1_0_1_8_32_64_DC90000_0_0_0.png,adnatgeohd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AD Sport 1 HD,1_0_1_5_32_64_DC90000_0_0_0.png,adsport1hd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AD Sport 2 HD,1_0_1_6_32_64_DC90000_0_0_0.png,adsport2hd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
-ADM R1,1_0_2_13_32_64_DC90000_0_0_0.png,admr1.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
-ADM R2,1_0_2_14_32_64_DC90000_0_0_0.png,admr2.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
-ADM R3,1_0_2_15_32_64_DC90000_0_0_0.png,admr3.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
-ADM R4,1_0_2_16_32_64_DC90000_0_0_0.png,admr4.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
+ADM R1,1_0_2_13_32_64_DC90000_0_0_0.png,admr1.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
+ADM R2,1_0_2_14_32_64_DC90000_0_0_0.png,admr2.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
+ADM R3,1_0_2_15_32_64_DC90000_0_0_0.png,admr3.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
+ADM R4,1_0_2_16_32_64_DC90000_0_0_0.png,admr4.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AFAQ TV,1_0_19_168_C9_800_DC90000_0_0_0.png,afaqtv.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AGHAPY TV,1_0_1_4_1_FFFF_DC92A3F_0_0_0.png,aghapytv.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AJMAN HD,1_0_19_191_10_6E_DC90000_0_0_0.png,ajmanhd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL AHAD HD,1_0_19_33_14_6E_DC90000_0_0_0.png,alahadhd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL AHAD VOICE,1_0_19_34_14_6E_DC90000_0_0_0.png,alahadvoice.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
-AL AMAL,1_0_A_14A_C23_6E_DC90000_0_0_0.png,alamal.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
+AL AMAL,1_0_A_14A_C23_6E_DC90000_0_0_0.png,alamal.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL AYAM HD,1_0_19_2C_14_6E_DC90000_0_0_0.png,alayamhd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL BACHAEER RADIO,1_0_2_1B6C_17_6E_DC90000_0_0_0.png,albachaeerradio.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL DAFRA HD,1_0_19_19D3_42_800_DC90000_0_0_0.png,aldafrahd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
@@ -1265,7 +1262,7 @@ AL NAHRAIN TV,1_0_1_2BF_7_800_DC90000_0_0_0.png,alnahraintv.png,7.1W,(61) 7.1W K
 AL NOJABA TV,1_0_1_C_14_6E_DC90000_0_0_0.png,alnojabatv.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL Oula HD,1_0_19_1F6_5_800_DC90000_0_0_0.png,aloulahd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL RAHMA,1_0_1_1F41_12_6E_DC90000_0_0_0.png,alrahma.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
-AL RASHEED RADIO,1_0_A_14_9C7C_77E_DC90000_0_0_0.png,alrasheedradio.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
+AL RASHEED RADIO,1_0_A_14_9C7C_77E_DC90000_0_0_0.png,alrasheedradio.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL RASHEED TV HD,1_0_19_4_9C7C_77E_DC90000_0_0_0.png,alrasheedtvhd.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL Resala,1_0_1_83D_15_800_DC90000_0_0_0.png,alresala.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL SABAH,1_0_1_454_B_800_DC90000_0_0_0.png,alsabah.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
@@ -1279,10 +1276,10 @@ AL Shams,1_0_1_899_16_800_DC90000_0_0_0.png,alshams.png,7.1W,(61) 7.1W KU-band N
 AL THAQALAYN TV,1_0_11_130_C23_6E_DC90000_0_0_0.png,althaqalayntv.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL oula,1_0_1_1F5_5_800_DC90000_0_0_0.png,aloula.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL-AKHBAR,1_0_19_44E_7594_77E_DC90000_0_0_0.png,alakhbar.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
-AL-Aghani,1_0_2_234_5_800_DC90000_0_0_0.png,alaghani.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
+AL-Aghani,1_0_2_234_5_800_DC90000_0_0_0.png,alaghani.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL-Anbar,1_0_1_8A9_16_800_DC90000_0_0_0.png,alanbar.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
-AL-Bernameg AL-moussekey,1_0_2_233_5_800_DC90000_0_0_0.png,albernamegalmoussekey.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
-AL-Kahera Al-Kobra,1_0_2_232_5_800_DC90000_0_0_0.png,alkaheraalkobra.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
+AL-Bernameg AL-moussekey,1_0_2_233_5_800_DC90000_0_0_0.png,albernamegalmoussekey.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
+AL-Kahera Al-Kobra,1_0_2_232_5_800_DC90000_0_0_0.png,alkaheraalkobra.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL-MUSTAKILA,1_0_1_4B5_A0F0_396_DC90000_0_0_0.png,almustakila.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 AL-Menia,1_0_2_235_5_800_DC90000_0_0_0.png,almenia.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
 AL-Quran AL_Karem,1_0_2_228_5_800_DC90000_0_0_0.png,alquranalkarem.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
@@ -1634,6 +1631,9 @@ Nile News HD,1_0_19_264_6_800_DC90000_0_0_0.png,nilenewshd.png,7.1W,(61) 7.1W KU
 Nile Sport,1_0_1_25F_6_800_DC90000_0_0_0.png,nilesport.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 Nile TV,1_0_1_89D_16_800_DC90000_0_0_0.png,niletv.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 Nilesat Promo,1_0_19_3E9_A_800_DC90000_0_0_0.png,nilesatpromo.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
+Nilesat promo,1_0_1_3F3_A_800_DC90000_0_0_0.png,nilesatpromo.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
+Nilesat promo,1_0_1_3F4_A_800_DC90000_0_0_0.png,nilesatpromo.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
+Nilesat promo,1_0_1_3F5_A_800_DC90000_0_0_0.png,nilesatpromo.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 Nogoum FM,1_0_2_669_10_800_DC90000_0_0_0.png,nogoumfm.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
 Nogoum FM TV,1_0_1_650_10_800_DC90000_0_0_0.png,nogoumfmtv.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Found
 Noor Dubai Radio,1_0_A_15_D1C4_77E_DC90000_0_0_0.png,noordubairadio.png,7.1W,(61) 7.1W KU-band Nilesat 201/301 & Eutelsat 7 West A,Missing
@@ -7352,7 +7352,7 @@ iConcert,1_0_19_1433_CA2_3_EB0000_0_0_0.png,iconcert.png,23.5E,(3) 23.5E KU-band
 iConcert,1_0_19_17D6_C91_3_EB0000_0_0_0.png,iconcert.png,23.5E,(3) 23.5E KU-band Astra 3B/3C,Found
 mSAT Info,1_0_1_4E20_C8B_3_EB0000_0_0_0.png,msatinfo.png,23.5E,(3) 23.5E KU-band Astra 3B/3C,Found
 radio nv,1_0_2_1E2C_C9E_3_EB0000_0_0_0.png,radionv.png,23.5E,(3) 23.5E KU-band Astra 3B/3C,Missing
-2M MAROC HD,1_0_19_7_424_E0_FF0000_0_0_0.png,2mmarochd.png,25.5E,(4) 25.5E KU-band Es'hail 1,Missing
+2M MAROC HD,1_0_19_7_424_E0_FF0000_0_0_0.png,2mmarochd.png,25.5E,(4) 25.5E KU-band Es'hail 1,Found
 2M NATIONAL HD,1_0_1_2_1_1_FF0000_0_0_0.png,2mnationalhd.png,25.5E,(4) 25.5E KU-band Es'hail 1,Missing
 Aflam HD,1_0_19_7_2_1_FF0000_0_0_0.png,aflamhd.png,25.5E,(4) 25.5E KU-band Es'hail 1,Found
 Al Aoula HD,1_0_19_A_2_1_FF0000_0_0_0.png,alaoulahd.png,25.5E,(4) 25.5E KU-band Es'hail 1,Found
@@ -8585,11 +8585,11 @@ Ch-9,1_0_1_1_1_FFFF_17E0EBA_0_0_0.png,ch9.png,38.2E,(102) 38.1E C-band Paksat 1R
 Champion Kids UK,1_0_16_7_1_FFFF_17E8F06_0_0_0.png,championkidsuk.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Missing
 DM News English,1_0_16_16_1_FFFF_17E8F06_0_0_0.png,dmnewsenglish.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Found
 DTV1,1_0_2_101_0_0_17E0E7B_0_0_0.png,dtv1.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Found
-DTV2,1_0_2_201_0_0_17E0E7B_0_0_0.png,dtv2.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Missing
-DTV3,1_0_2_301_0_0_17E0E7B_0_0_0.png,dtv3.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Missing
-DTV4,1_0_2_401_0_0_17E0E7B_0_0_0.png,dtv4.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Missing
-DTV5,1_0_2_501_0_0_17E0E7B_0_0_0.png,dtv5.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Missing
-DTV6,1_0_2_601_0_0_17E0E7B_0_0_0.png,dtv6.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Missing
+DTV2,1_0_2_201_0_0_17E0E7B_0_0_0.png,dtv2.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Found
+DTV3,1_0_2_301_0_0_17E0E7B_0_0_0.png,dtv3.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Found
+DTV4,1_0_2_401_0_0_17E0E7B_0_0_0.png,dtv4.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Found
+DTV5,1_0_2_501_0_0_17E0E7B_0_0_0.png,dtv5.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Found
+DTV6,1_0_2_601_0_0_17E0E7B_0_0_0.png,dtv6.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Found
 Dharti Tv HD,1_0_1_101_1_1_17E0ED0_0_0_0.png,dhartitvhd.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Missing
 Digital 1,1_0_1_1_0_0_17E0FAC_0_0_0.png,digital1.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Found
 Digital 1,1_0_1_101_0_0_17E0FAC_0_0_0.png,digital1.png,38.2E,(102) 38.1E C-band Paksat 1R/MM1,Found

@@ -85,15 +85,15 @@ class PiconWeaver:
 
     def print_menu(self):
         """Displays the main interactive menu with detailed helper text."""
-        print(f"\n{Colors.CYAN}╭─────────────────── ACTION MENU ──────────────────────────────────────────╮{Colors.ENDC}")
-        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[1] 📄 Export ALL Services (CSV){Colors.ENDC}    | Generates a full list of all channels   {Colors.CYAN}│{Colors.ENDC}")
-        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[2] ✅ Export FOUND Picons (CSV){Colors.ENDC}    | Lists channels that have a picon file   {Colors.CYAN}│{Colors.ENDC}")
-        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[3] ❌ Export MISSING Picons (CSV){Colors.ENDC}  | Identifies gaps in your picon library   {Colors.CYAN}│{Colors.ENDC}")
-        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[4] 🗂️  Organize Picon Dirs{Colors.ENDC}         | Wipes and rebuilds SAT/SRP/SNP folders  {Colors.CYAN}│{Colors.ENDC}")
-        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[5] 🩹 Heal Missing Picons{Colors.ENDC}          | Imports picons from another folder      {Colors.CYAN}│{Colors.ENDC}")
-        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[6] 📤 FTP Upload to STB{Colors.ENDC}            | Purges STB folder and uploads picons    {Colors.CYAN}│{Colors.ENDC}")
-        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[Q] 🚪 Quit Application{Colors.ENDC}             | Closes the program                      {Colors.CYAN}│{Colors.ENDC}")
-        print(f"{Colors.CYAN}╰──────────────────────────────────────────────────────────────────────────╯{Colors.ENDC}")
+        print(f"\n{Colors.CYAN}╭─────────────────── ACTION MENU ───────────────────────────────────────────────────╮{Colors.ENDC}")
+        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[1] 📄 Export ALL Services (CSV){Colors.ENDC}        | Generates a full list of all channels   {Colors.CYAN}│{Colors.ENDC}")
+        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[2] ✅ Export FOUND Picons (CSV){Colors.ENDC}        | Lists channels that have a picon file   {Colors.CYAN}│{Colors.ENDC}")
+        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[3] ❌ Export MISSING Picons (CSV){Colors.ENDC}      | Identifies gaps in your picon library   {Colors.CYAN}│{Colors.ENDC}")
+        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[4] 🗂️  Organize Picon Dirs{Colors.ENDC}              | Wipes and rebuilds SAT/SRP/SNP folders  {Colors.CYAN}│{Colors.ENDC}")
+        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[5] 🩹 Heal Missing Picons{Colors.ENDC}              | Imports picons from another folder      {Colors.CYAN}│{Colors.ENDC}")
+        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[6] 📤 FTP Upload to STB{Colors.ENDC}                | Purges STB folder and uploads picons    {Colors.CYAN}│{Colors.ENDC}")
+        print(f"{Colors.CYAN}│{Colors.ENDC} {Colors.BOLD}[Q] 🚪 Quit Application{Colors.ENDC}                 | Closes the program                      {Colors.CYAN}│{Colors.ENDC}")
+        print(f"{Colors.CYAN}╰───────────────────────────────────────────────────────────────────────────────────╯{Colors.ENDC}")
         print(f"{Colors.GREEN} 💡 INFO: Changes to your picon library trigger an auto-refresh of all CSVs.{Colors.ENDC}\n")
 
     def print_header(self, title):
