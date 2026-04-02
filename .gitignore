@@ -1,3 +1,6 @@
 picons/*.png
 picons/snp-index
 .python-version
+*.csv
+*.log
+*.txt

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-LyngSat Satellite Master - Version 4.0 | HYPER-GRID OBSIDIAN
+LyngSat Satellite Master - Version 5.0 | HYPER-GRID OBSIDIAN
 ---------------------------------------------------------------
 FEATURES:
 - Ultra-Enhanced UI: Rounded box drawings, segmented telemetry blocks.
@@ -10,6 +10,8 @@ FEATURES:
 - Advanced Analytics: Real-time encryption/FTA telemetry dashboard.
 - Dependency Guard: Failsafes for missing external libraries.
 - Band Filtering: Limits scans to standard C-Band (3400-4200) and Ku-Band (10700-12750).
+- Batch Processing: Multi-URL parsing engine with automated queuing.
+- Smart Naming: Dynamic CSV output routing (Satellite@Position_Full_Services.csv).
 """
 
 import os
@@ -115,7 +117,7 @@ class UIRenderer:
         print(f"{c.NEON_B}{top}{c.ENDC}")
         
         title = "  🛰️   L Y N G S A T   S A T E L L I T E   M A S T E R  "
-        version = " [ v4.0 | OBSIDIAN-GRID ] "
+        version = " [ v5.0 | OBSIDIAN-GRID ] "
         
         inner_space = w - 2
         gap = inner_space - self.visible_width(title) - self.visible_width(version)
@@ -126,7 +128,7 @@ class UIRenderer:
         sub_line = "  " + "─" * (w - 6) + "  "
         print(f"{c.NEON_B}│{c.ENDC}{c.DIM}{sub_line}{c.ENDC}{c.NEON_B}│{c.ENDC}")
         
-        desc = "  DEEP-SCAN SURGICAL ENGINE • NEON-TELEMETRY • CHANNEL-ROUTING v4  "
+        desc = "  DEEP-SCAN SURGICAL ENGINE • NEON-TELEMETRY • BATCH CHANNEL-ROUTING v5  "
         print(f"{c.NEON_B}│{c.ENDC}{c.TEAL}{desc:^{inner_space}}{c.ENDC}{c.NEON_B}│{c.ENDC}")
         
         print(f"{c.NEON_B}{bot}{c.ENDC}")
@@ -147,8 +149,10 @@ class SatelliteScanner:
         self.color = ColorTheme()
         self.ui = UIRenderer(self.color)
         self.running = True
-        
-        # Expanded Statistics Dictionary
+        self._reset_stats()
+        signal.signal(signal.SIGINT, self._handle_exit)
+
+    def _reset_stats(self):
         self.stats = {
             "total": 0,
             "muxes": 0,
@@ -161,7 +165,6 @@ class SatelliteScanner:
             "radio_fta": 0,
             "radio_enc": 0
         }
-        signal.signal(signal.SIGINT, self._handle_exit)
 
     def _handle_exit(self, sig, frame):
         self.running = False
@@ -183,6 +186,7 @@ class SatelliteScanner:
 
     def parse_satellite(self, url: str):
         try:
+            self._reset_stats()
             self.ui.draw_section_head("INITIALIZING UPLINK")
             self.log_proc("LINK", f"Acquiring target: {url}", self.color.GOLD)
             
@@ -190,8 +194,19 @@ class SatelliteScanner:
             soup = BeautifulSoup(res.text, 'html.parser')
 
             title_node = soup.title.string if soup.title else "Satellite"
-            sat_m = re.search(r'(\d+\.?\d*)\s?°?\s*([EW])', title_node)
-            pos_label = f"{sat_m.group(1)}{sat_m.group(2).upper()}" if sat_m else "Sat_Data"
+            
+            # Smart Naming Logic: Match "<Name> at <Position>" format
+            name_pos_m = re.search(r'(.*?)\s+at\s+(\d+\.?\d*)\s?°?\s*([EW])', title_node, re.I)
+            if name_pos_m:
+                # Replace '/' with '-' to prevent OS directory traversal errors while maintaining style
+                sat_name = name_pos_m.group(1).strip().replace('/', '-')
+                pos_val = name_pos_m.group(2)
+                pos_dir = name_pos_m.group(3).upper()
+                pos_label = f"{sat_name}@{pos_val}{pos_dir}"
+            else:
+                # Fallback to pure position
+                sat_m = re.search(r'(\d+\.?\d*)\s?°?\s*([EW])', title_node)
+                pos_label = f"{sat_m.group(1)}{sat_m.group(2).upper()}" if sat_m else "Sat_Data"
             
             # PHASE 1: DISCOVERY
             mux_queue = []
@@ -366,7 +381,8 @@ class SatelliteScanner:
             os.makedirs(folder)
             self.log_proc("FILE", f"Created directory: {folder}/", self.color.ORANGE)
 
-        filename = os.path.join(folder, f"{label}_Full_Scan.csv")
+        # Smart Naming updated syntax mapping
+        filename = os.path.join(folder, f"{label}_Full_Services.csv")
         headers = ["Frequency", "Polarization", "SymbolRate", "FEC", "System", "SID", "ServiceName", "Type", "Encryption"]
         
         with open(filename, 'w', newline='', encoding='utf-8') as f:
@@ -384,10 +400,25 @@ class SatelliteScanner:
     def run(self):
         os.system('clear' if os.name == 'posix' else 'cls')
         self.ui.print_banner()
-        print(f"\n {self.color.NEON_P}▶{self.color.ENDC} {self.color.BOLD}UPLINK TARGET (URL):{self.color.ENDC} ", end='')
-        url = input().strip()
-        if url: 
-            self.parse_satellite(url)
+        print(f"\n {self.color.NEON_P}▶{self.color.ENDC} {self.color.BOLD}UPLINK TARGETS (Enter URLs one by one. Leave empty to start):{self.color.ENDC}")
+        
+        urls = []
+        while True:
+            url = input(f"   {self.color.CYAN}├─ URL:{self.color.ENDC} ").strip()
+            if not url:
+                break
+            urls.append(url)
+            
+        if urls:
+            self.log_proc("BATCH", f"Initiating batch scan for {len(urls)} targets.", self.color.NEON_G)
+            for idx, u in enumerate(urls, 1):
+                if not self.running: break
+                if len(urls) > 1:
+                    self.ui.draw_divider()
+                    self.log_proc("QUEUE", f"Processing target {idx}/{len(urls)}", self.color.VIOLET)
+                self.parse_satellite(u)
+        else:
+            self.log_proc("ABORT", "No URLs provided. System standby.", self.color.CRIMSON)
 
 if __name__ == "__main__":
     app = SatelliteScanner()
