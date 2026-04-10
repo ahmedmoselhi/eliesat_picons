@@ -1,0 +1,1862 @@
+eDVB services /4/
+transponders
+018629ea:0001:02be
+	s 10730000:30000000:0:0:390:2:0:1:0:2:2
+/
+01862a8a:03f2:039e
+	s 10890000:30000000:0:0:390:2:0:1:0:2:2
+/
+01862ab2:03fc:039e
+	s 10930000:30000000:0:0:390:2:0:1:0:2:2
+/
+01862b83:00a0:0000
+	s 11139000:1000000:1:0:390:2:0:1:0:2:2
+/
+01862cf6:0000:0000
+	s 11510000:4444000:0:0:390:2:0:1:0:2:2
+/
+01862cfa:0000:0001
+	s 11514000:2141000:0:0:390:2:0:1:0:2:2
+/
+01862df0:0001:ffff
+	s 11760000:16515000:0:0:390:2:0:1:0:2:2
+/
+01862e03:0002:ffff
+	s 11779000:16515000:0:0:390:2:0:1:0:2:2
+/
+01862f55:00b1:039e
+	s 12117000:30000000:0:0:390:2:0:1:0:2:2
+/
+01862f69:00b2:039e
+	s 12137000:30000000:1:0:390:2:0:1:0:2:2
+/
+01862f7c:0007:0001
+	s 12156000:30000000:0:0:390:2:0:1:0:2:2
+/
+01862f8f:000f:001c
+	s 12175000:30000000:1:0:390:2:0:0:0:2:2
+/
+01862fa2:0002:0001
+	s 12194000:30000000:0:0:390:2:0:1:0:2:2
+/
+01862fc0:0002:212c
+	s 12224000:13381000:0:0:390:2:0:1:0:2:2
+/
+01862fd2:0001:212c
+	s 12242000:13381000:0:0:390:2:0:1:0:2:2
+/
+01862fdb:146c:00a7
+	s 12251000:30000000:1:0:390:2:0:1:0:2:2
+/
+01862fef:0001:0001
+	s 12271000:30000000:0:0:390:2:0:1:0:2:2
+/
+01863002:0001:001c
+	s 12290000:30000000:1:0:390:2:0:1:0:2:2
+/
+01863015:0b11:039e
+	s 12309000:30000000:0:0:390:2:0:1:0:2:2
+/
+01863028:0002:001c
+	s 12328000:30000000:1:0:390:2:0:1:0:2:2
+/
+01863032:0065:212c
+	s 12338000:11568000:0:0:390:2:0:1:0:2:2
+/
+01863040:0067:212c
+	s 12352000:11568000:0:0:390:2:0:1:0:2:2
+/
+0186304f:0010:001c
+	s 12367000:30000000:1:0:390:2:0:0:0:2:2
+/
+01863075:0012:001c
+	s 12405000:30000000:1:0:390:2:0:0:0:2:2
+/
+0186307e:0069:212c
+	s 12414000:11568000:0:0:390:2:0:1:0:2:2
+/
+01863097:0001:ffff
+	s 12439000:4444000:0:0:390:2:0:1:0:2:2
+/
+018630af:0005:0001
+	s 12463000:30000000:0:0:390:2:0:1:0:2:2
+/
+018630ec:000d:001c
+	s 12524000:30000000:1:0:390:2:0:0:0:2:2
+/
+01863115:000e:001c
+	s 12565000:30000000:1:0:390:2:0:0:0:2:2
+/
+01863137:145c:0005
+	s 12599000:19366000:1:0:390:2:0:1:0:2:2
+/
+01863170:0000:016e
+	s 12656000:15155000:0:0:390:2:0:1:0:2:2
+/
+01863190:0011:001c
+	s 12688000:30000000:1:0:390:2:0:0:0:2:2
+/
+018631b4:0006:0539
+	s 12724000:6250000:0:0:390:2:0:1:0:2:2
+/
+end
+services
+0001:018629ea:0001:02be:1:0:0
+RIK Sat
+p:Unknown
+000b:018629ea:0001:02be:1:0:0
+Eurobet Canale Arancione
+p:Unknown
+000c:018629ea:0001:02be:1:0:0
+Eurobet Canale Nero
+p:Unknown
+000d:018629ea:0001:02be:1:0:0
+Eurobet mosaic
+p:Unknown
+000e:018629ea:0001:02be:1:0:0
+Eurobet Canale Verde
+p:Unknown
+000f:018629ea:0001:02be:1:0:0
+Eurobet Canale Azzurro
+p:Unknown
+0065:018629ea:0001:02be:1:0:0
+Pame Stoichima Virtual Sports 1
+p:Unknown
+0066:018629ea:0001:02be:1:0:0
+Pame Stoichima Virtual Sports 2
+p:Unknown
+0068:018629ea:0001:02be:1:0:0
+Pame Stoichima Racing
+p:Unknown
+0069:018629ea:0001:02be:1:0:0
+Pame Stoichima Lepto Pros Lepto
+p:Unknown
+006a:018629ea:0001:02be:1:0:0
+Pame Stoichima Virtual Sports Mpasket
+p:Unknown
+0161:018629ea:0001:02be:1:0:0
+ERT World
+p:Unknown
+03f4:018629ea:0001:02be:1:0:0
+4E
+p:Unknown
+0002:018629ea:0001:02be:2:0:0
+RIK 1 Proto
+p:Unknown
+0003:018629ea:0001:02be:2:0:0
+RIK 2 Deftero
+p:Unknown
+0004:018629ea:0001:02be:2:0:0
+RIK 3 Trito
+p:Unknown
+0005:018629ea:0001:02be:2:0:0
+RIK 4 Classic
+p:Unknown
+0007:018629ea:0001:02be:2:0:0
+Ellada FM
+p:Unknown
+0020:018629ea:0001:02be:2:0:0
+I Foni tis Elladas
+p:Unknown
+0024:018629ea:0001:02be:2:0:0
+Kanali 6
+p:Unknown
+03f2:01862a8a:03f2:039e:1:0:0
+Vizion Plus
+p:Tring
+04ba:01862a8a:03f2:039e:1:0:0
+Tring Classic
+p:Tring
+0582:01862a8a:03f2:039e:1:0:0
+Fax News
+p:Tring
+05b4:01862a8a:03f2:039e:1:0:0
+ABC
+p:Tring
+05e6:01862a8a:03f2:039e:1:0:0
+Report TV
+p:Tring
+0618:01862a8a:03f2:039e:1:0:0
+News 24
+p:Tring
+064a:01862a8a:03f2:039e:1:0:0
+Kanali 7
+p:Unknown
+067c:01862a8a:03f2:039e:1:0:0
+Syri TV
+p:Tring
+06e0:01862a8a:03f2:039e:1:0:0
+Tring Tring
+p:Tring
+0744:01862a8a:03f2:039e:1:0:0
+Tip TV
+p:Tring
+0776:01862a8a:03f2:039e:1:0:0
+Living TV
+p:Tring
+07da:01862a8a:03f2:039e:1:0:0
+Tring Series
+p:Tring
+080c:01862a8a:03f2:039e:1:0:0
+3 Plus
+p:Tring
+083e:01862a8a:03f2:039e:1:0:0
+Kanal D Drama
+p:Tring
+0870:01862a8a:03f2:039e:1:0:0
+Tring Smile
+p:Tring
+08a2:01862a8a:03f2:039e:1:0:0
+Tring Shqip
+p:Tring
+08d4:01862a8a:03f2:039e:1:0:0
+Tring Super
+p:Tring
+0906:01862a8a:03f2:039e:1:0:0
+Tring Action
+p:Tring
+0938:01862a8a:03f2:039e:1:0:0
+Tring Life
+p:Tring
+096a:01862a8a:03f2:039e:1:0:0
+Tring Comedy
+p:Tring
+099c:01862a8a:03f2:039e:1:0:0
+Tring Fantasy
+p:Tring
+0a96:01862a8a:03f2:039e:1:0:0
+Tring Planet
+p:Tring
+0ac8:01862a8a:03f2:039e:1:0:0
+Tring World
+p:Tring
+0afa:01862a8a:03f2:039e:1:0:0
+Tring Sport News
+p:Tring
+0b2c:01862a8a:03f2:039e:1:0:0
+Tring Sport 1
+p:Tring
+0b5e:01862a8a:03f2:039e:1:0:0
+Tring Sport 2
+p:Tring
+0b90:01862a8a:03f2:039e:1:0:0
+Tring Sport 3
+p:Tring
+0bc2:01862a8a:03f2:039e:1:0:0
+Tring Sport 4
+p:Tring
+0c58:01862a8a:03f2:039e:1:0:0
+Folk +
+p:Tring
+0c8a:01862a8a:03f2:039e:1:0:0
+Tring Sport 5
+p:Tring
+0cee:01862a8a:03f2:039e:1:0:0
+Desire
+p:Tring
+0d20:01862a8a:03f2:039e:1:0:0
+Elrodi TV
+p:Tring
+0d52:01862a8a:03f2:039e:1:0:0
+RTSH 1
+p:Tring
+0e7e:01862a8a:03f2:039e:1:0:0
+Tring Collection
+p:Tring
+0eb0:01862a8a:03f2:039e:1:0:0
+Tring Novelas
+p:Tring
+1266:01862a8a:03f2:039e:1:0:0
+Top Channel
+p:Tring
+1b64:01862a8a:03f2:039e:2:0:0
+NRG
+p:Unknown
+04ba:01862ab2:03fc:039e:1:0:0
+RTK 1
+p:Tring
+06ae:01862ab2:03fc:039e:1:0:0
+Tring Original
+p:Tring
+0712:01862ab2:03fc:039e:1:0:0
+Tring Kids
+p:Tring
+07a8:01862ab2:03fc:039e:1:0:0
+Muse
+p:Tring
+09ce:01862ab2:03fc:039e:1:0:0
+Tring Family
+p:Tring
+0a64:01862ab2:03fc:039e:1:0:0
+Tring History
+p:Tring
+0cbc:01862ab2:03fc:039e:1:0:0
+BBF Music TV
+p:Tring
+0d84:01862ab2:03fc:039e:1:0:0
+Rai 1
+p:Unknown
+0db6:01862ab2:03fc:039e:1:0:0
+Bubble
+p:Tring
+0e4c:01862ab2:03fc:039e:1:0:0
+EuroNews Albania
+p:Tring
+1108:01862ab2:03fc:039e:1:0:0
+SuperSport 1
+p:Tring
+1126:01862ab2:03fc:039e:1:0:0
+SuperSport 2
+p:Tring
+1130:01862ab2:03fc:039e:1:0:0
+RTSH Sport
+p:Unknown
+1144:01862ab2:03fc:039e:1:0:0
+SuperSport 3
+p:Tring
+1162:01862ab2:03fc:039e:1:0:0
+Rai 2
+p:Unknown
+1176:01862ab2:03fc:039e:1:0:0
+SuperSport 4
+p:Tring
+1180:01862ab2:03fc:039e:1:0:0
+SuperSport 5
+p:Tring
+1194:01862ab2:03fc:039e:1:0:0
+Tring Turkish Stories
+p:Tring
+125c:01862ab2:03fc:039e:1:0:0
+Mediaset Italia
+p:Unknown
+132e:01862ab2:03fc:039e:1:0:0
+SuperSport 6
+p:Tring
+134c:01862ab2:03fc:039e:1:0:0
+SuperSport 7
+p:Tring
+1356:01862ab2:03fc:039e:1:0:0
+TV Klan
+p:Tring
+136a:01862ab2:03fc:039e:1:0:0
+Big Brother VIP Albania 1
+p:Tring
+1374:01862ab2:03fc:039e:1:0:0
+Big Brother VIP Albania 2
+p:Tring
+137e:01862ab2:03fc:039e:1:0:0
+Top News
+p:Tring
+13ba:01862ab2:03fc:039e:1:0:0
+Klan Kosova
+p:Tring
+1676:01862ab2:03fc:039e:1:0:0
+Klan Plus
+p:Tring
+16a8:01862ab2:03fc:039e:1:0:0
+Klan Music
+p:Tring
+16da:01862ab2:03fc:039e:1:0:0
+Klan News
+p:Tring
+1874:01862ab2:03fc:039e:1:0:0
+Tring Sport 6
+p:Tring
+1888:01862ab2:03fc:039e:1:0:0
+Tring Sport 7
+p:Tring
+1900:01862ab2:03fc:039e:1:0:0
+Panorama TV
+p:Tring
+1c14:01862b83:00a0:0000:1:0:0
+Equ TV
+p:Unknown
+0001:01862cf6:0000:0000:1:0:0
+Media Office
+p:Unknown
+0001:01862cfa:0000:0001:1:0:0
+Alsumaria
+p:Unknown
+0001:01862df0:0001:ffff:1:0:0
+Alpha Kyprou
+p:Unknown
+0002:01862df0:0001:ffff:1:0:0
+Ant1 Kypros
+p:Unknown
+0003:01862df0:0001:ffff:1:0:0
+Omega Channel
+p:Unknown
+0004:01862df0:0001:ffff:1:0:0
+Sigma TV
+p:Unknown
+0005:01862df0:0001:ffff:1:0:0
+Capital TV
+p:Unknown
+000b:01862df0:0001:ffff:1:0:0
+One Channel Cyprus
+p:Unknown
+000c:01862e03:0002:ffff:1:0:0
+Plus
+p:Unknown
+000d:01862e03:0002:ffff:1:0:0
+Smile TV
+p:Unknown
+000e:01862e03:0002:ffff:1:0:0
+Vergina Kypros
+p:Unknown
+0065:01862f55:00b1:039e:1:0:0
+Max Sport 1
+p:A1 Bulgaria
+0066:01862f55:00b1:039e:1:0:0
+Max Sport 2
+p:A1 Bulgaria
+0067:01862f55:00b1:039e:1:0:0
+STS International
+p:A1 Bulgaria
+0068:01862f55:00b1:039e:1:0:0
+Mate Kitchen TV
+p:A1 Bulgaria
+0069:01862f55:00b1:039e:1:0:0
+BNT 3
+p:A1 Bulgaria
+006a:01862f55:00b1:039e:1:0:0
+Detski Mir
+p:A1 Bulgaria
+006b:01862f55:00b1:039e:1:0:0
+Code Fashion TV
+p:A1 Bulgaria
+006c:01862f55:00b1:039e:1:0:0
+Rodnoe Kino
+p:A1 Bulgaria
+006d:01862f55:00b1:039e:1:0:0
+Bez Bagaj
+p:A1 Bulgaria
+006e:01862f55:00b1:039e:1:0:0
+BNT 1
+p:A1 Bulgaria
+006f:01862f55:00b1:039e:1:0:0
+Nova TV
+p:A1 Bulgaria
+0070:01862f55:00b1:039e:1:0:0
+Max Sport 3
+p:A1 Bulgaria
+0071:01862f55:00b1:039e:1:0:0
+Diema
+p:A1 Bulgaria
+0072:01862f55:00b1:039e:1:0:0
+Max Sport 4
+p:A1 Bulgaria
+0073:01862f55:00b1:039e:1:0:0
+Eurosport 1
+p:A1 Bulgaria
+0074:01862f55:00b1:039e:1:0:0
+Cinemania
+p:A1 Bulgaria
+0075:01862f55:00b1:039e:1:0:0
+Bloomberg TV Bulgaria
+p:A1 Bulgaria
+0076:01862f55:00b1:039e:1:0:0
+BNT 4
+p:A1 Bulgaria
+0077:01862f55:00b1:039e:1:0:0
+Box TV
+p:A1 Bulgaria
+0078:01862f55:00b1:039e:1:0:0
+BTV Cinema
+p:A1 Bulgaria
+0079:01862f55:00b1:039e:1:0:0
+BTV Comedy
+p:A1 Bulgaria
+007a:01862f55:00b1:039e:1:0:0
+BTV Story
+p:A1 Bulgaria
+007b:01862f55:00b1:039e:1:0:0
+Discovery Channel Bulgaria
+p:A1 Bulgaria
+007c:01862f55:00b1:039e:1:0:0
+TV Tourism
+p:A1 Bulgaria
+007d:01862f55:00b1:039e:1:0:0
+Peretz International
+p:A1 Bulgaria
+007e:01862f55:00b1:039e:1:0:0
+FilmBox Arthouse Worldwide
+p:A1 Bulgaria
+007f:01862f55:00b1:039e:1:0:0
+FilmBox Stars Adria
+p:A1 Bulgaria
+0081:01862f55:00b1:039e:1:0:0
+Planeta
+p:A1 Bulgaria
+0082:01862f55:00b1:039e:1:0:0
+Penthouse Gold
+p:A1 Bulgaria
+0083:01862f55:00b1:039e:1:0:0
+The Voice TV
+p:A1 Bulgaria
+0084:01862f55:00b1:039e:1:0:0
+BNT 2
+p:A1 Bulgaria
+0085:01862f55:00b1:039e:1:0:0
+Bulgaria 24
+p:A1 Bulgaria
+0086:01862f55:00b1:039e:1:0:0
+Okhota i Rybalka
+p:A1 Bulgaria
+0087:01862f55:00b1:039e:1:0:0
+Aljazeera English
+p:A1 Bulgaria
+0088:01862f55:00b1:039e:1:0:0
+Domashniy International
+p:A1 Bulgaria
+0089:01862f55:00b1:039e:1:0:0
+Disney Channel Bulgaria
+p:A1 Bulgaria
+008a:01862f55:00b1:039e:1:0:0
+Nickelodeon Europe
+p:A1 Bulgaria
+008b:01862f55:00b1:039e:1:0:0
+XY Plus
+p:A1 Bulgaria
+008c:01862f55:00b1:039e:1:0:0
+Planeta Folk
+p:A1 Bulgaria
+008d:01862f55:00b1:039e:1:0:0
+FightBox HD
+p:A1 Bulgaria
+008e:01862f55:00b1:039e:1:0:0
+EuroNews Bulgaria
+p:A1 Bulgaria
+008f:01862f55:00b1:039e:1:0:0
+Tiankov Folk
+p:A1 Bulgaria
+0090:01862f55:00b1:039e:1:0:0
+Kanal 3
+p:A1 Bulgaria
+0091:01862f55:00b1:039e:1:0:0
+Eurosport 2 North-East
+p:A1 Bulgaria
+0092:01862f55:00b1:039e:1:0:0
+Zhivi!
+p:A1 Bulgaria
+0093:01862f55:00b1:039e:1:0:0
+Freedom
+p:A1 Bulgaria
+0094:01862f55:00b1:039e:1:0:0
+CNBC Europe
+p:A1 Bulgaria
+00c9:01862f69:00b2:039e:1:0:0
+Diema Sport 2
+p:A1 Bulgaria
+00ca:01862f69:00b2:039e:1:0:0
+Diema Sport
+p:A1 Bulgaria
+00cb:01862f69:00b2:039e:1:0:0
+Cinemax Central Europe
+p:A1 Bulgaria
+00cc:01862f69:00b2:039e:1:0:0
+Cinemax 2 Central Europe
+p:A1 Bulgaria
+00cd:01862f69:00b2:039e:1:0:0
+Viasat History East
+p:A1 Bulgaria
+00ce:01862f69:00b2:039e:1:0:0
+Epic Drama
+p:A1 Bulgaria
+00cf:01862f69:00b2:039e:1:0:0
+8 Kanal International
+p:A1 Bulgaria
+00d0:01862f69:00b2:039e:1:0:0
+7/8 TV
+p:A1 Bulgaria
+00d1:01862f69:00b2:039e:1:0:0
+Mediaset Italia
+p:A1 Bulgaria
+00d3:01862f69:00b2:039e:1:0:0
+FilmBox Extra HD Adria
+p:A1 Bulgaria
+00d4:01862f69:00b2:039e:1:0:0
+Stingray Classica
+p:A1 Bulgaria
+00d5:01862f69:00b2:039e:1:0:0
+BTV
+p:A1 Bulgaria
+00d6:01862f69:00b2:039e:1:0:0
+BTV Action
+p:A1 Bulgaria
+00d7:01862f69:00b2:039e:1:0:0
+Star Channel Bulgaria
+p:A1 Bulgaria
+00d8:01862f69:00b2:039e:1:0:0
+Star Crime Bulgaria
+p:A1 Bulgaria
+00d9:01862f69:00b2:039e:1:0:0
+Star Life Bulgaria
+p:A1 Bulgaria
+00da:01862f69:00b2:039e:1:0:0
+Animal Planet Europe
+p:A1 Bulgaria
+00db:01862f69:00b2:039e:1:0:0
+AXN Bulgaria
+p:A1 Bulgaria
+00dc:01862f69:00b2:039e:1:0:0
+AXN Black
+p:A1 Bulgaria
+00dd:01862f69:00b2:039e:1:0:0
+AXN White
+p:A1 Bulgaria
+00de:01862f69:00b2:039e:1:0:0
+Bulgaria On Air
+p:A1 Bulgaria
+00df:01862f69:00b2:039e:1:0:0
+Crime + Investigation UK
+p:A1 Bulgaria
+00e0:01862f69:00b2:039e:1:0:0
+Kino Nova
+p:A1 Bulgaria
+00e1:01862f69:00b2:039e:1:0:0
+Super Toons
+p:A1 Bulgaria
+00e2:01862f69:00b2:039e:1:0:0
+Code Health TV
+p:A1 Bulgaria
+00e3:01862f69:00b2:039e:1:0:0
+Diema Family
+p:A1 Bulgaria
+00e4:01862f69:00b2:039e:1:0:0
+Penthouse Passion
+p:A1 Bulgaria
+00e5:01862f69:00b2:039e:1:0:0
+DW English
+p:A1 Bulgaria
+00e6:01862f69:00b2:039e:1:0:0
+English Club TV
+p:A1 Bulgaria
+00e7:01862f69:00b2:039e:1:0:0
+MyZen TV
+p:A1 Bulgaria
+00e8:01862f69:00b2:039e:1:0:0
+History Europe
+p:A1 Bulgaria
+00e9:01862f69:00b2:039e:1:0:0
+Reality Kings TV
+p:A1 Bulgaria
+00ea:01862f69:00b2:039e:1:0:0
+TLC Balkan
+p:A1 Bulgaria
+00eb:01862f69:00b2:039e:1:0:0
+Travelxp HD Europe
+p:A1 Bulgaria
+00ec:01862f69:00b2:039e:1:0:0
+Love Nature
+p:A1 Bulgaria
+00ed:01862f69:00b2:039e:1:0:0
+Hit Mix Music
+p:A1 Bulgaria
+00ee:01862f69:00b2:039e:1:0:0
+Cartoon Network Bulgaria
+p:A1 Bulgaria
+00f0:01862f69:00b2:039e:1:0:0
+DM Sat
+p:A1 Bulgaria
+00f1:01862f69:00b2:039e:1:0:0
+Duck TV SD
+p:A1 Bulgaria
+00f2:01862f69:00b2:039e:1:0:0
+EKids
+p:A1 Bulgaria
+00f3:01862f69:00b2:039e:1:0:0
+France 24 Français
+p:A1 Bulgaria
+00f5:01862f69:00b2:039e:1:0:0
+TV5Monde Europe
+p:A1 Bulgaria
+00f6:01862f69:00b2:039e:1:0:0
+Fix & Foxi
+p:A1 Bulgaria
+00f7:01862f69:00b2:039e:1:0:0
+Evrokom
+p:A1 Bulgaria
+00f8:01862f69:00b2:039e:1:0:0
+Sky News International
+p:A1 Bulgaria
+00f9:01862f69:00b2:039e:1:0:0
+Nova News
+p:A1 Bulgaria
+00fa:01862f69:00b2:039e:1:0:0
+Bulgarska Khristiyanska TV
+p:A1 Bulgaria
+00fb:01862f69:00b2:039e:1:0:0
+Nicktoons Bulgaria
+p:A1 Bulgaria
+00d9:01862f7c:0007:0001:1:0:0
+Code Health TV
+p:Bulsatcom
+01b1:01862f7c:0007:0001:1:0:0
+Epic Drama
+p:Bulsatcom
+01b3:01862f7c:0007:0001:1:0:0
+SkyShowtime 2
+p:Bulsatcom
+01bc:01862f7c:0007:0001:1:0:0
+Dizi
+p:Bulsatcom
+0261:01862f7c:0007:0001:1:0:0
+Nicktoons Bulgaria
+p:Bulsatcom
+02bd:01862f7c:0007:0001:1:0:0
+Diema Sport
+p:Bulsatcom
+02be:01862f7c:0007:0001:1:0:0
+Diema Sport 2
+p:Bulsatcom
+02bf:01862f7c:0007:0001:1:0:0
+Max Sport 1
+p:Bulsatcom
+02c0:01862f7c:0007:0001:1:0:0
+Max Sport 2
+p:Bulsatcom
+02c1:01862f7c:0007:0001:1:0:0
+Max Sport 3
+p:Bulsatcom
+02c2:01862f7c:0007:0001:1:0:0
+BNT 3
+p:Bulsatcom
+02c3:01862f7c:0007:0001:1:0:0
+Max Sport 4
+p:Bulsatcom
+02c4:01862f7c:0007:0001:1:0:0
+Love Nature
+p:Bulsatcom
+02c5:01862f7c:0007:0001:1:0:0
+Travelxp HD Europe
+p:Bulsatcom
+02c7:01862f7c:0007:0001:1:0:0
+The World
+p:Bulsatcom
+02c8:01862f7c:0007:0001:1:0:0
+Food Network EMEA
+p:Bulsatcom
+02c9:01862f7c:0007:0001:1:0:0
+Super Toons
+p:Bulsatcom
+02cf:01862f7c:0007:0001:1:0:0
+TV Spravedliva Bulgariya
+p:Unknown
+02d0:01862f7c:0007:0001:1:0:0
+Bulgaria 24
+p:Bulsatcom
+02d1:01862f7c:0007:0001:1:0:0
+History 2 Polska
+p:Bulsatcom
+02d2:01862f7c:0007:0001:1:0:0
+HBO Adria
+p:Bulsatcom
+02d3:01862f7c:0007:0001:1:0:0
+HBO 2 Central Europe
+p:Bulsatcom
+02d4:01862f7c:0007:0001:1:0:0
+HBO 3 Central Europe
+p:Bulsatcom
+02d9:01862f7c:0007:0001:1:0:0
+BNT 4
+p:Bulsatcom
+02ef:01862f7c:0007:0001:1:0:0
+Auto Motor und Sport
+p:Bulsatcom
+02f0:01862f7c:0007:0001:1:0:0
+Chasse & Pêche
+p:Bulsatcom
+0089:01862f8f:000f:001c:1:0:0
+Film Mánia
+p:Orange România
+008f:01862f8f:000f:001c:1:0:0
+Brazzers TV Europe
+p:Orange România
+0091:01862f8f:000f:001c:1:0:0
+Private TV
+p:Orange România
+0093:01862f8f:000f:001c:1:0:0
+TVR Sport
+p:Orange România
+00a4:01862f8f:000f:001c:1:0:0
+HGTV Pan Regional
+p:Orange România
+00c8:01862f8f:000f:001c:1:0:0
+Dizi
+p:Orange România
+00c9:01862f8f:000f:001c:1:0:0
+DocuBox HD
+p:Orange România
+00ca:01862f8f:000f:001c:1:0:0
+JimJam Romania
+p:Orange România
+00d2:01862f8f:000f:001c:1:0:0
+Erdély TV
+p:Orange România
+00dd:01862f8f:000f:001c:1:0:0
+Nickelodeon Europe
+p:Orange România
+00f1:01862f8f:000f:001c:1:0:0
+TV Paprika Romania
+p:Orange România
+00f3:01862f8f:000f:001c:1:0:0
+Viasat Explore East
+p:Orange România
+010a:01862f8f:000f:001c:1:0:0
+E! Europe
+p:Orange România
+010b:01862f8f:000f:001c:1:0:0
+Crime + Investigation UK
+p:Orange România
+010e:01862f8f:000f:001c:1:0:0
+RTL Ketto
+p:Orange România
+013f:01862f8f:000f:001c:1:0:0
+Story 4
+p:Orange România
+01ff:01862f8f:000f:001c:1:0:0
+Speranta TV
+p:Orange România
+02d1:01862f8f:000f:001c:1:0:0
+Traditional TV
+p:Orange România
+0020:01862fa2:0002:0001:1:0:0
+7/8 TV
+p:Bulsatcom
+0022:01862fa2:0002:0001:1:0:0
+Animal Planet Europe
+p:Bulsatcom
+0023:01862fa2:0002:0001:1:0:0
+France 24 English
+p:Bulsatcom
+0024:01862fa2:0002:0001:1:0:0
+24 Kitchen Bulgaria
+p:Bulsatcom
+0025:01862fa2:0002:0001:1:0:0
+History Europe
+p:Bulsatcom
+0026:01862fa2:0002:0001:1:0:0
+BBC Earth Türkiye
+p:Bulsatcom
+0028:01862fa2:0002:0001:1:0:0
+Arena Action
+p:Bulsatcom
+0029:01862fa2:0002:0001:1:0:0
+Bulgaria On Air
+p:Bulsatcom
+002c:01862fa2:0002:0001:1:0:0
+Dorcel XXX
+p:Bulsatcom
+002f:01862fa2:0002:0001:1:0:0
+Tiankov Folk
+p:Bulsatcom
+0031:01862fa2:0002:0001:1:0:0
+EuroNews Bulgaria
+p:Bulsatcom
+0039:01862fa2:0002:0001:1:0:0
+XY Plus
+p:Bulsatcom
+00ab:01862fa2:0002:0001:1:0:0
+Bloomberg TV Bulgaria
+p:Bulsatcom
+00db:01862fa2:0002:0001:1:0:0
+Rodina
+p:Bulsatcom
+00dd:01862fa2:0002:0001:1:0:0
+Vivacom Arena
+p:Bulsatcom
+00de:01862fa2:0002:0001:1:0:0
+Pickbox TV Bulgaria
+p:Bulsatcom
+00df:01862fa2:0002:0001:1:0:0
+Viasat True Crime
+p:Bulsatcom
+00e0:01862fa2:0002:0001:1:0:0
+Arena Comedy
+p:Bulsatcom
+00e1:01862fa2:0002:0001:1:0:0
+Arena Life
+p:Bulsatcom
+00e2:01862fa2:0002:0001:1:0:0
+The Voice TV
+p:Unknown
+00e3:01862fa2:0002:0001:1:0:0
+Fen TV
+p:Unknown
+00e4:01862fa2:0002:0001:1:0:0
+Balkanika Music TV
+p:Unknown
+00e5:01862fa2:0002:0001:1:0:0
+Planeta Folk
+p:Bulsatcom
+00e6:01862fa2:0002:0001:1:0:0
+Folklor TV
+p:Bulsatcom
+00e7:01862fa2:0002:0001:1:0:0
+Fen Folk
+p:Unknown
+00e8:01862fa2:0002:0001:1:0:0
+Magic TV
+p:Unknown
+00e9:01862fa2:0002:0001:1:0:0
+Cartoon Network Bulgaria
+p:Bulsatcom
+00ea:01862fa2:0002:0001:1:0:0
+Cartoonito Central & Eastern Europe
+p:Bulsatcom
+00eb:01862fa2:0002:0001:1:0:0
+Evrokom
+p:Bulsatcom
+00ec:01862fa2:0002:0001:1:0:0
+SKAT
+p:Bulsatcom
+0141:01862fa2:0002:0001:1:0:0
+FilmBox Central Europe
+p:Bulsatcom
+0143:01862fa2:0002:0001:1:0:0
+Peretz International
+p:Bulsatcom
+0145:01862fa2:0002:0001:1:0:0
+Bulgarska Khristiyanska TV
+p:Unknown
+01b2:01862fa2:0002:0001:1:0:0
+SkyShowtime 1
+p:Bulsatcom
+0236:01862fa2:0002:0001:1:0:0
+Marquee TV
+p:Bulsatcom
+0326:01862fa2:0002:0001:1:0:0
+Vivid TV Europe
+p:Bulsatcom
+0032:01862fa2:0002:0001:2:0:0
+Radio 1 Rock
+p:Unknown
+0033:01862fa2:0002:0001:2:0:0
+NRJ Bulgaria
+p:Unknown
+0034:01862fa2:0002:0001:2:0:0
+BG Radio
+p:Unknown
+0035:01862fa2:0002:0001:2:0:0
+Darik Radio
+p:Unknown
+0036:01862fa2:0002:0001:2:0:0
+Tangra Mega Rock
+p:Unknown
+0037:01862fa2:0002:0001:2:0:0
+Radio Payner
+p:Unknown
+00ed:01862fa2:0002:0001:2:0:0
+Radio Vitosha East
+p:Unknown
+00ee:01862fa2:0002:0001:2:0:0
+Radio Vitosha West
+p:Unknown
+00ef:01862fa2:0002:0001:2:0:0
+Radio Veselina East
+p:Unknown
+00f0:01862fa2:0002:0001:2:0:0
+Radio Veselina West
+p:Unknown
+00f1:01862fa2:0002:0001:2:0:0
+Magic FM
+p:Unknown
+00f2:01862fa2:0002:0001:2:0:0
+The Voice Bulgaria
+p:Unknown
+00f3:01862fa2:0002:0001:2:0:0
+Radio Veselina North
+p:Unknown
+00f4:01862fa2:0002:0001:2:0:0
+Radio Veselina South
+p:Unknown
+0009:01862fc0:0002:212c:1:0:0
+Vouli TV
+p:Unknown
+000a:01862fc0:0002:212c:1:0:0
+ERT 1
+p:Unknown
+0014:01862fc0:0002:212c:1:0:0
+ERT 2 Spor
+p:Unknown
+0023:01862fc0:0002:212c:1:0:0
+ERT 3
+p:Unknown
+0028:01862fc0:0002:212c:1:0:0
+ERT 1
+p:Unknown
+0029:01862fc0:0002:212c:1:0:0
+ERT News
+p:Unknown
+000b:01862fc0:0002:212c:2:0:0
+Proto Programma
+p:Unknown
+000c:01862fc0:0002:212c:2:0:0
+Kosmos
+p:Unknown
+000d:01862fc0:0002:212c:2:0:0
+Trito Maestro
+p:Unknown
+000e:01862fc0:0002:212c:2:0:0
+Deftero Paradosiaka
+p:Unknown
+0015:01862fc0:0002:212c:2:0:0
+Trito Programma
+p:Unknown
+0016:01862fc0:0002:212c:2:0:0
+Deftero Programma
+p:Unknown
+0017:01862fc0:0002:212c:2:0:0
+Deftero Laika
+p:Unknown
+001f:01862fc0:0002:212c:2:0:0
+ERA Spor
+p:Unknown
+0020:01862fc0:0002:212c:2:0:0
+I Foni tis Elladas
+p:Unknown
+0021:01862fc0:0002:212c:2:0:0
+Zeppelin 106.7
+p:Unknown
+0022:01862fc0:0002:212c:2:0:0
+Kosmos Jazz
+p:Unknown
+0001:01862fd2:0001:212c:1:0:0
+ERT 2 Spor
+p:Unknown
+0002:01862fd2:0001:212c:1:0:0
+ERT 3
+p:Unknown
+0003:01862fd2:0001:212c:1:0:0
+ERT 1
+p:Unknown
+0004:01862fd2:0001:212c:1:0:0
+RIK Sat
+p:Unknown
+0005:01862fd2:0001:212c:1:0:0
+TV5Monde Europe
+p:Unknown
+0006:01862fd2:0001:212c:1:0:0
+BBC News Europe
+p:Unknown
+0007:01862fd2:0001:212c:1:0:0
+ERT News
+p:Unknown
+0259:01862fdb:146c:00a7:1:0:0
+Discovery Channel Romania
+p:Orange România
+025c:01862fdb:146c:00a7:1:0:0
+Eurosport 1 Romania
+p:Orange România
+025d:01862fdb:146c:00a7:1:0:0
+Investigation Discovery Europe
+p:Orange România
+025e:01862fdb:146c:00a7:1:0:0
+Motorvision+
+p:Orange România
+0260:01862fdb:146c:00a7:1:0:0
+TLC România
+p:Orange România
+02bc:01862fdb:146c:00a7:1:0:0
+Eurosport 2 Romania
+p:Orange România
+02bd:01862fdb:146c:00a7:1:0:0
+Antena 3 CNN
+p:Orange România
+02be:01862fdb:146c:00a7:1:0:0
+Antena Stars
+p:Orange România
+02bf:01862fdb:146c:00a7:1:0:0
+B1
+p:Unknown
+02c0:01862fdb:146c:00a7:1:0:0
+CineMaraton
+p:Orange România
+02c1:01862fdb:146c:00a7:1:0:0
+Prima Sport 3
+p:Orange România
+02c5:01862fdb:146c:00a7:1:0:0
+Trinitas TV
+p:Unknown
+010b:01862fef:0001:0001:1:0:0
+Crime + Investigation UK
+p:Bulsatcom
+0120:01862fef:0001:0001:1:0:0
+Da Vinci
+p:Bulsatcom
+013c:01862fef:0001:0001:1:0:0
+Travel TV
+p:Bulsatcom
+013f:01862fef:0001:0001:1:0:0
+Travel Channel Europe
+p:Bulsatcom
+0140:01862fef:0001:0001:1:0:0
+HGTV Pan Regional
+p:Bulsatcom
+0154:01862fef:0001:0001:1:0:0
+BG+
+p:Bulsatcom
+0156:01862fef:0001:0001:1:0:0
+Viasat History East
+p:Bulsatcom
+0157:01862fef:0001:0001:1:0:0
+Viasat Nature East
+p:Bulsatcom
+01a2:01862fef:0001:0001:1:0:0
+CineStar 1
+p:Bulsatcom
+01a3:01862fef:0001:0001:1:0:0
+CineStar Action
+p:Bulsatcom
+01f5:01862fef:0001:0001:1:0:0
+Nova News
+p:Bulsatcom
+01f6:01862fef:0001:0001:1:0:0
+Eurosport 2 North-East
+p:Bulsatcom
+01f7:01862fef:0001:0001:1:0:0
+Nova Sport
+p:Bulsatcom
+01f8:01862fef:0001:0001:1:0:0
+Viasat Explore East
+p:Bulsatcom
+01f9:01862fef:0001:0001:1:0:0
+TLC Balkan
+p:Bulsatcom
+01fa:01862fef:0001:0001:1:0:0
+BTV Cinema
+p:Bulsatcom
+01fb:01862fef:0001:0001:1:0:0
+BTV Comedy
+p:Bulsatcom
+01fd:01862fef:0001:0001:1:0:0
+Diema Family
+p:Bulsatcom
+01fe:01862fef:0001:0001:1:0:0
+Star Channel Bulgaria
+p:Bulsatcom
+01ff:01862fef:0001:0001:1:0:0
+Star Life Bulgaria
+p:Bulsatcom
+0200:01862fef:0001:0001:1:0:0
+Star Crime Bulgaria
+p:Bulsatcom
+0201:01862fef:0001:0001:1:0:0
+BTV Story
+p:Bulsatcom
+0202:01862fef:0001:0001:1:0:0
+City TV
+p:Bulsatcom
+0203:01862fef:0001:0001:1:0:0
+Disney Channel Bulgaria
+p:Bulsatcom
+0204:01862fef:0001:0001:1:0:0
+Nick Jr Bulgaria
+p:Bulsatcom
+0205:01862fef:0001:0001:1:0:0
+Baby TV Europe
+p:Bulsatcom
+0206:01862fef:0001:0001:1:0:0
+Nickelodeon Bulgaria
+p:Bulsatcom
+0207:01862fef:0001:0001:1:0:0
+Disney Jr Romania & Bulgaria
+p:Bulsatcom
+0208:01862fef:0001:0001:1:0:0
+CNN International Europe
+p:Bulsatcom
+0209:01862fef:0001:0001:1:0:0
+BNT 2
+p:Bulsatcom
+020a:01862fef:0001:0001:1:0:0
+Hustler TV Europe
+p:Bulsatcom
+023e:01862fef:0001:0001:1:0:0
+DM Sat
+p:Bulsatcom
+0325:01862fef:0001:0001:1:0:0
+Private TV
+p:Bulsatcom
+03f2:01862fef:0001:0001:1:0:0
+TV 1
+p:Bulsatcom
+03f3:01862fef:0001:0001:1:0:0
+Nastoyashcheye Vremya
+p:Bulsatcom
+03f5:01862fef:0001:0001:1:0:0
+Kino Nova
+p:Bulsatcom
+03f8:01862fef:0001:0001:1:0:0
+Discovery Channel Bulgaria
+p:Bulsatcom
+046a:01862fef:0001:0001:1:0:0
+Diema
+p:Bulsatcom
+0190:01863002:0001:001c:1:0:0
+Kanal D Romania
+p:Orange România
+0202:01863002:0001:001c:1:0:0
+Cinemax 2 Central Europe
+p:Orange România
+0203:01863002:0001:001c:1:0:0
+Cinemax Central Europe
+p:Orange România
+0204:01863002:0001:001c:1:0:0
+Happy Channel
+p:Orange România
+0205:01863002:0001:001c:1:0:0
+HBO 2 Central Europe
+p:Orange România
+0206:01863002:0001:001c:1:0:0
+HBO 3 Central Europe
+p:Orange România
+0207:01863002:0001:001c:1:0:0
+Prima Sport 2
+p:Orange România
+0208:01863002:0001:001c:1:0:0
+Prima Sport 1
+p:Orange România
+0209:01863002:0001:001c:1:0:0
+Acasa
+p:Orange România
+020a:01863002:0001:001c:1:0:0
+Pro Cinema
+p:Orange România
+020b:01863002:0001:001c:1:0:0
+TVR Info
+p:Orange România
+02c2:01863002:0001:001c:1:0:0
+Prima Sport 4
+p:Orange România
+044d:01863015:0b11:039e:1:0:0
+Agro TV
+p:A1 Bulgaria
+044e:01863015:0b11:039e:1:0:0
+Disney Jr Romania & Bulgaria
+p:A1 Bulgaria
+044f:01863015:0b11:039e:1:0:0
+HBO 2 Central Europe
+p:A1 Bulgaria
+0450:01863015:0b11:039e:1:0:0
+Nova Sport
+p:A1 Bulgaria
+0451:01863015:0b11:039e:1:0:0
+Eroxxx HD
+p:A1 Bulgaria
+0452:01863015:0b11:039e:1:0:0
+Nostalgia
+p:A1 Bulgaria
+0453:01863015:0b11:039e:1:0:0
+Auto Motor und Sport
+p:A1 Bulgaria
+0454:01863015:0b11:039e:1:0:0
+The World
+p:A1 Bulgaria
+0455:01863015:0b11:039e:1:0:0
+Travel TV
+p:A1 Bulgaria
+0456:01863015:0b11:039e:1:0:0
+SkyShowtime 1
+p:A1 Bulgaria
+0457:01863015:0b11:039e:1:0:0
+VTK
+p:A1 Bulgaria
+0458:01863015:0b11:039e:1:0:0
+HGTV Pan Regional
+p:A1 Bulgaria
+0459:01863015:0b11:039e:1:0:0
+Ring
+p:A1 Bulgaria
+045a:01863015:0b11:039e:1:0:0
+Viasat Kino Balkan
+p:A1 Bulgaria
+045b:01863015:0b11:039e:1:0:0
+National Geographic Bulgaria
+p:A1 Bulgaria
+045c:01863015:0b11:039e:1:0:0
+National Geographic Wild Bulgaria
+p:A1 Bulgaria
+045d:01863015:0b11:039e:1:0:0
+24 Kitchen Bulgaria
+p:A1 Bulgaria
+045e:01863015:0b11:039e:1:0:0
+AMC Balkan
+p:A1 Bulgaria
+045f:01863015:0b11:039e:1:0:0
+Diema Sport 3
+p:A1 Bulgaria
+0460:01863015:0b11:039e:1:0:0
+Soul & Pepper TV Channel
+p:A1 Bulgaria
+0461:01863015:0b11:039e:1:0:0
+Bloomberg TV Bulgaria
+p:A1 Bulgaria
+0462:01863015:0b11:039e:1:0:0
+Dizi
+p:A1 Bulgaria
+0463:01863015:0b11:039e:1:0:0
+City TV
+p:A1 Bulgaria
+0464:01863015:0b11:039e:1:0:0
+SkyShowtime 2
+p:A1 Bulgaria
+0465:01863015:0b11:039e:1:0:0
+CNN International Europe
+p:A1 Bulgaria
+0466:01863015:0b11:039e:1:0:0
+Brazzers TV Europe
+p:A1 Bulgaria
+0467:01863015:0b11:039e:1:0:0
+Erox HD
+p:A1 Bulgaria
+0468:01863015:0b11:039e:1:0:0
+EuroNews English
+p:A1 Bulgaria
+0469:01863015:0b11:039e:1:0:0
+Kids Stars
+p:A1 Bulgaria
+046a:01863015:0b11:039e:1:0:0
+TGCom 24
+p:A1 Bulgaria
+046b:01863015:0b11:039e:1:0:0
+Mezzo
+p:A1 Bulgaria
+046c:01863015:0b11:039e:1:0:0
+Magic TV
+p:A1 Bulgaria
+046d:01863015:0b11:039e:1:0:0
+Viasat Explore East
+p:A1 Bulgaria
+046f:01863015:0b11:039e:1:0:0
+Viasat Nature East
+p:A1 Bulgaria
+0470:01863015:0b11:039e:1:0:0
+Wness TV
+p:A1 Bulgaria
+0471:01863015:0b11:039e:1:0:0
+Baby TV Europe
+p:A1 Bulgaria
+0472:01863015:0b11:039e:1:0:0
+BBC News Europe
+p:A1 Bulgaria
+0473:01863015:0b11:039e:1:0:0
+Cartoonito Central & Eastern Europe
+p:A1 Bulgaria
+0474:01863015:0b11:039e:1:0:0
+SKAT
+p:A1 Bulgaria
+0475:01863015:0b11:039e:1:0:0
+JimJam Europe
+p:A1 Bulgaria
+0476:01863015:0b11:039e:1:0:0
+Nick Jr Central & Eastern Europe
+p:A1 Bulgaria
+0477:01863015:0b11:039e:1:0:0
+Movie Star
+p:A1 Bulgaria
+0478:01863015:0b11:039e:1:0:0
+HBO Adria
+p:A1 Bulgaria
+0479:01863015:0b11:039e:1:0:0
+Rodina
+p:A1 Bulgaria
+047a:01863015:0b11:039e:1:0:0
+HBO 3 Central Europe
+p:A1 Bulgaria
+047b:01863015:0b11:039e:1:0:0
+DSTV
+p:A1 Bulgaria
+047c:01863015:0b11:039e:1:0:0
+Folklor TV
+p:A1 Bulgaria
+047d:01863015:0b11:039e:1:0:0
+BG+
+p:A1 Bulgaria
+047f:01863015:0b11:039e:1:0:0
+TV 1
+p:A1 Bulgaria
+00cf:01863028:0002:001c:1:0:0
+National Geographic România
+p:Orange România
+00d0:01863028:0002:001c:1:0:0
+Travel Mix
+p:Orange România
+0114:01863028:0002:001c:1:0:0
+TVR 1
+p:Orange România
+0115:01863028:0002:001c:1:0:0
+Pro TV
+p:Orange România
+0116:01863028:0002:001c:1:0:0
+Antena 1
+p:Orange România
+0118:01863028:0002:001c:1:0:0
+HBO Romania
+p:Orange România
+011c:01863028:0002:001c:1:0:0
+Orange Info
+p:Orange România
+0129:01863028:0002:001c:1:0:0
+Moldova TV
+p:Orange România
+0147:01863028:0002:001c:1:0:0
+CineWow
+p:Orange România
+014d:01863028:0002:001c:1:0:0
+Alfa Omega TV
+p:Orange România
+0194:01863028:0002:001c:1:0:0
+Stingray IConcerts
+p:Orange România
+020c:01863028:0002:001c:1:0:0
+Inedit TV
+p:Orange România
+0210:01863028:0002:001c:1:0:0
+TV 2
+p:Orange România
+0212:01863028:0002:001c:1:0:0
+RTL Három
+p:Orange România
+0213:01863028:0002:001c:1:0:0
+Pro Arena
+p:Orange România
+02c3:01863028:0002:001c:1:0:0
+Prima TV
+p:Orange România
+044c:01863032:0065:212c:1:0:0
+Alpha TV
+p:Unknown
+04b0:01863032:0065:212c:1:0:0
+SKAÏ
+p:Unknown
+0514:01863032:0065:212c:1:0:0
+Ant1
+p:Unknown
+0578:01863032:0065:212c:1:0:0
+Open Beyond TV
+p:Unknown
+05dc:01863040:0067:212c:1:0:0
+Star Channel
+p:Unknown
+0640:01863040:0067:212c:1:0:0
+Mega TV
+p:Unknown
+06a4:01863040:0067:212c:1:0:0
+Makedonia TV
+p:Unknown
+006b:0186304f:0010:001c:1:0:0
+Hustler TV Europe
+p:Orange România
+0074:0186304f:0010:001c:1:0:0
+Nicktoons România
+p:Orange România
+007c:0186304f:0010:001c:1:0:0
+Kiss TV
+p:Orange România
+009d:0186304f:0010:001c:1:0:0
+Cinemax 2 Central Europe
+p:Orange România
+00a1:0186304f:0010:001c:1:0:0
+AXN White
+p:Orange România
+00a2:0186304f:0010:001c:1:0:0
+AXN Black
+p:Orange România
+00c2:0186304f:0010:001c:1:0:0
+HBO 2 Central Europe
+p:Orange România
+00c6:0186304f:0010:001c:1:0:0
+National Geographic România
+p:Orange România
+00cc:0186304f:0010:001c:1:0:0
+Prima Sport 3
+p:Orange România
+00d5:0186304f:0010:001c:1:0:0
+Sport Extra
+p:Orange România
+00d6:0186304f:0010:001c:1:0:0
+FilmBox Premium Romania
+p:Orange România
+00db:0186304f:0010:001c:1:0:0
+Magic TV
+p:Orange România
+00df:0186304f:0010:001c:1:0:0
+Warner TV Romania
+p:Orange România
+00e0:0186304f:0010:001c:1:0:0
+Cartoon Network Central & Eastern Europe
+p:Orange România
+0131:0186304f:0010:001c:1:0:0
+Penthouse Gold
+p:Orange România
+014f:0186304f:0010:001c:1:0:0
+TraLaLa TV
+p:Orange România
+0200:0186304f:0010:001c:1:0:0
+Film Café Romania
+p:Orange România
+0201:0186304f:0010:001c:1:0:0
+AMC Romania
+p:Orange România
+0216:0186304f:0010:001c:1:0:0
+TVR Cultural
+p:Orange România
+02d2:0186304f:0010:001c:1:0:0
+TV AS
+p:Orange România
+007f:01863075:0012:001c:1:0:0
+Minimax Romania
+p:Orange România
+0082:01863075:0012:001c:1:0:0
+FilmBox Extra HD Romania
+p:Orange România
+008a:01863075:0012:001c:1:0:0
+A7 TV
+p:Orange România
+00ba:01863075:0012:001c:1:0:0
+Agro TV
+p:Orange România
+00cb:01863075:0012:001c:1:0:0
+Prima Sport 4
+p:Orange România
+00cd:01863075:0012:001c:1:0:0
+National Geographic Wild Romania
+p:Orange România
+00ce:01863075:0012:001c:1:0:0
+EuroNews România
+p:Orange România
+00d7:01863075:0012:001c:1:0:0
+FilmBox Basic
+p:Orange România
+0123:01863075:0012:001c:1:0:0
+AXN Spin Romania
+p:Orange România
+0126:01863075:0012:001c:1:0:0
+History România
+p:Orange România
+0128:01863075:0012:001c:1:0:0
+Metropola TV
+p:Orange România
+012a:01863075:0012:001c:1:0:0
+Eurosport 1 Romania
+p:Orange România
+012d:01863075:0012:001c:1:0:0
+Viasat Kino Balkan
+p:Orange România
+012f:01863075:0012:001c:1:0:0
+Viasat History East
+p:Orange România
+0130:01863075:0012:001c:1:0:0
+Viasat Nature East
+p:Orange România
+0143:01863075:0012:001c:1:0:0
+Comedy Central România
+p:Orange România
+0149:01863075:0012:001c:1:0:0
+Digi 24
+p:Orange România
+014c:01863075:0012:001c:1:0:0
+Investigation Discovery Europe
+p:Orange România
+0150:01863075:0012:001c:1:0:0
+TraLaLa Desene Animate TV
+p:Orange România
+0c1c:0186307e:0069:212c:1:0:0
+Alpha TV
+p:Unknown
+0c80:0186307e:0069:212c:1:0:0
+SKAÏ
+p:Unknown
+0ce4:0186307e:0069:212c:1:0:0
+Ant1
+p:Unknown
+0d48:0186307e:0069:212c:1:0:0
+Open Beyond TV
+p:Unknown
+0dac:0186307e:0069:212c:1:0:0
+Star Channel
+p:Unknown
+0e10:0186307e:0069:212c:1:0:0
+Mega TV
+p:Unknown
+0e74:0186307e:0069:212c:1:0:0
+Makedonia TV
+p:Unknown
+0001:01863097:0001:ffff:1:0:0
+Media Office
+p:Unknown
+0016:018630af:0005:0001:1:0:0
+Eurosport 1
+p:Bulsatcom
+0065:018630af:0005:0001:1:0:0
+BNT 1
+p:Bulsatcom
+0084:018630af:0005:0001:1:0:0
+EKids
+p:Bulsatcom
+0085:018630af:0005:0001:1:0:0
+Ring
+p:Bulsatcom
+0089:018630af:0005:0001:1:0:0
+BTV Action
+p:Bulsatcom
+008a:018630af:0005:0001:1:0:0
+FilmBox Extra HD Bulgaria
+p:Bulsatcom
+00cc:018630af:0005:0001:1:0:0
+National Geographic Bulgaria
+p:Bulsatcom
+00cd:018630af:0005:0001:1:0:0
+Diema Sport 3
+p:Bulsatcom
+00ce:018630af:0005:0001:1:0:0
+Planeta
+p:Bulsatcom
+00cf:018630af:0005:0001:1:0:0
+BTV
+p:Bulsatcom
+00d2:018630af:0005:0001:1:0:0
+National Geographic Wild Bulgaria
+p:Bulsatcom
+00d4:018630af:0005:0001:1:0:0
+Nova TV
+p:Bulsatcom
+00fb:018630af:0005:0001:1:0:0
+Lovno-Ribarski Klub
+p:Bulsatcom
+0117:018630af:0005:0001:1:0:0
+Cinemax Central Europe
+p:Bulsatcom
+0118:018630af:0005:0001:1:0:0
+Cinemax 2 Central Europe
+p:Bulsatcom
+019f:018630af:0005:0001:1:0:0
+Viasat Kino Balkan
+p:Bulsatcom
+01a0:018630af:0005:0001:1:0:0
+AMC Balkan
+p:Bulsatcom
+01a5:018630af:0005:0001:1:0:0
+FilmBox Stars Adria
+p:Bulsatcom
+01a6:018630af:0005:0001:1:0:0
+Movie Star
+p:Bulsatcom
+01a7:018630af:0005:0001:1:0:0
+Nostalgia
+p:Bulsatcom
+0068:018630ec:000d:001c:1:0:0
+Happy Channel
+p:Orange România
+0070:018630ec:000d:001c:1:0:0
+Prima Sport 1
+p:Orange România
+007d:018630ec:000d:001c:1:0:0
+TVR 1
+p:Orange România
+007e:018630ec:000d:001c:1:0:0
+TVR 2
+p:Orange România
+008d:018630ec:000d:001c:1:0:0
+Diva Romania
+p:Orange România
+0092:018630ec:000d:001c:1:0:0
+Party Mix TV
+p:Orange România
+0094:018630ec:000d:001c:1:0:0
+Cartoonito Central & Eastern Europe
+p:Orange România
+00be:018630ec:000d:001c:1:0:0
+Kanal D Romania
+p:Orange România
+00d1:018630ec:000d:001c:1:0:0
+Eurosport 2 Romania
+p:Orange România
+00fc:018630ec:000d:001c:1:0:0
+Epic Drama
+p:Orange România
+010f:018630ec:000d:001c:1:0:0
+M1
+p:Orange România
+0110:018630ec:000d:001c:1:0:0
+M2
+p:Orange România
+011e:018630ec:000d:001c:1:0:0
+Zu TV
+p:Orange România
+012e:018630ec:000d:001c:1:0:0
+Cool TV
+p:Orange România
+0138:018630ec:000d:001c:1:0:0
+Nostalgia TV
+p:Orange România
+01c8:018630ec:000d:001c:1:0:0
+Cinemax Central Europe
+p:Orange România
+02d0:018630ec:000d:001c:1:0:0
+Emi TV
+p:Orange România
+01f4:018630ec:000d:001c:2:0:0
+Itsy Bitsy FM
+p:Unknown
+0065:01863115:000e:001c:1:0:0
+Antena 1
+p:Orange România
+0066:01863115:000e:001c:1:0:0
+Antena Stars
+p:Orange România
+0067:01863115:000e:001c:1:0:0
+Antena 3 CNN
+p:Orange România
+0069:01863115:000e:001c:1:0:0
+AXN Romania
+p:Orange România
+006a:01863115:000e:001c:1:0:0
+B1
+p:Orange România
+006c:01863115:000e:001c:1:0:0
+Favorit TV
+p:Orange România
+006d:01863115:000e:001c:1:0:0
+Disney Jr Romania & Bulgaria
+p:Orange România
+006f:01863115:000e:001c:1:0:0
+National TV
+p:Orange România
+0071:01863115:000e:001c:1:0:0
+Prima TV
+p:Orange România
+0077:01863115:000e:001c:1:0:0
+Realitatea Plus
+p:Orange România
+00da:01863115:000e:001c:1:0:0
+Disney Channel Romania
+p:Orange România
+00f0:01863115:000e:001c:1:0:0
+Prima Sport 2
+p:Orange România
+0111:01863115:000e:001c:1:0:0
+Duna TV
+p:Orange România
+0112:01863115:000e:001c:1:0:0
+Film + Hungary
+p:Orange România
+0113:01863115:000e:001c:1:0:0
+RTL Magyarország
+p:Orange România
+013a:01863115:000e:001c:1:0:0
+Orizont TV
+p:Orange România
+0167:01863115:000e:001c:1:0:0
+Acasa
+p:Orange România
+0168:01863115:000e:001c:1:0:0
+Pro TV
+p:Orange România
+01fe:01863115:000e:001c:1:0:0
+Nick Jr România
+p:Orange România
+1db1:01863137:145c:0005:1:0:0
+Pro TV
+p:Unknown
+1db2:01863137:145c:0005:1:0:0
+Acasa
+p:Unknown
+1db3:01863137:145c:0005:1:0:0
+Pro TV International
+p:Unknown
+1db4:01863137:145c:0005:1:0:0
+Pro Cinema
+p:Unknown
+1db5:01863137:145c:0005:1:0:0
+Pro Arena
+p:Unknown
+1db7:01863137:145c:0005:1:0:0
+Acasa Gold
+p:Unknown
+0001:01863170:0000:016e:1:0:0
+Antena 1
+p:Unknown
+0002:01863170:0000:016e:1:0:0
+Antena Stars
+p:Unknown
+0003:01863170:0000:016e:1:0:0
+Antena 3 CNN
+p:Unknown
+0004:01863170:0000:016e:1:0:0
+Happy Channel
+p:Unknown
+0005:01863170:0000:016e:1:0:0
+Zu TV
+p:Unknown
+0006:01863170:0000:016e:1:0:0
+Antena International
+p:Unknown
+0007:01863170:0000:016e:1:0:0
+Antena 1
+p:Unknown
+0037:01863170:0000:016e:2:0:0
+Radio Zu
+p:Unknown
+0038:01863170:0000:016e:2:0:0
+Romantic FM
+p:Unknown
+0075:01863190:0011:001c:1:0:0
+Pro Cinema
+p:Orange România
+0076:01863190:0011:001c:1:0:0
+Pro Arena
+p:Orange România
+008b:01863190:0011:001c:1:0:0
+Discovery Channel Romania
+p:Orange România
+00d3:01863190:0011:001c:1:0:0
+Etno TV
+p:Orange România
+00d4:01863190:0011:001c:1:0:0
+Taraf TV
+p:Orange România
+00e2:01863190:0011:001c:1:0:0
+Trinitas TV
+p:Orange România
+00e7:01863190:0011:001c:1:0:0
+TV5Monde Europe
+p:Orange România
+00e8:01863190:0011:001c:1:0:0
+TVR 3
+p:Orange România
+0140:01863190:0011:001c:1:0:0
+România TV
+p:Orange România
+0142:01863190:0011:001c:1:0:0
+National 24 Plus
+p:Orange România
+0146:01863190:0011:001c:1:0:0
+Acasa Gold
+p:Orange România
+0148:01863190:0011:001c:1:0:0
+U TV
+p:Orange România
+014b:01863190:0011:001c:1:0:0
+Bollywood Clasic
+p:Orange România
+0169:01863190:0011:001c:1:0:0
+Prima News
+p:Orange România
+016d:01863190:0011:001c:1:0:0
+Music Channel Romania
+p:Orange România
+019f:01863190:0011:001c:1:0:0
+HBO 3 Central Europe
+p:Orange România
+01c7:01863190:0011:001c:1:0:0
+HBO Romania
+p:Orange România
+020f:01863190:0011:001c:1:0:0
+Kanal D2
+p:Orange România
+0001:018631b4:0006:0539:1:0:0
+Kanal D Romania
+p:Unknown
+end

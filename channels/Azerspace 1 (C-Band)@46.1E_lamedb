@@ -1,0 +1,473 @@
+eDVB services /4/
+transponders
+01cd0ee9:0000:0000
+	s 3817000:3333000:0:0:461:2:0:1:0:2:2
+/
+01cd0eef:0001:0001
+	s 3823000:1500000:0:0:461:2:0:1:0:2:2
+/
+01cd0ef2:0000:0000
+	s 3826000:3333000:1:0:461:2:0:1:0:2:2
+/
+01cd0efa:0000:0000
+	s 3834000:1585000:0:0:461:2:0:1:0:2:2
+/
+01cd0efe:0000:0000
+	s 3838000:1250000:0:0:461:2:0:1:0:2:2
+/
+01cd0f00:0001:0001
+	s 3840000:1250000:0:0:461:2:0:1:0:2:2
+/
+01cd0f01:0002:0002
+	s 3841000:746000:0:0:461:2:0:1:0:2:2
+/
+01cd0f03:0000:0000
+	s 3843000:1582000:0:0:461:2:0:1:0:2:2
+/
+01cd0f14:0000:0000
+	s 3860000:1025000:0:0:461:2:0:1:0:2:2
+/
+01cd0f1a:0000:0000
+	s 3866000:2500000:0:0:461:2:0:1:0:2:2
+/
+01cd0f1d:0000:0000
+	s 3869000:1250000:0:0:461:2:0:1:0:2:2
+/
+01cd0f22:0000:0000
+	s 3874000:1250000:0:0:461:2:0:1:0:2:2
+/
+01cd0f72:0000:0000
+	s 3954000:6250000:1:0:461:2:0:1:0:2:2
+/
+01cd0f9f:0000:0000
+	s 3999000:3670000:1:0:461:2:0:1:0:2:2
+/
+01cd1010:0001:0001
+	s 4112000:2432000:1:0:461:2:0:1:0:2:2
+/
+01cd1013:0000:0000
+	s 4115000:1250000:1:0:461:2:0:1:0:2:2
+/
+01cd1016:0000:0000
+	s 4118000:3050000:1:0:461:2:0:1:0:2:2
+/
+01cd1018:0001:0001
+	s 4120000:1500000:1:0:461:2:0:1:0:2:2
+/
+01cd101b:0000:0000
+	s 4123000:2000000:1:0:461:2:0:1:0:2:2
+/
+01cd101e:0000:0000
+	s 4126000:2380000:1:0:461:2:0:1:0:2:2
+/
+01cd1020:0000:0000
+	s 4128000:1410000:1:0:461:2:0:1:0:2:2
+/
+01cd1022:0000:0000
+	s 4130000:2000000:1:0:461:2:0:1:0:2:2
+/
+01cd1024:1000:2000
+	s 4132000:1843000:1:0:461:2:0:1:0:2:2
+/
+01cd1027:0000:0000
+	s 4135000:1282000:1:0:461:2:0:0:0:2:2
+/
+01cd1029:0000:0000
+	s 4137000:1603000:1:0:461:2:0:1:0:2:2
+/
+01cd102c:0000:0000
+	s 4140000:1000000:1:0:461:2:0:1:0:2:2
+/
+01cd1032:0000:0000
+	s 4146000:1190000:1:0:461:2:0:1:0:2:2
+/
+01cd1034:0000:0000
+	s 4148000:2400000:1:0:461:2:0:1:0:2:2
+/
+01cd1040:0000:0000
+	s 4160000:16325000:1:0:461:2:0:1:0:2:2
+/
+01cd1054:0000:0000
+	s 4180000:16325000:1:0:461:2:0:1:0:2:2
+/
+end
+services
+0214:01cd0ee9:0000:0000:1:0:0
+Furaha TV
+p:Unknown
+0201:01cd0ee9:0000:0000:2:0:0
+Radio Habari Njema
+p:Unknown
+0211:01cd0ee9:0000:0000:2:0:0
+Hatma FM
+p:Unknown
+0065:01cd0eef:0001:0001:1:0:0
+OSRC TV
+p:Unknown
+0214:01cd0ef2:0000:0000:1:0:0
+Wasafi TV
+p:Unknown
+0205:01cd0ef2:0000:0000:2:0:0
+Wasafi FM
+p:Unknown
+000b:01cd0efa:0000:0000:2:0:0
+Lulu FM
+p:Unknown
+000c:01cd0efa:0000:0000:2:0:0
+Urejesho FM
+p:Unknown
+000e:01cd0efa:0000:0000:2:0:0
+Soundcity Radio Kenya
+p:Unknown
+0010:01cd0efa:0000:0000:2:0:0
+Getu FM
+p:Unknown
+0011:01cd0efa:0000:0000:2:0:0
+Inka FM
+p:Unknown
+0012:01cd0efa:0000:0000:2:0:0
+Sporty FM
+p:Unknown
+0013:01cd0efa:0000:0000:2:0:0
+Akamba FM
+p:Unknown
+0014:01cd0efa:0000:0000:2:0:0
+Mwangaza wa Neno FM
+p:Unknown
+0016:01cd0efa:0000:0000:2:0:0
+Aviation FM
+p:Unknown
+0001:01cd0efe:0000:0000:1:0:0
+WRM TV
+p:Unknown
+0101:01cd0f00:0001:0001:1:0:0
+Zoe TV
+p:Unknown
+0001:01cd0f01:0002:0002:2:0:0
+Radio 47
+p:Unknown
+0001:01cd0f03:0000:0000:1:0:0
+Salt TV
+p:Unknown
+0002:01cd0f03:0000:0000:2:0:0
+Salt FM
+p:Unknown
+0101:01cd0f14:0000:0000:2:0:0
+Radio Safina
+p:Unknown
+0102:01cd0f14:0000:0000:2:0:0
+Gold FM
+p:Unknown
+03ea:01cd0f14:0000:0000:2:0:0
+Jambo FM
+p:Unknown
+03eb:01cd0f14:0000:0000:2:0:0
+Gold FM
+p:Unknown
+0001:01cd0f1a:0000:0000:1:0:0
+News Central TV
+p:Unknown
+0064:01cd0f1d:0000:0000:1:0:0
+Joy Gospel TV
+p:Unknown
+0001:01cd0f22:0000:0000:1:0:0
+Jehova Jire TV
+p:Unknown
+0002:01cd0f22:0000:0000:2:0:0
+Passion FM
+p:Unknown
+0001:01cd0f72:0000:0000:1:0:0
+TVC
+p:Unknown
+0002:01cd0f72:0000:0000:1:0:0
+TVC News
+p:Unknown
+0003:01cd0f72:0000:0000:2:0:0
+102.3 Max FM
+p:Unknown
+1f41:01cd0f9f:0000:0000:1:0:0
+ZBC TV
+p:Unknown
+1f44:01cd0f9f:0000:0000:1:0:0
+Spice TV
+p:Unknown
+1f42:01cd0f9f:0000:0000:2:0:0
+ZBC Radio
+p:Unknown
+1f43:01cd0f9f:0000:0000:2:0:0
+Spice FM
+p:Unknown
+0002:01cd1010:0001:0001:1:0:0
+Channel Ten
+p:Unknown
+0004:01cd1010:0001:0001:1:0:0
+Channel Ten +
+p:Unknown
+0001:01cd1010:0001:0001:2:0:0
+Magic FM
+p:Unknown
+0003:01cd1010:0001:0001:2:0:0
+Classic FM
+p:Unknown
+0001:01cd1013:0000:0000:1:0:0
+Crown TV
+p:Unknown
+0001:01cd1016:0000:0000:1:0:0
+Kameme TV
+p:Unknown
+0002:01cd1016:0000:0000:1:0:0
+K24
+p:Unknown
+0003:01cd1016:0000:0000:2:0:0
+Milele FM
+p:Unknown
+0004:01cd1016:0000:0000:2:0:0
+Kameme FM
+p:Unknown
+0005:01cd1016:0000:0000:2:0:0
+Meru FM
+p:Unknown
+0006:01cd1016:0000:0000:2:0:0
+Mayian FM
+p:Unknown
+0007:01cd1016:0000:0000:2:0:0
+Emoo FM
+p:Unknown
+0008:01cd1016:0000:0000:2:0:0
+Msenangu FM
+p:Unknown
+0009:01cd1016:0000:0000:2:0:0
+Osiepe FM
+p:Unknown
+000a:01cd1016:0000:0000:2:0:0
+Galaxy FM
+p:Unknown
+0101:01cd1018:0001:0001:1:0:0
+Wasafi TV
+p:Unknown
+0201:01cd1018:0001:0001:2:0:0
+Wasafi FM
+p:Unknown
+0001:01cd101b:0000:0000:1:0:0
+Star TV
+p:Unknown
+0001:01cd101e:0000:0000:1:0:0
+TV Imaan
+p:Unknown
+0002:01cd101e:0000:0000:2:0:0
+Radio Imaan FM
+p:Unknown
+000a:01cd1020:0000:0000:1:0:0
+Silverbird TV
+p:Unknown
+0001:01cd1022:0000:0000:1:0:0
+TV E
+p:Unknown
+0002:01cd1022:0000:0000:2:0:0
+EFM
+p:Unknown
+0001:01cd1024:1000:2000:1:0:0
+Clouds TV
+p:Unknown
+0002:01cd1024:1000:2000:2:0:0
+Clouds FM
+p:Unknown
+0003:01cd1024:1000:2000:2:0:0
+Choice FM
+p:Unknown
+0004:01cd1024:1000:2000:2:0:0
+Radio Safina
+p:Unknown
+0001:01cd1027:0000:0000:1:0:0
+Salvation Ministries
+p:Unknown
+0101:01cd1029:0000:0000:1:0:0
+Upendo TV
+p:Unknown
+0201:01cd1029:0000:0000:2:0:0
+Upendo FM Radio
+p:Unknown
+0001:01cd102c:0000:0000:1:0:0
+Sibuka TV
+p:Unknown
+0001:01cd1032:0000:0000:1:0:0
+Lagos TV
+p:Unknown
+0001:01cd1034:0000:0000:1:0:0
+MFM TV
+p:Unknown
+0092:01cd1040:0000:0000:1:0:0
+AMC Series
+p:Azam Digital
+0093:01cd1040:0000:0000:1:0:0
+AMC Movies
+p:Azam Digital
+0095:01cd1040:0000:0000:1:0:0
+Romanza+ Africa
+p:Azam Digital
+00ae:01cd1040:0000:0000:1:0:0
+Trace Mziki
+p:Azam Digital
+00b7:01cd1040:0000:0000:1:0:0
+National Geographic South Africa
+p:Azam Digital
+00c0:01cd1040:0000:0000:1:0:0
+Discovery Channel Africa
+p:Azam Digital
+00c8:01cd1040:0000:0000:1:0:0
+Investigation Discovery Africa
+p:Azam Digital
+00dc:01cd1040:0000:0000:1:0:0
+Nickelodeon Africa
+p:Azam Digital
+00dd:01cd1040:0000:0000:1:0:0
+Boing Africa
+p:Azam Digital
+00de:01cd1040:0000:0000:1:0:0
+Fix & Foxi
+p:Azam Digital
+00df:01cd1040:0000:0000:1:0:0
+Baby TV Europe
+p:Azam Digital
+00e1:01cd1040:0000:0000:1:0:0
+CBeebies Africa
+p:Azam Digital
+00e3:01cd1040:0000:0000:1:0:0
+Cartoonito Africa
+p:Azam Digital
+00e6:01cd1040:0000:0000:1:0:0
+BBC News Africa
+p:Azam Digital
+00ef:01cd1040:0000:0000:1:0:0
+CNN International Europe
+p:Azam Digital
+0122:01cd1040:0000:0000:1:0:0
+Star Plus Middle East
+p:Azam Digital
+0190:01cd1040:0000:0000:1:0:0
+TBC 1
+p:Azam Digital
+0191:01cd1040:0000:0000:1:0:0
+Tanzania Safari Channel
+p:Azam Digital
+0192:01cd1040:0000:0000:1:0:0
+Channel Ten
+p:Azam Digital
+0194:01cd1040:0000:0000:1:0:0
+Star TV
+p:Azam Digital
+0195:01cd1040:0000:0000:1:0:0
+ZBC TV
+p:Azam Digital
+0197:01cd1040:0000:0000:1:0:0
+TV E
+p:Azam Digital
+019d:01cd1040:0000:0000:1:0:0
+Zamaradi TV
+p:Azam Digital
+019e:01cd1040:0000:0000:1:0:0
+Cheka Plus
+p:Azam Digital
+01c7:01cd1040:0000:0000:1:0:0
+Mahaasin TV
+p:Azam Digital
+01c8:01cd1040:0000:0000:1:0:0
+TV Imaan
+p:Azam Digital
+01d1:01cd1040:0000:0000:1:0:0
+Upendo TV
+p:Azam Digital
+01d2:01cd1040:0000:0000:1:0:0
+Hope Channel Tanzania
+p:Azam Digital
+01d3:01cd1040:0000:0000:1:0:0
+WRM TV
+p:Azam Digital
+01d4:01cd1040:0000:0000:1:0:0
+Emmanuel TV
+p:Azam Digital
+01d5:01cd1040:0000:0000:1:0:0
+Arise & Shine TV
+p:Azam Digital
+01d6:01cd1040:0000:0000:1:0:0
+Tumaini TV
+p:Azam Digital
+0065:01cd1054:0000:0000:1:0:0
+Azam One
+p:Azam Digital
+0066:01cd1054:0000:0000:1:0:0
+Azam Two
+p:Azam Digital
+006a:01cd1054:0000:0000:1:0:0
+Sinema Zetu
+p:Azam Digital
+006c:01cd1054:0000:0000:1:0:0
+UTV
+p:Azam Digital
+006f:01cd1054:0000:0000:1:0:0
+Azam Sports 1
+p:Azam Digital
+0070:01cd1054:0000:0000:1:0:0
+Azam Sports 2
+p:Azam Digital
+0071:01cd1054:0000:0000:1:0:0
+Azam Sports 3
+p:Azam Digital
+0072:01cd1054:0000:0000:1:0:0
+Azam Sports 4
+p:Azam Digital
+0078:01cd1054:0000:0000:1:0:0
+ESPN Africa
+p:Azam Digital
+0079:01cd1054:0000:0000:1:0:0
+ESPN 2 Africa
+p:Azam Digital
+0085:01cd1054:0000:0000:1:0:0
+MBC 2
+p:Azam Digital
+0086:01cd1054:0000:0000:1:0:0
+MBC Max
+p:Azam Digital
+0087:01cd1054:0000:0000:1:0:0
+MBC Action
+p:Azam Digital
+0089:01cd1054:0000:0000:1:0:0
+Kix Africa
+p:Azam Digital
+0094:01cd1054:0000:0000:1:0:0
+Nina Novelas English
+p:Azam Digital
+00b8:01cd1054:0000:0000:1:0:0
+National Geographic Wild South Africa
+p:Azam Digital
+00e2:01cd1054:0000:0000:1:0:0
+Cartoon Network Africa
+p:Azam Digital
+00e7:01cd1054:0000:0000:1:0:0
+Aljazeera English
+p:Azam Digital
+0123:01cd1054:0000:0000:1:0:0
+Colors
+p:Azam Digital
+0133:01cd1054:0000:0000:1:0:0
+Star Gold Middle East
+p:Azam Digital
+0193:01cd1054:0000:0000:1:0:0
+Clouds TV
+p:Azam Digital
+0196:01cd1054:0000:0000:1:0:0
+ZBC 2
+p:Azam Digital
+0198:01cd1054:0000:0000:1:0:0
+ITV
+p:Azam Digital
+0199:01cd1054:0000:0000:1:0:0
+EATV 5
+p:Azam Digital
+019b:01cd1054:0000:0000:1:0:0
+Wasafi TV
+p:Azam Digital
+03b6:01cd1054:0000:0000:2:0:0
+U FM Radio
+p:Unknown
+end

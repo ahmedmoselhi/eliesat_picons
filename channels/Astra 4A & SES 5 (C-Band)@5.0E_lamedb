@@ -1,0 +1,122 @@
+eDVB services /4/
+transponders
+00320f52:0001:0001
+	s 3922000:1415000:2:0:50:2:0:1:0:2:2
+/
+00320f58:0000:0000
+	s 3928000:2083000:2:0:50:2:0:1:0:2:2
+/
+00320f5a:0000:0000
+	s 3930000:1240000:2:0:50:2:0:1:0:2:2
+/
+00320f70:0000:0000
+	s 3952000:2268000:3:0:50:2:0:1:0:2:2
+/
+00320f73:0001:0000
+	s 3955000:1945000:3:0:50:2:0:1:0:2:2
+/
+00320fa0:013b:0001
+	s 4000000:17190000:3:0:50:2:0:1:0:2:2
+/
+00320ff7:0142:0bbc
+	s 4087000:1000000:2:0:50:2:0:1:0:2:2
+/
+00320ffe:0001:0001
+	s 4094000:1551000:2:0:50:2:0:1:0:2:2
+/
+00321001:0001:0001
+	s 4097000:3365000:2:0:50:2:0:1:0:2:2
+/
+end
+services
+0002:00320f52:0001:0001:1:0:0
+The Wedding Channel
+p:Unknown
+0001:00320f58:0000:0000:1:0:0
+Fufa TV
+p:Unknown
+0001:00320f5a:0000:0000:1:0:0
+Global TV
+p:Unknown
+0001:00320f70:0000:0000:1:0:0
+TVGE Internacional
+p:Unknown
+0002:00320f70:0000:0000:2:0:0
+TVGE Radio
+p:Unknown
+0001:00320f73:0001:0000:1:0:0
+Resurrection TV
+p:Unknown
+364d:00320fa0:013b:0001:2:0:0
+BBC World Service English East Africa
+p:Unknown
+364e:00320fa0:013b:0001:2:0:0
+BBC World Service English West Africa
+p:Unknown
+3653:00320fa0:013b:0001:2:0:0
+BBC World Service English Europe
+p:Unknown
+3654:00320fa0:013b:0001:2:0:0
+BBC World Service English Middle East
+p:Unknown
+3656:00320fa0:013b:0001:2:0:0
+BBC World Service English News
+p:Unknown
+365c:00320fa0:013b:0001:2:0:0
+BBC World Service Arabic
+p:Unknown
+3668:00320fa0:013b:0001:2:0:0
+BBC World Service Dari
+p:Unknown
+3669:00320fa0:013b:0001:2:0:0
+BBC World Service Persian
+p:Unknown
+366a:00320fa0:013b:0001:2:0:0
+BBC Afrique Radio
+p:Unknown
+366b:00320fa0:013b:0001:2:0:0
+BBC Gahuza
+p:Unknown
+366c:00320fa0:013b:0001:2:0:0
+BBC Hausa Rediyo
+p:Unknown
+3676:00320fa0:013b:0001:2:0:0
+BBC World Service Pashto
+p:Unknown
+3683:00320fa0:013b:0001:2:0:0
+BBC World Service Somali
+p:Unknown
+3688:00320fa0:013b:0001:2:0:0
+BBC World Service Swahili
+p:Unknown
+364d:00320ff7:0142:0bbc:2:0:0
+BBC World Service English East Africa
+p:Unknown
+364e:00320ff7:0142:0bbc:2:0:0
+BBC World Service English West Africa
+p:Unknown
+3656:00320ff7:0142:0bbc:2:0:0
+BBC World Service English News
+p:Unknown
+365c:00320ff7:0142:0bbc:2:0:0
+BBC World Service Arabic
+p:Unknown
+366a:00320ff7:0142:0bbc:2:0:0
+BBC Afrique Radio
+p:Unknown
+366b:00320ff7:0142:0bbc:2:0:0
+BBC Gahuza
+p:Unknown
+366c:00320ff7:0142:0bbc:2:0:0
+BBC Hausa Rediyo
+p:Unknown
+3683:00320ff7:0142:0bbc:2:0:0
+BBC World Service Somali
+p:Unknown
+0001:00320ffe:0001:0001:1:0:0
+Wap TV
+p:Unknown
+0001:00321001:0001:0001:1:0:0
+NTA International
+p:Unknown
+end

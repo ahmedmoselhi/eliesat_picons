@@ -1,0 +1,191 @@
+eDVB services /4/
+transponders
+0dbf0e94:0000:0000
+	s 3732000:40410000:2:0:-81:2:0:1:0:2:2
+/
+0dbf0ef2:1f5f:077e
+	s 3826000:13830000:3:0:-81:2:0:1:0:2:2
+/
+0dbf0ef8:0001:0001
+	s 3832000:7585000:2:0:-81:2:0:1:0:2:2
+/
+0dbf0f0c:0008:0088
+	s 3852000:14167000:3:0:-81:2:0:1:0:2:2
+/
+0dbf0f38:0001:22d4
+	s 3896000:3500000:2:0:-81:2:0:1:0:2:2
+/
+0dbf0f3d:0001:0001
+	s 3901000:1457000:3:0:-81:2:0:1:0:2:2
+/
+0dbf0f55:1fbd:0001
+	s 3925000:30000000:3:0:-81:2:0:1:0:2:2
+/
+0dbf0f7c:1f87:077e
+	s 3964000:4166000:3:0:-81:2:0:1:0:2:2
+/
+0dbf0f89:0001:ffff
+	s 3977000:3410000:3:0:-81:2:0:1:0:2:2
+/
+0dbf0f92:0000:0000
+	s 3986000:4543000:3:0:-81:2:0:1:0:2:2
+/
+end
+services
+0065:0dbf0e94:0000:0000:1:0:0
+RTI 1
+p:Unknown
+0066:0dbf0e94:0000:0000:1:0:0
+RTI 2
+p:Unknown
+0067:0dbf0e94:0000:0000:1:0:0
+RTI La 3
+p:Unknown
+0068:0dbf0e94:0000:0000:1:0:0
+La Nouvelle Chaîne Ivorienne
+p:Unknown
+0069:0dbf0e94:0000:0000:1:0:0
+A+ Ivoire
+p:Unknown
+006a:0dbf0e94:0000:0000:1:0:0
+Life TV
+p:Unknown
+006b:0dbf0e94:0000:0000:1:0:0
+7 Info
+p:Unknown
+0169:0dbf0ef2:1f5f:077e:1:0:0
+Télé Congo
+p:Unknown
+016c:0dbf0ef2:1f5f:077e:1:0:0
+Equidia Pro 1
+p:Unknown
+016d:0dbf0ef2:1f5f:077e:1:0:0
+Equi Africa
+p:Unknown
+016a:0dbf0ef2:1f5f:077e:2:0:0
+Radio Congo
+p:Unknown
+0001:0dbf0ef8:0001:0001:1:0:0
+CRTV
+p:Unknown
+0002:0dbf0ef8:0001:0001:1:0:0
+CRTV News
+p:Unknown
+0003:0dbf0ef8:0001:0001:1:0:0
+CRTV Sports and Entertainment
+p:Unknown
+0001:0dbf0f0c:0008:0088:1:0:0
+ZNBC TV 3
+p:Unknown
+0003:0dbf0f0c:0008:0088:1:0:0
+Mozo TV
+p:Unknown
+0005:0dbf0f0c:0008:0088:1:0:0
+Parliament TV
+p:Unknown
+0006:0dbf0f0c:0008:0088:1:0:0
+Zanis TV
+p:Unknown
+0009:0dbf0f0c:0008:0088:1:0:0
+ZNBC TV 4
+p:Unknown
+0058:0dbf0f0c:0008:0088:1:0:0
+Revelation TV
+p:Unknown
+0059:0dbf0f0c:0008:0088:1:0:0
+Crown TV
+p:Unknown
+005b:0dbf0f0c:0008:0088:1:0:0
+Sun FM TV
+p:Unknown
+005c:0dbf0f0c:0008:0088:1:0:0
+Beats TV
+p:Unknown
+005d:0dbf0f0c:0008:0088:1:0:0
+Musanza TV
+p:Unknown
+005e:0dbf0f0c:0008:0088:1:0:0
+Sun Sports TV
+p:Unknown
+0062:0dbf0f0c:0008:0088:1:0:0
+Q TV
+p:Unknown
+0065:0dbf0f0c:0008:0088:1:0:0
+ZNBC TV 1
+p:Unknown
+0066:0dbf0f0c:0008:0088:1:0:0
+ZNBC TV 2
+p:Unknown
+0067:0dbf0f0c:0008:0088:1:0:0
+ZNBC TV 3
+p:Unknown
+006b:0dbf0f0c:0008:0088:1:0:0
+ABN TV
+p:Unknown
+006e:0dbf0f0c:0008:0088:1:0:0
+Ingoma TV
+p:Unknown
+0070:0dbf0f0c:0008:0088:1:0:0
+Promise TV
+p:Unknown
+0080:0dbf0f0c:0008:0088:1:0:0
+NAC 28 TV
+p:Unknown
+0096:0dbf0f0c:0008:0088:1:0:0
+KBN TV
+p:Unknown
+00ab:0dbf0f0c:0008:0088:1:0:0
+Mafken TV
+p:Unknown
+012d:0dbf0f0c:0008:0088:1:0:0
+Prime TV
+p:Unknown
+01c2:0dbf0f0c:0008:0088:1:0:0
+Hope Channel Zambia
+p:Unknown
+0200:0dbf0f0c:0008:0088:1:0:0
+Lumen TV
+p:Unknown
+0dfc:0dbf0f38:0001:22d4:1:0:0
+TVE Internacional Europa
+p:Unknown
+0dfd:0dbf0f38:0001:22d4:2:0:0
+RNE Radio Nacional
+p:Unknown
+0e01:0dbf0f38:0001:22d4:2:0:0
+Radio Exterior
+p:Unknown
+0002:0dbf0f3d:0001:0001:1:0:0
+Asonga TV
+p:Unknown
+00c9:0dbf0f55:1fbd:0001:1:0:0
+ESPN Africa
+p:Unknown
+00ca:0dbf0f55:1fbd:0001:1:0:0
+ESPN 2 Africa
+p:Unknown
+00cb:0dbf0f55:1fbd:0001:1:0:0
+National Geographic South Africa
+p:Unknown
+00cc:0dbf0f55:1fbd:0001:1:0:0
+National Geographic Wild South Africa
+p:Unknown
+00d6:0dbf0f55:1fbd:0001:1:0:0
+FashionTV Africa
+p:Unknown
+00d7:0dbf0f55:1fbd:0001:1:0:0
+Nina Novelas English
+p:Unknown
+00d8:0dbf0f55:1fbd:0001:1:0:0
+Nina Novelas Français
+p:Unknown
+06f4:0dbf0f7c:1f87:077e:2:0:0
+Radio Notre Dame International
+p:Unknown
+006c:0dbf0f89:0001:ffff:1:0:0
+Télé Congo
+p:Unknown
+0001:0dbf0f92:0000:0000:1:0:0
+La Gran Carpa Catedral TV
+p:Unknown
+end

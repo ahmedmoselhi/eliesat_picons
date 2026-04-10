@@ -1,0 +1,398 @@
+eDVB services /4/
+transponders
+021229d9:0064:2324
+	s 10713000:14180000:1:0:530:2:0:1:0:2:2
+/
+021229ea:012c:2324
+	s 10730000:14180000:1:0:530:2:0:1:0:2:2
+/
+021229fd:00c8:2324
+	s 10749000:16410000:1:0:530:2:0:1:0:2:2
+/
+02122a58:0001:2283
+	s 10840000:15284000:1:0:530:2:0:1:0:2:2
+/
+02122a65:0002:2283
+	s 10853000:5130000:1:0:530:2:0:1:0:2:2
+/
+02122a69:0001:0001
+	s 10857000:2830000:1:0:530:2:0:1:0:2:2
+/
+02122a6c:0001:000a
+	s 10860000:3150000:1:0:530:2:0:1:0:2:2
+/
+02122a71:000d:1111
+	s 10865000:1808000:1:0:530:2:0:0:0:2:2
+/
+02122a7b:000b:2283
+	s 10875000:15284000:1:0:530:2:0:1:0:2:2
+/
+02122a9d:0002:2283
+	s 10909000:28724000:1:0:530:2:0:1:0:2:2
+/
+02122ab5:0004:0071
+	s 10933000:7000000:1:0:530:2:0:0:0:2:2
+/
+02122ade:0321:0001
+	s 10974000:4850000:0:0:530:2:0:0:0:2:2
+/
+02122af0:0001:0001
+	s 10992000:3500000:0:0:530:2:0:0:0:2:2
+/
+02122cc1:0001:0001
+	s 11457000:3460000:0:0:530:2:0:1:0:2:2
+/
+021230e1:0001:0000
+	s 12513000:1815000:1:0:530:2:0:1:0:2:2
+/
+02123132:01f4:03e8
+	s 12594000:27500000:1:0:530:2:0:0:0:2:2
+/
+02123157:0001:ffff
+	s 12631000:3000000:1:0:530:2:0:1:0:2:2
+/
+0212315d:1000:2000
+	s 12637000:1837000:1:0:530:2:0:1:0:2:2
+/
+02123160:1000:ffff
+	s 12640000:2200000:1:0:530:2:0:1:0:2:2
+/
+02123187:0001:ffff
+	s 12679000:1665000:1:0:530:2:0:1:0:2:2
+/
+0212318b:1000:2000
+	s 12683000:1100000:1:0:530:2:0:1:0:2:2
+/
+end
+services
+000b:021229d9:0064:2324:1:0:0
+Perviy kanal
+p:Unknown
+000c:021229d9:0064:2324:1:0:0
+Rossiya 1 Krim
+p:Unknown
+000d:021229d9:0064:2324:1:0:0
+Match!
+p:Unknown
+000e:021229d9:0064:2324:1:0:0
+NTV
+p:Unknown
+000f:021229d9:0064:2324:1:0:0
+5 Kanal
+p:Unknown
+0010:021229d9:0064:2324:1:0:0
+Rossiya K
+p:Unknown
+0011:021229d9:0064:2324:1:0:0
+Rossiya 24 Krim
+p:Unknown
+0012:021229d9:0064:2324:1:0:0
+Karusel
+p:Unknown
+0456:021229d9:0064:2324:2:0:0
+Vesti FM
+p:Unknown
+0460:021229d9:0064:2324:2:0:0
+Radio Mayak
+p:Unknown
+046a:021229d9:0064:2324:2:0:0
+Radio Rossii Krim
+p:Unknown
+001f:021229ea:012c:2324:1:0:0
+Telekanal Zvezda
+p:Unknown
+0020:021229ea:012c:2324:1:0:0
+Mir
+p:Unknown
+0021:021229ea:012c:2324:1:0:0
+TNT
+p:Unknown
+0022:021229ea:012c:2324:1:0:0
+Tavria
+p:Unknown
+0023:021229ea:012c:2324:1:0:0
+Za! TV
+p:Unknown
+0025:021229ea:012c:2324:1:0:0
+Perviy Respublikanskiy Telekanal
+p:Unknown
+0026:021229ea:012c:2324:1:0:0
+Krim 24
+p:Unknown
+0027:021229ea:012c:2324:1:0:0
+Lugansk 24
+p:Unknown
+0456:021229fd:00c8:2324:2:0:0
+Vesti FM
+p:Unknown
+0460:021229fd:00c8:2324:2:0:0
+Radio Mayak
+p:Unknown
+046a:021229fd:00c8:2324:2:0:0
+Radio Rossii Krim
+p:Unknown
+03f2:02122a58:0001:2283:1:0:0
+Perviy kanal
+p:Unknown
+0406:02122a58:0001:2283:1:0:0
+Match!
+p:Unknown
+0410:02122a58:0001:2283:1:0:0
+NTV
+p:Unknown
+041a:02122a58:0001:2283:1:0:0
+5 Kanal
+p:Unknown
+0424:02122a58:0001:2283:1:0:0
+Rossiya K
+p:Unknown
+0438:02122a58:0001:2283:1:0:0
+Karusel
+p:Unknown
+044c:02122a58:0001:2283:1:0:0
+TV Centr
+p:Unknown
+0456:02122a58:0001:2283:2:0:0
+Vesti FM
+p:Unknown
+0460:02122a58:0001:2283:2:0:0
+Radio Mayak
+p:Unknown
+03fc:02122a65:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:02122a65:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:02122a65:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:02122a65:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+0bcc:02122a69:0001:0001:1:0:0
+Mir 24
+p:Unknown
+0c08:02122a69:0001:0001:1:0:0
+Moskva 24
+p:Unknown
+0001:02122a6c:0001:000a:2:0:0
+Za! Radio
+p:Unknown
+0002:02122a6c:0001:000a:2:0:0
+Radio #Yug Molodoy
+p:Unknown
+000f:02122a71:000d:1111:2:0:0
+Love Radio
+p:Unknown
+0010:02122a71:000d:1111:2:0:0
+Radio Dacha
+p:Unknown
+0011:02122a71:000d:1111:2:0:0
+Radio Pika
+p:Unknown
+0036:02122a71:000d:1111:2:0:0
+Sputnik International
+p:Unknown
+0037:02122a71:000d:1111:2:0:0
+Sputnik International
+p:Unknown
+0038:02122a71:000d:1111:2:0:0
+Sputnik International
+p:Unknown
+0039:02122a71:000d:1111:2:0:0
+Sputnik International
+p:Unknown
+003a:02122a71:000d:1111:2:0:0
+Sputnik International
+p:Unknown
+0035:02122a71:000d:1111:2:0:0
+Sputnik International
+p:Unknown
+07da:02122a7b:000b:2283:1:0:0
+REN TV
+p:Unknown
+07e4:02122a7b:000b:2283:1:0:0
+Telekanal Spas
+p:Unknown
+07ee:02122a7b:000b:2283:1:0:0
+STS
+p:Unknown
+07f8:02122a7b:000b:2283:1:0:0
+Domashniy
+p:Unknown
+0802:02122a7b:000b:2283:1:0:0
+TV 3
+p:Unknown
+080c:02122a7b:000b:2283:1:0:0
+Pyatnitsa!
+p:Unknown
+0816:02122a7b:000b:2283:1:0:0
+Telekanal Zvezda
+p:Unknown
+0820:02122a7b:000b:2283:1:0:0
+Mir
+p:Unknown
+082a:02122a7b:000b:2283:1:0:0
+TNT
+p:Unknown
+0834:02122a7b:000b:2283:1:0:0
+Muz TV
+p:Unknown
+03fc:02122a9d:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:02122a9d:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:02122a9d:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:02122a9d:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+0192:02122ab5:0004:0071:2:0:0
+Avtoradio
+p:Unknown
+0193:02122ab5:0004:0071:2:0:0
+Avtoradio Moskva
+p:Unknown
+0194:02122ab5:0004:0071:2:0:0
+Avtoradio
+p:Unknown
+0197:02122ab5:0004:0071:2:0:0
+Humor FM
+p:Unknown
+0198:02122ab5:0004:0071:2:0:0
+Humor FM
+p:Unknown
+019a:02122ab5:0004:0071:2:0:0
+Humor FM
+p:Unknown
+019b:02122ab5:0004:0071:2:0:0
+Radio Enerdzhi
+p:Unknown
+019c:02122ab5:0004:0071:2:0:0
+Radio Enerdzhi
+p:Unknown
+019e:02122ab5:0004:0071:2:0:0
+Radio Enerdzhi
+p:Unknown
+01a6:02122ab5:0004:0071:2:0:0
+Comedy Radio
+p:Unknown
+01a7:02122ab5:0004:0071:2:0:0
+Comedy Radio
+p:Unknown
+01a8:02122ab5:0004:0071:2:0:0
+Comedy Radio
+p:Unknown
+01aa:02122ab5:0004:0071:2:0:0
+Detskoe Radio
+p:Unknown
+01ac:02122ab5:0004:0071:2:0:0
+Detskoe Radio Moskva
+p:Unknown
+0001:02122ade:0321:0001:1:0:0
+450
+p:Unknown
+0002:02122ade:0321:0001:2:0:0
+Radio 450
+p:Unknown
+0001:02122af0:0001:0001:1:0:0
+Telekanal 78
+p:Unknown
+0001:02122cc1:0001:0001:1:0:0
+NTV Mir
+p:Unknown
+000c:02122cc1:0001:0001:2:0:0
+Sputnik International
+p:Unknown
+000d:02122cc1:0001:0001:2:0:0
+Sputnik International
+p:Unknown
+000e:02122cc1:0001:0001:2:0:0
+Sputnik International
+p:Unknown
+000f:02122cc1:0001:0001:2:0:0
+Sputnik International
+p:Unknown
+0010:02122cc1:0001:0001:2:0:0
+Sputnik International
+p:Unknown
+0011:02122cc1:0001:0001:2:0:0
+Sputnik International
+p:Unknown
+0012:02122cc1:0001:0001:2:0:0
+Sputnik International
+p:Unknown
+0013:02122cc1:0001:0001:2:0:0
+Sputnik International
+p:Unknown
+0014:02122cc1:0001:0001:2:0:0
+Sputnik International
+p:Unknown
+0001:021230e1:0001:0000:1:0:0
+Waar TV
+p:Unknown
+0003:02123132:01f4:03e8:1:0:0
+Rûdaw
+p:Unknown
+0005:02123132:01f4:03e8:1:0:0
+Rojhelat TV
+p:Unknown
+0006:02123132:01f4:03e8:1:0:0
+Alternative Shorai TV
+p:Unknown
+0007:02123132:01f4:03e8:1:0:0
+DW International
+p:Unknown
+0008:02123132:01f4:03e8:1:0:0
+TBS TV
+p:Unknown
+0009:02123132:01f4:03e8:1:0:0
+Tigrai TV
+p:Unknown
+0012:02123132:01f4:03e8:1:0:0
+Aryen TV
+p:Unknown
+0001:02123132:01f4:03e8:2:0:0
+Rûdaw Radio
+p:Unknown
+000a:02123132:01f4:03e8:2:0:0
+Tigrai Radio
+p:Unknown
+001b:02123132:01f4:03e8:2:0:0
+Sam FM
+p:Unknown
+001c:02123132:01f4:03e8:2:0:0
+Afaq FM
+p:Unknown
+001d:02123132:01f4:03e8:2:0:0
+Sawt Al-Ahrar FM
+p:Unknown
+0001:02123157:0001:ffff:1:0:0
+Al-Manar TV
+p:Unknown
+0001:0212315d:1000:2000:1:0:0
+Yemen TV
+p:Unknown
+0002:0212315d:1000:2000:2:0:0
+Radio Sana'a
+p:Unknown
+0003:0212315d:1000:2000:2:0:0
+Sawt Al Shaab FM
+p:Unknown
+0001:02123160:1000:ffff:1:0:0
+Almasirah TV
+p:Unknown
+0001:02123187:0001:ffff:1:0:0
+Rojava TV
+p:Unknown
+0001:0212318b:1000:2000:1:0:0
+Allahdhah TV
+p:Unknown
+0002:0212318b:1000:2000:2:0:0
+Allahdhah FM
+p:Unknown
+end

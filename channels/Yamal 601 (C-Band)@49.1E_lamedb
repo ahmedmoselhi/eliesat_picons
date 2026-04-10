@@ -1,0 +1,443 @@
+eDVB services /4/
+transponders
+01eb0e02:0003:0001
+	s 3586000:8000000:2:0:491:2:0:0:0:2:2
+/
+01eb0e0a:0002:2283
+	s 3594000:5120000:3:0:491:2:0:1:0:2:2
+/
+01eb0e26:0002:2283
+	s 3622000:5130000:3:0:491:2:0:1:0:2:2
+/
+01eb0e2b:0001:2283
+	s 3627000:20580000:2:0:491:2:0:1:0:2:2
+/
+01eb0e2c:0002:2283
+	s 3628000:5120000:3:0:491:2:0:1:0:2:2
+/
+01eb0e3b:0001:2283
+	s 3643000:15284000:3:0:491:2:0:1:0:2:2
+/
+01eb0e45:000b:2283
+	s 3653000:20580000:2:0:491:2:0:1:0:2:2
+/
+01eb0e4e:000b:2283
+	s 3662000:15284000:3:0:491:2:0:1:0:2:2
+/
+01eb0e70:0002:2283
+	s 3696000:5120000:3:0:491:2:0:1:0:2:2
+/
+01eb0e78:0002:2283
+	s 3704000:5130000:3:0:491:2:0:1:0:2:2
+/
+01eb0e7d:0002:2283
+	s 3709000:5130000:3:0:491:2:0:1:0:2:2
+/
+01eb0ea8:0001:ffff
+	s 3752000:3230000:3:0:491:2:0:0:0:2:2
+/
+01eb0edb:0001:2283
+	s 3803000:5130000:2:0:491:2:0:1:0:2:2
+/
+01eb0eee:0001:0001
+	s 3822000:5130000:2:0:491:2:0:1:0:2:2
+/
+01eb0ef6:0001:ffff
+	s 3830000:1500000:3:0:491:2:0:0:0:2:2
+/
+01eb0f12:0002:2283
+	s 3858000:5120000:2:0:491:2:0:1:0:2:2
+/
+01eb0f21:0002:2283
+	s 3873000:5130000:3:0:491:2:0:1:0:2:2
+/
+01eb0f2a:0002:2283
+	s 3882000:5130000:3:0:491:2:0:1:0:2:2
+/
+01eb0f51:0002:2283
+	s 3921000:5130000:3:0:491:2:0:1:0:2:2
+/
+01eb0f7c:0002:2283
+	s 3964000:5120000:2:0:491:2:0:1:0:2:2
+/
+01eb0f89:0001:2283
+	s 3977000:15284000:2:0:491:2:0:1:0:2:2
+/
+01eb0fb2:0002:2283
+	s 4018000:5120000:2:0:491:2:0:1:0:2:2
+/
+01eb0fc5:0015:0001
+	s 4037000:16000000:2:0:491:2:0:0:0:2:2
+/
+end
+services
+0009:01eb0e02:0003:0001:1:0:0
+RT News
+p:Unknown
+000b:01eb0e02:0003:0001:1:0:0
+Rossiya RTR
+p:Unknown
+000c:01eb0e02:0003:0001:1:0:0
+Krasnaya Liniya
+p:Unknown
+000a:01eb0e02:0003:0001:2:0:0
+Radio Orfey
+p:Unknown
+03fc:01eb0e0a:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0e0a:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0e0a:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0e0a:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03fc:01eb0e26:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0e26:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0e26:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0e26:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03f2:01eb0e2b:0001:2283:1:0:0
+Perviy kanal
+p:Unknown
+0406:01eb0e2b:0001:2283:1:0:0
+Match!
+p:Unknown
+0410:01eb0e2b:0001:2283:1:0:0
+NTV
+p:Unknown
+041a:01eb0e2b:0001:2283:1:0:0
+5 Kanal
+p:Unknown
+0424:01eb0e2b:0001:2283:1:0:0
+Rossiya K
+p:Unknown
+0438:01eb0e2b:0001:2283:1:0:0
+Karusel
+p:Unknown
+044c:01eb0e2b:0001:2283:1:0:0
+TV Centr
+p:Unknown
+0456:01eb0e2b:0001:2283:2:0:0
+Vesti FM
+p:Unknown
+0460:01eb0e2b:0001:2283:2:0:0
+Radio Mayak
+p:Unknown
+03fc:01eb0e2c:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0e2c:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0e2c:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0e2c:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03f2:01eb0e3b:0001:2283:1:0:0
+Perviy kanal
+p:Unknown
+0406:01eb0e3b:0001:2283:1:0:0
+Match!
+p:Unknown
+0410:01eb0e3b:0001:2283:1:0:0
+NTV
+p:Unknown
+041a:01eb0e3b:0001:2283:1:0:0
+5 Kanal
+p:Unknown
+0424:01eb0e3b:0001:2283:1:0:0
+Rossiya K
+p:Unknown
+0438:01eb0e3b:0001:2283:1:0:0
+Karusel
+p:Unknown
+044c:01eb0e3b:0001:2283:1:0:0
+TV Centr
+p:Unknown
+0456:01eb0e3b:0001:2283:2:0:0
+Vesti FM
+p:Unknown
+0460:01eb0e3b:0001:2283:2:0:0
+Radio Mayak
+p:Unknown
+07da:01eb0e45:000b:2283:1:0:0
+REN TV
+p:Unknown
+07e4:01eb0e45:000b:2283:1:0:0
+Telekanal Spas
+p:Unknown
+07ee:01eb0e45:000b:2283:1:0:0
+STS
+p:Unknown
+07f8:01eb0e45:000b:2283:1:0:0
+Domashniy
+p:Unknown
+0802:01eb0e45:000b:2283:1:0:0
+TV 3
+p:Unknown
+080c:01eb0e45:000b:2283:1:0:0
+Pyatnitsa!
+p:Unknown
+0816:01eb0e45:000b:2283:1:0:0
+Telekanal Zvezda
+p:Unknown
+0820:01eb0e45:000b:2283:1:0:0
+Mir
+p:Unknown
+082a:01eb0e45:000b:2283:1:0:0
+TNT
+p:Unknown
+0834:01eb0e45:000b:2283:1:0:0
+Muz TV
+p:Unknown
+07da:01eb0e4e:000b:2283:1:0:0
+REN TV
+p:Unknown
+07e4:01eb0e4e:000b:2283:1:0:0
+Telekanal Spas
+p:Unknown
+07ee:01eb0e4e:000b:2283:1:0:0
+STS
+p:Unknown
+07f8:01eb0e4e:000b:2283:1:0:0
+Domashniy
+p:Unknown
+0802:01eb0e4e:000b:2283:1:0:0
+TV 3
+p:Unknown
+080c:01eb0e4e:000b:2283:1:0:0
+Pyatnitsa!
+p:Unknown
+0816:01eb0e4e:000b:2283:1:0:0
+Telekanal Zvezda
+p:Unknown
+0820:01eb0e4e:000b:2283:1:0:0
+Mir
+p:Unknown
+082a:01eb0e4e:000b:2283:1:0:0
+TNT
+p:Unknown
+0834:01eb0e4e:000b:2283:1:0:0
+Muz TV
+p:Unknown
+03fc:01eb0e70:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0e70:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0e70:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0e70:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03fc:01eb0e78:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0e78:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0e78:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0e78:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03f2:01eb0e78:0002:2283:1:0:0
+Perviy kanal
+p:Unknown
+0406:01eb0e78:0002:2283:1:0:0
+Match!
+p:Unknown
+0410:01eb0e78:0002:2283:1:0:0
+NTV
+p:Unknown
+041a:01eb0e78:0002:2283:1:0:0
+5 Kanal
+p:Unknown
+0424:01eb0e78:0002:2283:1:0:0
+Rossiya K
+p:Unknown
+0438:01eb0e78:0002:2283:1:0:0
+Karusel
+p:Unknown
+044c:01eb0e78:0002:2283:1:0:0
+TV Centr
+p:Unknown
+0456:01eb0e78:0002:2283:2:0:0
+Vesti FM
+p:Unknown
+0460:01eb0e78:0002:2283:2:0:0
+Radio Mayak
+p:Unknown
+03fc:01eb0e7d:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0e7d:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0e7d:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0e7d:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+0001:01eb0ea8:0001:ffff:1:0:0
+TRK Rus
+p:Unknown
+03fc:01eb0edb:0001:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0edb:0001:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0edb:0001:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0edb:0001:2283:2:0:0
+Radio Rossii
+p:Unknown
+03fc:01eb0eee:0001:0001:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0eee:0001:0001:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0eee:0001:0001:1:0:0
+OTR
+p:Unknown
+046a:01eb0eee:0001:0001:2:0:0
+Radio Rossii
+p:Unknown
+0001:01eb0ef6:0001:ffff:2:0:0
+Avtoradio Yamal
+p:Unknown
+03fc:01eb0f12:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0f12:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0f12:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0f12:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03fc:01eb0f21:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0f21:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0f21:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0f21:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03fc:01eb0f2a:0002:2283:1:0:0
+GTRK Perm
+p:Unknown
+042e:01eb0f2a:0002:2283:1:0:0
+Rossiya 24 Perm
+p:Unknown
+0442:01eb0f2a:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0f2a:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03fc:01eb0f51:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0f51:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0f51:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0f51:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03fc:01eb0f7c:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0f7c:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0f7c:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0f7c:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+03f2:01eb0f89:0001:2283:1:0:0
+Perviy kanal
+p:Unknown
+0406:01eb0f89:0001:2283:1:0:0
+Match!
+p:Unknown
+0410:01eb0f89:0001:2283:1:0:0
+NTV
+p:Unknown
+041a:01eb0f89:0001:2283:1:0:0
+5 Kanal
+p:Unknown
+0424:01eb0f89:0001:2283:1:0:0
+Rossiya K
+p:Unknown
+0438:01eb0f89:0001:2283:1:0:0
+Karusel
+p:Unknown
+044c:01eb0f89:0001:2283:1:0:0
+TV Centr
+p:Unknown
+0456:01eb0f89:0001:2283:2:0:0
+Vesti FM
+p:Unknown
+0460:01eb0f89:0001:2283:2:0:0
+Radio Mayak
+p:Unknown
+03fc:01eb0fb2:0002:2283:1:0:0
+Rossiya 1
+p:Unknown
+042e:01eb0fb2:0002:2283:1:0:0
+Rossiya 24
+p:Unknown
+0442:01eb0fb2:0002:2283:1:0:0
+OTR
+p:Unknown
+046a:01eb0fb2:0002:2283:2:0:0
+Radio Rossii
+p:Unknown
+0003:01eb0fc5:0015:0001:2:0:0
+Sputnik International
+p:Unknown
+0004:01eb0fc5:0015:0001:2:0:0
+Sputnik Türkiye
+p:Unknown
+0005:01eb0fc5:0015:0001:2:0:0
+Radio Sputnik Moldova
+p:Unknown
+0006:01eb0fc5:0015:0001:2:0:0
+Radio Chanson Tyumen
+p:Unknown
+0007:01eb0fc5:0015:0001:2:0:0
+Avtoradio Tyumen
+p:Unknown
+end

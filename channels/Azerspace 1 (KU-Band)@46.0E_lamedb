@@ -1,0 +1,239 @@
+eDVB services /4/
+transponders
+01cc2b10:0001:0000
+	s 11024000:12700000:1:0:460:2:0:1:0:2:2
+/
+01cc2b57:0000:0000
+	s 11095000:30000000:0:0:460:2:0:1:0:2:2
+/
+01cc2b7f:0001:ffff
+	s 11135000:30000000:0:0:460:2:0:1:0:2:2
+/
+01cc2ba7:0001:0001
+	s 11175000:30000000:0:0:460:2:0:1:0:2:2
+/
+end
+services
+0001:01cc2b10:0001:0000:1:0:0
+ARB
+p:Unknown
+0002:01cc2b10:0001:0000:1:0:0
+ARB 24
+p:Unknown
+0003:01cc2b10:0001:0000:1:0:0
+ARB Günes
+p:Unknown
+0004:01cc2b10:0001:0000:1:0:0
+Start TV
+p:Unknown
+0005:01cc2b10:0001:0000:2:0:0
+Kepez FM
+p:Unknown
+0001:01cc2b57:0000:0000:1:0:0
+1 TV
+p:Unknown
+0002:01cc2b57:0000:0000:1:0:0
+Ajara TV
+p:Unknown
+0003:01cc2b57:0000:0000:1:0:0
+Imedi TV
+p:Unknown
+0004:01cc2b57:0000:0000:1:0:0
+GDS TV
+p:Unknown
+0006:01cc2b57:0000:0000:1:0:0
+TV Pirveli
+p:Unknown
+000b:01cc2b57:0000:0000:1:0:0
+Rustavi 2
+p:Unknown
+000d:01cc2b57:0000:0000:1:0:0
+Comedy TV
+p:Unknown
+000e:01cc2b57:0000:0000:1:0:0
+Pos TV
+p:Unknown
+000f:01cc2b57:0000:0000:1:0:0
+Marneuli TV
+p:Unknown
+0011:01cc2b57:0000:0000:1:0:0
+Palitra News
+p:Unknown
+0014:01cc2b57:0000:0000:1:0:0
+Haber Global
+p:Unknown
+0015:01cc2b57:0000:0000:1:0:0
+AnewZ
+p:Unknown
+0016:01cc2b57:0000:0000:1:0:0
+Az TV
+p:Unknown
+0017:01cc2b57:0000:0000:1:0:0
+Apostrof TV
+p:Unknown
+0018:01cc2b57:0000:0000:1:0:0
+Baku TV
+p:Unknown
+0024:01cc2b57:0000:0000:1:0:0
+Marao TV
+p:Unknown
+0025:01cc2b57:0000:0000:1:0:0
+Topaz 2
+p:Unknown
+0005:01cc2b57:0000:0000:2:0:0
+Radio Ajara
+p:Unknown
+001d:01cc2b57:0000:0000:2:0:0
+Radio Imedi
+p:Unknown
+001e:01cc2b57:0000:0000:2:0:0
+Radio Iveria
+p:Unknown
+001f:01cc2b57:0000:0000:2:0:0
+Georgia Radio
+p:Unknown
+0022:01cc2b57:0000:0000:2:0:0
+Radio Maestro
+p:Unknown
+0001:01cc2b7f:0001:ffff:1:0:0
+Baku TV
+p:Unknown
+0002:01cc2b7f:0001:ffff:1:0:0
+Naxçivan TV
+p:Unknown
+0003:01cc2b7f:0001:ffff:1:0:0
+GTRK Groznyj
+p:Unknown
+0005:01cc2b7f:0001:ffff:1:0:0
+Belarus 24
+p:Unknown
+0008:01cc2b7f:0001:ffff:1:0:0
+GünAz TV
+p:Unknown
+0009:01cc2b7f:0001:ffff:1:0:0
+Misli TV
+p:Unknown
+000a:01cc2b7f:0001:ffff:1:0:0
+Misli TV
+p:Unknown
+000d:01cc2b7f:0001:ffff:1:0:0
+Iran International
+p:Unknown
+000e:01cc2b7f:0001:ffff:1:0:0
+Pars TV
+p:Unknown
+000f:01cc2b7f:0001:ffff:1:0:0
+Omid-e-Iran
+p:Unknown
+0010:01cc2b7f:0001:ffff:1:0:0
+BRT 1
+p:Unknown
+0011:01cc2b7f:0001:ffff:1:0:0
+TRT Türk
+p:Unknown
+0014:01cc2b7f:0001:ffff:1:0:0
+AnewZ
+p:Unknown
+003c:01cc2b7f:0001:ffff:1:0:0
+Perviy kanal Europa
+p:Unknown
+0033:01cc2b7f:0001:ffff:2:0:0
+Pal FM
+p:Unknown
+0034:01cc2b7f:0001:ffff:2:0:0
+Pal Doga
+p:Unknown
+0036:01cc2b7f:0001:ffff:2:0:0
+Radio Belarus
+p:Unknown
+0001:01cc2ba7:0001:0001:1:0:0
+Az TV
+p:Unknown
+0002:01cc2ba7:0001:0001:1:0:0
+Idman TV
+p:Unknown
+0003:01cc2ba7:0001:0001:1:0:0
+Medeniyyet TV
+p:Unknown
+0004:01cc2ba7:0001:0001:1:0:0
+Ictimai TV
+p:Unknown
+0005:01cc2ba7:0001:0001:1:0:0
+Azad TV
+p:Unknown
+0006:01cc2ba7:0001:0001:1:0:0
+Xezer Xeber
+p:Unknown
+0007:01cc2ba7:0001:0001:1:0:0
+CBC
+p:Unknown
+0008:01cc2ba7:0001:0001:1:0:0
+CBC Sport
+p:Unknown
+0009:01cc2ba7:0001:0001:1:0:0
+Real TV
+p:Unknown
+000a:01cc2ba7:0001:0001:1:0:0
+Space TV
+p:Unknown
+000b:01cc2ba7:0001:0001:1:0:0
+Muz TV
+p:Unknown
+000c:01cc2ba7:0001:0001:1:0:0
+Dünya TV
+p:Unknown
+000d:01cc2ba7:0001:0001:1:0:0
+Baku TV
+p:Unknown
+0015:01cc2ba7:0001:0001:2:0:0
+Azerbayan Radiosu
+p:Unknown
+0016:01cc2ba7:0001:0001:2:0:0
+Asan Radio
+p:Unknown
+0017:01cc2ba7:0001:0001:2:0:0
+Radio TMB 100.5
+p:Unknown
+0018:01cc2ba7:0001:0001:2:0:0
+Araz FM
+p:Unknown
+0019:01cc2ba7:0001:0001:2:0:0
+Media FM
+p:Unknown
+001a:01cc2ba7:0001:0001:2:0:0
+Radio Enerji
+p:Unknown
+001b:01cc2ba7:0001:0001:2:0:0
+International Radio
+p:Unknown
+001c:01cc2ba7:0001:0001:2:0:0
+Ictimai Radio
+p:Unknown
+001d:01cc2ba7:0001:0001:2:0:0
+Azad 106.3 FM
+p:Unknown
+001e:01cc2ba7:0001:0001:2:0:0
+Xezer FM
+p:Unknown
+001f:01cc2ba7:0001:0001:2:0:0
+CBC FM
+p:Unknown
+0020:01cc2ba7:0001:0001:2:0:0
+Space Radio
+p:Unknown
+0021:01cc2ba7:0001:0001:2:0:0
+Real FM 107
+p:Unknown
+0023:01cc2ba7:0001:0001:2:0:0
+Baku Hit FM
+p:Unknown
+0024:01cc2ba7:0001:0001:2:0:0
+Baku Retro FM
+p:Unknown
+0025:01cc2ba7:0001:0001:2:0:0
+Avto FM
+p:Unknown
+0026:01cc2ba7:0001:0001:2:0:0
+Yurd FM
+p:Unknown
+end

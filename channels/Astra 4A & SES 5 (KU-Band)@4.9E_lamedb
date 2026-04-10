@@ -1,0 +1,2291 @@
+eDVB services /4/
+transponders
+00312dcf:134d:0004
+	s 11727000:27500000:0:0:49:2:0:1:0:2:2
+/
+00312de3:10ad:00de
+	s 11747000:27500000:1:0:49:2:0:1:0:2:2
+/
+00312df6:1093:00de
+	s 11766000:27500000:0:0:49:2:0:1:0:2:2
+/
+00312df6:000c:0055
+	s 11766000:30000000:0:0:49:2:0:1:0:2:2
+/
+00312e09:1094:00de
+	s 11785000:27500000:1:0:49:2:0:1:0:2:2
+/
+00312e1c:1351:0004
+	s 11804000:27500000:0:0:49:2:0:1:0:2:2
+/
+00312e56:1098:00de
+	s 11862000:27500000:1:0:49:2:0:1:0:2:2
+/
+00312e7c:10b1:00de
+	s 11900000:27500000:1:0:49:2:0:1:0:2:2
+/
+00312e8f:0015:0001
+	s 11919000:27500000:0:0:49:2:0:0:0:2:2
+/
+00312ea2:109c:00de
+	s 11938000:27500000:1:0:49:2:0:1:0:2:2
+/
+00312eb6:109d:00de
+	s 11958000:27500000:0:0:49:2:0:1:0:2:2
+/
+00312ec9:109e:00de
+	s 11977000:27500000:1:0:49:2:0:1:0:2:2
+/
+00312edc:109f:00de
+	s 11996000:27500000:0:0:49:2:0:1:0:2:2
+/
+00312eef:135c:0004
+	s 12015000:29950000:1:0:49:2:0:0:0:2:2
+/
+00312f02:135d:0004
+	s 12034000:27500000:0:0:49:2:0:0:0:2:2
+/
+00312f16:135e:0004
+	s 12054000:30000000:1:0:49:2:0:1:0:2:2
+/
+00312f29:10a3:00de
+	s 12073000:27500000:0:0:49:2:0:1:0:2:2
+/
+00312f29:107b:0055
+	s 12073000:30000000:0:0:49:2:0:1:0:2:2
+/
+00312f62:0010:0055
+	s 12130000:27500000:1:0:49:2:0:0:0:2:2
+/
+00312faf:0018:0044
+	s 12207000:30000000:1:0:49:2:0:1:0:2:2
+/
+00312fc2:0004:0001
+	s 12226000:27500000:0:0:49:2:0:1:0:2:2
+/
+0031300f:10af:00de
+	s 12303000:27500000:0:0:49:2:0:1:0:2:2
+/
+0031305c:10b3:00de
+	s 12380000:27500000:0:0:49:2:0:1:0:2:2
+/
+00313082:10b5:00de
+	s 12418000:27500000:0:0:49:2:0:1:0:2:2
+/
+00313095:002e:0055
+	s 12437000:30000000:1:0:49:2:0:1:0:2:2
+/
+00313115:00bf:0088
+	s 12565000:30000000:1:0:49:2:0:1:0:2:2
+/
+end
+services
+001e:00312dcf:134d:0004:1:0:0
+Bukedde 1
+p:Zuku
+0022:00312dcf:134d:0004:1:0:0
+Kameme TV
+p:Zuku
+0024:00312dcf:134d:0004:1:0:0
+Mutongoi TV
+p:Zuku
+002d:00312dcf:134d:0004:1:0:0
+Hope Channel Zambia
+p:Zuku
+0032:00312dcf:134d:0004:1:0:0
+Spark TV
+p:Zuku
+0039:00312dcf:134d:0004:1:0:0
+Baba TV
+p:Zuku
+003a:00312dcf:134d:0004:1:0:0
+Prime TV
+p:Zuku
+003d:00312dcf:134d:0004:1:0:0
+Good News TV
+p:Zuku
+003e:00312dcf:134d:0004:1:0:0
+Glorious Times TV
+p:Unknown
+0040:00312dcf:134d:0004:1:0:0
+Mpira TV
+p:Zuku
+004a:00312dcf:134d:0004:1:0:0
+Uganda Catholic TV
+p:Zuku
+004d:00312dcf:134d:0004:1:0:0
+Tayari West
+p:Zuku
+0078:00312dcf:134d:0004:1:0:0
+Zee One
+p:Unknown
+0096:00312dcf:134d:0004:1:0:0
+Zuku Extra
+p:Zuku
+00e6:00312dcf:134d:0004:1:0:0
+Zuku Action
+p:Zuku
+0141:00312dcf:134d:0004:1:0:0
+Zee Dunia
+p:Zuku
+0142:00312dcf:134d:0004:1:0:0
+StarLife
+p:Zuku
+019e:00312dcf:134d:0004:1:0:0
+National Geographic South Africa
+p:Zuku
+019f:00312dcf:134d:0004:1:0:0
+National Geographic Wild South Africa
+p:Zuku
+01fe:00312dcf:134d:0004:1:0:0
+BBC News Africa
+p:Zuku
+0208:00312dcf:134d:0004:1:0:0
+Aljazeera English
+p:Zuku
+0212:00312dcf:134d:0004:1:0:0
+Sky News International
+p:Zuku
+021e:00312dcf:134d:0004:1:0:0
+Bloomberg TV Africa
+p:Zuku
+025a:00312dcf:134d:0004:1:0:0
+Akili TV
+p:Zuku
+026c:00312dcf:134d:0004:1:0:0
+JimJam Europe
+p:Zuku
+0276:00312dcf:134d:0004:1:0:0
+Baby TV Europe
+p:Zuku
+02c8:00312dcf:134d:0004:1:0:0
+ESPN Africa
+p:Zuku
+02c9:00312dcf:134d:0004:1:0:0
+ESPN 2 Africa
+p:Zuku
+02ca:00312dcf:134d:0004:1:0:0
+Punch TV
+p:Zuku
+02d0:00312dcf:134d:0004:1:0:0
+Sporty TV Kenya
+p:Zuku
+02d1:00312dcf:134d:0004:1:0:0
+LFC TV
+p:Zuku
+02e4:00312dcf:134d:0004:1:0:0
+Zuku Music
+p:Zuku
+033e:00312dcf:134d:0004:1:0:0
+Universal TV
+p:Zuku
+0367:00312dcf:134d:0004:1:0:0
+Capuchin TV
+p:Zuku
+036a:00312dcf:134d:0004:1:0:0
+Emmanuel TV
+p:Zuku
+036b:00312dcf:134d:0004:1:0:0
+EWTN Africa - Asia
+p:Zuku
+036d:00312dcf:134d:0004:1:0:0
+Family TV
+p:Zuku
+037a:00312dcf:134d:0004:1:0:0
+Peace TV English
+p:Zuku
+037c:00312dcf:134d:0004:1:0:0
+Hope Channel Kenya
+p:Zuku
+037e:00312dcf:134d:0004:1:0:0
+Horizon TV
+p:Zuku
+0384:00312dcf:134d:0004:1:0:0
+Zoom
+p:Zuku
+0385:00312dcf:134d:0004:1:0:0
+Zee TV Africa
+p:Zuku
+0387:00312dcf:134d:0004:1:0:0
+Colors
+p:Zuku
+0389:00312dcf:134d:0004:1:0:0
+Star Plus
+p:Zuku
+038a:00312dcf:134d:0004:1:0:0
+Star Gold
+p:Zuku
+038d:00312dcf:134d:0004:1:0:0
+Zee Cinema Africa
+p:Zuku
+038f:00312dcf:134d:0004:1:0:0
+NDTV India
+p:Zuku
+0398:00312dcf:134d:0004:1:0:0
+ARY News UK & Europe
+p:Zuku
+03a4:00312dcf:134d:0004:1:0:0
+ARY Musik
+p:Zuku
+03aa:00312dcf:134d:0004:1:0:0
+Times Now
+p:Zuku
+03ab:00312dcf:134d:0004:1:0:0
+ARY Digital UK
+p:Zuku
+03b3:00312dcf:134d:0004:1:0:0
+ARY QTV
+p:Zuku
+03c2:00312dcf:134d:0004:2:0:0
+ITT FM
+p:Unknown
+03c4:00312dcf:134d:0004:2:0:0
+Dodoma FM
+p:Unknown
+03c5:00312dcf:134d:0004:2:0:0
+Salt FM
+p:Unknown
+03c6:00312dcf:134d:0004:2:0:0
+Radio Simba
+p:Unknown
+03c8:00312dcf:134d:0004:2:0:0
+Nenyon FM
+p:Unknown
+03cc:00312dcf:134d:0004:2:0:0
+Nation FM
+p:Unknown
+03cd:00312dcf:134d:0004:2:0:0
+Sibuka FM
+p:Unknown
+03cf:00312dcf:134d:0004:2:0:0
+HomeBoyz Radio
+p:Unknown
+03d1:00312dcf:134d:0004:2:0:0
+Clouds FM
+p:Unknown
+03d8:00312dcf:134d:0004:2:0:0
+DW-Radio FM 1
+p:Unknown
+03fd:00312dcf:134d:0004:2:0:0
+Radio Icengelo
+p:Unknown
+03fe:00312dcf:134d:0004:2:0:0
+Hope FM
+p:Unknown
+1e14:00312de3:10ad:00de:1:0:0
+AMC Portugal
+p:StarSat
+1e15:00312de3:10ad:00de:1:0:0
+A12 TV
+p:StarSat
+1e16:00312de3:10ad:00de:1:0:0
+MCR TV NF
+p:StarSat
+1e17:00312de3:10ad:00de:1:0:0
+Afro Music Channel
+p:StarSat
+1e18:00312de3:10ad:00de:1:0:0
+Family TV
+p:StarSat
+1e19:00312de3:10ad:00de:1:0:0
+RTI 2
+p:StarSat
+1e1a:00312de3:10ad:00de:1:0:0
+Sporty TV
+p:StarSat
+1e1b:00312de3:10ad:00de:1:0:0
+TV Chandelier
+p:StarSat
+1e1c:00312de3:10ad:00de:1:0:0
+SIC Internacional África
+p:StarSat
+1e1d:00312de3:10ad:00de:1:0:0
+Stingray Classica
+p:StarSat
+1e1e:00312de3:10ad:00de:1:0:0
+God TV Africa
+p:StarSat
+1e1f:00312de3:10ad:00de:1:0:0
+ZBC TV
+p:StarSat
+1e20:00312de3:10ad:00de:1:0:0
+Atlantic TV Network
+p:StarSat
+1e21:00312de3:10ad:00de:1:0:0
+Ishusho TV
+p:StarSat
+1e22:00312de3:10ad:00de:1:0:0
+Upendo TV
+p:StarSat
+1e24:00312de3:10ad:00de:1:0:0
+TBN Yetu
+p:StarSat
+1e25:00312de3:10ad:00de:1:0:0
+SIC Notícias
+p:StarSat
+1e27:00312de3:10ad:00de:1:0:0
+SIC Mulher
+p:StarSat
+1e28:00312de3:10ad:00de:1:0:0
+Cinaf TV
+p:StarSat
+1e2a:00312de3:10ad:00de:1:0:0
+ETV News
+p:StarSat
+1e2b:00312de3:10ad:00de:1:0:0
+Ghana TV
+p:StarSat
+1e2c:00312de3:10ad:00de:1:0:0
+Wan Luo TV
+p:StarSat
+1e2d:00312de3:10ad:00de:1:0:0
+United TV
+p:StarSat
+1e2e:00312de3:10ad:00de:1:0:0
+JimJam Europe
+p:StarSat
+1e2f:00312de3:10ad:00de:1:0:0
+GTV Sports +
+p:StarSat
+1e30:00312de3:10ad:00de:1:0:0
+Ecclesia TV
+p:StarSat
+1e31:00312de3:10ad:00de:1:0:0
+ITV
+p:StarSat
+1e32:00312de3:10ad:00de:1:0:0
+Panda Kids
+p:StarSat
+1e33:00312de3:10ad:00de:1:0:0
+Canal Hollywood Portugal
+p:StarSat
+1e34:00312de3:10ad:00de:1:0:0
+TBC 1
+p:StarSat
+1e23:00312de3:10ad:00de:2:0:0
+TBC FM
+p:Unknown
+1e29:00312de3:10ad:00de:2:0:0
+TBC Taifa
+p:Unknown
+1b58:00312df6:1093:00de:1:0:0
+New Frontiers TV
+p:StarSat
+1b59:00312df6:1093:00de:1:0:0
+2S TV
+p:StarSat
+1b5a:00312df6:1093:00de:1:0:0
+ST Nollywood F
+p:StarSat
+1b5b:00312df6:1093:00de:1:0:0
+Hope Channel Zambia
+p:StarSat
+1b5c:00312df6:1093:00de:1:0:0
+Dash TV News
+p:StarSat
+1b5d:00312df6:1093:00de:1:0:0
+ERI TV 1
+p:StarSat
+1b5e:00312df6:1093:00de:1:0:0
+DBS TV
+p:StarSat
+1b5f:00312df6:1093:00de:1:0:0
+Mikuba TV
+p:StarSat
+1b60:00312df6:1093:00de:1:0:0
+Sen TV
+p:StarSat
+1b61:00312df6:1093:00de:1:0:0
+TV5Monde Style
+p:StarSat
+1b62:00312df6:1093:00de:1:0:0
+Afrique Média
+p:StarSat
+1b63:00312df6:1093:00de:1:0:0
+Tayari West
+p:StarSat
+1b64:00312df6:1093:00de:1:0:0
+Mashariki TV
+p:StarSat
+1b65:00312df6:1093:00de:1:0:0
+Télé 50
+p:StarSat
+1b66:00312df6:1093:00de:1:0:0
+ST Makula
+p:StarSat
+1b68:00312df6:1093:00de:1:0:0
+Télé Congo
+p:StarSat
+1b69:00312df6:1093:00de:1:0:0
+Nina Novelas Français
+p:StarSat
+1b6a:00312df6:1093:00de:1:0:0
+Fufa TV
+p:StarSat
+1b6b:00312df6:1093:00de:1:0:0
+LM TV Français
+p:StarSat
+1b6c:00312df6:1093:00de:1:0:0
+Malaika TV
+p:StarSat
+1b6e:00312df6:1093:00de:1:0:0
+BSK TV Network
+p:StarSat
+1b6f:00312df6:1093:00de:1:0:0
+Balafon TV
+p:StarSat
+1b70:00312df6:1093:00de:1:0:0
+Gabon 1ère
+p:StarSat
+1b71:00312df6:1093:00de:1:0:0
+Aforevo Music TV
+p:StarSat
+1b73:00312df6:1093:00de:1:0:0
+RTI
+p:StarSat
+1b74:00312df6:1093:00de:1:0:0
+RTB TV
+p:StarSat
+1b75:00312df6:1093:00de:1:0:0
+BBS TV
+p:StarSat
+1b76:00312df6:1093:00de:1:0:0
+Look Media
+p:StarSat
+1b77:00312df6:1093:00de:1:0:0
+Sanyuka TV
+p:StarSat
+1b78:00312df6:1093:00de:1:0:0
+KBS TV
+p:StarSat
+1b79:00312df6:1093:00de:1:0:0
+Salt TV
+p:StarSat
+1b7a:00312df6:1093:00de:1:0:0
+Horizon TV
+p:StarSat
+1b7b:00312df6:1093:00de:1:0:0
+Sporty TV Kenya
+p:StarSat
+17d4:00312df6:000c:0055:1:0:0
+1+1 Marafon
+p:Unknown
+17d5:00312df6:000c:0055:1:0:0
+1+1 Ukraïna
+p:Unknown
+17dc:00312df6:000c:0055:1:0:0
+Kvartal TV
+p:Unknown
+17de:00312df6:000c:0055:1:0:0
+TET
+p:Unknown
+17e0:00312df6:000c:0055:1:0:0
+Plus Plus
+p:Unknown
+17e2:00312df6:000c:0055:1:0:0
+Bigudi
+p:Unknown
+17e8:00312df6:000c:0055:1:0:0
+2+2
+p:Unknown
+17eb:00312df6:000c:0055:1:0:0
+Svit+
+p:Unknown
+17ed:00312df6:000c:0055:1:0:0
+1+1 International
+p:Viasat Ukraina
+17ef:00312df6:000c:0055:1:0:0
+2+2 Marafon
+p:Unknown
+17f5:00312df6:000c:0055:1:0:0
+TV Bolt
+p:Viasat Ukraina
+17f7:00312df6:000c:0055:1:0:0
+24 Kanal
+p:Unknown
+17fd:00312df6:000c:0055:1:0:0
+Animal Planet Europe
+p:Viasat Ukraina
+17ff:00312df6:000c:0055:1:0:0
+Discovery Channel Central Europe
+p:Viasat Ukraina
+1801:00312df6:000c:0055:1:0:0
+Dorama
+p:Viasat Ukraina
+1804:00312df6:000c:0055:1:0:0
+Tuso
+p:Unknown
+1805:00312df6:000c:0055:1:0:0
+Karavan TV
+p:Unknown
+1806:00312df6:000c:0055:1:0:0
+Armiya TV
+p:Unknown
+1808:00312df6:000c:0055:1:0:0
+FilmUaDrama
+p:Viasat Ukraina
+180b:00312df6:000c:0055:1:0:0
+FX CIS
+p:Viasat Ukraina
+1810:00312df6:000c:0055:1:0:0
+UNIAN Serial
+p:Unknown
+1813:00312df6:000c:0055:1:0:0
+FX Life CIS
+p:Viasat Ukraina
+1815:00312df6:000c:0055:1:0:0
+Viasat True Crime
+p:Viasat Ukraina
+1817:00312df6:000c:0055:1:0:0
+Niki Kids
+p:Viasat Ukraina
+1819:00312df6:000c:0055:1:0:0
+Niki Junior
+p:Viasat Ukraina
+181b:00312df6:000c:0055:1:0:0
+Star Cinema
+p:Viasat Ukraina
+181f:00312df6:000c:0055:1:0:0
+National Geographic CIS
+p:Viasat Ukraina
+1821:00312df6:000c:0055:1:0:0
+National Geographic Wild CIS
+p:Viasat Ukraina
+1823:00312df6:000c:0055:1:0:0
+Food Network EMEA
+p:Viasat Ukraina
+1825:00312df6:000c:0055:1:0:0
+TLC Pan Regional
+p:Viasat Ukraina
+1827:00312df6:000c:0055:1:0:0
+Travel Channel Europe
+p:Viasat Ukraina
+1829:00312df6:000c:0055:1:0:0
+Rybalka Telekanal
+p:Viasat Ukraina
+182e:00312df6:000c:0055:1:0:0
+ATR
+p:Unknown
+1833:00312df6:000c:0055:1:0:0
+Playboy TV Europe
+p:Viasat Ukraina
+1835:00312df6:000c:0055:1:0:0
+Blue Hustler Europe
+p:Viasat Ukraina
+1edc:00312e09:1094:00de:1:0:0
+TVM
+p:StarSat
+1edd:00312e09:1094:00de:1:0:0
+TVM Internacional
+p:StarSat
+1ede:00312e09:1094:00de:1:0:0
+Tua TV
+p:StarSat
+1edf:00312e09:1094:00de:1:0:0
+RTG
+p:StarSat
+1ee0:00312e09:1094:00de:1:0:0
+ST Mania 2
+p:StarSat
+1ee1:00312e09:1094:00de:1:0:0
+Star Channel Portugal
+p:StarSat
+1ee2:00312e09:1094:00de:1:0:0
+RTP África
+p:StarSat
+1ee3:00312e09:1094:00de:1:0:0
+RTP Mundo
+p:StarSat
+1ee4:00312e09:1094:00de:1:0:0
+Soico TV
+p:StarSat
+1ee5:00312e09:1094:00de:1:0:0
+Haq TV
+p:StarSat
+1ee6:00312e09:1094:00de:1:0:0
+Focos TV
+p:StarSat
+1ee7:00312e09:1094:00de:1:0:0
+TV Miramar
+p:StarSat
+1ee9:00312e09:1094:00de:1:0:0
+CNN Portugal
+p:StarSat
+1eea:00312e09:1094:00de:1:0:0
+Sasa TV
+p:StarSat
+1eeb:00312e09:1094:00de:1:0:0
+24 Kitchen Portugal
+p:StarSat
+1eed:00312e09:1094:00de:1:0:0
+TVI Internacional
+p:StarSat
+1eee:00312e09:1094:00de:1:0:0
+Biggs
+p:StarSat
+1eef:00312e09:1094:00de:1:0:0
+Gospel Music TV
+p:StarSat
+1ef0:00312e09:1094:00de:1:0:0
+Kingdom TV
+p:StarSat
+1ef1:00312e09:1094:00de:1:0:0
+TLN Network
+p:StarSat
+1ef2:00312e09:1094:00de:1:0:0
+Disney Jr Portugal
+p:StarSat
+1ef3:00312e09:1094:00de:1:0:0
+Disney Channel Portugal
+p:StarSat
+1ef4:00312e09:1094:00de:1:0:0
+Eco TV
+p:StarSat
+1ef5:00312e09:1094:00de:1:0:0
+ST Novela P
+p:StarSat
+1ef6:00312e09:1094:00de:1:0:0
+National Geographic Portugal
+p:StarSat
+1ef7:00312e09:1094:00de:1:0:0
+National Geographic Wild South Africa
+p:StarSat
+1ef8:00312e09:1094:00de:1:0:0
+Star Life Portugal
+p:StarSat
+1ef9:00312e09:1094:00de:1:0:0
+TV Sucesso
+p:StarSat
+1efa:00312e09:1094:00de:1:0:0
+Star Movies Portugal
+p:StarSat
+1efb:00312e09:1094:00de:1:0:0
+Star Comedy Portugal
+p:StarSat
+1efe:00312e09:1094:00de:1:0:0
+TV 47
+p:StarSat
+1ee8:00312e09:1094:00de:2:0:0
+Super FM
+p:Unknown
+1eec:00312e09:1094:00de:2:0:0
+Rádio Indico
+p:Unknown
+1efc:00312e09:1094:00de:2:0:0
+Radio Haq
+p:Unknown
+0001:00312e1c:1351:0004:1:0:0
+Zuku Zone
+p:Unknown
+000a:00312e1c:1351:0004:1:0:0
+KBC Channel 1
+p:Zuku
+000b:00312e1c:1351:0004:1:0:0
+Citizen TV
+p:Zuku
+000c:00312e1c:1351:0004:1:0:0
+KTN Home
+p:Zuku
+000d:00312e1c:1351:0004:1:0:0
+NTV
+p:Zuku
+000f:00312e1c:1351:0004:1:0:0
+K24
+p:Zuku
+0013:00312e1c:1351:0004:1:0:0
+Kass TV
+p:Zuku
+0014:00312e1c:1351:0004:1:0:0
+UBC TV
+p:Zuku
+0015:00312e1c:1351:0004:1:0:0
+NTV Uganda
+p:Zuku
+0017:00312e1c:1351:0004:1:0:0
+NBS TV
+p:Zuku
+0018:00312e1c:1351:0004:1:0:0
+Bukedde 2
+p:Zuku
+0019:00312e1c:1351:0004:1:0:0
+BTM TV
+p:Unknown
+001a:00312e1c:1351:0004:1:0:0
+TBC 1
+p:Zuku
+001b:00312e1c:1351:0004:1:0:0
+Tanzania Safari Channel
+p:Zuku
+001f:00312e1c:1351:0004:1:0:0
+TV West
+p:Zuku
+0020:00312e1c:1351:0004:1:0:0
+MBC
+p:Zuku
+0023:00312e1c:1351:0004:1:0:0
+Nenyon TV
+p:Zuku
+0026:00312e1c:1351:0004:1:0:0
+Getembe TV
+p:Zuku
+0027:00312e1c:1351:0004:1:0:0
+Weru TV
+p:Zuku
+0028:00312e1c:1351:0004:1:0:0
+Inooro TV
+p:Zuku
+0029:00312e1c:1351:0004:1:0:0
+Ramogi TV
+p:Zuku
+002a:00312e1c:1351:0004:1:0:0
+ZNBC TV 1
+p:Zuku
+002b:00312e1c:1351:0004:1:0:0
+ZNBC TV 2
+p:Zuku
+002c:00312e1c:1351:0004:1:0:0
+Q TV
+p:Zuku
+002e:00312e1c:1351:0004:1:0:0
+Times TV
+p:Zuku
+002f:00312e1c:1351:0004:1:0:0
+Mibawa TV
+p:Zuku
+0031:00312e1c:1351:0004:1:0:0
+BBS TV
+p:Zuku
+0033:00312e1c:1351:0004:1:0:0
+Luntha TV
+p:Zuku
+0035:00312e1c:1351:0004:1:0:0
+Sanyuka TV
+p:Zuku
+0036:00312e1c:1351:0004:1:0:0
+TPM TV
+p:Zuku
+0038:00312e1c:1351:0004:1:0:0
+Channel 44
+p:Zuku
+003b:00312e1c:1351:0004:1:0:0
+Lit TV
+p:Zuku
+0041:00312e1c:1351:0004:1:0:0
+Star Africa TV
+p:Zuku
+0044:00312e1c:1351:0004:1:0:0
+Clouds TV
+p:Zuku
+0045:00312e1c:1351:0004:1:0:0
+TV 47
+p:Zuku
+0046:00312e1c:1351:0004:1:0:0
+King Solomon TV
+p:Zuku
+0048:00312e1c:1351:0004:1:0:0
+KBS TV
+p:Zuku
+004c:00312e1c:1351:0004:1:0:0
+MBC 2
+p:Zuku
+0052:00312e1c:1351:0004:1:0:0
+Gotabgaa TV
+p:Zuku
+0064:00312e1c:1351:0004:1:0:0
+Zuku Swahili
+p:Zuku
+00e7:00312e1c:1351:0004:1:0:0
+Zuku Nolly
+p:Zuku
+02e5:00312e1c:1351:0004:1:0:0
+Zuku Praise
+p:Zuku
+0368:00312e1c:1351:0004:1:0:0
+Ark TV World
+p:Zuku
+036f:00312e1c:1351:0004:1:0:0
+Daystar TV
+p:Zuku
+0370:00312e1c:1351:0004:1:0:0
+JCC TV
+p:Zuku
+0372:00312e1c:1351:0004:1:0:0
+JW Broadcasting
+p:Zuku
+0373:00312e1c:1351:0004:1:0:0
+World Evangelism TV
+p:Zuku
+0375:00312e1c:1351:0004:1:0:0
+TV Imaan
+p:Zuku
+03c3:00312e1c:1351:0004:2:0:0
+Mazingira FM
+p:Unknown
+03c7:00312e1c:1351:0004:2:0:0
+Zodiak Radio
+p:Unknown
+03c9:00312e1c:1351:0004:2:0:0
+Kass FM
+p:Unknown
+03ca:00312e1c:1351:0004:2:0:0
+Q FM
+p:Unknown
+03ce:00312e1c:1351:0004:2:0:0
+Capital FM
+p:Unknown
+03d0:00312e1c:1351:0004:2:0:0
+East FM
+p:Unknown
+03d2:00312e1c:1351:0004:2:0:0
+Radio Waumini
+p:Unknown
+03d3:00312e1c:1351:0004:2:0:0
+Radio Maisha
+p:Unknown
+03d4:00312e1c:1351:0004:2:0:0
+MBC Radio 1
+p:Unknown
+03d5:00312e1c:1351:0004:2:0:0
+MBC Radio 2
+p:Unknown
+03d9:00312e1c:1351:0004:2:0:0
+Uvinza FM
+p:Unknown
+03db:00312e1c:1351:0004:2:0:0
+Zabibu FM
+p:Unknown
+0006:00312e56:1098:00de:1:0:0
+Lit TV
+p:StarSat
+1e79:00312e56:1098:00de:1:0:0
+Kass TV
+p:StarSat
+1e7a:00312e56:1098:00de:1:0:0
+MBC
+p:StarSat
+1e7b:00312e56:1098:00de:1:0:0
+Inooro TV
+p:StarSat
+1e7c:00312e56:1098:00de:1:0:0
+Ramogi TV
+p:StarSat
+1e7d:00312e56:1098:00de:1:0:0
+Zodiak TV
+p:StarSat
+1e7e:00312e56:1098:00de:1:0:0
+Times TV
+p:StarSat
+1e81:00312e56:1098:00de:1:0:0
+Akili TV
+p:StarSat
+1e83:00312e56:1098:00de:1:0:0
+Asal TV
+p:StarSat
+1e84:00312e56:1098:00de:1:0:0
+Telesur English
+p:StarSat
+1e85:00312e56:1098:00de:1:0:0
+Baba TV
+p:StarSat
+1e86:00312e56:1098:00de:1:0:0
+Mpira TV
+p:StarSat
+1e87:00312e56:1098:00de:1:0:0
+BTV 1
+p:StarSat
+1e88:00312e56:1098:00de:1:0:0
+Mibawa TV
+p:StarSat
+1e89:00312e56:1098:00de:1:0:0
+TV Al Bayane
+p:StarSat
+1e8a:00312e56:1098:00de:1:0:0
+ST Ganza
+p:StarSat
+1e8c:00312e56:1098:00de:1:0:0
+Benie TV
+p:StarSat
+1e8e:00312e56:1098:00de:1:0:0
+ZNBC TV 1
+p:StarSat
+1e8f:00312e56:1098:00de:1:0:0
+ZNBC TV 2
+p:StarSat
+1e90:00312e56:1098:00de:1:0:0
+Prime TV
+p:StarSat
+1e93:00312e56:1098:00de:1:0:0
+Kolo TV
+p:StarSat
+1e94:00312e56:1098:00de:1:0:0
+Vision 4 RCA
+p:StarSat
+1e96:00312e56:1098:00de:1:0:0
+Daystar TV
+p:StarSat
+1e97:00312e56:1098:00de:1:0:0
+Magic Sports TV
+p:StarSat
+1e98:00312e56:1098:00de:1:0:0
+Max TV
+p:StarSat
+1e99:00312e56:1098:00de:1:0:0
+ST Am'mobi
+p:StarSat
+1e9a:00312e56:1098:00de:1:0:0
+TV 3
+p:StarSat
+1bbc:00312e7c:10b1:00de:1:0:0
+Isango TV
+p:StarSat
+1bbd:00312e7c:10b1:00de:1:0:0
+Asfiyahi TV
+p:StarSat
+1bbe:00312e7c:10b1:00de:1:0:0
+Walf TV
+p:StarSat
+1bbf:00312e7c:10b1:00de:1:0:0
+TV O
+p:StarSat
+1bc0:00312e7c:10b1:00de:1:0:0
+KC2
+p:StarSat
+1bc1:00312e7c:10b1:00de:1:0:0
+Warner TV Next
+p:StarSat
+1bc2:00312e7c:10b1:00de:1:0:0
+TV 1
+p:StarSat
+1bc3:00312e7c:10b1:00de:1:0:0
+Viva
+p:StarSat
+1bc4:00312e7c:10b1:00de:1:0:0
+France 5
+p:StarSat
+1bc5:00312e7c:10b1:00de:1:0:0
+Telesud
+p:StarSat
+1bc6:00312e7c:10b1:00de:1:0:0
+TV Malagasy
+p:StarSat
+1bc7:00312e7c:10b1:00de:1:0:0
+Wasafi TV
+p:StarSat
+1bc8:00312e7c:10b1:00de:1:0:0
+Passion Bollywood
+p:StarSat
+1bc9:00312e7c:10b1:00de:1:0:0
+Dorcel TV
+p:StarSat
+1bca:00312e7c:10b1:00de:1:0:0
+Fasso TV Kankan
+p:StarSat
+1bcb:00312e7c:10b1:00de:1:0:0
+Flash TV
+p:StarSat
+1bcc:00312e7c:10b1:00de:1:0:0
+Investigation Discovery France
+p:StarSat
+1bcd:00312e7c:10b1:00de:1:0:0
+M6 Music
+p:StarSat
+1bce:00312e7c:10b1:00de:1:0:0
+Canal 11
+p:StarSat
+1bcf:00312e7c:10b1:00de:1:0:0
+Colors
+p:StarSat
+1bd0:00312e7c:10b1:00de:1:0:0
+RTI La 3
+p:StarSat
+1bd1:00312e7c:10b1:00de:1:0:0
+Delta Rainbow TV
+p:StarSat
+1bd2:00312e7c:10b1:00de:1:0:0
+TV 10
+p:StarSat
+1bd3:00312e7c:10b1:00de:1:0:0
+TV Plus Madagascar
+p:StarSat
+1bd4:00312e7c:10b1:00de:1:0:0
+GasyStar
+p:StarSat
+1bd5:00312e7c:10b1:00de:1:0:0
+Malagasy TV
+p:StarSat
+1bd6:00312e7c:10b1:00de:1:0:0
+Up TV
+p:StarSat
+1bd7:00312e7c:10b1:00de:1:0:0
+Afro Novelas
+p:StarSat
+1bd8:00312e7c:10b1:00de:1:0:0
+RTI 1
+p:StarSat
+1bd9:00312e7c:10b1:00de:1:0:0
+Canal 2 International
+p:StarSat
+1bda:00312e7c:10b1:00de:1:0:0
+EWTN Africa - Asia
+p:StarSat
+1bdb:00312e7c:10b1:00de:1:0:0
+Hope Channel Kenya
+p:StarSat
+0004:00312e8f:0015:0001:1:0:0
+Hope Channel Africa
+p:Unknown
+0005:00312e8f:0015:0001:1:0:0
+Bet 9JA Virtual Game 2
+p:Unknown
+000a:00312e8f:0015:0001:1:0:0
+Resurrection TV
+p:Unknown
+000b:00312e8f:0015:0001:1:0:0
+Bet 9JA Virtual Game
+p:Unknown
+07d1:00312e8f:0015:0001:1:0:0
+TVGE Internacional
+p:Unknown
+07d4:00312e8f:0015:0001:1:0:0
+Bet 9JA EPL Soccerstars
+p:Unknown
+07dd:00312e8f:0015:0001:1:0:0
+SBN International
+p:Unknown
+07e5:00312e8f:0015:0001:1:0:0
+Kiron Fast League
+p:Unknown
+07e6:00312e8f:0015:0001:1:0:0
+Kiron SoccerBet
+p:Unknown
+07e7:00312e8f:0015:0001:1:0:0
+Kiron Champions
+p:Unknown
+07ec:00312e8f:0015:0001:1:0:0
+Kiron Tournament
+p:Unknown
+082b:00312e8f:0015:0001:2:0:0
+Arirang World
+p:Unknown
+07d2:00312e8f:0015:0001:2:0:0
+TVGE Radio
+p:Unknown
+1ce8:00312ea2:109c:00de:1:0:0
+CGTN Documentary
+p:StarSat
+1ce9:00312ea2:109c:00de:1:0:0
+Premium Box Office TV
+p:StarSat
+1cea:00312ea2:109c:00de:1:0:0
+ESPN Africa
+p:StarSat
+1ceb:00312ea2:109c:00de:1:0:0
+Human Rights TV
+p:StarSat
+1cec:00312ea2:109c:00de:1:0:0
+Africanews English
+p:StarSat
+1ced:00312ea2:109c:00de:1:0:0
+TVC News
+p:StarSat
+1cee:00312ea2:109c:00de:1:0:0
+Estars TV
+p:StarSat
+1cef:00312ea2:109c:00de:1:0:0
+ST Nollywood Plus
+p:StarSat
+1cf0:00312ea2:109c:00de:1:0:0
+Iqraa English
+p:StarSat
+1cf1:00312ea2:109c:00de:1:0:0
+Spark TV
+p:StarSat
+1cf2:00312ea2:109c:00de:1:0:0
+EATV 5
+p:StarSat
+1cf3:00312ea2:109c:00de:1:0:0
+ST Yorùbá
+p:StarSat
+1cf4:00312ea2:109c:00de:1:0:0
+Nigbati
+p:StarSat
+1cf5:00312ea2:109c:00de:1:0:0
+Channels TV
+p:StarSat
+1cf6:00312ea2:109c:00de:1:0:0
+Arewa 24
+p:StarSat
+1cf7:00312ea2:109c:00de:1:0:0
+AIT National
+p:StarSat
+1cf8:00312ea2:109c:00de:1:0:0
+Orisun TV
+p:StarSat
+1cf9:00312ea2:109c:00de:1:0:0
+FashionTV Africa
+p:StarSat
+1cfa:00312ea2:109c:00de:1:0:0
+National Geographic South Africa
+p:StarSat
+1cfb:00312ea2:109c:00de:1:0:0
+National Geographic Wild South Africa
+p:StarSat
+1cfc:00312ea2:109c:00de:1:0:0
+ESPN 2 Africa
+p:StarSat
+1cfe:00312ea2:109c:00de:1:0:0
+France 24 English
+p:StarSat
+1cff:00312ea2:109c:00de:1:0:0
+Nigezie Xtreme
+p:StarSat
+1d00:00312ea2:109c:00de:1:0:0
+News Central TV
+p:StarSat
+1d01:00312ea2:109c:00de:1:0:0
+CGTN
+p:StarSat
+1d02:00312ea2:109c:00de:1:0:0
+Rwanda TV
+p:StarSat
+1d03:00312ea2:109c:00de:1:0:0
+Isi Mbido
+p:StarSat
+1d04:00312ea2:109c:00de:1:0:0
+Dove TV
+p:StarSat
+1d05:00312ea2:109c:00de:1:0:0
+AIT News
+p:StarSat
+1d06:00312ea2:109c:00de:1:0:0
+ST Nollywood
+p:StarSat
+1d07:00312ea2:109c:00de:1:0:0
+TV E
+p:StarSat
+1d09:00312ea2:109c:00de:1:0:0
+Bukedde 1
+p:StarSat
+1d0a:00312ea2:109c:00de:1:0:0
+Kameme TV
+p:StarSat
+1cfd:00312ea2:109c:00de:2:0:0
+Top Radio
+p:StarSat
+1d08:00312ea2:109c:00de:2:0:0
+MCF Radio
+p:StarSat
+206d:00312eb6:109d:00de:1:0:0
+Star Plus
+p:StarSat
+206e:00312eb6:109d:00de:1:0:0
+Star Gold
+p:StarSat
+206f:00312eb6:109d:00de:1:0:0
+Zee Bollymovies
+p:StarSat
+2070:00312eb6:109d:00de:1:0:0
+Zee TV Africa
+p:StarSat
+2071:00312eb6:109d:00de:1:0:0
+Zee One
+p:StarSat
+2072:00312eb6:109d:00de:1:0:0
+ST Kids Plus
+p:StarSat
+2073:00312eb6:109d:00de:1:0:0
+Emmanuel TV
+p:StarSat
+2074:00312eb6:109d:00de:1:0:0
+Zee Cinema Africa
+p:StarSat
+2075:00312eb6:109d:00de:1:0:0
+ST Toons
+p:StarSat
+2076:00312eb6:109d:00de:1:0:0
+Toonami
+p:StarSat
+2077:00312eb6:109d:00de:1:0:0
+Baby TV Europe
+p:StarSat
+2078:00312eb6:109d:00de:1:0:0
+Juba Echo TV
+p:StarSat
+2079:00312eb6:109d:00de:1:0:0
+CBeebies Africa
+p:StarSat
+207a:00312eb6:109d:00de:1:0:0
+AMC Movies
+p:StarSat
+207b:00312eb6:109d:00de:1:0:0
+Fox News Channel
+p:StarSat
+207c:00312eb6:109d:00de:1:0:0
+MS Now International
+p:StarSat
+207d:00312eb6:109d:00de:1:0:0
+ST Naija
+p:StarSat
+207f:00312eb6:109d:00de:1:0:0
+Trace Mziki
+p:StarSat
+2080:00312eb6:109d:00de:1:0:0
+Real Madrid TV English
+p:StarSat
+2082:00312eb6:109d:00de:1:0:0
+RFM TV
+p:StarSat
+2083:00312eb6:109d:00de:1:0:0
+ST Tooni
+p:StarSat
+2085:00312eb6:109d:00de:1:0:0
+Dizi
+p:StarSat
+2086:00312eb6:109d:00de:1:0:0
+BBC News Africa
+p:StarSat
+2087:00312eb6:109d:00de:1:0:0
+Aljazeera English
+p:StarSat
+2088:00312eb6:109d:00de:1:0:0
+Sky News International
+p:StarSat
+2089:00312eb6:109d:00de:1:0:0
+Bloomberg TV Africa
+p:StarSat
+1c84:00312ec9:109e:00de:1:0:0
+Mambo TV Swahili
+p:StarSat
+1c85:00312ec9:109e:00de:1:0:0
+NTA News 24
+p:StarSat
+1c86:00312ec9:109e:00de:1:0:0
+NTA International
+p:StarSat
+1c87:00312ec9:109e:00de:1:0:0
+Doxa TV
+p:StarSat
+1c88:00312ec9:109e:00de:1:0:0
+TCF
+p:StarSat
+1c89:00312ec9:109e:00de:1:0:0
+Farin Wata TV
+p:StarSat
+1c8b:00312ec9:109e:00de:1:0:0
+Glorious Times TV
+p:StarSat
+1c8c:00312ec9:109e:00de:1:0:0
+3rd Eye Africa TV
+p:StarSat
+1c8d:00312ec9:109e:00de:1:0:0
+NAC 28 TV
+p:StarSat
+1c8e:00312ec9:109e:00de:1:0:0
+Sunna TV
+p:StarSat
+1c8f:00312ec9:109e:00de:1:0:0
+Trust TV
+p:StarSat
+1c90:00312ec9:109e:00de:1:0:0
+Citizen TV
+p:StarSat
+1c91:00312ec9:109e:00de:1:0:0
+KTN Home
+p:StarSat
+1c92:00312ec9:109e:00de:1:0:0
+NTV
+p:StarSat
+1c95:00312ec9:109e:00de:1:0:0
+Star TV
+p:StarSat
+1c96:00312ec9:109e:00de:1:0:0
+Channel Ten
+p:StarSat
+1c97:00312ec9:109e:00de:1:0:0
+Branama TV
+p:StarSat
+1c98:00312ec9:109e:00de:1:0:0
+NBS Sport
+p:StarSat
+1c99:00312ec9:109e:00de:1:0:0
+Westnile TV
+p:StarSat
+1c9a:00312ec9:109e:00de:1:0:0
+Good News TV
+p:StarSat
+1c9b:00312ec9:109e:00de:1:0:0
+ST Rembo Plus
+p:StarSat
+1c9d:00312ec9:109e:00de:1:0:0
+Face TV
+p:StarSat
+1c9f:00312ec9:109e:00de:1:0:0
+ST Bongo
+p:StarSat
+1ca0:00312ec9:109e:00de:1:0:0
+Bliss TV
+p:StarSat
+1ca1:00312ec9:109e:00de:1:0:0
+PPP TV
+p:StarSat
+1ca2:00312ec9:109e:00de:1:0:0
+ST Rembo TV
+p:StarSat
+1ca3:00312ec9:109e:00de:1:0:0
+KBC Channel 1
+p:StarSat
+1ca4:00312ec9:109e:00de:1:0:0
+K24
+p:StarSat
+1ca5:00312ec9:109e:00de:1:0:0
+UBC TV
+p:StarSat
+1ca6:00312ec9:109e:00de:1:0:0
+NTV Uganda
+p:StarSat
+1ca7:00312ec9:109e:00de:1:0:0
+NBS TV
+p:StarSat
+1ca8:00312ec9:109e:00de:1:0:0
+Bukedde 2
+p:StarSat
+1ca9:00312ec9:109e:00de:1:0:0
+TV West
+p:StarSat
+1caa:00312ec9:109e:00de:1:0:0
+World Evangelism TV
+p:StarSat
+1fa4:00312edc:109f:00de:1:0:0
+StarTimes TV Guide English
+p:Unknown
+1fa5:00312edc:109f:00de:1:0:0
+ST Movies Plus
+p:StarSat
+1fa6:00312edc:109f:00de:1:0:0
+ST Kids
+p:StarSat
+1fa7:00312edc:109f:00de:1:0:0
+Boing Africa
+p:StarSat
+1fa9:00312edc:109f:00de:1:0:0
+ST Swahili
+p:StarSat
+1faa:00312edc:109f:00de:1:0:0
+Luntha TV
+p:StarSat
+1fab:00312edc:109f:00de:1:0:0
+ST Dadin Kowa
+p:StarSat
+1fac:00312edc:109f:00de:1:0:0
+ST Sino Drama
+p:StarSat
+1fad:00312edc:109f:00de:1:0:0
+ST Kungfu
+p:StarSat
+1fae:00312edc:109f:00de:1:0:0
+JimJam Europe
+p:StarSat
+1faf:00312edc:109f:00de:1:0:0
+ST Novela E +2
+p:StarSat
+1fb0:00312edc:109f:00de:1:0:0
+ST Novela E
+p:StarSat
+1fb1:00312edc:109f:00de:1:0:0
+ST Zone
+p:StarSat
+1fb2:00312edc:109f:00de:1:0:0
+Trace Ngoma
+p:StarSat
+1fb3:00312edc:109f:00de:1:0:0
+ST Movies
+p:StarSat
+1fb4:00312edc:109f:00de:1:0:0
+TLC Africa
+p:StarSat
+1fb5:00312edc:109f:00de:1:0:0
+FilmBox Action
+p:StarSat
+1fb6:00312edc:109f:00de:1:0:0
+Zee Magic
+p:StarSat
+1fb7:00312edc:109f:00de:1:0:0
+TBC 2
+p:StarSat
+1fb8:00312edc:109f:00de:1:0:0
+Investigation Discovery Africa
+p:StarSat
+1fb9:00312edc:109f:00de:1:0:0
+Discovery Channel Africa
+p:StarSat
+1fba:00312edc:109f:00de:1:0:0
+BRICS Africa Channel
+p:StarSat
+1fbb:00312edc:109f:00de:1:0:0
+Africanews Français
+p:StarSat
+1fbc:00312edc:109f:00de:1:0:0
+Mindset Learn
+p:StarSat
+1fbd:00312edc:109f:00de:1:0:0
+Arise & Shine TV
+p:StarSat
+04b0:00312eef:135c:0004:1:0:0
+BYU TV Global
+p:Unknown
+16b0:00312eef:135c:0004:1:0:0
+France 24 Français
+p:Unknown
+16b3:00312eef:135c:0004:1:0:0
+Télé Congo
+p:Unknown
+16b8:00312eef:135c:0004:1:0:0
+Vatican Media
+p:Unknown
+16ba:00312eef:135c:0004:1:0:0
+France 24 English
+p:Unknown
+16be:00312eef:135c:0004:1:0:0
+TRT World
+p:Unknown
+16d1:00312eef:135c:0004:1:0:0
+Africanews English
+p:Unknown
+0342:00312eef:135c:0004:2:0:0
+RFI Langues 2
+p:Unknown
+0358:00312eef:135c:0004:2:0:0
+RFI Français
+p:Unknown
+0359:00312eef:135c:0004:2:0:0
+RFI Português
+p:Unknown
+035a:00312eef:135c:0004:2:0:0
+RFI Kiswahili
+p:Unknown
+035c:00312eef:135c:0004:2:0:0
+RFI Hausa
+p:Unknown
+035d:00312eef:135c:0004:2:0:0
+RFI Português
+p:Unknown
+035e:00312eef:135c:0004:2:0:0
+RFI Mandenkan
+p:Unknown
+0364:00312eef:135c:0004:2:0:0
+RFI Fulfulde
+p:Unknown
+16d4:00312eef:135c:0004:2:0:0
+West Africa Democracy Radio
+p:Unknown
+1703:00312eef:135c:0004:2:0:0
+Radio Congo
+p:Unknown
+1704:00312eef:135c:0004:2:0:0
+Radio Vaticana Europa
+p:Unknown
+1f45:00312f02:135d:0004:1:0:0
+Gabriele TV Africa
+p:Unknown
+1f54:00312f02:135d:0004:1:0:0
+DW English
+p:Unknown
+1f5f:00312f02:135d:0004:1:0:0
+CCTV 4 Europe
+p:Unknown
+1f60:00312f02:135d:0004:1:0:0
+CGTN Documentary
+p:Unknown
+1f61:00312f02:135d:0004:1:0:0
+CGTN Français
+p:Unknown
+1f62:00312f02:135d:0004:1:0:0
+CGTN
+p:Unknown
+1f64:00312f02:135d:0004:1:0:0
+MTA 4 Africa
+p:Unknown
+1f80:00312f02:135d:0004:1:0:0
+Bet 9JA Stadium LaLiga
+p:Unknown
+1f81:00312f02:135d:0004:1:0:0
+Bet 9JA Stadium Serie A
+p:Unknown
+1f55:00312f02:135d:0004:2:0:0
+DW-Radio FM 2
+p:Unknown
+1f56:00312f02:135d:0004:2:0:0
+DW-Radio FM 3
+p:Unknown
+1f57:00312f02:135d:0004:2:0:0
+DW-Radio FM 4
+p:Unknown
+1f58:00312f02:135d:0004:2:0:0
+DW-Radio FM 5
+p:Unknown
+1f59:00312f02:135d:0004:2:0:0
+DW-Radio 8
+p:Unknown
+1f5a:00312f02:135d:0004:2:0:0
+DW-Radio 9
+p:Unknown
+1712:00312f16:135e:0004:1:0:0
+DW English
+p:Unknown
+171c:00312f16:135e:0004:1:0:0
+Bet 9JA Dog Racing
+p:Unknown
+171d:00312f16:135e:0004:1:0:0
+Bet 9JA Gold
+p:Unknown
+1720:00312f16:135e:0004:1:0:0
+Tivi5Monde
+p:Unknown
+1721:00312f16:135e:0004:1:0:0
+TV5Monde Style
+p:Unknown
+1722:00312f16:135e:0004:1:0:0
+TV5Monde Afrique
+p:Unknown
+1729:00312f16:135e:0004:1:0:0
+Bet 9JA Serie A
+p:Unknown
+1731:00312f16:135e:0004:1:0:0
+Bet 9JA Spin and Win
+p:Unknown
+1732:00312f16:135e:0004:1:0:0
+Bet 9JA Stadium Premier
+p:Unknown
+2008:00312f29:10a3:00de:1:0:0
+TV 3
+p:StarSat
+2009:00312f29:10a3:00de:1:0:0
+ST World Football
+p:StarSat
+200a:00312f29:10a3:00de:1:0:0
+ST Sports Premium
+p:StarSat
+200b:00312f29:10a3:00de:1:0:0
+ST Adepa
+p:StarSat
+200c:00312f29:10a3:00de:1:0:0
+ST Sports Focus
+p:StarSat
+200d:00312f29:10a3:00de:1:0:0
+ST Sports Life
+p:StarSat
+200e:00312f29:10a3:00de:1:0:0
+ST Novela F Plus
+p:StarSat
+200f:00312f29:10a3:00de:1:0:0
+StarLife
+p:StarSat
+2010:00312f29:10a3:00de:1:0:0
+ST Novela E Plus
+p:StarSat
+2011:00312f29:10a3:00de:1:0:0
+Sanyuka Prime
+p:StarSat
+2012:00312f29:10a3:00de:1:0:0
+ST Swahili Plus
+p:StarSat
+2016:00312f29:10a3:00de:2:0:0
+60s
+p:StarSat
+2017:00312f29:10a3:00de:2:0:0
+70s
+p:StarSat
+2018:00312f29:10a3:00de:2:0:0
+80s
+p:StarSat
+2019:00312f29:10a3:00de:2:0:0
+90s
+p:StarSat
+201a:00312f29:10a3:00de:2:0:0
+The Blues
+p:StarSat
+201b:00312f29:10a3:00de:2:0:0
+Bass Breaks & Beats
+p:StarSat
+201c:00312f29:10a3:00de:2:0:0
+Classical Calm
+p:StarSat
+201d:00312f29:10a3:00de:2:0:0
+Classical Greats
+p:StarSat
+201e:00312f29:10a3:00de:2:0:0
+Classic R'n'B & Soul
+p:StarSat
+201f:00312f29:10a3:00de:2:0:0
+Classic Rock
+p:StarSat
+2020:00312f29:10a3:00de:2:0:0
+Cool Jazz
+p:StarSat
+2021:00312f29:10a3:00de:2:0:0
+Dancefloor Fillers
+p:StarSat
+2022:00312f29:10a3:00de:2:0:0
+Groove
+p:StarSat
+2023:00312f29:10a3:00de:2:0:0
+Heavy Metal
+p:StarSat
+2024:00312f29:10a3:00de:2:0:0
+Hip Hop
+p:StarSat
+2025:00312f29:10a3:00de:2:0:0
+Indie Classics
+p:StarSat
+2026:00312f29:10a3:00de:2:0:0
+Jazz Classics
+p:StarSat
+2027:00312f29:10a3:00de:2:0:0
+Reggae
+p:StarSat
+2028:00312f29:10a3:00de:2:0:0
+Rock Anthems
+p:StarSat
+2029:00312f29:10a3:00de:2:0:0
+Total Hits UK
+p:StarSat
+202a:00312f29:10a3:00de:2:0:0
+Hip Hop / R'n'B
+p:StarSat
+202b:00312f29:10a3:00de:2:0:0
+World Carnival
+p:StarSat
+202c:00312f29:10a3:00de:2:0:0
+South African Gospel
+p:StarSat
+202d:00312f29:10a3:00de:2:0:0
+South African Traditional
+p:StarSat
+202e:00312f29:10a3:00de:2:0:0
+South African Modern
+p:StarSat
+196e:00312f29:107b:0055:1:0:0
+Telekanal STB
+p:Unknown
+1978:00312f29:107b:0055:1:0:0
+ICTV
+p:Unknown
+1982:00312f29:107b:0055:1:0:0
+Novy Kanal
+p:Unknown
+198c:00312f29:107b:0055:1:0:0
+My-Ukraina+
+p:Unknown
+19a0:00312f29:107b:0055:1:0:0
+Oce
+p:Unknown
+19aa:00312f29:107b:0055:1:0:0
+ICTV 2
+p:Unknown
+19b4:00312f29:107b:0055:1:0:0
+Tviy Serial
+p:Unknown
+19be:00312f29:107b:0055:1:0:0
+Super+
+p:Unknown
+1d74:00312f29:107b:0055:1:0:0
+Galychyna TV
+p:Unknown
+1d88:00312f29:107b:0055:1:0:0
+Novyy Khristianskiy
+p:Unknown
+1d9c:00312f29:107b:0055:1:0:0
+Espreso TV
+p:Unknown
+1da6:00312f29:107b:0055:1:0:0
+Kyïv TV
+p:Unknown
+19e6:00312f62:0010:0055:1:0:0
+Rozpakuy TV
+p:Unknown
+19f5:00312f62:0010:0055:1:0:0
+Telekanal Nadiya
+p:Unknown
+1a09:00312f62:0010:0055:1:0:0
+Rozpakuy TV
+p:Unknown
+1a0e:00312f62:0010:0055:1:0:0
+Sonata TV
+p:Unknown
+1a22:00312f62:0010:0055:1:0:0
+Pryamyy
+p:Unknown
+19c8:00312f62:0010:0055:2:0:0
+Ukrayinske Radio
+p:Unknown
+19ca:00312f62:0010:0055:2:0:0
+Radio Promin
+p:Unknown
+19cc:00312f62:0010:0055:2:0:0
+Radio Kultura
+p:Unknown
+19ce:00312f62:0010:0055:2:0:0
+Radio Tochka
+p:Unknown
+19d0:00312f62:0010:0055:2:0:0
+Holos Donbasu
+p:Unknown
+19d7:00312f62:0010:0055:2:0:0
+Radio NV
+p:Unknown
+19e1:00312f62:0010:0055:2:0:0
+Armiya FM
+p:Unknown
+19ff:00312f62:0010:0055:2:0:0
+Svitle Radio Emmanuel
+p:Unknown
+09c9:00312faf:0018:0044:1:0:0
+Viasat Explore East
+p:Viasat Ukraina
+09cb:00312faf:0018:0044:1:0:0
+Viasat History East
+p:Viasat Ukraina
+09cd:00312faf:0018:0044:1:0:0
+Viasat Nature East
+p:Viasat Ukraina
+09cf:00312faf:0018:0044:1:0:0
+Viasat Kino
+p:Viasat Ukraina
+09d1:00312faf:0018:0044:1:0:0
+Viasat Kino Action
+p:Viasat Ukraina
+09d3:00312faf:0018:0044:1:0:0
+Viasat Kino Comedy
+p:Viasat Ukraina
+09d7:00312faf:0018:0044:1:0:0
+Viasat Kino World
+p:Viasat Ukraina
+09d9:00312faf:0018:0044:1:0:0
+Epic Drama
+p:Viasat Ukraina
+09db:00312faf:0018:0044:1:0:0
+Tvoe Kino Xit
+p:Viasat Ukraina
+09dd:00312faf:0018:0044:1:0:0
+Tvoe Kino Action
+p:Viasat Ukraina
+09df:00312faf:0018:0044:1:0:0
+Tvoe Kino Relax
+p:Viasat Ukraina
+09e3:00312faf:0018:0044:1:0:0
+UPL.TV
+p:Viasat Ukraina
+09e5:00312faf:0018:0044:1:0:0
+Investigation Discovery Rossiya
+p:Viasat Ukraina
+09e9:00312faf:0018:0044:1:0:0
+Dizi
+p:Viasat Ukraina
+09ed:00312faf:0018:0044:1:0:0
+Setanta Sports Ukraine
+p:Viasat Ukraina
+09f1:00312faf:0018:0044:1:0:0
+Eurosport 1 East Europe
+p:Viasat Ukraina
+09f3:00312faf:0018:0044:1:0:0
+Setanta Sports + Ukraine
+p:Viasat Ukraina
+09f9:00312faf:0018:0044:1:0:0
+History 2 Russia
+p:Viasat Ukraina
+09fd:00312faf:0018:0044:1:0:0
+Cine+ Hits
+p:Viasat Ukraina
+0a01:00312faf:0018:0044:1:0:0
+Cine+
+p:Viasat Ukraina
+0a03:00312faf:0018:0044:1:0:0
+Cine+ Kids
+p:Viasat Ukraina
+0a05:00312faf:0018:0044:1:0:0
+Cine+ Legend
+p:Viasat Ukraina
+0a19:00312faf:0018:0044:1:0:0
+Hollywood HD
+p:Viasat Ukraina
+0a1c:00312faf:0018:0044:1:0:0
+Hollywood HD
+p:Viasat Ukraina
+0a8c:00312faf:0018:0044:1:0:0
+History Europe
+p:Viasat Ukraina
+0bc2:00312faf:0018:0044:1:0:0
+Eurosport 2 East Europe
+p:Viasat Ukraina
+0065:00312fc2:0004:0001:1:0:0
+MTN Special Events
+p:Unknown
+0067:00312fc2:0004:0001:1:0:0
+Fox News Channel
+p:Unknown
+0068:00312fc2:0004:0001:1:0:0
+Bloomberg TV Europe
+p:Unknown
+0069:00312fc2:0004:0001:1:0:0
+Sky News International
+p:Unknown
+006a:00312fc2:0004:0001:1:0:0
+BBC News
+p:Unknown
+006d:00312fc2:0004:0001:1:0:0
+Sport 24
+p:Unknown
+006e:00312fc2:0004:0001:1:0:0
+Prime One
+p:Unknown
+006f:00312fc2:0004:0001:1:0:0
+Sport 24 Extra
+p:Unknown
+0070:00312fc2:0004:0001:1:0:0
+RTL Deutschland
+p:Unknown
+0073:00312fc2:0004:0001:1:0:0
+TFC Asia-Pacific
+p:Unknown
+0074:00312fc2:0004:0001:1:0:0
+Prime Favorites
+p:Unknown
+0075:00312fc2:0004:0001:1:0:0
+BBC HD
+p:Unknown
+0076:00312fc2:0004:0001:1:0:0
+TVE Internacional Asia
+p:Unknown
+007b:00312fc2:0004:0001:1:0:0
+CNN International Europe
+p:Unknown
+007c:00312fc2:0004:0001:1:0:0
+Food Network East
+p:Unknown
+007d:00312fc2:0004:0001:1:0:0
+HGTV East
+p:Unknown
+007e:00312fc2:0004:0001:1:0:0
+Travel Channel East
+p:Unknown
+0083:00312fc2:0004:0001:1:0:0
+France 24 Français
+p:Unknown
+0084:00312fc2:0004:0001:1:0:0
+Mediaset Italia
+p:Unknown
+00a1:00312fc2:0004:0001:1:0:0
+National Geographic UK
+p:Unknown
+1db0:0031300f:10af:00de:1:0:0
+Cartoon Network France
+p:StarSat
+1db1:0031300f:10af:00de:1:0:0
+Boomerang France
+p:StarSat
+1db2:0031300f:10af:00de:1:0:0
+TCM Cinéma
+p:StarSat
+1db3:0031300f:10af:00de:1:0:0
+France 2
+p:StarSat
+1db4:0031300f:10af:00de:1:0:0
+France 3
+p:StarSat
+1db5:0031300f:10af:00de:1:0:0
+StarTimes TV Guide Français
+p:Unknown
+1db6:0031300f:10af:00de:1:0:0
+Dorcel XXX
+p:StarSat
+1db7:0031300f:10af:00de:1:0:0
+ST Novela F
+p:StarSat
+1db8:0031300f:10af:00de:1:0:0
+ST Afrik
+p:StarSat
+1db9:0031300f:10af:00de:1:0:0
+Cavi TV
+p:StarSat
+1dba:0031300f:10af:00de:1:0:0
+Discovery Channel France
+p:StarSat
+1dbb:0031300f:10af:00de:1:0:0
+Cherifla TV
+p:StarSat
+1dbc:0031300f:10af:00de:1:0:0
+TFX
+p:StarSat
+1dbd:0031300f:10af:00de:1:0:0
+EMCI TV Afrique
+p:StarSat
+1dbe:0031300f:10af:00de:1:0:0
+Passion Novelas
+p:StarSat
+1dc0:0031300f:10af:00de:1:0:0
+DBM TV
+p:StarSat
+1dc1:0031300f:10af:00de:1:0:0
+Lamp Fall TV
+p:StarSat
+1dc3:0031300f:10af:00de:1:0:0
+MCM Top
+p:StarSat
+1dc4:0031300f:10af:00de:1:0:0
+BTN TV
+p:StarSat
+1dc5:0031300f:10af:00de:1:0:0
+KTO
+p:StarSat
+1dc6:0031300f:10af:00de:1:0:0
+Cartoonito France
+p:StarSat
+1dc8:0031300f:10af:00de:1:0:0
+RTS 1
+p:StarSat
+1dca:0031300f:10af:00de:1:0:0
+CNN International Europe
+p:StarSat
+1dcb:0031300f:10af:00de:1:0:0
+Canal J
+p:StarSat
+1dcd:0031300f:10af:00de:1:0:0
+Sunna TV Savana
+p:StarSat
+1dce:0031300f:10af:00de:1:0:0
+Warner TV France
+p:StarSat
+1dcf:0031300f:10af:00de:1:0:0
+Tanzania Safari Channel
+p:StarSat
+1c20:0031305c:10b3:00de:1:0:0
+Zanis TV
+p:StarSat
+1c21:0031305c:10b3:00de:1:0:0
+Crown TV
+p:StarSat
+1c22:0031305c:10b3:00de:1:0:0
+Moliere TV
+p:StarSat
+1c23:0031305c:10b3:00de:1:0:0
+Sun Sports TV
+p:StarSat
+1c24:0031305c:10b3:00de:1:0:0
+ZNBC TV 3
+p:StarSat
+1c25:0031305c:10b3:00de:1:0:0
+France 24 Français
+p:StarSat
+1c26:0031305c:10b3:00de:1:0:0
+Tivi5Monde
+p:StarSat
+1c27:0031305c:10b3:00de:1:0:0
+Télé Tchad
+p:StarSat
+1c28:0031305c:10b3:00de:1:0:0
+CIS TV
+p:StarSat
+1c29:0031305c:10b3:00de:1:0:0
+CGTN Français
+p:StarSat
+1c2a:0031305c:10b3:00de:1:0:0
+Mozo TV
+p:StarSat
+1c2b:0031305c:10b3:00de:1:0:0
+RTNC
+p:StarSat
+1c2c:0031305c:10b3:00de:1:0:0
+RTNB TV
+p:StarSat
+1c2d:0031305c:10b3:00de:1:0:0
+Clouds TV
+p:StarSat
+1c2e:0031305c:10b3:00de:1:0:0
+Parliament TV
+p:StarSat
+1c2f:0031305c:10b3:00de:1:0:0
+BETV
+p:StarSat
+1c30:0031305c:10b3:00de:1:0:0
+NW Cinema
+p:StarSat
+1c31:0031305c:10b3:00de:1:0:0
+CRTV
+p:StarSat
+1c32:0031305c:10b3:00de:1:0:0
+Bénin TV
+p:StarSat
+1c34:0031305c:10b3:00de:1:0:0
+Face TV
+p:StarSat
+1c35:0031305c:10b3:00de:1:0:0
+TV5Monde Afrique
+p:StarSat
+1c36:0031305c:10b3:00de:1:0:0
+ST Makula Kika
+p:StarSat
+1c37:0031305c:10b3:00de:1:0:0
+B-One TV
+p:StarSat
+1c38:0031305c:10b3:00de:1:0:0
+Vision 4
+p:StarSat
+1c39:0031305c:10b3:00de:1:0:0
+ORTM 1
+p:StarSat
+1c3a:0031305c:10b3:00de:1:0:0
+ORTM 2
+p:StarSat
+1c3b:0031305c:10b3:00de:1:0:0
+Cinarc TV
+p:StarSat
+1c3d:0031305c:10b3:00de:1:0:0
+National Geographic France
+p:StarSat
+1c3e:0031305c:10b3:00de:1:0:0
+National Geographic Wild France
+p:StarSat
+1d4c:00313082:10b5:00de:1:0:0
+Fujian Straits TV
+p:StarSat
+1d4d:00313082:10b5:00de:1:0:0
+Zhejiang Satellite TV International
+p:StarSat
+1d4e:00313082:10b5:00de:1:0:0
+Dragon TV International
+p:StarSat
+1d4f:00313082:10b5:00de:1:0:0
+CCTV 9
+p:StarSat
+1d50:00313082:10b5:00de:1:0:0
+Hunan TV International
+p:StarSat
+1d51:00313082:10b5:00de:1:0:0
+CCTV 5
+p:StarSat
+1d53:00313082:10b5:00de:1:0:0
+ST Mania
+p:StarSat
+1d55:00313082:10b5:00de:1:0:0
+CCTV 1
+p:StarSat
+1d56:00313082:10b5:00de:1:0:0
+CCTV 13
+p:StarSat
+1d57:00313082:10b5:00de:1:0:0
+Katong
+p:StarSat
+1d58:00313082:10b5:00de:1:0:0
+Phoenix InfoNews Channel
+p:StarSat
+1d59:00313082:10b5:00de:1:0:0
+Phoenix CNE
+p:StarSat
+1d5a:00313082:10b5:00de:1:0:0
+CCTV 4 Europe
+p:StarSat
+1d5b:00313082:10b5:00de:1:0:0
+Jiangsu TV International
+p:StarSat
+1d5c:00313082:10b5:00de:1:0:0
+China Movie
+p:StarSat
+1d5e:00313082:10b5:00de:1:0:0
+Tianjin TV
+p:StarSat
+1d5f:00313082:10b5:00de:1:0:0
+ST Chinese Homeland
+p:StarSat
+1d60:00313082:10b5:00de:1:0:0
+BFM TV
+p:StarSat
+1d61:00313082:10b5:00de:1:0:0
+ST Sports Arena
+p:StarSat
+1d62:00313082:10b5:00de:1:0:0
+Ark TV World
+p:StarSat
+1d63:00313082:10b5:00de:1:0:0
+Galaxy TV
+p:StarSat
+1ee1:00313095:002e:0055:1:0:0
+5 Kanal
+p:Unknown
+1ee7:00313095:002e:0055:1:0:0
+Inter
+p:Unknown
+1ee9:00313095:002e:0055:1:0:0
+NTN
+p:Unknown
+1eeb:00313095:002e:0055:1:0:0
+Mega
+p:Unknown
+1eed:00313095:002e:0055:1:0:0
+K1
+p:Unknown
+1ef3:00313095:002e:0055:1:0:0
+Piksel TV
+p:Unknown
+1ef5:00313095:002e:0055:1:0:0
+Enter Film
+p:Unknown
+1efb:00313095:002e:0055:1:0:0
+Pershiy
+p:Viasat Ukraina
+1efd:00313095:002e:0055:1:0:0
+Suspilne Kultura
+p:Viasat Ukraina
+1f01:00313095:002e:0055:1:0:0
+Suspilne Sport
+p:Viasat Ukraina
+1f03:00313095:002e:0055:1:0:0
+Suspilne Krym
+p:Viasat Ukraina
+1f0e:00313095:002e:0055:1:0:0
+European Racing Channel
+p:Unknown
+1f36:00313095:002e:0055:1:0:0
+English Club TV
+p:Viasat Ukraina
+9ca4:00313115:00bf:0088:1:0:0
+Das Erste
+p:Satelio
+9ca5:00313115:00bf:0088:1:0:0
+ZDF
+p:Satelio
+9ca7:00313115:00bf:0088:1:0:0
+3sat
+p:Satelio
+9ca8:00313115:00bf:0088:1:0:0
+ARTE Deutsch
+p:Satelio
+9ca9:00313115:00bf:0088:1:0:0
+RTL Deutschland
+p:Satelio
+9caa:00313115:00bf:0088:1:0:0
+ORF 1
+p:Satelio
+9cae:00313115:00bf:0088:1:0:0
+Sat. 1 Deutschland
+p:Satelio
+9caf:00313115:00bf:0088:1:0:0
+ProSieben Deutschland
+p:Satelio
+9cb0:00313115:00bf:0088:1:0:0
+Kabel Eins Deutschland
+p:Satelio
+9cb3:00313115:00bf:0088:1:0:0
+Vox Deutschland
+p:Satelio
+9cb4:00313115:00bf:0088:1:0:0
+Nitro Deutschland
+p:Satelio
+9cbd:00313115:00bf:0088:1:0:0
+Curiosity Channel Powered by Spiegel
+p:Satelio
+9cbe:00313115:00bf:0088:1:0:0
+ARD Alpha
+p:Satelio
+9cc7:00313115:00bf:0088:1:0:0
+Toggo Deutschland
+p:Satelio
+9cc8:00313115:00bf:0088:1:0:0
+ZDF Neo
+p:Satelio
+9ccc:00313115:00bf:0088:1:0:0
+Heimatkanal
+p:Satelio
+9ccd:00313115:00bf:0088:1:0:0
+Romance TV Deutschland
+p:Satelio
+9cd1:00313115:00bf:0088:1:0:0
+RTL Zwei Deutschland
+p:Satelio
+9cd6:00313115:00bf:0088:1:0:0
+N-TV
+p:Satelio
+9ce0:00313115:00bf:0088:1:0:0
+Mezzo Live
+p:Satelio
+9ce5:00313115:00bf:0088:1:0:0
+Welt
+p:Satelio
+9d08:00313115:00bf:0088:1:0:0
+Satelio Infokanal
+p:Unknown
+9d16:00313115:00bf:0088:1:0:0
+ProSieben Maxx Deutschland
+p:Satelio
+9d17:00313115:00bf:0088:1:0:0
+Sixx Deutschland
+p:Satelio
+9d18:00313115:00bf:0088:1:0:0
+NBC 1
+p:Satelio
+9e98:00313115:00bf:0088:1:0:0
+Tele 5
+p:Satelio
+9e99:00313115:00bf:0088:1:0:0
+BVN Europa
+p:Unknown
+9d6c:00313115:00bf:0088:2:0:0
+Hitradio Namibia
+p:Unknown
+9d6d:00313115:00bf:0088:2:0:0
+WDR 4
+p:Satelio
+9d6e:00313115:00bf:0088:2:0:0
+Bayern 1
+p:Satelio
+9d6f:00313115:00bf:0088:2:0:0
+SWR 3
+p:Satelio
+9d70:00313115:00bf:0088:2:0:0
+Bayern 3
+p:Satelio
+9d71:00313115:00bf:0088:2:0:0
+Deutschlandfunk
+p:Satelio
+9d72:00313115:00bf:0088:2:0:0
+Klassik Radio
+p:Satelio
+9d73:00313115:00bf:0088:2:0:0
+80er Radio Harmony
+p:Satelio
+9d74:00313115:00bf:0088:2:0:0
+NDR 1 Welle Nord Kiel
+p:Satelio
+9d75:00313115:00bf:0088:2:0:0
+Antenne Bayern
+p:Satelio
+9d76:00313115:00bf:0088:2:0:0
+Radio Paloma
+p:Satelio
+9d77:00313115:00bf:0088:2:0:0
+Sunshine Live
+p:Satelio
+9d78:00313115:00bf:0088:2:0:0
+Rock Antenne
+p:Satelio
+9d79:00313115:00bf:0088:2:0:0
+100% Deutsch
+p:Satelio
+9d7a:00313115:00bf:0088:2:0:0
+NBC Funkhaus Namibia
+p:Unknown
+9d7b:00313115:00bf:0088:2:0:0
+SWR 4 Stuttgart
+p:Satelio
+9d7c:00313115:00bf:0088:2:0:0
+MDR Sachsen
+p:Satelio
+9e9a:00313115:00bf:0088:2:0:0
+New Life Africa
+p:Unknown
+9e9b:00313115:00bf:0088:2:0:0
+PraiseLive Global
+p:Unknown
+9e9d:00313115:00bf:0088:2:0:0
+Vie Nouvelle Afrique
+p:Unknown
+end

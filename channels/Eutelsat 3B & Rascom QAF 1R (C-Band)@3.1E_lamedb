@@ -1,0 +1,743 @@
+eDVB services /4/
+transponders
+001f0e31:0001:ffff
+	s 3633000:2857000:3:0:31:2:0:1:0:2:2
+/
+001f0e91:0001:0001
+	s 3729000:16833000:2:0:31:2:0:1:0:2:2
+/
+001f0ef1:0000:0001
+	s 3825000:4170000:3:0:31:2:0:1:0:2:2
+/
+001f0ef7:0001:0001
+	s 3831000:2170000:2:0:31:2:0:1:0:2:2
+/
+001f0ef9:44de:0000
+	s 3833000:1108000:2:0:31:2:0:0:0:2:2
+/
+001f0f26:0007:0088
+	s 3878000:7020000:3:0:31:2:0:1:0:2:2
+/
+001f0f31:000c:0088
+	s 3889000:10250000:3:0:31:2:0:1:0:2:2
+/
+001f0f3c:0001:0001
+	s 3900000:7674000:3:0:31:2:0:1:0:2:2
+/
+001f0f4e:0006:0001
+	s 3918000:19630000:3:0:31:2:0:1:0:2:2
+/
+001f0f61:000a:0001
+	s 3937000:13725000:3:0:31:2:0:1:0:2:2
+/
+001f0f81:0000:0000
+	s 3969000:1250000:3:0:31:2:0:1:0:2:2
+/
+001f0f83:0001:0000
+	s 3971000:1600000:3:0:31:2:0:1:0:2:2
+/
+001f0f85:0000:0000
+	s 3973000:1833000:3:0:31:2:0:1:0:2:2
+/
+001f0f87:0001:0000
+	s 3975000:1000000:3:0:31:2:0:1:0:2:2
+/
+001f0f93:0000:0000
+	s 3987000:16300000:3:0:31:2:0:0:0:2:2
+/
+001f0fa4:0001:0001
+	s 4004000:1230000:2:0:31:2:0:1:0:2:2
+/
+001f0fa7:0001:ffff
+	s 4007000:4833000:2:0:31:2:0:1:0:2:2
+/
+001f0fb0:0000:0000
+	s 4016000:2500000:3:0:31:2:0:1:0:2:2
+/
+001f0fb8:0001:0001
+	s 4024000:4340000:2:0:31:2:0:1:0:2:2
+/
+001f0fbd:0001:0001
+	s 4029000:2300000:3:0:31:2:0:1:0:2:2
+/
+001f0fc1:0000:0000
+	s 4033000:1700000:2:0:31:2:0:1:0:2:2
+/
+001f0fc6:0001:0001
+	s 4038000:2358000:3:0:31:2:0:1:0:2:2
+/
+001f0fdf:0065:0089
+	s 4063000:33900000:2:0:31:2:0:1:0:2:2
+/
+001f0fe7:0000:0000
+	s 4071000:2083000:3:0:31:2:0:1:0:2:2
+/
+001f1003:0066:0089
+	s 4099000:33900000:2:0:31:2:0:1:0:2:2
+/
+001f1013:0001:0001
+	s 4115000:1666000:3:0:31:2:0:1:0:2:2
+/
+001f1014:1000:2000
+	s 4116000:1000000:3:0:31:2:0:1:0:2:2
+/
+end
+services
+0001:001f0e31:0001:ffff:1:0:0
+Alwatania TV
+p:Unknown
+0001:001f0e91:0001:0001:1:0:0
+RTB TV
+p:Unknown
+0002:001f0e91:0001:0001:1:0:0
+RTB Télé Zénith
+p:Unknown
+0005:001f0e91:0001:0001:1:0:0
+Canal 3 Burkina
+p:Unknown
+0006:001f0e91:0001:0001:1:0:0
+BF1
+p:Unknown
+0008:001f0e91:0001:0001:1:0:0
+CVK
+p:Unknown
+0009:001f0e91:0001:0001:1:0:0
+Impact TV
+p:Unknown
+000a:001f0e91:0001:0001:1:0:0
+TV Maria
+p:Unknown
+000b:001f0e91:0001:0001:1:0:0
+TV Al Houda
+p:Unknown
+000c:001f0e91:0001:0001:1:0:0
+El-Bethel TV
+p:Unknown
+000e:001f0e91:0001:0001:1:0:0
+3 TV
+p:Unknown
+000f:001f0e91:0001:0001:1:0:0
+C360 TV
+p:Unknown
+0010:001f0e91:0001:0001:1:0:0
+Savane TV
+p:Unknown
+0014:001f0e91:0001:0001:1:0:0
+TV Citoyenne
+p:Unknown
+0018:001f0e91:0001:0001:1:0:0
+RTB 3
+p:Unknown
+001f:001f0e91:0001:0001:2:0:0
+Radio Éducative
+p:Unknown
+00c8:001f0e91:0001:0001:2:0:0
+RTB Radio
+p:Unknown
+00c9:001f0e91:0001:0001:2:0:0
+RTB Radio 2
+p:Unknown
+00ca:001f0e91:0001:0001:2:0:0
+RTB Radio Rurale
+p:Unknown
+00cd:001f0e91:0001:0001:2:0:0
+Radio AES
+p:Unknown
+00ce:001f0e91:0001:0001:2:0:0
+La Voix du Parlement
+p:Unknown
+00cf:001f0e91:0001:0001:2:0:0
+Radio Manegda
+p:Unknown
+0004:001f0ef1:0000:0001:1:0:0
+Brekete Family TV
+p:Unknown
+0001:001f0ef7:0001:0001:1:0:0
+Mikuba TV
+p:Unknown
+0002:001f0ef7:0001:0001:2:0:0
+Mikuba Radio
+p:Unknown
+44de:001f0ef9:44de:0000:2:0:0
+BBC Afrique Radio
+p:Unknown
+0001:001f0f26:0007:0088:1:0:0
+StarTimes TV Guide English
+p:Unknown
+0064:001f0f26:0007:0088:1:0:0
+Wakaati TV
+p:Unknown
+006b:001f0f26:0007:0088:1:0:0
+Silverbird TV
+p:Unknown
+0074:001f0f26:0007:0088:1:0:0
+Wap TV
+p:Unknown
+0081:001f0f26:0007:0088:1:0:0
+Saira Movies TV
+p:Unknown
+0083:001f0f26:0007:0088:1:0:0
+Ulaff TV
+p:Unknown
+008b:001f0f26:0007:0088:1:0:0
+Tambarin Hausa TV
+p:Unknown
+008c:001f0f26:0007:0088:1:0:0
+Advocate Broadcasting Network
+p:Unknown
+0092:001f0f26:0007:0088:1:0:0
+3rd Eye Africa TV
+p:Unknown
+00c3:001f0f26:0007:0088:1:0:0
+Wazobia TV
+p:Unknown
+00c8:001f0f26:0007:0088:1:0:0
+Rapid TV
+p:Unknown
+00f4:001f0f26:0007:0088:1:0:0
+ST Beta Sports
+p:Unknown
+0003:001f0f31:000c:0088:1:0:0
+Peoples TV
+p:StarTimes TV Nigeria
+0006:001f0f31:000c:0088:1:0:0
+NTA Knowledge
+p:StarTimes TV Nigeria
+0008:001f0f31:000c:0088:1:0:0
+NTA Entertainment
+p:StarTimes TV Nigeria
+000d:001f0f31:000c:0088:1:0:0
+NTA News 24
+p:StarTimes TV Nigeria
+000e:001f0f31:000c:0088:1:0:0
+NTA Sports 24
+p:Unknown
+0020:001f0f31:000c:0088:1:0:0
+NTA Igbo
+p:StarTimes TV Nigeria
+0021:001f0f31:000c:0088:1:0:0
+Farin Wata TV
+p:Unknown
+0022:001f0f31:000c:0088:1:0:0
+NTA Parliament
+p:StarTimes TV Nigeria
+0023:001f0f31:000c:0088:1:0:0
+NTA Hausa
+p:StarTimes TV Nigeria
+0024:001f0f31:000c:0088:1:0:0
+Sunna TV
+p:StarTimes TV Nigeria
+0025:001f0f31:000c:0088:1:0:0
+NTA Yoruba
+p:StarTimes TV Nigeria
+007a:001f0f31:000c:0088:1:0:0
+Estars TV
+p:StarTimes TV Nigeria
+00a4:001f0f31:000c:0088:1:0:0
+Trust TV
+p:Unknown
+00aa:001f0f31:000c:0088:1:0:0
+Muhasa TV
+p:Unknown
+00b4:001f0f31:000c:0088:1:0:0
+Liberty TV
+p:StarTimes TV Nigeria
+00b7:001f0f31:000c:0088:1:0:0
+Tozali TV
+p:StarTimes TV Nigeria
+0001:001f0f3c:0001:0001:1:0:0
+ITV
+p:Unknown
+0004:001f0f3c:0001:0001:1:0:0
+ST Bongo
+p:Unknown
+000b:001f0f3c:0001:0001:1:0:0
+Clouds TV
+p:Unknown
+000d:001f0f3c:0001:0001:1:0:0
+Channel Ten
+p:Unknown
+000e:001f0f3c:0001:0001:1:0:0
+TBC 1
+p:Unknown
+000f:001f0f3c:0001:0001:1:0:0
+TV 3
+p:Unknown
+0013:001f0f3c:0001:0001:1:0:0
+Mambo TV Swahili
+p:Unknown
+0014:001f0f3c:0001:0001:1:0:0
+Star TV
+p:Unknown
+0018:001f0f3c:0001:0001:1:0:0
+Tanzania Safari Channel
+p:Unknown
+001a:001f0f3c:0001:0001:1:0:0
+Wasafi TV
+p:Unknown
+0077:001f0f3c:0001:0001:1:0:0
+WRM TV
+p:Unknown
+00c6:001f0f3c:0001:0001:1:0:0
+Arise & Shine TV
+p:Unknown
+03df:001f0f3c:0001:0001:2:0:0
+TBC FM
+p:Unknown
+03e0:001f0f3c:0001:0001:2:0:0
+TBC Taifa
+p:Unknown
+03e9:001f0f4e:0006:0001:1:0:0
+EWTN Africa - Asia
+p:Unknown
+03ea:001f0f4e:0006:0001:1:0:0
+ST Sports Premium
+p:Unknown
+03eb:001f0f4e:0006:0001:1:0:0
+Sky News International
+p:Unknown
+03ec:001f0f4e:0006:0001:1:0:0
+ST Sports Arena
+p:Unknown
+03ed:001f0f4e:0006:0001:1:0:0
+ST Mania
+p:Unknown
+03ee:001f0f4e:0006:0001:1:0:0
+ST Swahili Plus
+p:Unknown
+03f0:001f0f4e:0006:0001:1:0:0
+Arise & Shine TV
+p:Unknown
+03f1:001f0f4e:0006:0001:1:0:0
+ST Novela E Plus
+p:Unknown
+03f2:001f0f4e:0006:0001:1:0:0
+ST Novela F Plus
+p:Unknown
+03f3:001f0f4e:0006:0001:1:0:0
+Magic Sports TV
+p:Unknown
+03f4:001f0f4e:0006:0001:1:0:0
+ST World Football
+p:Unknown
+03f5:001f0f4e:0006:0001:1:0:0
+ST Sports Life
+p:Unknown
+03f7:001f0f4e:0006:0001:1:0:0
+StarLife
+p:Unknown
+03f9:001f0f4e:0006:0001:1:0:0
+BBC News Africa
+p:Unknown
+0400:001f0f4e:0006:0001:1:0:0
+ST Sports Focus
+p:Unknown
+0404:001f0f4e:0006:0001:1:0:0
+JimJam Europe
+p:Unknown
+0407:001f0f4e:0006:0001:1:0:0
+Rema TV
+p:Unknown
+040a:001f0f4e:0006:0001:1:0:0
+Bloomberg TV Africa
+p:Unknown
+040b:001f0f4e:0006:0001:1:0:0
+Aljazeera English
+p:Unknown
+040e:001f0f4e:0006:0001:1:0:0
+RTNB Divertissement
+p:Unknown
+0411:001f0f4e:0006:0001:1:0:0
+Colors
+p:Unknown
+07d1:001f0f4e:0006:0001:1:0:0
+Channel Ten +
+p:Unknown
+07e0:001f0f4e:0006:0001:1:0:0
+TV Imaan
+p:Unknown
+07e1:001f0f4e:0006:0001:1:0:0
+BNP TV
+p:Unknown
+07e2:001f0f4e:0006:0001:1:0:0
+Heritage TV
+p:Unknown
+1cec:001f0f4e:0006:0001:1:0:0
+Sporty TV
+p:Unknown
+0001:001f0f61:000a:0001:1:0:0
+Fufa TV
+p:Unknown
+0065:001f0f61:000a:0001:1:0:0
+UBC TV
+p:Unknown
+0066:001f0f61:000a:0001:1:0:0
+Glorious Times TV
+p:Unknown
+0067:001f0f61:000a:0001:1:0:0
+Spark TV
+p:Unknown
+0068:001f0f61:000a:0001:1:0:0
+Sanyuka TV
+p:Unknown
+006b:001f0f61:000a:0001:1:0:0
+NBS TV
+p:Unknown
+006c:001f0f61:000a:0001:1:0:0
+Bukedde 1
+p:Unknown
+006d:001f0f61:000a:0001:1:0:0
+NTV Uganda
+p:Unknown
+006e:001f0f61:000a:0001:1:0:0
+Bukedde 2
+p:Unknown
+0075:001f0f61:000a:0001:1:0:0
+TV West
+p:Unknown
+007e:001f0f61:000a:0001:1:0:0
+BBS TV
+p:Unknown
+00df:001f0f61:000a:0001:1:0:0
+Face TV
+p:Unknown
+00e6:001f0f61:000a:0001:1:0:0
+ST Makula Kika
+p:Unknown
+00f4:001f0f61:000a:0001:1:0:0
+KBS TV
+p:Unknown
+00fb:001f0f61:000a:0001:1:0:0
+Sanyuka Prime
+p:Unknown
+00ff:001f0f61:000a:0001:1:0:0
+NBS Sport
+p:Unknown
+011f:001f0f61:000a:0001:1:0:0
+Tayari West
+p:Unknown
+0120:001f0f61:000a:0001:1:0:0
+Doxa TV
+p:Unknown
+0122:001f0f61:000a:0001:1:0:0
+Channel 44
+p:Unknown
+0124:001f0f61:000a:0001:1:0:0
+Glorious Times TV
+p:Unknown
+01ef:001f0f61:000a:0001:1:0:0
+ST Makula
+p:Unknown
+0380:001f0f61:000a:0001:2:0:0
+Top Radio
+p:Unknown
+03db:001f0f61:000a:0001:2:0:0
+MCF Radio
+p:Unknown
+0201:001f0f81:0000:0000:1:0:0
+Cam 10
+p:Unknown
+0064:001f0f83:0001:0000:1:0:0
+Afrique Média
+p:Unknown
+0001:001f0f85:0000:0000:1:0:0
+Balafon TV
+p:Unknown
+0002:001f0f85:0000:0000:2:0:0
+Radio Balafon
+p:Unknown
+0068:001f0f87:0001:0000:1:0:0
+My Righteous TV
+p:Unknown
+0001:001f0f93:0000:0000:1:0:0
+RTNC
+p:Unknown
+0002:001f0f93:0000:0000:1:0:0
+Digital Congo TV
+p:Unknown
+0003:001f0f93:0000:0000:1:0:0
+RTGA World
+p:Unknown
+0004:001f0f93:0000:0000:1:0:0
+RTNC 3
+p:Unknown
+0008:001f0f93:0000:0000:1:0:0
+10'ème Rue TV
+p:Unknown
+000a:001f0f93:0000:0000:1:0:0
+TVS 1
+p:Unknown
+000d:001f0f93:0000:0000:2:0:0
+RTNC Radio
+p:Unknown
+000e:001f0f93:0000:0000:2:0:0
+Digital Congo FM
+p:Unknown
+000f:001f0f93:0000:0000:2:0:0
+RTGA Radio
+p:Unknown
+0012:001f0f93:0000:0000:2:0:0
+Télé 7 Radio
+p:Unknown
+0013:001f0f93:0000:0000:2:0:0
+B-One Radio
+p:Unknown
+0001:001f0fa4:0001:0001:1:0:0
+Héritage TV
+p:Unknown
+0001:001f0fa7:0001:ffff:1:0:0
+TVM
+p:Unknown
+0003:001f0fa7:0001:ffff:1:0:0
+TVM Internacional
+p:Unknown
+0004:001f0fa7:0001:ffff:1:0:0
+TVM Telescola
+p:Unknown
+0001:001f0fb0:0000:0000:1:0:0
+Dash TV News
+p:Unknown
+0001:001f0fb8:0001:0001:1:0:0
+Gabon 24
+p:Unknown
+0101:001f0fbd:0001:0001:1:0:0
+Horizon 3
+p:Unknown
+0001:001f0fc1:0000:0000:1:0:0
+Malaika TV
+p:Unknown
+0065:001f0fc6:0001:0001:1:0:0
+Info TV
+p:Unknown
+0002:001f0fdf:0065:0089:1:0:0
+TVM
+p:TMT
+0003:001f0fdf:0065:0089:1:0:0
+TV Miramar
+p:TMT
+0004:001f0fdf:0065:0089:1:0:0
+Soico TV
+p:TMT
+0005:001f0fdf:0065:0089:1:0:0
+TV Sucesso
+p:TMT
+0007:001f0fdf:0065:0089:1:0:0
+TVM Internacional
+p:TMT
+0008:001f0fdf:0065:0089:1:0:0
+CTV
+p:TMT
+000a:001f0fdf:0065:0089:1:0:0
+Eco TV
+p:TMT
+000b:001f0fdf:0065:0089:1:0:0
+Luz TV
+p:TMT
+000c:001f0fdf:0065:0089:1:0:0
+Limpopo TV
+p:TMT
+000d:001f0fdf:0065:0089:1:0:0
+Ram TV
+p:TMT
+0010:001f0fdf:0065:0089:1:0:0
+Tua TV
+p:TMT
+001f:001f0fdf:0065:0089:1:0:0
+KTV
+p:TMT
+0020:001f0fdf:0065:0089:1:0:0
+TV Maná Moçambique
+p:TMT
+0021:001f0fdf:0065:0089:1:0:0
+Kingdom TV
+p:TMT
+0022:001f0fdf:0065:0089:1:0:0
+TV Acção
+p:TMT
+0023:001f0fdf:0065:0089:1:0:0
+TV Glória
+p:TMT
+0024:001f0fdf:0065:0089:1:0:0
+Ebenezer TV
+p:TMT
+0025:001f0fdf:0065:0089:1:0:0
+Jiangsu TV International
+p:TMT
+0050:001f0fdf:0065:0089:1:0:0
+Star Movies Portugal
+p:TMT
+00ad:001f0fdf:0065:0089:1:0:0
+RTP África
+p:TMT
+00fb:001f0fdf:0065:0089:1:0:0
+ST Sports Arena
+p:TMT
+00fc:001f0fdf:0065:0089:1:0:0
+ST Sports Premium
+p:TMT
+00fd:001f0fdf:0065:0089:1:0:0
+ST Sports Life
+p:TMT
+00fe:001f0fdf:0065:0089:1:0:0
+ST World Football
+p:TMT
+0104:001f0fdf:0065:0089:1:0:0
+Real Madrid TV Español
+p:TMT
+0166:001f0fdf:0065:0089:1:0:0
+Baby TV Europe
+p:TMT
+01c5:001f0fdf:0065:0089:1:0:0
+ST Mania
+p:TMT
+0392:001f0fdf:0065:0089:2:0:0
+EP Niassa
+p:Unknown
+0393:001f0fdf:0065:0089:2:0:0
+EP Sofala
+p:Unknown
+0394:001f0fdf:0065:0089:2:0:0
+EP Zambezia
+p:Unknown
+0397:001f0fdf:0065:0089:2:0:0
+EP Tete
+p:Unknown
+0398:001f0fdf:0065:0089:2:0:0
+EP Gaza
+p:Unknown
+0399:001f0fdf:0065:0089:2:0:0
+Rádio Cidade Maputo
+p:Unknown
+039a:001f0fdf:0065:0089:2:0:0
+EP Manica
+p:Unknown
+039b:001f0fdf:0065:0089:2:0:0
+EP Maputo
+p:Unknown
+039c:001f0fdf:0065:0089:2:0:0
+RM Desporto
+p:Unknown
+0001:001f0fe7:0000:0000:1:0:0
+Media Sports Infos
+p:Unknown
+0028:001f1003:0066:0089:1:0:0
+AMC Portugal
+p:TMT
+0029:001f1003:0066:0089:1:0:0
+AMC Movies
+p:TMT
+002d:001f1003:0066:0089:1:0:0
+TLN Network
+p:TMT
+0034:001f1003:0066:0089:1:0:0
+ST Novela P
+p:TMT
+004f:001f1003:0066:0089:1:0:0
+Star Comedy Portugal
+p:TMT
+0051:001f1003:0066:0089:1:0:0
+Star Life Portugal
+p:TMT
+0052:001f1003:0066:0089:1:0:0
+Star Channel Portugal
+p:TMT
+0053:001f1003:0066:0089:1:0:0
+Canal Hollywood Portugal
+p:TMT
+0054:001f1003:0066:0089:1:0:0
+ST Movies Plus
+p:TMT
+0096:001f1003:0066:0089:1:0:0
+ST Kungfu
+p:TMT
+00ac:001f1003:0066:0089:1:0:0
+RTP Mundo
+p:TMT
+00ae:001f1003:0066:0089:1:0:0
+TVI Internacional
+p:TMT
+00b2:001f1003:0066:0089:1:0:0
+SIC Internacional África
+p:TMT
+00b3:001f1003:0066:0089:1:0:0
+SIC Mulher
+p:TMT
+00f2:001f1003:0066:0089:1:0:0
+National Geographic Wild South Africa
+p:TMT
+00fa:001f1003:0066:0089:1:0:0
+ST Sports Focus
+p:TMT
+00ff:001f1003:0066:0089:1:0:0
+Canal 11
+p:TMT
+0100:001f1003:0066:0089:1:0:0
+ESPN Africa
+p:TMT
+0101:001f1003:0066:0089:1:0:0
+ESPN 2 Africa
+p:TMT
+0137:001f1003:0066:0089:1:0:0
+CNN Portugal
+p:TMT
+0138:001f1003:0066:0089:1:0:0
+SIC Notícias
+p:TMT
+014a:001f1003:0066:0089:1:0:0
+24 Kitchen Portugal
+p:TMT
+015e:001f1003:0066:0089:1:0:0
+ST Kids
+p:TMT
+0163:001f1003:0066:0089:1:0:0
+Toonami
+p:TMT
+0168:001f1003:0066:0089:1:0:0
+JimJam Europe
+p:TMT
+0169:001f1003:0066:0089:1:0:0
+Panda Kids
+p:TMT
+016d:001f1003:0066:0089:1:0:0
+Boing Africa
+p:TMT
+0173:001f1003:0066:0089:1:0:0
+Biggs
+p:TMT
+0174:001f1003:0066:0089:1:0:0
+Disney Channel Portugal
+p:TMT
+0175:001f1003:0066:0089:1:0:0
+Disney Jr Portugal
+p:TMT
+01ae:001f1003:0066:0089:1:0:0
+Afro Music Channel
+p:TMT
+01c6:001f1003:0066:0089:1:0:0
+Emmanuel TV
+p:TMT
+01f5:001f1003:0066:0089:1:0:0
+StarLife
+p:TMT
+038f:001f1003:0066:0089:2:0:0
+Antena Nacional
+p:Unknown
+0390:001f1003:0066:0089:2:0:0
+RM Desporto
+p:Unknown
+0391:001f1003:0066:0089:2:0:0
+EP Cabo Delgado
+p:Unknown
+0395:001f1003:0066:0089:2:0:0
+EP Inhambane
+p:Unknown
+0396:001f1003:0066:0089:2:0:0
+EP Nampula
+p:Unknown
+0065:001f1013:0001:0001:1:0:0
+Bnews 1
+p:Unknown
+0001:001f1014:1000:2000:1:0:0
+LTM TV
+p:Unknown
+end

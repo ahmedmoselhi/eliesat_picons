@@ -1,0 +1,218 @@
+eDVB services /4/
+transponders
+00d729e3:0001:0001
+	s 10723000:32115000:1:0:215:2:0:1:0:2:2
+/
+00d72aa7:0002:0000
+	s 10919000:30000000:1:0:215:2:0:1:0:2:2
+/
+00d72cd3:0001:ffff
+	s 11475000:2300000:1:0:215:2:0:1:0:2:2
+/
+00d72d00:0001:ffff
+	s 11520000:2857000:0:0:215:2:0:1:0:2:2
+/
+00d72d27:0045:0800
+	s 11559000:5000000:1:0:215:2:0:1:0:2:2
+/
+00d72d2c:0041:0800
+	s 11564000:3333000:1:0:215:2:0:1:0:2:2
+/
+00d72d2f:0000:0000
+	s 11567000:2850000:1:0:215:2:0:1:0:2:2
+/
+00d72d39:0001:0001
+	s 11577000:512000:0:0:215:2:0:0:0:2:2
+/
+00d72d3f:0001:0001
+	s 11583000:2850000:1:0:215:2:0:0:0:2:2
+/
+00d72d43:0000:0000
+	s 11587000:5000000:0:0:215:2:0:1:0:2:2
+/
+00d72d52:0000:0000
+	s 11602000:4400000:1:0:215:2:0:1:0:2:2
+/
+00d72d66:0001:ffff
+	s 11622000:1250000:0:0:215:2:0:1:0:2:2
+/
+00d72d6b:0001:0001
+	s 11627000:14400000:1:0:215:2:0:1:0:2:2
+/
+00d72d7b:0001:ffff
+	s 11643000:1667000:1:0:215:2:0:1:0:2:2
+/
+00d72d94:0001:ffff
+	s 11668000:2295000:1:0:215:2:0:1:0:2:2
+/
+00d72d97:0001:ffff
+	s 11671000:2917000:1:0:215:2:0:1:0:2:2
+/
+00d72d9e:0005:0001
+	s 11678000:2850000:1:0:215:2:0:0:0:2:2
+/
+00d72db0:0001:ffff
+	s 11696000:1481000:1:0:215:2:0:1:0:2:2
+/
+end
+services
+0fa0:00d729e3:0001:0001:1:0:0
+Discovery Channel Central Europe
+p:Unknown
+1004:00d729e3:0001:0001:1:0:0
+Animal Planet Rossiya
+p:Unknown
+1068:00d729e3:0001:0001:1:0:0
+Investigation Discovery Rossiya
+p:Unknown
+10cc:00d729e3:0001:0001:1:0:0
+TLC Rossiya
+p:Unknown
+1194:00d729e3:0001:0001:1:0:0
+Cartoonito Central & Eastern Europe
+p:Unknown
+11f8:00d729e3:0001:0001:1:0:0
+Eurosport 1 East Europe
+p:Unknown
+125c:00d729e3:0001:0001:1:0:0
+Eurosport 2 East Europe
+p:Unknown
+12c0:00d729e3:0001:0001:1:0:0
+Cartoon Network Central & Eastern Europe
+p:Unknown
+0033:00d72aa7:0002:0000:1:0:0
+CCTV 1
+p:Unknown
+0034:00d72aa7:0002:0000:1:0:0
+CCTV 2
+p:Unknown
+0035:00d72aa7:0002:0000:1:0:0
+CCTV 3
+p:Unknown
+0036:00d72aa7:0002:0000:1:0:0
+CCTV 4 Asia
+p:Unknown
+0037:00d72aa7:0002:0000:1:0:0
+CCTV 5
+p:Unknown
+0038:00d72aa7:0002:0000:1:0:0
+CHC Fan Movies
+p:Unknown
+0039:00d72aa7:0002:0000:1:0:0
+CCTV 5+
+p:Unknown
+003a:00d72aa7:0002:0000:1:0:0
+CCTV 8
+p:Unknown
+003b:00d72aa7:0002:0000:1:0:0
+CCTV 7
+p:Unknown
+003c:00d72aa7:0002:0000:1:0:0
+CCTV 13
+p:Unknown
+003d:00d72aa7:0002:0000:1:0:0
+CCTV 6
+p:Unknown
+003e:00d72aa7:0002:0000:1:0:0
+CCTV 9
+p:Unknown
+0040:00d72aa7:0002:0000:1:0:0
+Dragon TV International
+p:Unknown
+0041:00d72aa7:0002:0000:1:0:0
+Hunan TV International
+p:Unknown
+0042:00d72aa7:0002:0000:1:0:0
+Jiangsu Satellite TV
+p:Unknown
+0043:00d72aa7:0002:0000:1:0:0
+Zhejiang Satellite TV International
+p:Unknown
+0044:00d72aa7:0002:0000:1:0:0
+Anhui Satellite TV
+p:Unknown
+0046:00d72aa7:0002:0000:1:0:0
+Phoenix InfoNews Channel
+p:Unknown
+0001:00d72cd3:0001:ffff:1:0:0
+Al Mayadeen TV
+p:Unknown
+0001:00d72d00:0001:ffff:1:0:0
+Libya Alrasmia Channel
+p:Unknown
+0001:00d72d27:0045:0800:1:0:0
+MBC Maser
+p:Unknown
+0002:00d72d27:0045:0800:1:0:0
+MBC Maser 2
+p:Unknown
+0001:00d72d2c:0041:0800:1:0:0
+MBC Maser
+p:Unknown
+0001:00d72d2f:0000:0000:1:0:0
+Panorama FM TV
+p:Unknown
+03e8:00d72d39:0001:0001:2:0:0
+Medi 1 Radio
+p:Unknown
+07d0:00d72d39:0001:0001:2:0:0
+Medi 1 Afrique
+p:Unknown
+0001:00d72d3f:0001:0001:1:0:0
+MBC
+p:Unknown
+0001:00d72d43:0000:0000:1:0:0
+Al Hadath
+p:Unknown
+0001:00d72d52:0000:0000:1:0:0
+Oman TV Cultural
+p:Unknown
+0001:00d72d66:0001:ffff:1:0:0
+Al-Iman TV
+p:Unknown
+044c:00d72d6b:0001:0001:1:0:0
+Oman TV
+p:Unknown
+04b0:00d72d6b:0001:0001:1:0:0
+Oman TV Sport
+p:Unknown
+0514:00d72d6b:0001:0001:1:0:0
+Oman TV Mubashir
+p:Unknown
+0578:00d72d6b:0001:0001:1:0:0
+Oman TV Cultural
+p:Unknown
+06a4:00d72d6b:0001:0001:2:0:0
+Radio Oman
+p:Unknown
+0708:00d72d6b:0001:0001:2:0:0
+Al-Shabab
+p:Unknown
+076c:00d72d6b:0001:0001:2:0:0
+Radio Oman FM
+p:Unknown
+07d0:00d72d6b:0001:0001:2:0:0
+Oman Classic Radio
+p:Unknown
+0834:00d72d6b:0001:0001:2:0:0
+Holy Quran Radio
+p:Unknown
+0898:00d72d6b:0001:0001:2:0:0
+Sawt Oman 1
+p:Unknown
+0001:00d72d7b:0001:ffff:1:0:0
+Libya Sport TV 1
+p:Unknown
+0001:00d72d94:0001:ffff:1:0:0
+Afaq TV
+p:Unknown
+0001:00d72d97:0001:ffff:1:0:0
+Libya Sport TV 2
+p:Unknown
+0001:00d72d9e:0005:0001:1:0:0
+Al Hadath
+p:Unknown
+0001:00d72db0:0001:ffff:1:0:0
+Altaleaa TV
+p:Unknown
+end

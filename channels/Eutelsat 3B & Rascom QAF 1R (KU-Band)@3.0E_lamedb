@@ -1,0 +1,170 @@
+eDVB services /4/
+transponders
+001e2bde:0000:0000
+	s 11230000:40000000:1:0:30:2:0:1:0:2:2
+/
+001e2ca6:0001:0001
+	s 11430000:18328000:0:0:30:2:0:1:0:2:2
+/
+001e2d7f:1000:2000
+	s 11647000:1903000:0:0:30:2:0:1:0:2:2
+/
+001e2d88:0001:0001
+	s 11656000:7350000:0:0:30:2:0:1:0:2:2
+/
+001e2d99:0001:ffff
+	s 11673000:3333000:0:0:30:2:0:1:0:2:2
+/
+001e2d9d:0001:ffff
+	s 11677000:2083000:0:0:30:2:0:1:0:2:2
+/
+001e2dae:0001:ffff
+	s 11694000:2963000:0:0:30:2:0:1:0:2:2
+/
+001e3170:0001:ffff
+	s 12656000:1483000:0:0:30:2:0:1:0:2:2
+/
+001e31b4:0000:0000
+	s 12724000:3750000:0:0:30:2:0:1:0:2:2
+/
+end
+services
+0001:001e2bde:0000:0000:1:0:0
+RTNC
+p:Unknown
+0002:001e2bde:0000:0000:1:0:0
+RTNC 3
+p:Unknown
+0003:001e2bde:0000:0000:1:0:0
+TVS 1
+p:Unknown
+0004:001e2bde:0000:0000:1:0:0
+Face TV
+p:Unknown
+0005:001e2bde:0000:0000:1:0:0
+PSTV HD
+p:Unknown
+0006:001e2bde:0000:0000:1:0:0
+RLPro TV
+p:Unknown
+0008:001e2bde:0000:0000:1:0:0
+Afrique Média
+p:Unknown
+0009:001e2bde:0000:0000:1:0:0
+France 24 Français
+p:Unknown
+000a:001e2bde:0000:0000:1:0:0
+Lollywood
+p:Unknown
+000b:001e2bde:0000:0000:1:0:0
+Baraka TV
+p:Unknown
+000c:001e2bde:0000:0000:1:0:0
+BM TV
+p:Unknown
+000f:001e2bde:0000:0000:1:0:0
+Jerubaal TV
+p:Unknown
+0010:001e2bde:0000:0000:1:0:0
+Dieskolus TV
+p:Unknown
+0011:001e2bde:0000:0000:1:0:0
+Finesse Monde TV
+p:Unknown
+0012:001e2bde:0000:0000:1:0:0
+Biolo TV HD
+p:Unknown
+0013:001e2bde:0000:0000:1:0:0
+France 24 Français
+p:Unknown
+0014:001e2bde:0000:0000:1:0:0
+Rupture TV
+p:Unknown
+0015:001e2bde:0000:0000:1:0:0
+Intello+ Afrik TV
+p:Unknown
+000d:001e2bde:0000:0000:2:0:0
+Radio Amani FM
+p:Unknown
+000e:001e2bde:0000:0000:2:0:0
+Life Radio
+p:Unknown
+0020:001e2ca6:0001:0001:1:0:0
+Le Messager TV
+p:Unknown
+0025:001e2ca6:0001:0001:1:0:0
+Canal 2 International
+p:Unknown
+002c:001e2ca6:0001:0001:1:0:0
+Cam 10
+p:Unknown
+0030:001e2ca6:0001:0001:1:0:0
+Afrique Média
+p:Unknown
+0035:001e2ca6:0001:0001:1:0:0
+Info TV
+p:Unknown
+0038:001e2ca6:0001:0001:1:0:0
+Dash TV
+p:Unknown
+003b:001e2ca6:0001:0001:1:0:0
+Times TV
+p:Unknown
+003e:001e2ca6:0001:0001:1:0:0
+Horizon 3
+p:Unknown
+0044:001e2ca6:0001:0001:1:0:0
+Balafon TV
+p:Unknown
+0046:001e2ca6:0001:0001:1:0:0
+A1
+p:Unknown
+0049:001e2ca6:0001:0001:1:0:0
+Néotempra TV
+p:Unknown
+004c:001e2ca6:0001:0001:1:0:0
+Power TV
+p:Unknown
+0055:001e2ca6:0001:0001:1:0:0
+Compassion TV
+p:Unknown
+0023:001e2ca6:0001:0001:2:0:0
+Radio Studio Kalangou
+p:Unknown
+005b:001e2ca6:0001:0001:2:0:0
+Radio Balafon
+p:Unknown
+0052:001e2ca6:0001:0001:2:0:0
+Radio Siriri
+p:Unknown
+0001:001e2d7f:1000:2000:1:0:0
+M24 TV
+p:Unknown
+0065:001e2d88:0001:0001:1:0:0
+2M TV
+p:Unknown
+0066:001e2d88:0001:0001:1:0:0
+2M TV
+p:Unknown
+0067:001e2d88:0001:0001:1:0:0
+2M TV
+p:Unknown
+0068:001e2d88:0001:0001:2:0:0
+Radio 2M
+p:Unknown
+0001:001e2d99:0001:ffff:1:0:0
+Al Rabiaa TV
+p:Unknown
+0001:001e2d9d:0001:ffff:1:0:0
+Imam Ali TV
+p:Unknown
+0001:001e2dae:0001:ffff:1:0:0
+Alahad TV
+p:Unknown
+0001:001e3170:0001:ffff:1:0:0
+NourSat
+p:Unknown
+0001:001e31b4:0000:0000:1:0:0
+Simay-Azadi Iran National TV
+p:Unknown
+end

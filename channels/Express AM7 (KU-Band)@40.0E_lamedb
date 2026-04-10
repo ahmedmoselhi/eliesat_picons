@@ -1,0 +1,164 @@
+eDVB services /4/
+transponders
+01902ccf:0001:0001
+	s 11471000:4247000:0:0:400:2:0:1:0:2:2
+/
+01902cd4:0001:0001
+	s 11476000:4247000:0:0:400:2:0:1:0:2:2
+/
+01902d75:0065:0e26
+	s 11637000:30000000:0:0:400:2:0:1:0:2:2
+/
+end
+services
+0002:01902ccf:0001:0001:1:0:0
+RT News
+p:Unknown
+0002:01902ccf:0001:0001:1:0:0
+RT News
+p:Unknown
+0002:01902cd4:0001:0001:1:0:0
+RT News
+p:Unknown
+0002:01902cd4:0001:0001:1:0:0
+RT News
+p:Unknown
+0065:01902d75:0065:0e26:1:0:0
+IRIB 1
+p:Unknown
+0066:01902d75:0065:0e26:1:0:0
+IRIB 2
+p:Unknown
+0067:01902d75:0065:0e26:1:0:0
+IRIB 3
+p:Unknown
+0068:01902d75:0065:0e26:1:0:0
+IRIB 4
+p:Unknown
+0069:01902d75:0065:0e26:1:0:0
+Nasim
+p:Unknown
+006a:01902d75:0065:0e26:1:0:0
+IRINN
+p:Unknown
+006b:01902d75:0065:0e26:1:0:0
+Amouzesh TV
+p:Unknown
+006c:01902d75:0065:0e26:1:0:0
+Quran TV
+p:Unknown
+006d:01902d75:0065:0e26:1:0:0
+Doc TV
+p:Unknown
+006e:01902d75:0065:0e26:1:0:0
+Omid TV
+p:Unknown
+006f:01902d75:0065:0e26:1:0:0
+Pooya TV
+p:Unknown
+0070:01902d75:0065:0e26:1:0:0
+Namayesh TV
+p:Unknown
+0071:01902d75:0065:0e26:1:0:0
+Ofogh TV
+p:Unknown
+0072:01902d75:0065:0e26:1:0:0
+IFilm Persian
+p:Unknown
+0073:01902d75:0065:0e26:1:0:0
+Tamasha
+p:Unknown
+0074:01902d75:0065:0e26:1:0:0
+IRINN 2
+p:Unknown
+0075:01902d75:0065:0e26:1:0:0
+Varzesh TV
+p:Unknown
+0077:01902d75:0065:0e26:1:0:0
+Salamat TV
+p:Unknown
+0078:01902d75:0065:0e26:1:0:0
+Tehran TV
+p:Unknown
+007f:01902d75:0065:0e26:1:0:0
+Sahar Azeri
+p:Unknown
+00a8:01902d75:0065:0e26:1:0:0
+Abadan TV
+p:Unknown
+00b1:01902d75:0065:0e26:1:0:0
+Hamoon TV
+p:Unknown
+00c0:01902d75:0065:0e26:1:0:0
+Khorasan Jonoobi TV
+p:Unknown
+00f1:01902d75:0065:0e26:2:0:0
+Radio Iran
+p:Unknown
+00f2:01902d75:0065:0e26:2:0:0
+Radio Ava
+p:Unknown
+00f3:01902d75:0065:0e26:2:0:0
+Radio Javan
+p:Unknown
+00f4:01902d75:0065:0e26:2:0:0
+Radio Payam
+p:Unknown
+00f5:01902d75:0065:0e26:2:0:0
+Radio Varzesh
+p:Unknown
+00f6:01902d75:0065:0e26:2:0:0
+Radio Maaref
+p:Unknown
+00f7:01902d75:0065:0e26:2:0:0
+Radio Quran
+p:Unknown
+00f8:01902d75:0065:0e26:2:0:0
+Radio Farhang
+p:Unknown
+00f9:01902d75:0065:0e26:2:0:0
+Radio Salamat
+p:Unknown
+00fa:01902d75:0065:0e26:2:0:0
+Radio Eghtesad
+p:Unknown
+00fb:01902d75:0065:0e26:2:0:0
+Radio Goftogoo
+p:Unknown
+00fc:01902d75:0065:0e26:2:0:0
+Radio Namayesh
+p:Unknown
+00fd:01902d75:0065:0e26:2:0:0
+Radio Tehran
+p:Unknown
+00fe:01902d75:0065:0e26:2:0:0
+Radio Saba
+p:Unknown
+00ff:01902d75:0065:0e26:2:0:0
+Radio Arbaeen
+p:Unknown
+0100:01902d75:0065:0e26:2:0:0
+Radio Talavat
+p:Unknown
+0101:01902d75:0065:0e26:2:0:0
+Radio Tartil
+p:Unknown
+0102:01902d75:0065:0e26:2:0:0
+IRIB World Service Radio 7
+p:Unknown
+0103:01902d75:0065:0e26:2:0:0
+IRIB World Service Radio 3
+p:Unknown
+0106:01902d75:0065:0e26:2:0:0
+Radio Ziarat
+p:Unknown
+01d4:01902d75:0065:0e26:2:0:0
+Radio Abadan
+p:Unknown
+01dd:01902d75:0065:0e26:2:0:0
+Radio Zahedan
+p:Unknown
+01ec:01902d75:0065:0e26:2:0:0
+Radio Khorasan Jonoobi
+p:Unknown
+end

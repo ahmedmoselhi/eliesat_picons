@@ -1,0 +1,431 @@
+eDVB services /4/
+transponders
+03113037:0005:0010
+	s 12343000:45000000:1:0:785:2:0:1:0:2:2
+/
+031130e9:0003:0015
+	s 12521000:30000000:1:0:785:2:0:1:0:2:2
+/
+0311313c:0006:0015
+	s 12604000:30000000:1:0:785:2:0:1:0:2:2
+/
+03113165:000f:0001
+	s 12645000:30000000:1:0:785:2:0:1:0:2:2
+/
+0311318f:0001:0001
+	s 12687000:30000000:1:0:785:2:0:0:0:2:2
+/
+031131b8:0003:ff00
+	s 12728000:30000000:1:0:785:2:0:1:0:2:2
+/
+end
+services
+138a:03113037:0005:0010:1:0:0
+MV Mall Healthy
+p:Unknown
+138b:03113037:0005:0010:1:0:0
+MV TV Channel
+p:Unknown
+1392:03113037:0005:0010:1:0:0
+MV Mall DD
+p:Unknown
+1397:03113037:0005:0010:1:0:0
+MV Mall Family
+p:Unknown
+13b1:03113037:0005:0010:1:0:0
+MV Mall Trend
+p:Unknown
+13b3:03113037:0005:0010:1:0:0
+Thaiban TV 83
+p:Unknown
+13b4:03113037:0005:0010:1:0:0
+MV Mall Plus
+p:Unknown
+13b6:03113037:0005:0010:1:0:0
+Boomerang Thailand
+p:Unknown
+0001:031130e9:0003:0015:1:0:0
+MWD
+p:Canal+ Myanmar
+0002:031130e9:0003:0015:1:0:0
+MRTV News
+p:Canal+ Myanmar
+0097:031130e9:0003:0015:1:0:0
+Canal + Kyi Lite
+p:Canal+ Myanmar
+0099:031130e9:0003:0015:1:0:0
+Canal + Action Myanmar
+p:Canal+ Myanmar
+009a:031130e9:0003:0015:1:0:0
+Canal + Sports 2 Myanmar
+p:Canal+ Myanmar
+009b:031130e9:0003:0015:1:0:0
+Canal + Pu Tu Tue
+p:Canal+ Myanmar
+009c:031130e9:0003:0015:1:0:0
+Canal + Sports 1 Myanmar
+p:Canal+ Myanmar
+009d:031130e9:0003:0015:1:0:0
+Canal + Cha Tate
+p:Canal+ Myanmar
+009e:031130e9:0003:0015:1:0:0
+Canal + Zat Lenn
+p:Canal+ Myanmar
+009f:031130e9:0003:0015:1:0:0
+Canal + Mae Madi
+p:Canal+ Myanmar
+00a0:031130e9:0003:0015:1:0:0
+Canal + Sports 3 Myanmar
+p:Canal+ Myanmar
+00a1:031130e9:0003:0015:1:0:0
+Celestial Classic Movies
+p:Canal+ Myanmar
+00a2:031130e9:0003:0015:1:0:0
+Thrill
+p:Canal+ Myanmar
+00a4:031130e9:0003:0015:1:0:0
+5 Thukhuma
+p:Canal+ Myanmar
+00a5:031130e9:0003:0015:1:0:0
+5 Thukhuma 2
+p:Canal+ Myanmar
+00a9:031130e9:0003:0015:1:0:0
+Hits Movies
+p:Canal+ Myanmar
+00b5:031130e9:0003:0015:1:0:0
+Asian Food Network
+p:Canal+ Myanmar
+00b9:031130e9:0003:0015:1:0:0
+Kix Asia
+p:Canal+ Myanmar
+00d9:031130e9:0003:0015:1:0:0
+Zee Tamil
+p:Canal+ Myanmar
+00e1:031130e9:0003:0015:1:0:0
+Channel 9
+p:Canal+ Myanmar
+00e5:031130e9:0003:0015:1:0:0
+MRTV Farmers
+p:Canal+ Myanmar
+00e6:031130e9:0003:0015:1:0:0
+Fortune TV
+p:Canal+ Myanmar
+00ea:031130e9:0003:0015:1:0:0
+Myanmar International TV
+p:Canal+ Myanmar
+00ec:031130e9:0003:0015:1:0:0
+MN TV
+p:Canal+ Myanmar
+00ee:031130e9:0003:0015:1:0:0
+MRTV
+p:Canal+ Myanmar
+00ef:031130e9:0003:0015:1:0:0
+MRTV Sports
+p:Canal+ Myanmar
+00f0:031130e9:0003:0015:1:0:0
+YTV
+p:Canal+ Myanmar
+00f1:031130e9:0003:0015:1:0:0
+Channel K
+p:Canal+ Myanmar
+0415:031130e9:0003:0015:1:0:0
+MRTV Parliament
+p:Canal+ Myanmar
+0016:0311313c:0006:0015:1:0:0
+Zing Asia
+p:Canal+ Myanmar
+001b:0311313c:0006:0015:1:0:0
+FilmBox Arthouse Worldwide
+p:Canal+ Myanmar
+0047:0311313c:0006:0015:1:0:0
+Love Nature
+p:Canal+ Myanmar
+005d:0311313c:0006:0015:1:0:0
+Rock Action
+p:Canal+ Myanmar
+0065:0311313c:0006:0015:1:0:0
+Mahar Bawdi
+p:Unknown
+0068:0311313c:0006:0015:1:0:0
+Readers Channel
+p:Canal+ Myanmar
+0069:0311313c:0006:0015:1:0:0
+MRTV 4
+p:Unknown
+006a:0311313c:0006:0015:1:0:0
+Channel 7
+p:Unknown
+007b:0311313c:0006:0015:1:0:0
+Punch TV
+p:Canal+ Myanmar
+0087:0311313c:0006:0015:1:0:0
+Zee TV Asia Pacific
+p:Canal+ Myanmar
+00a3:0311313c:0006:0015:1:0:0
+Colors Rishtey Asia
+p:Canal+ Myanmar
+00a6:0311313c:0006:0015:1:0:0
+Hits
+p:Canal+ Myanmar
+00a7:0311313c:0006:0015:1:0:0
+Warner TV Southeast Asia
+p:Canal+ Myanmar
+00ab:0311313c:0006:0015:1:0:0
+FightBox HD
+p:Canal+ Myanmar
+00bb:0311313c:0006:0015:1:0:0
+KBS World
+p:Canal+ Myanmar
+00bd:0311313c:0006:0015:1:0:0
+TLC Southeast Asia
+p:Canal+ Myanmar
+00be:0311313c:0006:0015:1:0:0
+AXN East Asia
+p:Canal+ Myanmar
+00bf:0311313c:0006:0015:1:0:0
+Rock Entertainment
+p:Canal+ Myanmar
+00c2:0311313c:0006:0015:1:0:0
+TVN Asia
+p:Canal+ Myanmar
+00c3:0311313c:0006:0015:1:0:0
+Colors Asia Pacific
+p:Canal+ Myanmar
+00c4:0311313c:0006:0015:1:0:0
+MTV India
+p:Canal+ Myanmar
+00c5:0311313c:0006:0015:1:0:0
+Global Trekker
+p:Canal+ Myanmar
+00c8:0311313c:0006:0015:1:0:0
+Cartoonito South East Asia
+p:Canal+ Myanmar
+00cc:0311313c:0006:0015:1:0:0
+Animax Asia
+p:Canal+ Myanmar
+00cf:0311313c:0006:0015:1:0:0
+English Club TV
+p:Canal+ Myanmar
+00d0:0311313c:0006:0015:1:0:0
+Discovery Channel Southeast Asia
+p:Canal+ Myanmar
+00d1:0311313c:0006:0015:1:0:0
+Discovery Asia
+p:Canal+ Myanmar
+00d3:0311313c:0006:0015:1:0:0
+Animal Planet Southeast Asia
+p:Canal+ Myanmar
+00da:0311313c:0006:0015:1:0:0
+Trace Urban Southeast Asia
+p:Canal+ Myanmar
+00fa:0311313c:0006:0015:1:0:0
+Cartoon Network Asia
+p:Canal+ Myanmar
+0201:0311313c:0006:0015:1:0:0
+Zee Cinema Asia
+p:Canal+ Myanmar
+00c9:0311313c:0006:0015:2:0:0
+Teen Radio
+p:Unknown
+00ca:0311313c:0006:0015:2:0:0
+Teen Radio
+p:Unknown
+038f:0311313c:0006:0015:2:0:0
+Mandalay FM
+p:Unknown
+05dd:03113165:000f:0001:1:0:0
+DLTV 1
+p:Unknown
+05de:03113165:000f:0001:1:0:0
+DLTV 2
+p:Unknown
+05df:03113165:000f:0001:1:0:0
+DLTV 3
+p:Unknown
+05e0:03113165:000f:0001:1:0:0
+DLTV 4
+p:Unknown
+05e1:03113165:000f:0001:1:0:0
+DLTV 5
+p:Unknown
+05e2:03113165:000f:0001:1:0:0
+DLTV 6
+p:Unknown
+05e3:03113165:000f:0001:1:0:0
+DLTV 7
+p:Unknown
+05e4:03113165:000f:0001:1:0:0
+DLTV 8
+p:Unknown
+05e5:03113165:000f:0001:1:0:0
+DLTV 9
+p:Unknown
+05e6:03113165:000f:0001:1:0:0
+DLTV 10
+p:Unknown
+05e7:03113165:000f:0001:1:0:0
+DLTV 11
+p:Unknown
+05e8:03113165:000f:0001:1:0:0
+DLTV 12
+p:Unknown
+05e9:03113165:000f:0001:1:0:0
+DLTV 13
+p:Unknown
+05ea:03113165:000f:0001:1:0:0
+DLTV 14
+p:Unknown
+05eb:03113165:000f:0001:1:0:0
+DLTV 15
+p:Unknown
+007c:0311318f:0001:0001:1:0:0
+Angel TV Indo-China
+p:Unknown
+0461:0311318f:0001:0001:1:0:0
+ETV
+p:Unknown
+1fa5:0311318f:0001:0001:1:0:0
+5 Plus
+p:Unknown
+1fa6:0311318f:0001:0001:1:0:0
+Channel 7
+p:Unknown
+1fa7:0311318f:0001:0001:1:0:0
+Channel 9
+p:Unknown
+1fa8:0311318f:0001:0001:1:0:0
+Channel K
+p:Unknown
+1fa9:0311318f:0001:0001:1:0:0
+Fortune TV
+p:Unknown
+1faa:0311318f:0001:0001:1:0:0
+M Entertainment
+p:Unknown
+1fab:0311318f:0001:0001:1:0:0
+MRTV Sports
+p:Unknown
+1fac:0311318f:0001:0001:1:0:0
+MRTV 4
+p:Unknown
+1fad:0311318f:0001:0001:1:0:0
+YTV
+p:Unknown
+1fae:0311318f:0001:0001:1:0:0
+MRTV
+p:Unknown
+0088:0311318f:0001:0001:2:0:0
+Looktung Network
+p:Unknown
+008a:0311318f:0001:0001:2:0:0
+Education FM 92
+p:Unknown
+0005:031131b8:0003:ff00:1:0:0
+PSI Saradee 1
+p:Unknown
+0006:031131b8:0003:ff00:1:0:0
+Channel 9
+p:Unknown
+0008:031131b8:0003:ff00:1:0:0
+Mahar TV
+p:Unknown
+000b:031131b8:0003:ff00:1:0:0
+Channel 7
+p:Unknown
+000c:031131b8:0003:ff00:1:0:0
+Mahar Esports
+p:Unknown
+000d:031131b8:0003:ff00:1:0:0
+Mizzima TV
+p:Unknown
+0011:031131b8:0003:ff00:1:0:0
+Democratic Voice of Burma TV
+p:Unknown
+0012:031131b8:0003:ff00:1:0:0
+MRTV Sports
+p:Unknown
+0014:031131b8:0003:ff00:1:0:0
+Thai Chaiyo
+p:Unknown
+0015:031131b8:0003:ff00:1:0:0
+Zabb Channel
+p:Unknown
+0016:031131b8:0003:ff00:1:0:0
+TNBC
+p:Unknown
+0017:031131b8:0003:ff00:1:0:0
+Hit station
+p:Unknown
+0018:031131b8:0003:ff00:1:0:0
+Vip TV
+p:Unknown
+0019:031131b8:0003:ff00:1:0:0
+Umm TV
+p:Unknown
+001b:031131b8:0003:ff00:1:0:0
+Baanbaan TV 73
+p:Unknown
+001c:031131b8:0003:ff00:1:0:0
+Top
+p:Unknown
+001e:031131b8:0003:ff00:1:0:0
+Maya Star TV 47
+p:Unknown
+0020:031131b8:0003:ff00:1:0:0
+Variety Hit
+p:Unknown
+0021:031131b8:0003:ff00:1:0:0
+Oto Shopping 4
+p:Unknown
+0022:031131b8:0003:ff00:1:0:0
+Oto Shopping 1
+p:Unknown
+0023:031131b8:0003:ff00:1:0:0
+Oto Shopping 2
+p:Unknown
+0025:031131b8:0003:ff00:1:0:0
+MV Mall Living
+p:Unknown
+0026:031131b8:0003:ff00:1:0:0
+Oto Shopping 7
+p:Unknown
+0027:031131b8:0003:ff00:1:0:0
+Oto Shopping 3
+p:Unknown
+0028:031131b8:0003:ff00:1:0:0
+Oto Shopping 5
+p:Unknown
+0029:031131b8:0003:ff00:1:0:0
+Thaiban TV 2
+p:Unknown
+002a:031131b8:0003:ff00:1:0:0
+Serng TV 97
+p:Unknown
+002b:031131b8:0003:ff00:1:0:0
+Oto Shopping 6
+p:Unknown
+002c:031131b8:0003:ff00:1:0:0
+Huk Mor Lam TV
+p:Unknown
+03e9:031131b8:0003:ff00:1:0:0
+TV Direct 10
+p:Unknown
+03ea:031131b8:0003:ff00:1:0:0
+Shop Channel Thailand
+p:Unknown
+03eb:031131b8:0003:ff00:1:0:0
+Kaset News Channel
+p:Unknown
+03ee:031131b8:0003:ff00:1:0:0
+Oto Shopping 3
+p:Unknown
+03ef:031131b8:0003:ff00:1:0:0
+Oto Shopping 6
+p:Unknown
+03f0:031131b8:0003:ff00:1:0:0
+Neramit 67
+p:Unknown
+03f6:031131b8:0003:ff00:1:0:0
+World Entertainment TV
+p:Unknown
+end
