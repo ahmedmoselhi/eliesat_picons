@@ -215,9 +215,9 @@ class ObsidianUI:
         os.system('cls' if os.name == 'nt' else 'clear')
         t = self.theme
         print(f"{t['c_accent']}{t['border_v']}{t['border_h_top'] * (self.W-2)}{t['border_v']}{t['c_rst']}")
-        # VERSION UPDATED TO 13.0
-        title = "O B S I D I A N    H O R I Z O N    v 1 3 . 0"
-        sub = "MULTI-TIER AI ENGINE | INTERACTIVE TUI EDITOR | PERSISTENT SATELLITE STATE"
+        # VERSION UPDATED TO 14.0
+        title = "O B S I D I A N    H O R I Z O N    v 1 4 . 0"
+        sub = "MULTI-SATELLITE BATCH PROCESSING | INTERACTIVE TUI EDITOR"
         t_pad = (self.W - 2 - len(title)) // 2
         s_pad = (self.W - 2 - len(sub)) // 2
         print(f"{t['c_accent']}{t['border_v']}{t['c_rst']}{' ' * t_pad}{t['c_bold']}{title}{t['c_rst']}{' ' * (self.W - 2 - t_pad - len(title))}{t['c_accent']}{t['border_v']}{t['c_rst']}")
@@ -377,8 +377,6 @@ def fetch_api_key():
             UI.draw_solid_box("STORAGE ERROR", [f"Failed to save key: {str(e)}"], color=UI.theme['c_err'])
     return k
 
-API_KEY = fetch_api_key()
-
 # ======================================================================================
 # 3. LIVE LOGGER (LOGGER TAB FIX & RTL SUPPORT)
 # ======================================================================================
@@ -475,18 +473,18 @@ class HorizonCore:
         
         # EXTANDED CATEGORIES - Base groupings for bouquet creation
         self.CATEGORY_ORDER = [
-    "إسلامي",
-    "مسيحي",
-    "القنوات المصرية",
-    "افلام ومسلسلات",
-    "رياضة",
-    "اخبار",
-    "موسيقى",
-    "وثائقيات",
-    "أطفال",
-    "مطبخ",
-    "عام",
-]
+            "إسلامي",
+            "مسيحي",
+            "القنوات المصرية",
+            "افلام ومسلسلات",
+            "رياضة",
+            "اخبار",
+            "موسيقى",
+            "وثائقيات",
+            "أطفال",
+            "مطبخ",
+            "عام",
+        ]
         # Pattern mapping to auto-assign categories based on the raw channel name
         self.CATEGORY_MAP = {
             "quran": "ISLAMIC", "islam": "ISLAMIC", "majd": "ISLAMIC", "azhari": "ISLAMIC", "kareem": "ISLAMIC",
@@ -495,7 +493,7 @@ class HorizonCore:
             "cinema": "MOVIES & SERIES", "movie": "MOVIES & SERIES", "film": "MOVIES & SERIES", "aflam": "MOVIES & SERIES",
             "drama": "MOVIES & SERIES", "series": "MOVIES & SERIES",
             "sport": "SPORTS", "sports": "SPORTS", "bein": "SPORTS", "kass": "SPORTS", "ssc": "SPORTS", "koora": "SPORTS",
-            "news": "NEWS", "al arabiya": "NEWS", "bbc": "NEWS", "cnn": "NEWS", "akhbar": "NEWS", "hadath": "NEWS",
+            "news": "NEWS", "al arabiya": "NEWS", "bbc": "NEWS", "cnn": "NEWS", "akhbar": "NEWS", "hadath": "NEWS", "aljazeera": "NEWS",
             "music": "MUSIC & RADIO", "fm": "MUSIC & RADIO", "radio": "MUSIC & RADIO", "iza'at": "MUSIC & RADIO",
             "doc": "DOCUMENTARY", "nat geo": "DOCUMENTARY", "discovery": "DOCUMENTARY", "history": "DOCUMENTARY", "وثائقية": "DOCUMENTARY",
             "kids": "KIDS", "spacetoon": "KIDS",
@@ -909,7 +907,7 @@ class HorizonCore:
                         for idx_re, s in enumerate(target_list): s['order'] = idx_re
                         staged_for_move.clear()
                 elif event == 'remove':
-                    # NEW FUNCTIONALITY: Removes item from category and drops it back into "عام" (Global)
+                    # Removes item from category and drops it back into "عام" (Global)
                     if staged_for_move:
                         items_to_remove = [s for s in target_list if s['sid'] in staged_for_move]
                         for item in items_to_remove:
@@ -932,18 +930,8 @@ class HorizonCore:
                     for idx_re, s in enumerate(target_list): s['order'] = idx_re
                     search_query = ""
                 elif event == 'search':
-                    # Temporary mode swap to allow valid terminal input
-                    sys.stdout.write('\033[?1000l\033[?1006l')
-                    sys.stdout.flush()
-                    original_stdout = sys.stdout
-                    sys.stdout = sys.__stdout__
-                    try: 
+                    with InputMode(): 
                         search_query = input("\nSearch Query: ").strip()
-                    except: pass
-                    finally:
-                        sys.stdout = original_stdout
-                    sys.stdout.write('\033[?1000h\033[?1006h')
-                    sys.stdout.flush()
                     current_page = 0
                     selected_idx = 0
                 elif event == 'clear':
@@ -982,17 +970,19 @@ class HorizonCore:
         
         rows = [f"{str(i).rjust(2)}: {s['full_name'].ljust(35)} | MASK: {s['mask'].upper()}xxxx" for i, s in enumerate(sats, 1)]
         UI.draw_solid_box("ORBITAL COORDINATOR", rows, color=self.t['c_accent'], icon=self.t['icon_sat'])
-        idx_in = UI.draw_input_block("SATELLITE SELECTION", "Select a number to isolate one satellite position, or press [ENTER] to process everything found\n\t   in the database.\t\t\t\t\t\t\t\t\t\t\t       ")
+        idx_in = UI.draw_input_block("SATELLITE SELECTION", "Select numbers comma-separated (e.g. 1, 3, 4) to process individually, or press [ENTER] to process everything as one unified bouquet.")
         
-        target_mask = ""
-        selected_sat_name = ""
-        if idx_in.isdigit() and 0 < int(idx_in) <= len(sats):
-            sat_choice = sats[int(idx_in)-1]
-            target_mask = sat_choice['mask']
-            selected_sat_name = sat_choice['full_name']
-            
-        sat_config_key = target_mask if target_mask else "ALL_SATS"
-        
+        target_sats = []
+        if idx_in.strip():
+            parts = idx_in.split(',')
+            for p in parts:
+                p = p.strip()
+                if p.isdigit() and 0 < int(p) <= len(sats):
+                    target_sats.append(sats[int(p)-1])
+                    
+        if not target_sats:
+            target_sats.append({"mask": "", "full_name": "Obsidian Unified Bouquet"})
+
         # Block parsing to preserve headers/footers for accurate saving later
         header_block, services_block, footer_block = [], [], []
         mode, idx = "header", 0
@@ -1012,145 +1002,169 @@ class HorizonCore:
                     idx += 3
                 else: idx += 1
 
-        all_services = [s for s in services_block if not target_mask or s['ns'].startswith(target_mask)]
-        
-        # SATELLITE PERSISTENT STATE LOADING
-        sat_config = self.load_sat_config(sat_config_key)
-        cat_overrides = sat_config.get("cat_overrides", {})
-        custom_orders = sat_config.get("custom_orders", {})
-        
-        for s in all_services:
-            if s['sid'] in cat_overrides: s['cat'] = cat_overrides[s['sid']]
-            if s['sid'] in custom_orders: s['order'] = custom_orders[s['sid']]
-                
-        # DEFAULT ALPHABETICAL PRE-SORTING (applied if no custom orders exist)
-        if not custom_orders:
-            for cat in self.CATEGORY_ORDER:
-                cat_list = sorted([s for s in all_services if s['cat'] == cat], key=lambda x: x['raw'].lower())
-                for i, s in enumerate(cat_list):
-                    s['order'] = i
+        generated_bouquets = []
 
-        if "selected_cats" in sat_config:
-            selected_cats = set(sat_config["selected_cats"])
-        else:
-            selected_cats = {self.get_arabic_category_name(c) for c in ["ISLAMIC", "CHRISTIAN", "EGYPTIAN", "MOVIES & SERIES", "SPORTS", "NEWS", "MUSIC & RADIO", "GENERAL"]}
-        
-        while True:
-            cat_counts = defaultdict(int)
-            for s in all_services: cat_counts[s['cat']] += 1
-            display_list = UI.draw_category_selector(cat_counts, selected_cats, self.CATEGORY_ORDER)
-            choice = UI.draw_input_block("CATEGORY MODIFIER", "Toggle categories for translation or enter Interactive Mode. Press [ENTER] to start batch processing.")
-            if choice == "": break
-            if choice.upper() == "ALL": selected_cats = set(cat_counts.keys()); continue
-            if choice.upper() == "NONE": selected_cats = set(); continue
-            if choice.isdigit():
-                c_idx = int(choice) - 1
-                if 0 <= c_idx < len(display_list):
-                    t_cat = display_list[c_idx]
-                    action = UI.draw_input_block(f"ACTION: {t_cat}", "[T]oggle inclusion or [E]nter Interactive Mouse/Keyboard Editor?").lower()
-                    if action == 'e': self.manage_category_contents(t_cat, all_services)
-                    else:
-                        if t_cat in selected_cats: selected_cats.remove(t_cat)
-                        else: selected_cats.add(t_cat)
+        # Core Loop: Process each selected satellite individually
+        for current_sat in target_sats:
+            target_mask = current_sat.get('mask', '')
+            selected_sat_name = current_sat.get('full_name', 'Obsidian Bouquet')
+            sat_config_key = target_mask if target_mask else "ALL_SATS"
 
-        # SAVE SATELLITE CONFIG BEFORE BATCH TRANSLATION
-        self.save_sat_config(sat_config_key, selected_cats, all_services)
-
-        neural_candidates = []
-        for s in all_services:
-            self.stats["total"] += 1
-            if s['cat'] not in selected_cats: continue
-            raw_low = " ".join(s['raw'].split()).lower()
+            all_services = [s for s in services_block if not target_mask or s['ns'].startswith(target_mask)]
             
-            # Use Local Dictionary Override
-            if raw_low in self.corrections:
-                s['tx'], s['method'] = self.corrections[raw_low], "DICTIONARY"
-                self.stats["method_dict"] += 1
-                self.used_corrections.add(raw_low)
-            # Skip translation if bypass trigger words are present
-            elif s['cat'] not in selected_cats or any(bw in s['raw'].upper() for bw in self.BYPASS_WORDS):
-                s['tx'], s['method'] = s['raw'], "BYPASSED"
-                self.stats["method_bypass"] += 1
+            if not all_services:
+                print(f"\n{self.t['c_warn']}Skipping {selected_sat_name} - No services found.{self.t['c_rst']}")
+                continue
+
+            UI.draw_solid_box(f"ORBITAL POSITION: {selected_sat_name}", 
+                              [f"Services in scope: {len(all_services)}", f"Target Mask: {target_mask or 'ALL'}"], 
+                              color=self.t['c_main'], icon=self.t['icon_sat'])
+
+            # SATELLITE PERSISTENT STATE LOADING
+            sat_config = self.load_sat_config(sat_config_key)
+            cat_overrides = sat_config.get("cat_overrides", {})
+            custom_orders = sat_config.get("custom_orders", {})
+            
+            for s in all_services:
+                if s['sid'] in cat_overrides: s['cat'] = cat_overrides[s['sid']]
+                if s['sid'] in custom_orders: s['order'] = custom_orders[s['sid']]
+                    
+            # DEFAULT ALPHABETICAL PRE-SORTING (applied if no custom orders exist)
+            if not custom_orders:
+                for cat in self.CATEGORY_ORDER:
+                    cat_list = sorted([s for s in all_services if s['cat'] == cat], key=lambda x: x['raw'].lower())
+                    for i, s in enumerate(cat_list):
+                        s['order'] = i
+
+            if "selected_cats" in sat_config:
+                selected_cats = set(sat_config["selected_cats"])
             else:
-                # Stage for AI Batch translation
-                neural_candidates.append(s)
-
-        if self.neural_enabled and neural_candidates:
-            total_batches = (len(neural_candidates) + self.BATCH_SIZE - 1) // self.BATCH_SIZE
+                selected_cats = {self.get_arabic_category_name(c) for c in ["ISLAMIC", "CHRISTIAN", "EGYPTIAN", "MOVIES & SERIES", "SPORTS", "NEWS", "MUSIC & RADIO", "GENERAL"]}
             
-            throttle_rows = [
-                f"RATE LIMIT: {self.t['c_accent']}Cascading Engine Active{self.t['c_rst']}",
-                f"ESTIMATION: Processing {len(neural_candidates)} items across {total_batches} batches."
-            ]
-            UI.draw_solid_box("CONGESTION CONTROL ACTIVE", throttle_rows, color=self.t['c_warn'], icon=self.t['icon_hint'])
+            while True:
+                cat_counts = defaultdict(int)
+                for s in all_services: cat_counts[s['cat']] += 1
+                display_list = UI.draw_category_selector(cat_counts, selected_cats, self.CATEGORY_ORDER)
+                choice = UI.draw_input_block(f"CATEGORY MODIFIER [{selected_sat_name}]", "Toggle categories for translation or enter Interactive Mode. Press [ENTER] to start batch processing.")
+                if choice == "": break
+                if choice.upper() == "ALL": selected_cats = set(cat_counts.keys()); continue
+                if choice.upper() == "NONE": selected_cats = set(); continue
+                if choice.isdigit():
+                    c_idx = int(choice) - 1
+                    if 0 <= c_idx < len(display_list):
+                        t_cat = display_list[c_idx]
+                        action = UI.draw_input_block(f"ACTION: {t_cat}", "[T]oggle inclusion or [E]nter Interactive Mouse/Keyboard Editor?").lower()
+                        if action == 'e': self.manage_category_contents(t_cat, all_services)
+                        else:
+                            if t_cat in selected_cats: selected_cats.remove(t_cat)
+                            else: selected_cats.add(t_cat)
 
-            for b_idx in range(0, len(neural_candidates), self.BATCH_SIZE):
-                batch_num = (b_idx // self.BATCH_SIZE) + 1
-                batch = neural_candidates[b_idx : b_idx + self.BATCH_SIZE]
-                
-                batch_header = f"BATCH {batch_num}/{total_batches} | GEMINI TRANSLATION STREAM"
-                batch_logs = []
-                
-                translations, lat = self.batch_translate_gemini([s['clean'] for s in batch])
-                
-                # Apply translated data back to objects
-                for s in batch:
-                    res = translations.get(s['clean'], s['clean'])
-                    if s['tags']: s['tx'] = f"{res} {' '.join(s['tags'])}".strip()
-                    else: s['tx'] = res
-                        
-                    s['method'] = "GEMINI_NEURAL"
-                    self.stats["method_deep"] += 1
-                    status_line = f" {self.t['icon_trans']} {s['raw'].ljust(35)} -> {s['tx']}"
-                    batch_logs.append(status_line)
-                
-                batch_logs.append(f" {self.t['border_h_mid'] * (UI.W-6)}")
-                batch_logs.append(f" {self.t['icon_time']} Latency: {lat}s | {self.t['icon_batch']} Processed: {len(batch)} items")
-                UI.draw_solid_box(batch_header, batch_logs, color=self.t['c_accent'], icon=self.t['icon_net'])
+            # SAVE SATELLITE CONFIG BEFORE BATCH TRANSLATION
+            self.save_sat_config(sat_config_key, selected_cats, all_services)
 
-        filename = os.path.basename(path)
-        orb_match = re.search(r'(\d+\.?\d*)\s*([EW])', filename)
-        if selected_sat_name: bouquet_title = selected_sat_name
-        elif orb_match:
-            try:
-                deg = float(orb_match.group(1))
-                if deg > 360: deg /= 10.0
-                pos_key = f"{deg:.1f}{orb_match.group(2).upper()}"
-                bouquet_title = self.sat_mapping.get(pos_key, f"{deg}°{orb_match.group(2).upper()}")
-            except: bouquet_title = filename.replace("lamedb", "").strip(" _-.")
-        else: bouquet_title = filename.replace("lamedb", "").strip(" _-.") or "Obsidian Bouquet"
+            neural_candidates = []
+            for s in all_services:
+                self.stats["total"] += 1
+                if s['cat'] not in selected_cats: continue
+                
+                # Prevent re-translating if overlap occurs
+                if 'tx' in s and s.get('method'):
+                    continue
 
-        safe_base = filename.replace("lamedb", "").strip(" _-.")
-        bq_name = f"userbouquet.{safe_base}.tv" if safe_base else "userbouquet.lamedb.tv"
+                raw_low = " ".join(s['raw'].split()).lower()
+                
+                # Use Local Dictionary Override
+                if raw_low in self.corrections:
+                    s['tx'], s['method'] = self.corrections[raw_low], "DICTIONARY"
+                    self.stats["method_dict"] += 1
+                    self.used_corrections.add(raw_low)
+                # Skip translation if bypass trigger words are present
+                elif s['cat'] not in selected_cats or any(bw in s['raw'].upper() for bw in self.BYPASS_WORDS):
+                    s['tx'], s['method'] = s['raw'], "BYPASSED"
+                    self.stats["method_bypass"] += 1
+                else:
+                    # Stage for AI Batch translation
+                    neural_candidates.append(s)
 
+            if self.neural_enabled and neural_candidates:
+                total_batches = (len(neural_candidates) + self.BATCH_SIZE - 1) // self.BATCH_SIZE
+                
+                throttle_rows = [
+                    f"RATE LIMIT: {self.t['c_accent']}Cascading Engine Active{self.t['c_rst']}",
+                    f"ESTIMATION: Processing {len(neural_candidates)} items across {total_batches} batches."
+                ]
+                UI.draw_solid_box(f"CONGESTION CONTROL ACTIVE [{selected_sat_name}]", throttle_rows, color=self.t['c_warn'], icon=self.t['icon_hint'])
+
+                for b_idx in range(0, len(neural_candidates), self.BATCH_SIZE):
+                    batch_num = (b_idx // self.BATCH_SIZE) + 1
+                    batch = neural_candidates[b_idx : b_idx + self.BATCH_SIZE]
+                    
+                    batch_header = f"BATCH {batch_num}/{total_batches} | GEMINI TRANSLATION STREAM"
+                    batch_logs = []
+                    
+                    translations, lat = self.batch_translate_gemini([s['clean'] for s in batch])
+                    
+                    # Apply translated data back to objects
+                    for s in batch:
+                        res = translations.get(s['clean'], s['clean'])
+                        if s['tags']: s['tx'] = f"{res} {' '.join(s['tags'])}".strip()
+                        else: s['tx'] = res
+                            
+                        s['method'] = "GEMINI_NEURAL"
+                        self.stats["method_deep"] += 1
+                        status_line = f" {self.t['icon_trans']} {s['raw'].ljust(35)} -> {s['tx']}"
+                        batch_logs.append(status_line)
+                    
+                    batch_logs.append(f" {self.t['border_h_mid'] * (UI.W-6)}")
+                    batch_logs.append(f" {self.t['icon_time']} Latency: {lat}s | {self.t['icon_batch']} Processed: {len(batch)} items")
+                    UI.draw_solid_box(batch_header, batch_logs, color=self.t['c_accent'], icon=self.t['icon_net'])
+
+            # Generate individual bouquet specific to this orbital position
+            clean_title = re.sub(r'[^a-zA-Z0-9\s.-]', '', selected_sat_name)
+            if not clean_title.strip(): clean_title = f"Bouquet_{target_mask}"
+            bq_name = f"userbouquet.{clean_title}.tv"
+            generated_bouquets.append(bq_name)
+
+            with open(bq_name, "w", encoding="utf-8") as bq:
+                bq.write(f"#NAME •••••| {selected_sat_name} |•••••\n")
+                marker_idx = 800
+                for cat in self.CATEGORY_ORDER:
+                    cat_services = sorted([s for s in all_services if s['cat'] == cat], key=lambda x: x['order'])
+                    if not cat_services: continue
+                    # Draw Bouquet Group Category Headers
+                    bq.write(f"#SERVICE 1:64:{marker_idx}:0:0:0:0:0:0:0::::| {cat} |::\n#DESCRIPTION | {cat} |\n")
+                    marker_idx += 1
+                    for s in cat_services:
+                        tx_name = s.get('tx', s['raw'])
+                        ref = self.format_bouquet_reference(s['sid'])
+                        bq.write(f"#SERVICE {ref}::{tx_name}\n#DESCRIPTION {tx_name}\n")
+
+        # ---------------------------------------------------------
+        # ALL ITERATIONS COMPLETE - SAVE GLOBAL FILES
+        # ---------------------------------------------------------
+
+        # Compile Mapping Log (Avoid Duplicates if overlap happened)
+        seen_sids = set()
+        for s in services_block:
+            tx = s.get('tx', s['raw'])
+            if 'method' in s and s['sid'] not in seen_sids:
+                self.mapping_export.append([s['sid'].split(":")[0], s['raw'], tx, s['method']])
+                seen_sids.add(s['sid'])
+
+        # Write translated Lamedb
         out_db = path if ovr else path + ".translated"
         with open(out_db, "w", encoding="utf-8") as f:
             f.writelines(header_block); f.write("services\n")
             for s in services_block:
                 tx = s.get('tx', s['raw'])
                 f.write(f"{s['sid']}\n{tx}\n{s['pid']}\n")
-                if 'method' in s: self.mapping_export.append([s['sid'].split(":")[0], s['raw'], tx, s['method']])
             f.write("end\n"); f.writelines(footer_block)
 
-        with open(bq_name, "w", encoding="utf-8") as bq:
-            bq.write(f"#NAME •••••| {bouquet_title} |•••••\n")
-            marker_idx = 800
-            for cat in self.CATEGORY_ORDER:
-                cat_services = sorted([s for s in all_services if s['cat'] == cat], key=lambda x: x['order'])
-                if not cat_services: continue
-                # Draw Bouquet Group Category Headers
-                bq.write(f"#SERVICE 1:64:{marker_idx}:0:0:0:0:0:0:0::::| {cat} |::\n#DESCRIPTION | {cat} |\n")
-                marker_idx += 1
-                for s in cat_services:
-                    tx_name = s.get('tx', s['raw'])
-                    ref = self.format_bouquet_reference(s['sid'])
-                    bq.write(f"#SERVICE {ref}::{tx_name}\n#DESCRIPTION {tx_name}\n")
-        
         # Write statistical outputs for user review
         with open("translation_mapping.txt", "w", encoding="utf-8") as fm:
             fm.write(tabulate(self.mapping_export, headers=["HEX_SID", "ORIGINAL", "TRANSLATED", "METHOD"], tablefmt="fancy_grid"))
 
-        # DICTIONARY USAGE REPORT (Helps Users clean their JSON files)
+        # Dictionary Usage Report 
         unused_corrections = set(self.corrections.keys()) - self.used_corrections
         with open("dictionary_usage_report.txt", "w", encoding="utf-8") as rep:
             rep.write("=== DICTIONARY CORRECTIONS USAGE REPORT ===\n\n")
@@ -1164,21 +1178,28 @@ class HorizonCore:
             for k in sorted(unused_corrections):
                 rep.write(f"'{k}' -> '{self.corrections[k]}'\n")
 
-        UI.draw_solid_box("EXTREME MISSION SUMMARY", [
+        # Dynamic Summary Rendering
+        bq_list_strs = [f"BOUQUET GENERATED:       {os.path.abspath(bq)}" for bq in generated_bouquets]
+
+        summary_rows = [
             f"TIMESTAMP:              {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}",
-            f"TOTAL SERVICES PROCESSED:{self.stats['total']}",
+            f"TOTAL SERVICES SCANNED:  {self.stats['total']}",
             f"──────────────────────────────────────────────────────────",
             f"DICTIONARY MATCHES:      {self.stats['method_dict']}",
             f"GEMINI AI TRANSLATIONS:  {self.stats['method_deep']}",
             f"BYPASSED/TECHNICAL:      {self.stats['method_bypass']}",
             f"──────────────────────────────────────────────────────────",
-            f"DATABASE OUTPUT:         {os.path.abspath(out_db)}",
-            f"BOUQUET GENERATED:       {os.path.abspath(bq_name)}",
+            f"DATABASE OUTPUT:         {os.path.abspath(out_db)}"
+        ]
+        summary_rows.extend(bq_list_strs)
+        summary_rows.extend([
             f"SESSION LOG:             {current_logger.filename}",
             f"JSON MAPPING LOG:        translation_mapping.txt",
             f"DICTIONARY USAGE LOG:    dictionary_usage_report.txt",
             f"SATELLITE STATE CONFIG:  {os.path.abspath('sat_configs.json')}"
-        ], color=self.t['c_ok'], icon=self.t['icon_stat'])
+        ])
+
+        UI.draw_solid_box("EXTREME MISSION SUMMARY", summary_rows, color=self.t['c_ok'], icon=self.t['icon_stat'])
 
 if __name__ == "__main__":
     try:
