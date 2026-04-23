@@ -1,0 +1,2453 @@
+eDVB services /4/
+transponders
+00c02a06:041c:0001
+	s 10758000:22000000:1:0:192:2:0:1:0:2:2
+/
+00c02a15:041d:0001
+	s 10773000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02a24:041e:0001
+	s 10788000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02a33:041f:0001
+	s 10803000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02a42:0420:0001
+	s 10818000:22000000:1:0:192:2:0:1:0:2:2
+/
+00c02a50:0421:0001
+	s 10832000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02a5f:0422:0001
+	s 10847000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02a7c:0424:0001
+	s 10876000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02a8b:0425:0001
+	s 10891000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02a9a:0426:0001
+	s 10906000:22000000:1:0:192:2:0:1:0:2:2
+/
+00c02aa9:000f:0085
+	s 10921000:22000000:0:0:192:2:0:0:0:2:2
+/
+00c02ab8:0428:0001
+	s 10936000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02ad4:0409:0001
+	s 10964000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02ae3:040a:0001
+	s 10979000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02af2:040b:0001
+	s 10994000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02b01:040c:0001
+	s 11009000:23500000:1:0:192:2:0:1:0:2:2
+/
+00c02b1e:040e:0001
+	s 11038000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02b2d:040f:0001
+	s 11053000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02b3c:0410:0001
+	s 11068000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02b4a:0411:0001
+	s 11082000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02b59:0412:0001
+	s 11097000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02b68:0413:0001
+	s 11112000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02b77:0414:0001
+	s 11127000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02b94:0416:0001
+	s 11156000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02bb2:0418:0001
+	s 11186000:22000000:1:0:192:2:0:1:0:2:2
+/
+00c02bdd:03ea:0001
+	s 11229000:22000000:1:0:192:2:0:1:0:2:2
+/
+00c02bec:03eb:0001
+	s 11244000:22000000:0:0:192:2:0:0:0:2:2
+/
+00c02bfb:03ec:0001
+	s 11259000:22000000:1:0:192:2:0:1:0:2:2
+/
+00c02c09:03ed:0001
+	s 11273000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02c18:03ee:0001
+	s 11288000:22000000:1:0:192:2:0:1:0:2:2
+/
+00c02c27:03ef:0001
+	s 11303000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02c36:03f0:0001
+	s 11318000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02c62:03f3:0001
+	s 11362000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02c71:03f4:0001
+	s 11377000:22000000:1:0:192:2:0:1:0:2:2
+/
+00c02c7f:03f5:0001
+	s 11391000:22000000:0:0:192:2:0:0:0:2:2
+/
+00c02c8e:03f6:0001
+	s 11406000:23500000:1:0:192:2:0:1:0:2:2
+/
+00c02c9d:03f7:0001
+	s 11421000:22000000:0:0:192:2:0:0:0:2:2
+/
+00c02cc8:03f9:0001
+	s 11464000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02ce6:03fb:0001
+	s 11494000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02cf5:03fc:0001
+	s 11509000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02d03:03fd:0001
+	s 11523000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02d12:03fe:0001
+	s 11538000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c02d21:03ff:0001
+	s 11553000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02d97:0407:0001
+	s 11671000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02dae:0001:0001
+	s 11694000:940000:1:0:192:2:0:0:0:2:2
+/
+00c02daf:0001:0001
+	s 11695000:285000:1:0:192:2:0:0:0:2:2
+/
+00c02ddb:042a:0001
+	s 11739000:27500000:1:0:192:2:0:0:0:2:2
+/
+00c02dee:0002:0085
+	s 11758000:27500000:0:0:192:2:0:1:0:2:2
+/
+00c02e02:042c:0001
+	s 11778000:29500000:1:0:192:2:0:1:0:2:2
+/
+00c02e16:0010:0085
+	s 11798000:27500000:0:0:192:2:0:1:0:2:2
+/
+00c02e3c:044d:0001
+	s 11836000:27500000:0:0:192:2:0:0:0:2:2
+/
+00c02e50:0430:0001
+	s 11856000:29700000:1:0:192:2:0:1:0:2:2
+/
+00c02e77:0432:0001
+	s 11895000:29700000:1:0:192:2:0:1:0:2:2
+/
+00c02e8a:0006:0085
+	s 11914000:27500000:0:0:192:2:0:1:0:2:2
+/
+00c02e9e:0434:0001
+	s 11934000:29700000:1:0:192:2:0:1:0:2:2
+/
+00c02eb2:0437:0001
+	s 11954000:27500000:0:0:192:2:0:0:0:2:2
+/
+00c02ec5:0436:0001
+	s 11973000:27500000:1:0:192:2:0:0:0:2:2
+/
+00c02ed8:000d:0085
+	s 11992000:27500000:0:0:192:2:0:1:0:2:2
+/
+00c02eec:0438:0001
+	s 12012000:29700000:1:0:192:2:0:1:0:2:2
+/
+00c02f00:0004:0085
+	s 12032000:27500000:0:0:192:2:0:1:0:2:2
+/
+00c02f13:043a:0001
+	s 12051000:27500000:1:0:192:2:0:0:0:2:2
+/
+00c02f3a:043c:0001
+	s 12090000:29700000:1:0:192:2:0:1:0:2:2
+/
+00c02f4e:0431:0001
+	s 12110000:27500000:0:0:192:2:0:0:0:2:2
+/
+00c02f74:0007:0085
+	s 12148000:27500000:0:0:192:2:0:0:0:2:2
+/
+00c02faf:0442:0001
+	s 12207000:29700000:1:0:192:2:0:1:0:2:2
+/
+00c02fc2:0443:0001
+	s 12226000:27500000:0:0:192:2:0:0:0:2:2
+/
+00c03010:000c:0085
+	s 12304000:27500000:0:0:192:2:0:1:0:2:2
+/
+00c03024:0448:0001
+	s 12324000:29700000:1:0:192:2:0:1:0:2:2
+/
+00c03038:0449:0001
+	s 12344000:27500000:0:0:192:2:0:1:0:2:2
+/
+00c0305e:000b:0085
+	s 12382000:27500000:0:0:192:2:0:1:0:2:2
+/
+00c03086:04b1:0001
+	s 12422000:27500000:0:0:192:2:0:0:0:2:2
+/
+00c030ac:0005:0085
+	s 12460000:27500000:0:0:192:2:0:0:0:2:2
+/
+00c030c0:0021:0085
+	s 12480000:27500000:1:0:192:2:0:0:0:2:2
+/
+00c030e3:0451:0035
+	s 12515000:22000000:0:0:192:2:0:0:0:2:2
+/
+00c03101:0453:0001
+	s 12545000:22000000:0:0:192:2:0:0:0:2:2
+/
+00c03108:0454:0001
+	s 12552000:22000000:1:0:192:2:0:0:0:2:2
+/
+00c0311e:0455:0001
+	s 12574000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c0313c:0457:0001
+	s 12604000:22000000:0:0:192:2:0:0:0:2:2
+/
+00c03142:0458:0001
+	s 12610000:22000000:1:0:192:2:0:1:0:2:2
+/
+00c03159:0459:0001
+	s 12633000:22000000:0:0:192:2:0:0:0:2:2
+/
+00c03160:045a:0001
+	s 12640000:23500000:1:0:192:2:0:1:0:2:2
+/
+00c03177:045b:0001
+	s 12663000:22000000:0:0:192:2:0:0:0:2:2
+/
+00c0317e:045c:0001
+	s 12670000:23500000:1:0:192:2:0:1:0:2:2
+/
+end
+services
+749a:00c02a06:041c:0001:1:0:0
+Movistar Plus+
+p:Movistar+
+749b:00c02a06:041c:0001:1:0:0
+LaLiga TV Hypermotion
+p:Movistar+
+749d:00c02a06:041c:0001:1:0:0
+DAZN LaLiga 2
+p:Movistar+
+749e:00c02a06:041c:0001:1:0:0
+M+ Liga de Campeones 2
+p:Movistar+
+749f:00c02a06:041c:0001:1:0:0
+M+ Liga de Campeones 3
+p:Movistar+
+74a2:00c02a06:041c:0001:1:0:0
+Mezzo Live
+p:Movistar+
+74a3:00c02a06:041c:0001:1:0:0
+M+ LaLiga 3
+p:Movistar+
+74a8:00c02a06:041c:0001:1:0:0
+M+ Vamos 2
+p:Movistar+
+526c:00c02a15:041d:0001:1:0:0
+Anixe HD Serie
+p:Unknown
+526f:00c02a15:041d:0001:1:0:0
+QVC Deutschland
+p:Unknown
+5270:00c02a15:041d:0001:1:0:0
+HSE
+p:Unknown
+5273:00c02a15:041d:0001:1:0:0
+Shop LC Deutschland
+p:Unknown
+5274:00c02a15:041d:0001:1:0:0
+Welt
+p:HD+
+527e:00c02a15:041d:0001:1:0:0
+Welt
+p:Canal+ Austria
+7691:00c02a24:041e:0001:1:0:0
+DAZN LaLiga 2
+p:Movistar+
+7692:00c02a24:041e:0001:1:0:0
+Multideporte
+p:Movistar+
+7695:00c02a24:041e:0001:1:0:0
+DAZN Baloncesto 3
+p:Movistar+
+7697:00c02a24:041e:0001:1:0:0
+Nick Jr España
+p:Movistar+
+7699:00c02a24:041e:0001:1:0:0
+Mezzo
+p:Movistar+
+769a:00c02a24:041e:0001:1:0:0
+LaLiga TV Bar 3
+p:Movistar+
+769b:00c02a24:041e:0001:1:0:0
+M+ Deportes 6
+p:Movistar+
+769d:00c02a24:041e:0001:1:0:0
+M+ LaLiga 2
+p:Movistar+
+769e:00c02a24:041e:0001:1:0:0
+La Sexta
+p:Movistar+
+769f:00c02a24:041e:0001:1:0:0
+M+ Liga de Campeones 3
+p:Movistar+
+76a4:00c02a24:041e:0001:1:0:0
+DAZN 1 España
+p:Movistar+
+76a5:00c02a24:041e:0001:1:0:0
+Eurosport 2
+p:Movistar+
+157c:00c02a33:041f:0001:1:0:0
+Disney Channel Deutschland
+p:HD+
+157d:00c02a33:041f:0001:1:0:0
+HSE Extra
+p:Unknown
+157e:00c02a33:041f:0001:1:0:0
+1-2-3 TV
+p:Unknown
+157f:00c02a33:041f:0001:1:0:0
+Deluxe Music
+p:HD+
+1580:00c02a33:041f:0001:1:0:0
+QVC Zwei
+p:Unknown
+1581:00c02a33:041f:0001:1:0:0
+Sport 1
+p:Canal+ Austria
+1586:00c02a33:041f:0001:1:0:0
+Disney Channel Deutschland
+p:Canal+ Austria
+1589:00c02a33:041f:0001:1:0:0
+Deluxe Music
+p:Canal+ Austria
+74ff:00c02a42:0420:0001:1:0:0
+LaLiga TV Bar
+p:Movistar+
+7504:00c02a42:0420:0001:1:0:0
+Primera Federación
+p:Movistar+
+7508:00c02a42:0420:0001:1:0:0
+M+ Vamos
+p:Movistar+
+7509:00c02a42:0420:0001:1:0:0
+M+ Acción
+p:Movistar+
+750b:00c02a42:0420:0001:1:0:0
+M+ Drama
+p:Movistar+
+750c:00c02a42:0420:0001:1:0:0
+M+ Originales
+p:Movistar+
+750d:00c02a42:0420:0001:1:0:0
+M+ LaLiga 2
+p:Movistar+
+750f:00c02a42:0420:0001:1:0:0
+M+ LaLiga
+p:Movistar+
+ef10:00c02a50:0421:0001:1:0:0
+RTL Deutschland
+p:HD+
+ef11:00c02a50:0421:0001:1:0:0
+Vox Deutschland
+p:HD+
+ef14:00c02a50:0421:0001:1:0:0
+N-TV
+p:HD+
+ef15:00c02a50:0421:0001:1:0:0
+RTL Zwei Deutschland
+p:HD+
+ef16:00c02a50:0421:0001:1:0:0
+RTL Up
+p:HD+
+ef17:00c02a50:0421:0001:1:0:0
+Voxup
+p:HD+
+75c6:00c02a5f:0422:0001:1:0:0
+Canal Portada
+p:Unknown
+7789:00c02a7c:0424:0001:1:0:0
+M+ Golf
+p:Movistar+
+778a:00c02a7c:0424:0001:1:0:0
+Baby TV Europe
+p:Movistar+
+778b:00c02a7c:0424:0001:1:0:0
+Playboy TV Iberia
+p:Movistar+
+778c:00c02a7c:0424:0001:1:0:0
+Telecinco
+p:Movistar+
+778d:00c02a7c:0424:0001:1:0:0
+National Geographic España
+p:Movistar+
+778e:00c02a7c:0424:0001:1:0:0
+M+ Vamos Bar
+p:Movistar+
+778f:00c02a7c:0424:0001:1:0:0
+M+ Deportes
+p:Movistar+
+7790:00c02a7c:0424:0001:1:0:0
+Calle 13
+p:Movistar+
+7792:00c02a7c:0424:0001:1:0:0
+Cuatro
+p:Movistar+
+7793:00c02a7c:0424:0001:1:0:0
+LaLiga TV Bar
+p:Movistar+
+7795:00c02a7c:0424:0001:1:0:0
+BBC Top Gear
+p:Movistar+
+7796:00c02a7c:0424:0001:1:0:0
+Syfy España
+p:Movistar+
+7797:00c02a7c:0424:0001:1:0:0
+M+ LaLiga
+p:Movistar+
+286e:00c02a8b:0425:0001:1:0:0
+RBB Brandenburg
+p:Unknown
+286f:00c02a8b:0425:0001:1:0:0
+RBB Berlin
+p:Unknown
+2870:00c02a8b:0425:0001:1:0:0
+MDR Fernsehen Sachsen
+p:Unknown
+2871:00c02a8b:0425:0001:1:0:0
+MDR Fernsehen Sachsen-Anhalt
+p:Unknown
+2872:00c02a8b:0425:0001:1:0:0
+MDR Fernsehen Thüringen
+p:Unknown
+2873:00c02a8b:0425:0001:1:0:0
+HR Fernsehen
+p:Unknown
+28e1:00c02a8b:0425:0001:2:0:0
+HR 1
+p:Unknown
+28e2:00c02a8b:0425:0001:2:0:0
+HR 2 Kultur
+p:Unknown
+28e3:00c02a8b:0425:0001:2:0:0
+HR 3
+p:Unknown
+28e4:00c02a8b:0425:0001:2:0:0
+HR 4
+p:Unknown
+28e5:00c02a8b:0425:0001:2:0:0
+You FM
+p:Unknown
+28e6:00c02a8b:0425:0001:2:0:0
+HR Info
+p:Unknown
+28ea:00c02a8b:0425:0001:2:0:0
+MDR Sachsen
+p:Unknown
+28eb:00c02a8b:0425:0001:2:0:0
+MDR Sachsen-Anhalt
+p:Unknown
+28ec:00c02a8b:0425:0001:2:0:0
+MDR Thüringen Mitte/West
+p:Unknown
+28ed:00c02a8b:0425:0001:2:0:0
+MDR Kultur
+p:Unknown
+28ee:00c02a8b:0425:0001:2:0:0
+MDR Jump
+p:Unknown
+28ef:00c02a8b:0425:0001:2:0:0
+MDR Sputnik
+p:Unknown
+28f0:00c02a8b:0425:0001:2:0:0
+MDR Aktuell
+p:Unknown
+28f1:00c02a8b:0425:0001:2:0:0
+MDR Klassik
+p:Unknown
+28f4:00c02a8b:0425:0001:2:0:0
+RBB 24 Inforadio
+p:Unknown
+28f5:00c02a8b:0425:0001:2:0:0
+RBB Radio 3
+p:Unknown
+28f6:00c02a8b:0425:0001:2:0:0
+Antenne Brandenburg Potsdam
+p:Unknown
+28f7:00c02a8b:0425:0001:2:0:0
+RBB 88.8
+p:Unknown
+28f8:00c02a8b:0425:0001:2:0:0
+RBB Radio Eins
+p:Unknown
+28f9:00c02a8b:0425:0001:2:0:0
+RBB Fritz
+p:Unknown
+7531:00c02a9a:0426:0001:1:0:0
+DAZN F1
+p:Movistar+
+7532:00c02a9a:0426:0001:1:0:0
+M+ Deportes 2
+p:Movistar+
+7533:00c02a9a:0426:0001:1:0:0
+M+ Indie
+p:Movistar+
+7534:00c02a9a:0426:0001:1:0:0
+DAZN LaLiga
+p:Movistar+
+7535:00c02a9a:0426:0001:1:0:0
+Eurosport 1
+p:Movistar+
+7537:00c02a9a:0426:0001:1:0:0
+M+ Comedia
+p:Movistar+
+7539:00c02a9a:0426:0001:1:0:0
+M+ Estrenos
+p:Movistar+
+0023:00c02aa9:000f:0085:1:0:0
+Schlager Deluxe
+p:Unknown
+0026:00c02aa9:000f:0085:1:0:0
+HGTV Deutschland
+p:Unknown
+7820:00c02ab8:0428:0001:1:0:0
+M+ Liga de Campeones 11
+p:Movistar+
+7821:00c02ab8:0428:0001:1:0:0
+M+ Liga de Campeones 12
+p:Movistar+
+7822:00c02ab8:0428:0001:1:0:0
+M+ Liga de Campeones 7
+p:Movistar+
+7824:00c02ab8:0428:0001:1:0:0
+M+ Liga de Campeones 8
+p:Movistar+
+7825:00c02ab8:0428:0001:1:0:0
+LaLiga TV Hypermotion
+p:Movistar+
+7827:00c02ab8:0428:0001:1:0:0
+DAZN Baloncesto
+p:Movistar+
+7829:00c02ab8:0428:0001:1:0:0
+M+ Liga de Campeones 6
+p:Movistar+
+782a:00c02ab8:0428:0001:1:0:0
+LaLiga TV Hypermotion 3
+p:Movistar+
+782b:00c02ab8:0428:0001:1:0:0
+M+ Liga de Campeones 13
+p:Movistar+
+782c:00c02ab8:0428:0001:1:0:0
+M+ Liga de Campeones 9
+p:Movistar+
+782d:00c02ab8:0428:0001:1:0:0
+M+ Deportes 7
+p:Movistar+
+782f:00c02ab8:0428:0001:1:0:0
+M+ Liga de Campeones 10
+p:Movistar+
+7830:00c02ab8:0428:0001:1:0:0
+LaLiga TV Bar 4
+p:Movistar+
+7831:00c02ab8:0428:0001:1:0:0
+LaLiga TV Hypermotion 2
+p:Movistar+
+2774:00c02ad4:0409:0001:1:0:0
+TLC Germany
+p:HD+
+2776:00c02ad4:0409:0001:1:0:0
+Handystar
+p:Unknown
+2778:00c02ad4:0409:0001:1:0:0
+Channel 21
+p:Unknown
+2779:00c02ad4:0409:0001:1:0:0
+QVC Style Deutschland
+p:Unknown
+277e:00c02ad4:0409:0001:1:0:0
+TLC Germany
+p:Unknown
+77bc:00c02ae3:040a:0001:1:0:0
+Factoria de Ficción
+p:Movistar+
+77bd:00c02ae3:040a:0001:1:0:0
+M+ LaLiga 3
+p:Movistar+
+77be:00c02ae3:040a:0001:1:0:0
+DAZN 3 España
+p:Movistar+
+77bf:00c02ae3:040a:0001:1:0:0
+M+ Deportes 4
+p:Movistar+
+77c0:00c02ae3:040a:0001:1:0:0
+DAZN 4 España
+p:Movistar+
+77c1:00c02ae3:040a:0001:1:0:0
+BBC Series
+p:Movistar+
+77c2:00c02ae3:040a:0001:1:0:0
+M+ Deportes 3
+p:Movistar+
+77c3:00c02ae3:040a:0001:1:0:0
+M+ Liga de Campeones 2
+p:Movistar+
+77c4:00c02ae3:040a:0001:1:0:0
+M+ Liga de Campeones 5
+p:Movistar+
+77c6:00c02ae3:040a:0001:1:0:0
+M+ Clásicos
+p:Movistar+
+77c7:00c02ae3:040a:0001:1:0:0
+DreamWorks TV España
+p:Movistar+
+77c8:00c02ae3:040a:0001:1:0:0
+M+ Deportes 5
+p:Movistar+
+77c9:00c02ae3:040a:0001:1:0:0
+M+ Deportes 8
+p:Movistar+
+77d8:00c02ae3:040a:0001:1:0:0
+M+ Liga de Campeones 4
+p:Movistar+
+0001:00c02af2:040b:0001:1:0:0
+SES Ultra HD Demo Channel
+p:Unknown
+0002:00c02af2:040b:0001:1:0:0
+UHD 1
+p:Canal+ Austria
+183d:00c02af2:040b:0001:1:0:0
+ProSiebenSat. 1 UHD
+p:HD+
+2bc0:00c02b01:040c:0001:1:0:0
+Antena 3
+p:Astra TV
+2bc1:00c02b01:040c:0001:1:0:0
+Neox
+p:Astra TV
+2bc2:00c02b01:040c:0001:1:0:0
+Nova
+p:Astra TV
+2bc3:00c02b01:040c:0001:1:0:0
+Atreseries
+p:Astra TV
+2bc4:00c02b01:040c:0001:1:0:0
+La Sexta
+p:Astra TV
+2bc5:00c02b01:040c:0001:1:0:0
+Mega
+p:Astra TV
+2bc6:00c02b01:040c:0001:1:0:0
+Telecinco
+p:Astra TV
+2bc7:00c02b01:040c:0001:1:0:0
+Factoria de Ficción
+p:Astra TV
+2bc8:00c02b01:040c:0001:1:0:0
+Boing España
+p:Astra TV
+2bc9:00c02b01:040c:0001:1:0:0
+Cuatro
+p:Astra TV
+2bca:00c02b01:040c:0001:1:0:0
+Divinity
+p:Astra TV
+2bcb:00c02b01:040c:0001:1:0:0
+Energy
+p:Astra TV
+2bcc:00c02b01:040c:0001:1:0:0
+Be Mad
+p:Astra TV
+2bcd:00c02b01:040c:0001:1:0:0
+Real Madrid TV Español
+p:Astra TV
+76c0:00c02b1e:040e:0001:1:0:0
+M+ Estrenos
+p:Movistar+
+76c1:00c02b1e:040e:0001:1:0:0
+Clan
+p:Movistar+
+76c2:00c02b1e:040e:0001:1:0:0
+TVE La 1 Madrid
+p:Movistar+
+76c3:00c02b1e:040e:0001:1:0:0
+BBC Lifestyle España
+p:Movistar+
+76c4:00c02b1e:040e:0001:1:0:0
+BBC Earth España
+p:Movistar+
+76c5:00c02b1e:040e:0001:1:0:0
+LaLiga TV Bar 2
+p:Movistar+
+76c7:00c02b1e:040e:0001:1:0:0
+TCM España
+p:Movistar+
+76c8:00c02b1e:040e:0001:1:0:0
+Comedy Central España
+p:Movistar+
+76c9:00c02b1e:040e:0001:1:0:0
+DAZN LaLiga
+p:Movistar+
+76ca:00c02b1e:040e:0001:1:0:0
+M+ Hits
+p:Movistar+
+76cb:00c02b1e:040e:0001:1:0:0
+Warner TV España
+p:Movistar+
+76cc:00c02b1e:040e:0001:1:0:0
+Teledeporte
+p:Movistar+
+76ce:00c02b1e:040e:0001:1:0:0
+BBC Food
+p:Movistar+
+76cf:00c02b1e:040e:0001:1:0:0
+M+ Indie
+p:Movistar+
+2887:00c02b2d:040f:0001:1:0:0
+Tagesschau 24
+p:Unknown
+2888:00c02b2d:040f:0001:1:0:0
+One
+p:Unknown
+2889:00c02b2d:040f:0001:1:0:0
+ARD Alpha
+p:Unknown
+288a:00c02b2d:040f:0001:1:0:0
+SR Fernsehen
+p:Unknown
+288b:00c02b2d:040f:0001:2:0:0
+Radio Bremen Fernsehen
+p:Unknown
+28a0:00c02b2d:040f:0001:2:0:0
+Bayern 1 Oberbayern
+p:Unknown
+28a1:00c02b2d:040f:0001:2:0:0
+Bayern 2
+p:Unknown
+28a2:00c02b2d:040f:0001:2:0:0
+Bayern 3
+p:Unknown
+28a3:00c02b2d:040f:0001:2:0:0
+BR Klassik
+p:Unknown
+28a4:00c02b2d:040f:0001:2:0:0
+BR 24
+p:Unknown
+28a5:00c02b2d:040f:0001:2:0:0
+BR 24 Live
+p:Unknown
+28a6:00c02b2d:040f:0001:2:0:0
+BR Schlager
+p:Unknown
+28a8:00c02b2d:040f:0001:2:0:0
+BR Heimat
+p:Unknown
+28ac:00c02b2d:040f:0001:2:0:0
+NDR 2
+p:Unknown
+28ad:00c02b2d:040f:0001:2:0:0
+NDR Kultur
+p:Unknown
+28ae:00c02b2d:040f:0001:2:0:0
+NDR Info Niedersachsen
+p:Unknown
+28af:00c02b2d:040f:0001:2:0:0
+N-Joy
+p:Unknown
+28b0:00c02b2d:040f:0001:2:0:0
+NDR 90.3
+p:Unknown
+28b1:00c02b2d:040f:0001:2:0:0
+NDR 1 Welle Nord Kiel
+p:Unknown
+28b2:00c02b2d:040f:0001:2:0:0
+NDR 1 Radio MV Schwerin
+p:Unknown
+28b3:00c02b2d:040f:0001:2:0:0
+NDR 1 Niedersachsen Hannover
+p:Unknown
+28b4:00c02b2d:040f:0001:2:0:0
+NDR Info Spezial
+p:Unknown
+28b5:00c02b2d:040f:0001:2:0:0
+NDR Blue
+p:Unknown
+28b6:00c02b2d:040f:0001:2:0:0
+NDR Schlager
+p:Unknown
+28ba:00c02b2d:040f:0001:2:0:0
+Bremen Eins
+p:Unknown
+28bb:00c02b2d:040f:0001:2:0:0
+Bremen Zwei
+p:Unknown
+28bc:00c02b2d:040f:0001:2:0:0
+Bremen Vier
+p:Unknown
+28bd:00c02b2d:040f:0001:2:0:0
+Bremen Next
+p:Unknown
+28c0:00c02b2d:040f:0001:2:0:0
+SR 1
+p:Unknown
+28c1:00c02b2d:040f:0001:2:0:0
+SR Kultur
+p:Unknown
+28c2:00c02b2d:040f:0001:2:0:0
+SR 3 Saarlandwelle
+p:Unknown
+28c8:00c02b2d:040f:0001:2:0:0
+SWR 1 Baden-Württemberg
+p:Unknown
+28c9:00c02b2d:040f:0001:2:0:0
+SWR 1 Rheinland-Pfalz
+p:Unknown
+28ca:00c02b2d:040f:0001:2:0:0
+SWR Kultur
+p:Unknown
+28cb:00c02b2d:040f:0001:2:0:0
+SWR 3
+p:Unknown
+28cc:00c02b2d:040f:0001:2:0:0
+SWR 4 Stuttgart
+p:Unknown
+28cd:00c02b2d:040f:0001:2:0:0
+SWR 4 Mainz
+p:Unknown
+28ce:00c02b2d:040f:0001:2:0:0
+Das Ding
+p:Unknown
+28cf:00c02b2d:040f:0001:2:0:0
+SWR Aktuell
+p:Unknown
+28d0:00c02b2d:040f:0001:2:0:0
+SWR Kultur
+p:Unknown
+28d3:00c02b2d:040f:0001:2:0:0
+WDR 1 Live
+p:Unknown
+28d4:00c02b2d:040f:0001:2:0:0
+WDR 2 Rhein und Ruhr
+p:Unknown
+28d5:00c02b2d:040f:0001:2:0:0
+WDR 3
+p:Unknown
+28d6:00c02b2d:040f:0001:2:0:0
+WDR 4
+p:Unknown
+28d7:00c02b2d:040f:0001:2:0:0
+WDR 5
+p:Unknown
+28d8:00c02b2d:040f:0001:2:0:0
+Cosmo
+p:Unknown
+28d9:00c02b2d:040f:0001:2:0:0
+WDR 1 Live Diggi
+p:Unknown
+28da:00c02b2d:040f:0001:2:0:0
+WDR Die Maus
+p:Unknown
+28db:00c02b2d:040f:0001:2:0:0
+WDR Event
+p:Unknown
+7a48:00c02b3c:0410:0001:1:0:0
+Die Neue Zeit TV
+p:Unknown
+7a49:00c02b3c:0410:0001:1:0:0
+Telesur
+p:Unknown
+7a4a:00c02b3c:0410:0001:1:0:0
+Sender Neu Jerusalem
+p:Unknown
+7a4c:00c02b3c:0410:0001:1:0:0
+Sachsen Eins
+p:Unknown
+7a4d:00c02b3c:0410:0001:1:0:0
+AnewZ
+p:Unknown
+2e87:00c02b4a:0411:0001:1:0:0
+RTL Austria
+p:Sky Deutschland
+2e91:00c02b4a:0411:0001:1:0:0
+Vox Austria
+p:Sky Deutschland
+2e9b:00c02b4a:0411:0001:1:0:0
+Toggo Deutschland
+p:Sky Deutschland
+2ea5:00c02b4a:0411:0001:1:0:0
+RTL Zwei Austria
+p:Sky Deutschland
+2eaf:00c02b4a:0411:0001:1:0:0
+Nitro Deutschland
+p:Sky Deutschland
+2eb9:00c02b4a:0411:0001:1:0:0
+N-TV Austria
+p:Unknown
+7568:00c02b59:0412:0001:1:0:0
+DAZN Baloncesto 2
+p:Movistar+
+7569:00c02b59:0412:0001:1:0:0
+DAZN Moto GP
+p:Movistar+
+756c:00c02b59:0412:0001:1:0:0
+M+ Vamos Bar 2
+p:Movistar+
+756d:00c02b59:0412:0001:1:0:0
+M+ Golf 2
+p:Movistar+
+7574:00c02b59:0412:0001:1:0:0
+DAZN 1 Bar
+p:Movistar+
+7577:00c02b59:0412:0001:1:0:0
+Stingray Classica
+p:Movistar+
+7579:00c02b59:0412:0001:1:0:0
+M+ Vamos 2
+p:Movistar+
+757b:00c02b59:0412:0001:1:0:0
+M+ Liga de Campeones
+p:Movistar+
+757f:00c02b59:0412:0001:1:0:0
+AXN Movies España
+p:Movistar+
+7582:00c02b59:0412:0001:1:0:0
+DAZN 2 Bar
+p:Movistar+
+7584:00c02b59:0412:0001:1:0:0
+Primera Federación
+p:Movistar+
+7587:00c02b59:0412:0001:1:0:0
+Neox
+p:Movistar+
+7588:00c02b59:0412:0001:1:0:0
+Movistar Plus+
+p:Movistar+
+30d6:00c02b68:0413:0001:1:0:0
+Eurosport 1 Germany
+p:HD+
+30ea:00c02b68:0413:0001:1:0:0
+Eurosport 1 Germany
+p:Unknown
+30f2:00c02b68:0413:0001:1:0:0
+K-TV
+p:Unknown
+7888:00c02b77:0414:0001:1:0:0
+Boing España
+p:Movistar+
+7889:00c02b77:0414:0001:1:0:0
+Energy
+p:Movistar+
+788b:00c02b77:0414:0001:1:0:0
+Divinity
+p:Movistar+
+788f:00c02b77:0414:0001:1:0:0
+MTV España
+p:Movistar+
+7890:00c02b77:0414:0001:1:0:0
+Gol Play
+p:Movistar+
+7891:00c02b77:0414:0001:1:0:0
+Be Mad
+p:Movistar+
+7892:00c02b77:0414:0001:1:0:0
+M+ LaLiga 4
+p:Movistar+
+7729:00c02b94:0416:0001:1:0:0
+Canal Sur Andalucía
+p:Unknown
+772a:00c02b94:0416:0001:1:0:0
+DAZN 2 España
+p:Movistar+
+772b:00c02b94:0416:0001:1:0:0
+Caza y Pesca
+p:Movistar+
+772c:00c02b94:0416:0001:1:0:0
+Antena 3
+p:Movistar+
+772d:00c02b94:0416:0001:1:0:0
+Eurosport 1
+p:Movistar+
+772e:00c02b94:0416:0001:1:0:0
+Nickelodeon España
+p:Movistar+
+772f:00c02b94:0416:0001:1:0:0
+Discovery Channel Iberia
+p:Movistar+
+7730:00c02b94:0416:0001:1:0:0
+Cosmo
+p:Movistar+
+7731:00c02b94:0416:0001:1:0:0
+BBC History
+p:Movistar+
+7732:00c02b94:0416:0001:1:0:0
+DAZN F1
+p:Movistar+
+7733:00c02b94:0416:0001:1:0:0
+M+ Vamos
+p:Movistar+
+7736:00c02b94:0416:0001:1:0:0
+M+ Cine Español
+p:Movistar+
+7738:00c02b94:0416:0001:1:0:0
+Canal 24 Horas
+p:Movistar+
+7739:00c02b94:0416:0001:1:0:0
+M+ Deportes 2
+p:Movistar+
+10cc:00c02bb2:0418:0001:1:0:0
+Sportdigital Fussball
+p:Canal+ Austria
+10cd:00c02bb2:0418:0001:1:0:0
+Sportdigital 1+
+p:Sky Deutschland
+10ce:00c02bb2:0418:0001:1:0:0
+ESports One
+p:Sky Deutschland
+10cf:00c02bb2:0418:0001:1:0:0
+Sportdigital Edge
+p:Sky Deutschland
+10d0:00c02bb2:0418:0001:1:0:0
+Waidwerk
+p:Sky Deutschland
+10d1:00c02bb2:0418:0001:1:0:0
+ClipMyHorse TV
+p:Sky Deutschland
+1389:00c02bdd:03ea:0001:1:0:0
+BBC News Europe
+p:Unknown
+139d:00c02bdd:03ea:0001:1:0:0
+NHK World Japan
+p:Unknown
+13a7:00c02bdd:03ea:0001:1:0:0
+Aljazeera English
+p:Unknown
+33a6:00c02bec:03eb:0001:1:0:0
+Lilo TV
+p:Unknown
+33a7:00c02bec:03eb:0001:1:0:0
+ATV 2
+p:ORF Digital
+33a8:00c02bec:03eb:0001:1:0:0
+Bibel TV
+p:Unknown
+33ab:00c02bec:03eb:0001:1:0:0
+Hope TV Deutsch
+p:Unknown
+33ac:00c02bec:03eb:0001:1:0:0
+ATV
+p:ORF Digital
+33ad:00c02bec:03eb:0001:1:0:0
+RTL Up Österreich
+p:Unknown
+78b4:00c02bfb:03ec:0001:1:0:0
+M+ Liga de Campeones
+p:Movistar+
+78b5:00c02bfb:03ec:0001:1:0:0
+M+ Vamos 3
+p:Movistar+
+78b6:00c02bfb:03ec:0001:1:0:0
+M+ Hits
+p:Movistar+
+78b7:00c02bfb:03ec:0001:1:0:0
+M+ Golf
+p:Movistar+
+78b8:00c02bfb:03ec:0001:1:0:0
+Caza y Pesca
+p:Movistar+
+78be:00c02bfb:03ec:0001:1:0:0
+M+ Documentales
+p:Movistar+
+78bf:00c02bfb:03ec:0001:1:0:0
+M+ Clásicos
+p:Movistar+
+78c0:00c02bfb:03ec:0001:1:0:0
+M+ Deportes
+p:Movistar+
+33f5:00c02c09:03ed:0001:1:0:0
+ORF 2
+p:ORF Digital
+33f6:00c02c09:03ed:0001:1:0:0
+ORF 2 Kärnten
+p:ORF Digital
+33f7:00c02c09:03ed:0001:1:0:0
+ORF 2 Burgenland
+p:ORF Digital
+33f8:00c02c09:03ed:0001:1:0:0
+ORF 2 Oberösterreich
+p:ORF Digital
+33f9:00c02c09:03ed:0001:1:0:0
+ORF 2 Salzburg
+p:ORF Digital
+33fa:00c02c09:03ed:0001:1:0:0
+ORF 2 Tirol
+p:ORF Digital
+33fb:00c02c09:03ed:0001:1:0:0
+ORF 2 Vorarlberg
+p:ORF Digital
+33fc:00c02c09:03ed:0001:1:0:0
+ORF III
+p:ORF Digital
+33fd:00c02c09:03ed:0001:1:0:0
+ORF Sport +
+p:ORF Digital
+33fe:00c02c09:03ed:0001:1:0:0
+ORF 2 Europe
+p:Unknown
+33ff:00c02c09:03ed:0001:1:0:0
+Aristo TV
+p:Unknown
+3400:00c02c09:03ed:0001:1:0:0
+R9
+p:Unknown
+3401:00c02c09:03ed:0001:1:0:0
+Krone TV
+p:Unknown
+3402:00c02c09:03ed:0001:1:0:0
+Oe24 TV
+p:Unknown
+3403:00c02c09:03ed:0001:1:0:0
+TV 1 Oberösterreich
+p:Unknown
+3404:00c02c09:03ed:0001:1:0:0
+Stimmungsgarten TV
+p:Unknown
+3405:00c02c09:03ed:0001:1:0:0
+Melodie Express
+p:Unknown
+1086:00c02c18:03ee:0001:1:0:0
+QVC Deutschland
+p:Unknown
+1090:00c02c18:03ee:0001:1:0:0
+TV TRWAM
+p:Unknown
+109a:00c02c18:03ee:0001:1:0:0
+La 7
+p:Astra TV
+109b:00c02c18:03ee:0001:1:0:0
+TV 3 Cat
+p:Astra TV
+1091:00c02c18:03ee:0001:2:0:0
+Radio Maryja
+p:Unknown
+132f:00c02c27:03ef:0001:1:0:0
+ORF 1
+p:ORF Digital
+1330:00c02c27:03ef:0001:1:0:0
+ORF 2
+p:ORF Digital
+1331:00c02c27:03ef:0001:1:0:0
+Servus TV
+p:ORF Digital
+1332:00c02c27:03ef:0001:1:0:0
+DF1
+p:Unknown
+1334:00c02c27:03ef:0001:1:0:0
+ORF 2 Niederösterreich
+p:ORF Digital
+1335:00c02c27:03ef:0001:2:0:0
+Hitradio Ö3
+p:Unknown
+1342:00c02c27:03ef:0001:1:0:0
+RiC
+p:Unknown
+1338:00c02c27:03ef:0001:2:0:0
+Hitradio Ö3
+p:Unknown
+134c:00c02c27:03ef:0001:2:0:0
+Ö1
+p:Unknown
+134d:00c02c27:03ef:0001:2:0:0
+Radio FM 4
+p:Unknown
+134e:00c02c27:03ef:0001:2:0:0
+Radio Wien
+p:Unknown
+134f:00c02c27:03ef:0001:2:0:0
+Radio Niederösterreich
+p:Unknown
+1350:00c02c27:03ef:0001:2:0:0
+Radio Burgenland
+p:Unknown
+1351:00c02c27:03ef:0001:2:0:0
+Radio Oberösterreich
+p:Unknown
+1352:00c02c27:03ef:0001:2:0:0
+Radio Salzburg
+p:Unknown
+1353:00c02c27:03ef:0001:2:0:0
+Radio Tirol
+p:Unknown
+1354:00c02c27:03ef:0001:2:0:0
+Radio Vorarlberg
+p:Unknown
+1355:00c02c27:03ef:0001:2:0:0
+Radio Steiermark
+p:Unknown
+1356:00c02c27:03ef:0001:2:0:0
+Radio Kärnten
+p:Unknown
+7468:00c02c36:03f0:0001:1:0:0
+M+ Vamos 3
+p:Movistar+
+7469:00c02c36:03f0:0001:1:0:0
+Nova
+p:Movistar+
+746a:00c02c36:03f0:0001:1:0:0
+Iberalia TV
+p:Movistar+
+746b:00c02c36:03f0:0001:1:0:0
+Disney Channel España
+p:Movistar+
+746c:00c02c36:03f0:0001:1:0:0
+M+ Acción
+p:Movistar+
+746d:00c02c36:03f0:0001:1:0:0
+M+ Comedia
+p:Movistar+
+746e:00c02c36:03f0:0001:1:0:0
+M+ Drama
+p:Movistar+
+746f:00c02c36:03f0:0001:1:0:0
+Star Channel España
+p:Movistar+
+7471:00c02c36:03f0:0001:1:0:0
+M+ Documentales
+p:Movistar+
+7472:00c02c36:03f0:0001:1:0:0
+National Geographic Wild España
+p:Movistar+
+7473:00c02c36:03f0:0001:1:0:0
+Aragón TV Internacional
+p:Unknown
+7474:00c02c36:03f0:0001:1:0:0
+TVE La 2
+p:Movistar+
+7477:00c02c36:03f0:0001:1:0:0
+AXN España
+p:Movistar+
+7478:00c02c36:03f0:0001:1:0:0
+M+ Originales
+p:Movistar+
+2b66:00c02c62:03f3:0001:1:0:0
+ZDF
+p:Unknown
+2b7a:00c02c62:03f3:0001:1:0:0
+ZDF Neo
+p:Unknown
+2bb6:00c02c62:03f3:0001:2:0:0
+Deutschlandfunk Kultur
+p:Unknown
+2bb7:00c02c62:03f3:0001:2:0:0
+Deutschlandfunk
+p:Unknown
+2bb8:00c02c62:03f3:0001:2:0:0
+Deutschlandfunk Nova
+p:Unknown
+2bb9:00c02c62:03f3:0001:2:0:0
+Dokumente und Debatten
+p:Unknown
+18ed:00c02c71:03f4:0001:1:0:0
+CGTN
+p:Unknown
+18ee:00c02c71:03f4:0001:1:0:0
+CGTN Documentary
+p:Unknown
+18ef:00c02c71:03f4:0001:1:0:0
+CGTN Français
+p:Unknown
+18f4:00c02c71:03f4:0001:1:0:0
+EuroNews Deutsch
+p:Unknown
+18f5:00c02c71:03f4:0001:1:0:0
+CNBC Europe
+p:Unknown
+18f7:00c02c71:03f4:0001:1:0:0
+Daystar TV Español
+p:Unknown
+18f9:00c02c71:03f4:0001:1:0:0
+Telesur English
+p:Unknown
+18f6:00c02c71:03f4:0001:2:0:0
+Naiz Irratia
+p:Unknown
+307a:00c02c7f:03f5:0001:1:0:0
+RTL UHD
+p:Canal+ Austria
+2c24:00c02c8e:03f6:0001:1:0:0
+TVE La 1
+p:Astra TV
+2c25:00c02c8e:03f6:0001:1:0:0
+TVE La 2
+p:Astra TV
+2c26:00c02c8e:03f6:0001:1:0:0
+Canal 24 Horas
+p:Astra TV
+2c27:00c02c8e:03f6:0001:1:0:0
+Clan
+p:Astra TV
+2c28:00c02c8e:03f6:0001:1:0:0
+Teledeporte
+p:Astra TV
+2c29:00c02c8e:03f6:0001:1:0:0
+Trece
+p:Astra TV
+2c2a:00c02c8e:03f6:0001:1:0:0
+DKiss
+p:Astra TV
+2c2b:00c02c8e:03f6:0001:1:0:0
+À Punt
+p:Astra TV
+2c2c:00c02c8e:03f6:0001:1:0:0
+ETB 1
+p:Astra TV
+2c2d:00c02c8e:03f6:0001:1:0:0
+TPA
+p:Astra TV
+1260:00c02c9d:03f7:0001:1:0:0
+3+
+p:Unknown
+ef74:00c02cc8:03f9:0001:1:0:0
+Sat. 1 Deutschland
+p:HD+
+ef75:00c02cc8:03f9:0001:1:0:0
+ProSieben Deutschland
+p:HD+
+ef76:00c02cc8:03f9:0001:1:0:0
+Kabel Eins Deutschland
+p:HD+
+ef77:00c02cc8:03f9:0001:1:0:0
+Sixx Deutschland
+p:HD+
+ef78:00c02cc8:03f9:0001:1:0:0
+ProSieben Maxx Deutschland
+p:HD+
+ef79:00c02cc8:03f9:0001:1:0:0
+Kabel Eins Doku Deutschland
+p:HD+
+ef7a:00c02cc8:03f9:0001:1:0:0
+Sat. 1 Gold Deutschland
+p:HD+
+ef8a:00c02cc8:03f9:0001:1:0:0
+Kabel Eins Deutschland
+p:Canal+ Austria
+ef8b:00c02cc8:03f9:0001:1:0:0
+Sixx Deutschland
+p:Canal+ Austria
+ef8c:00c02cc8:03f9:0001:1:0:0
+ProSieben Maxx Deutschland
+p:Canal+ Austria
+ef8d:00c02cc8:03f9:0001:1:0:0
+Kabel Eins Doku Deutschland
+p:Canal+ Austria
+ef8e:00c02cc8:03f9:0001:1:0:0
+Sat. 1 Gold Deutschland
+p:Canal+ Austria
+283d:00c02ce6:03fb:0001:1:0:0
+Das Erste
+p:Unknown
+283e:00c02ce6:03fb:0001:1:0:0
+ARTE Deutsch
+p:Unknown
+283f:00c02ce6:03fb:0001:1:0:0
+SWR Fernsehen Baden-Württemberg
+p:Unknown
+2840:00c02ce6:03fb:0001:1:0:0
+SWR Fernsehen Rheinland-Pfalz
+p:Unknown
+1b64:00c02cf5:03fc:0001:1:0:0
+Arirang World
+p:Unknown
+6eac:00c02d03:03fd:0001:1:0:0
+WDR Fernsehen Köln
+p:Unknown
+6ead:00c02d03:03fd:0001:1:0:0
+WDR Studio Aachen
+p:Unknown
+6eae:00c02d03:03fd:0001:1:0:0
+WDR Studio Bielefeld
+p:Unknown
+6eaf:00c02d03:03fd:0001:1:0:0
+WDR Studio Bonn
+p:Unknown
+6eb0:00c02d03:03fd:0001:1:0:0
+WDR Studio Dortmund
+p:Unknown
+6eb1:00c02d03:03fd:0001:1:0:0
+WDR Studio Duisburg
+p:Unknown
+6eb2:00c02d03:03fd:0001:1:0:0
+WDR Studio Düsseldorf
+p:Unknown
+6eb3:00c02d03:03fd:0001:1:0:0
+WDR Studio Essen
+p:Unknown
+6eb4:00c02d03:03fd:0001:1:0:0
+WDR Studio Münster
+p:Unknown
+6eb5:00c02d03:03fd:0001:1:0:0
+WDR Studio Siegen
+p:Unknown
+6eb6:00c02d03:03fd:0001:1:0:0
+WDR Studio Wuppertal
+p:Unknown
+1af5:00c02d12:03fe:0001:1:0:0
+Arirang World
+p:Unknown
+1af9:00c02d12:03fe:0001:1:0:0
+France 24 Français
+p:Unknown
+1afa:00c02d12:03fe:0001:1:0:0
+France 24 English
+p:Unknown
+1b03:00c02d12:03fe:0001:1:0:0
+TV5Monde Europe
+p:Unknown
+1b06:00c02d12:03fe:0001:1:0:0
+TRT World
+p:Unknown
+16a8:00c02d21:03ff:0001:1:0:0
+Augsburg TV
+p:Unknown
+16a9:00c02d21:03ff:0001:1:0:0
+München TV
+p:Unknown
+16ac:00c02d21:03ff:0001:1:0:0
+TV Ingolstadt
+p:Unknown
+16af:00c02d21:03ff:0001:1:0:0
+Niederbayern TV Satellit
+p:Unknown
+16b0:00c02d21:03ff:0001:1:0:0
+OTVA
+p:Unknown
+16b1:00c02d21:03ff:0001:1:0:0
+Franken Plus
+p:Unknown
+14b4:00c02d97:0407:0001:1:0:0
+Sat. 1 Österreich
+p:Canal+ Austria
+14b5:00c02d97:0407:0001:1:0:0
+ProSieben Austria
+p:Canal+ Austria
+14b7:00c02d97:0407:0001:1:0:0
+Puls 4
+p:Canal+ Austria
+14b8:00c02d97:0407:0001:1:0:0
+Puls 24
+p:Canal+ Austria
+14bd:00c02d97:0407:0001:1:0:0
+Sixx Austria
+p:Unknown
+14be:00c02d97:0407:0001:1:0:0
+Sat. 1 Gold Österreich
+p:Unknown
+14bf:00c02d97:0407:0001:1:0:0
+ProSieben Maxx Austria
+p:Unknown
+14c0:00c02d97:0407:0001:1:0:0
+Kabel Eins Doku Austria
+p:Unknown
+03e8:00c02dae:0001:0001:2:0:0
+Deutschlandfunk
+p:Unknown
+07d0:00c02dae:0001:0001:2:0:0
+Deutschlandfunk Kultur
+p:Unknown
+03e8:00c02daf:0001:0001:2:0:0
+Radio NRW
+p:Unknown
+17d5:00c02ddb:042a:0001:1:0:0
+CNN International Europe
+p:Unknown
+0016:00c02dee:0002:0085:1:0:0
+Heimatkanal
+p:Sky Deutschland
+0085:00c02dee:0002:0085:1:0:0
+Beate Uhse TV
+p:Sky Deutschland
+008b:00c02dee:0002:0085:1:0:0
+Sky Cinema Family
+p:Sky Deutschland
+008d:00c02dee:0002:0085:1:0:0
+Sky Sport Mix
+p:Sky Deutschland
+0093:00c02dee:0002:0085:1:0:0
+Sky One
+p:Sky Deutschland
+0116:00c02dee:0002:0085:1:0:0
+Sky Sport Bundesliga 2
+p:Sky Deutschland
+0192:00c02dee:0002:0085:1:0:0
+Crime + Investigation Deutschland
+p:Sky Deutschland
+0206:00c02dee:0002:0085:1:0:0
+Romance TV Deutschland
+p:Sky Deutschland
+1644:00c02e02:042c:0001:1:0:0
+DW English
+p:Unknown
+1645:00c02e02:042c:0001:1:0:0
+TV Monaco
+p:Unknown
+1647:00c02e02:042c:0001:1:0:0
+Cubavisión Internacional
+p:Unknown
+164e:00c02e02:042c:0001:1:0:0
+CNN International Europe
+p:Unknown
+0065:00c02e16:0010:0085:1:0:0
+Universal TV Deutschland
+p:Sky Deutschland
+007b:00c02e16:0010:0085:1:0:0
+Warner TV Serie
+p:Sky Deutschland
+0089:00c02e16:0010:0085:1:0:0
+Sky Sport Bundesliga 8
+p:Sky Deutschland
+0228:00c02e16:0010:0085:1:0:0
+Sky Sport Bundesliga UHD
+p:Sky Deutschland
+0229:00c02e16:0010:0085:1:0:0
+Sky Sport UHD
+p:Sky Deutschland
+6dca:00c02e3c:044d:0001:1:0:0
+Dokusat
+p:Unknown
+6dcb:00c02e3c:044d:0001:1:0:0
+Volksmusik TV
+p:Unknown
+6dce:00c02e3c:044d:0001:1:0:0
+Astra Demo
+p:Unknown
+6dd1:00c02e3c:044d:0001:1:0:0
+Genius Family
+p:Unknown
+200c:00c02e50:0430:0001:1:0:0
+NRJ Hits
+p:Canal+ France
+200d:00c02e50:0430:0001:1:0:0
+Canal+ Golf
+p:Canal+ France
+200f:00c02e50:0430:0001:1:0:0
+France 3 Bretagne
+p:Canal+ France
+2011:00c02e50:0430:0001:1:0:0
+RMC Découverte
+p:Canal+ France
+2012:00c02e50:0430:0001:1:0:0
+BeIn Sports 2 France
+p:Canal+ France
+2013:00c02e50:0430:0001:1:0:0
+BeIn Sports 3 France
+p:Canal+ France
+2014:00c02e50:0430:0001:1:0:0
+TFX
+p:Canal+ France
+2015:00c02e50:0430:0001:1:0:0
+TMC
+p:Canal+ France
+2016:00c02e50:0430:0001:1:0:0
+France 2
+p:Canal+ France
+206d:00c02e77:0432:0001:1:0:0
+BFM TV
+p:Canal+ France
+2071:00c02e77:0432:0001:1:0:0
+Canal + Live 7
+p:Canal+ France
+2072:00c02e77:0432:0001:1:0:0
+Canal + Live 8
+p:Canal+ France
+2073:00c02e77:0432:0001:1:0:0
+Canal + Live 9
+p:Canal+ France
+2075:00c02e77:0432:0001:1:0:0
+RMC Story
+p:Canal+ France
+2076:00c02e77:0432:0001:1:0:0
+L'Équipe
+p:Canal+ France
+207a:00c02e77:0432:0001:1:0:0
+Canal + Grand Écran
+p:Canal+ France
+207b:00c02e77:0432:0001:1:0:0
+France 3 Aquitaine
+p:Canal+ France
+207c:00c02e77:0432:0001:1:0:0
+Canal + Live 10
+p:Canal+ France
+207d:00c02e77:0432:0001:1:0:0
+Canal + Box Office
+p:Canal+ France
+207e:00c02e77:0432:0001:1:0:0
+Canal + Live 6
+p:Canal+ France
+2081:00c02e77:0432:0001:1:0:0
+ARTE Français
+p:Canal+ France
+2083:00c02e77:0432:0001:1:0:0
+Gulli
+p:Canal+ France
+000d:00c02e8a:0006:0085:1:0:0
+Sky Crime
+p:Sky Deutschland
+0011:00c02e8a:0006:0085:1:0:0
+Sky Sport F1
+p:Sky Deutschland
+0076:00c02e8a:0006:0085:1:0:0
+Sky Nature
+p:Sky Deutschland
+0081:00c02e8a:0006:0085:1:0:0
+Sky Sport Top Event
+p:Sky Deutschland
+0082:00c02e8a:0006:0085:1:0:0
+National Geographic Deutschland
+p:Sky Deutschland
+0083:00c02e8a:0006:0085:1:0:0
+Sky Cinema Premiere
+p:Sky Deutschland
+0106:00c02e8a:0006:0085:1:0:0
+Sky Sport Austria 8
+p:Sky Deutschland
+010b:00c02e8a:0006:0085:1:0:0
+Sky Sport Bundesliga 1
+p:Sky Deutschland
+010c:00c02e8a:0006:0085:1:0:0
+Sky Sport 1
+p:Sky Deutschland
+013d:00c02e8a:0006:0085:1:0:0
+Sky Sport Bundesliga 6
+p:Sky Deutschland
+013e:00c02e8a:0006:0085:1:0:0
+Sky Sport 6
+p:Sky Deutschland
+22c5:00c02e9e:0434:0001:1:0:0
+MTV France
+p:Canal+ France
+22c6:00c02e9e:0434:0001:1:0:0
+TV5Monde France Belgique Suisse Monaco
+p:Unknown
+22c9:00c02e9e:0434:0001:1:0:0
+France 3 Picardie
+p:Canal+ France
+22ca:00c02e9e:0434:0001:1:0:0
+France 3 Paris Ile-de-France
+p:Canal+ France
+22cc:00c02e9e:0434:0001:1:0:0
+France 3 Poitou-Charentes
+p:Canal+ France
+22cd:00c02e9e:0434:0001:1:0:0
+Canal + France clair Canal
+p:Unknown
+22ce:00c02e9e:0434:0001:1:0:0
+Canal + Docs
+p:Canal+ France
+22cf:00c02e9e:0434:0001:1:0:0
+France 3 Champagne-Ardenne
+p:Canal+ France
+22d0:00c02e9e:0434:0001:1:0:0
+France 3 Haute-Normandie
+p:Canal+ France
+22d1:00c02e9e:0434:0001:1:0:0
+France 3 Alsace
+p:Canal+ France
+22d2:00c02e9e:0434:0001:1:0:0
+France 3 Midi-Pyrénées
+p:Canal+ France
+22d4:00c02e9e:0434:0001:1:0:0
+Comédie +
+p:Canal+ France
+22d6:00c02e9e:0434:0001:1:0:0
+Mezzo
+p:Canal+ France
+22d9:00c02e9e:0434:0001:1:0:0
+France 3 Franche-Comté
+p:Canal+ France
+22da:00c02e9e:0434:0001:1:0:0
+France 3 Bourgogne
+p:Canal+ France
+22db:00c02e9e:0434:0001:1:0:0
+France 3 Alpes
+p:Canal+ France
+22dc:00c02e9e:0434:0001:1:0:0
+France 3 Limousin
+p:Canal+ France
+22dd:00c02e9e:0434:0001:1:0:0
+France 3 Lorraine
+p:Canal+ France
+22de:00c02e9e:0434:0001:1:0:0
+Novo 19
+p:Canal+ France
+22df:00c02e9e:0434:0001:1:0:0
+France 3 NoA
+p:Canal+ France
+22e0:00c02e9e:0434:0001:1:0:0
+France 3 Centre-Val de Loire
+p:Canal+ France
+22e1:00c02e9e:0434:0001:1:0:0
+France 3 Côte d'Azur
+p:Canal+ France
+6d66:00c02eb2:0437:0001:1:0:0
+Astra Demo
+p:Unknown
+6fec:00c02ec5:0436:0001:1:0:0
+Comedy Central Deutschland
+p:HD+
+6fed:00c02ec5:0436:0001:1:0:0
+Comedy Central Deutschland
+p:Canal+ Austria
+6fee:00c02ec5:0436:0001:1:0:0
+MTV Germany
+p:HD+
+6fef:00c02ec5:0436:0001:1:0:0
+MTV Germany
+p:Canal+ Austria
+6ff7:00c02ec5:0436:0001:1:0:0
+Nick Jr Europe
+p:Canal+ Austria
+6ff9:00c02ec5:0436:0001:1:0:0
+Nick Jr Europe
+p:Unknown
+6ffb:00c02ec5:0436:0001:1:0:0
+Nick Jr Europe
+p:Sky Deutschland
+6fff:00c02ec5:0436:0001:1:0:0
+MTV Germany
+p:Unknown
+7004:00c02ec5:0436:0001:1:0:0
+Comedy Central Deutschland
+p:Unknown
+7008:00c02ec5:0436:0001:1:0:0
+Nickelodeon Deutschland
+p:Unknown
+001b:00c02ed8:000d:0085:1:0:0
+Nicktoons Deutschland
+p:Sky Deutschland
+006e:00c02ed8:000d:0085:1:0:0
+Sky Atlantic
+p:Sky Deutschland
+006f:00c02ed8:000d:0085:1:0:0
+Sky Cinema Highlights
+p:Sky Deutschland
+0070:00c02ed8:000d:0085:1:0:0
+Sky Documentaries
+p:Sky Deutschland
+0072:00c02ed8:000d:0085:1:0:0
+Sky Sport Tennis
+p:Sky Deutschland
+007f:00c02ed8:000d:0085:1:0:0
+13th Street Deutschland
+p:Sky Deutschland
+0090:00c02ed8:000d:0085:1:0:0
+Sky Sport Golf
+p:Sky Deutschland
+0149:00c02ed8:000d:0085:1:0:0
+Sky Sport Austria 2
+p:Sky Deutschland
+2261:00c02eec:0438:0001:1:0:0
+Canal + France
+p:Canal+ France
+2263:00c02eec:0438:0001:1:0:0
+Canal + Cinéma(s) France
+p:Canal+ France
+2264:00c02eec:0438:0001:1:0:0
+Canal + Sport France
+p:Canal+ France
+2265:00c02eec:0438:0001:1:0:0
+Canal + Kids
+p:Canal+ France
+2267:00c02eec:0438:0001:1:0:0
+Ciné+ Frisson
+p:Canal+ France
+2269:00c02eec:0438:0001:1:0:0
+Ciné+ Classic
+p:Canal+ France
+226a:00c02eec:0438:0001:1:0:0
+Canal + Box Office
+p:Canal+ France
+226e:00c02eec:0438:0001:1:0:0
+Canal + France
+p:Canal+ France
+2270:00c02eec:0438:0001:1:0:0
+France 3 Corse Via Stella
+p:Canal+ France
+2271:00c02eec:0438:0001:1:0:0
+Canal + Foot
+p:Canal+ France
+0017:00c02f00:0004:0085:1:0:0
+Sky Krimi
+p:Sky Deutschland
+0074:00c02f00:0004:0085:1:0:0
+Sky Cinema Action
+p:Sky Deutschland
+0077:00c02f00:0004:0085:1:0:0
+National Geographic Wild Deutschland
+p:Sky Deutschland
+008c:00c02f00:0004:0085:1:0:0
+Warner TV Film
+p:Sky Deutschland
+008f:00c02f00:0004:0085:1:0:0
+Sky Sport Austria 1
+p:Sky Deutschland
+0091:00c02f00:0004:0085:1:0:0
+Sky Sport Premier League
+p:Sky Deutschland
+0129:00c02f00:0004:0085:1:0:0
+Sky Sport Bundesliga 4
+p:Sky Deutschland
+0133:00c02f00:0004:0085:1:0:0
+Sky Sport Bundesliga 5
+p:Sky Deutschland
+0155:00c02f00:0004:0085:1:0:0
+Prime Video Sportsbar Deutschland
+p:Sky Deutschland
+4e22:00c02f13:043a:0001:1:0:0
+ProSieben Austria
+p:Unknown
+4e24:00c02f13:043a:0001:1:0:0
+Kabel Eins Austria
+p:Unknown
+4e25:00c02f13:043a:0001:1:0:0
+Sat. 1 Österreich
+p:Unknown
+4e27:00c02f13:043a:0001:1:0:0
+Puls 4
+p:Canal+ Austria
+4e28:00c02f13:043a:0001:1:0:0
+Sat. 1 Hamburg und Schleswig-Holstein
+p:Unknown
+4e29:00c02f13:043a:0001:1:0:0
+Sat. 1 Niedersachsen und Bremen
+p:Unknown
+4e2a:00c02f13:043a:0001:1:0:0
+Sat. 1 Rheinland-Pfalz/Hessen
+p:Unknown
+24bd:00c02f3a:043c:0001:1:0:0
+France 3 Provence-Alpes
+p:Canal+ France
+24be:00c02f3a:043c:0001:1:0:0
+Eurosport 2 France
+p:Canal+ France
+24c1:00c02f3a:043c:0001:1:0:0
+Planète + Crime
+p:Canal+ France
+24c6:00c02f3a:043c:0001:1:0:0
+Trace Urban
+p:Canal+ France
+24c8:00c02f3a:043c:0001:1:0:0
+Canal + Sport 360
+p:Canal+ France
+24c9:00c02f3a:043c:0001:1:0:0
+France 3 Auvergne
+p:Canal+ France
+24cc:00c02f3a:043c:0001:1:0:0
+Melody
+p:Canal+ France
+24cd:00c02f3a:043c:0001:1:0:0
+Nickelodeon France
+p:Canal+ France
+24ce:00c02f3a:043c:0001:1:0:0
+Dorcel XXX
+p:Canal+ France
+24cf:00c02f3a:043c:0001:1:0:0
+Dorcel TV
+p:Canal+ France
+24d0:00c02f3a:043c:0001:1:0:0
+Canal + Live 5
+p:Canal+ France
+24d1:00c02f3a:043c:0001:1:0:0
+Canal + Live 4
+p:Canal+ France
+24d2:00c02f3a:043c:0001:1:0:0
+Piwi +
+p:Canal+ France
+24d3:00c02f3a:043c:0001:1:0:0
+RFM TV
+p:Canal+ France
+24d4:00c02f3a:043c:0001:1:0:0
+TV Breizh
+p:Canal+ France
+24d5:00c02f3a:043c:0001:1:0:0
+Planète + Aventure
+p:Canal+ France
+6e2d:00c02f4e:0431:0001:1:0:0
+Xplore
+p:Unknown
+6e3d:00c02f4e:0431:0001:1:0:0
+Dyn Sport Mix
+p:Unknown
+6e40:00c02f4e:0431:0001:1:0:0
+One Terra
+p:Unknown
+6e41:00c02f4e:0431:0001:1:0:0
+Deluxe Rap
+p:Unknown
+6e42:00c02f4e:0431:0001:1:0:0
+Deluxe Dance by Kontor
+p:Unknown
+6e43:00c02f4e:0431:0001:1:0:0
+Just Cooking
+p:Unknown
+6e44:00c02f4e:0431:0001:1:0:0
+Just Fishing
+p:Unknown
+6e45:00c02f4e:0431:0001:1:0:0
+Höhenrausch
+p:Unknown
+6e46:00c02f4e:0431:0001:1:0:0
+Crime Time
+p:Unknown
+6e47:00c02f4e:0431:0001:1:0:0
+Serien +
+p:Unknown
+0041:00c02f74:0007:0085:1:0:0
+Deluxe Music
+p:Unknown
+0047:00c02f74:0007:0085:1:0:0
+TLC Austria
+p:Unknown
+0049:00c02f74:0007:0085:1:0:0
+DMAX Austria
+p:Unknown
+0301:00c02f74:0007:0085:1:0:0
+Channel 21
+p:Unknown
+0307:00c02f74:0007:0085:1:0:0
+Meine Einkaufswelt
+p:Unknown
+00a0:00c02f74:0007:0085:2:0:0
+Rock Antenne
+p:Unknown
+00a9:00c02f74:0007:0085:2:0:0
+Sunshine Live
+p:Unknown
+00aa:00c02f74:0007:0085:2:0:0
+Antenne Bayern
+p:Unknown
+00b4:00c02f74:0007:0085:2:0:0
+Oldie Antenne
+p:Unknown
+232a:00c02faf:0442:0001:1:0:0
+T18
+p:Canal+ France
+232c:00c02faf:0442:0001:1:0:0
+Paris Première
+p:Canal+ France
+232d:00c02faf:0442:0001:1:0:0
+TéléToon +
+p:Canal+ France
+232e:00c02faf:0442:0001:1:0:0
+Planète +
+p:Canal+ France
+232f:00c02faf:0442:0001:1:0:0
+France 3 Basse-Normandie
+p:Canal+ France
+2330:00c02faf:0442:0001:1:0:0
+France 5
+p:Canal+ France
+2331:00c02faf:0442:0001:1:0:0
+LCI
+p:Canal+ France
+2332:00c02faf:0442:0001:1:0:0
+InfoSport +
+p:Canal+ France
+2333:00c02faf:0442:0001:1:0:0
+France 3 Pays de la Loire
+p:Canal+ France
+2335:00c02faf:0442:0001:1:0:0
+C Star
+p:Canal+ France
+2336:00c02faf:0442:0001:1:0:0
+C News
+p:Unknown
+2338:00c02faf:0442:0001:1:0:0
+XXL TV
+p:Canal+ France
+7080:00c02fc2:0443:0001:1:0:0
+RTL Austria
+p:Unknown
+7085:00c02fc2:0443:0001:1:0:0
+Vox Austria
+p:Unknown
+708a:00c02fc2:0443:0001:1:0:0
+RTL Zwei Austria
+p:Unknown
+708f:00c02fc2:0443:0001:1:0:0
+Toggo Austria
+p:Unknown
+7094:00c02fc2:0443:0001:1:0:0
+Voxup
+p:Unknown
+79e0:00c02fc2:0443:0001:1:0:0
+Eurosport 1 Germany
+p:Unknown
+79ea:00c02fc2:0443:0001:1:0:0
+HSE Extra
+p:Unknown
+001c:00c03010:000c:0085:1:0:0
+Cartoonito Deutschland
+p:Sky Deutschland
+0069:00c03010:000c:0085:1:0:0
+Sky Sport Bundesliga
+p:Sky Deutschland
+006b:00c03010:000c:0085:1:0:0
+Sky Cinema Classics
+p:Sky Deutschland
+006c:00c03010:000c:0085:1:0:0
+Sky Sport News
+p:Sky Deutschland
+007e:00c03010:000c:0085:1:0:0
+Sky Sci-Fi
+p:Sky Deutschland
+00ed:00c03010:000c:0085:1:0:0
+Sky Sport Austria 7
+p:Sky Deutschland
+011f:00c03010:000c:0085:1:0:0
+Sky Sport Bundesliga 3
+p:Sky Deutschland
+0120:00c03010:000c:0085:1:0:0
+Sky Sport 3
+p:Sky Deutschland
+0147:00c03010:000c:0085:1:0:0
+Sky Sport Bundesliga 7
+p:Sky Deutschland
+0148:00c03010:000c:0085:1:0:0
+Sky Sport 7
+p:Sky Deutschland
+2581:00c03024:0448:0001:1:0:0
+Olympia TV
+p:Canal+ France
+2582:00c03024:0448:0001:1:0:0
+BeIn Sports Max 4 France
+p:Canal+ France
+2583:00c03024:0448:0001:1:0:0
+BeIn Sports Max 5 France
+p:Canal+ France
+2584:00c03024:0448:0001:1:0:0
+BeIn Sports Max 6 France
+p:Canal+ France
+2585:00c03024:0448:0001:1:0:0
+BeIn Sports Max 7 France
+p:Canal+ France
+2586:00c03024:0448:0001:1:0:0
+BeIn Sports Max 8 France
+p:Canal+ France
+2587:00c03024:0448:0001:1:0:0
+BeIn Sports Max 9 France
+p:Canal+ France
+2588:00c03024:0448:0001:1:0:0
+BeIn Sports Max 10 France
+p:Canal+ France
+2589:00c03024:0448:0001:1:0:0
+Ciné+ Festival
+p:Canal+ France
+258a:00c03024:0448:0001:1:0:0
+Ciné+ Family
+p:Canal+ France
+258b:00c03024:0448:0001:1:0:0
+Ciné+ Émotion
+p:Canal+ France
+258c:00c03024:0448:0001:1:0:0
+Série Club
+p:Canal+ France
+258d:00c03024:0448:0001:1:0:0
+Vixen
+p:Canal+ France
+258e:00c03024:0448:0001:1:0:0
+Union TV
+p:Canal+ France
+2590:00c03024:0448:0001:1:0:0
+Novelas TV
+p:Canal+ France
+2591:00c03024:0448:0001:1:0:0
+La Chaîne Météo
+p:Canal+ France
+2593:00c03024:0448:0001:1:0:0
+Canal + Live 3
+p:Canal+ France
+07d0:00c03038:0449:0001:1:0:0
+Eurosport 1 Germany
+p:HD+
+07d2:00c03038:0449:0001:1:0:0
+Eurosport 1 Germany
+p:Canal+ Austria
+07e4:00c03038:0449:0001:1:0:0
+DMAX Deutschland
+p:HD+
+07e6:00c03038:0449:0001:1:0:0
+DMAX Deutschland
+p:Canal+ Austria
+07ee:00c03038:0449:0001:1:0:0
+Tele 5
+p:HD+
+07f0:00c03038:0449:0001:1:0:0
+Tele 5
+p:Canal+ Austria
+07f8:00c03038:0449:0001:1:0:0
+TLC Germany
+p:HD+
+07fa:00c03038:0449:0001:1:0:0
+TLC Germany
+p:Canal+ Austria
+0802:00c03038:0449:0001:1:0:0
+HGTV Deutschland
+p:Unknown
+0071:00c0305e:000b:0085:1:0:0
+History HD Deutschland
+p:Sky Deutschland
+007a:00c0305e:000b:0085:1:0:0
+DAZN 2 Deutschland
+p:Sky Deutschland
+0084:00c0305e:000b:0085:1:0:0
+DAZN 1 Deutschland
+p:Sky Deutschland
+0088:00c0305e:000b:0085:1:0:0
+Warner TV Comedy
+p:Sky Deutschland
+008e:00c0305e:000b:0085:1:0:0
+Sky Showcase
+p:Sky Deutschland
+00a8:00c0305e:000b:0085:1:0:0
+Motorvision+
+p:Sky Deutschland
+0101:00c0305e:000b:0085:1:0:0
+Sky Sport Bundesliga 9
+p:Sky Deutschland
+010f:00c0305e:000b:0085:1:0:0
+Sky Sport Bundesliga 10
+p:Sky Deutschland
+0191:00c0305e:000b:0085:1:0:0
+Jukebox
+p:Sky Deutschland
+0194:00c0305e:000b:0085:1:0:0
+Cartoon Network Northern Europe
+p:Sky Deutschland
+6e92:00c03086:04b1:0001:1:0:0
+Astra Demo
+p:Unknown
+0030:00c030ac:0005:0085:1:0:0
+N24 Doku
+p:Unknown
+003e:00c030ac:0005:0085:1:0:0
+EWTN auf Deutsch
+p:Unknown
+0293:00c030ac:0005:0085:1:0:0
+Handystar
+p:Unknown
+0296:00c030ac:0005:0085:1:0:0
+1-2-3 TV
+p:Unknown
+02fc:00c030ac:0005:0085:1:0:0
+Anixe +
+p:Unknown
+0304:00c030ac:0005:0085:1:0:0
+TLC Germany
+p:Unknown
+0308:00c030ac:0005:0085:1:0:0
+DMF
+p:Unknown
+0701:00c030ac:0005:0085:1:0:0
+Disney Channel Deutschland
+p:Unknown
+0702:00c030ac:0005:0085:1:0:0
+QVC Deutschland
+p:Unknown
+00ad:00c030ac:0005:0085:2:0:0
+Klassik Radio
+p:Unknown
+0020:00c030c0:0021:0085:1:0:0
+Sonnenklar TV
+p:Unknown
+0028:00c030c0:0021:0085:1:0:0
+HSE
+p:Unknown
+002e:00c030c0:0021:0085:1:0:0
+Handystar 2
+p:Unknown
+002f:00c030c0:0021:0085:1:0:0
+Regio TV Satellit
+p:Unknown
+0033:00c030c0:0021:0085:1:0:0
+Tele 5
+p:Unknown
+003f:00c030c0:0021:0085:1:0:0
+DMAX Deutschland
+p:Unknown
+004c:00c030c0:0021:0085:1:0:0
+Baden TV
+p:Unknown
+004d:00c030c0:0021:0085:1:0:0
+HSE Trend
+p:Unknown
+0295:00c030c0:0021:0085:1:0:0
+Spirit TV
+p:Unknown
+0384:00c030c0:0021:0085:1:0:0
+Sport 1
+p:Unknown
+1005:00c030e3:0451:0035:1:0:0
+BVN Europa
+p:Unknown
+1006:00c030e3:0451:0035:1:0:0
+AB 3
+p:Unknown
+1009:00c030e3:0451:0035:1:0:0
+Inplus
+p:Sky Deutschland
+100a:00c030e3:0451:0035:1:0:0
+Inplus
+p:Canal+ Austria
+100b:00c030e3:0451:0035:1:0:0
+Hustler TV Europe
+p:Canal+ Austria
+100d:00c030e3:0451:0035:1:0:0
+Hustler TV Europe
+p:Unknown
+1013:00c030e3:0451:0035:1:0:0
+Bergblick
+p:Canal+ Austria
+101c:00c030e3:0451:0035:1:0:0
+Canal+ Action
+p:Canal+ Austria
+101e:00c030e3:0451:0035:1:0:0
+TVRI World
+p:Unknown
+101f:00c030e3:0451:0035:1:0:0
+Canal+ Action B2B
+p:Canal+ Austria
+1020:00c030e3:0451:0035:1:0:0
+Canal+ Golf
+p:
+1012:00c030e3:0451:0035:2:0:0
+Nostalgie Vlaanderen
+p:Unknown
+101a:00c030e3:0451:0035:2:0:0
+VRT Radio 1
+p:Unknown
+101b:00c030e3:0451:0035:2:0:0
+VRT Radio 2 Sat
+p:Unknown
+103f:00c030e3:0451:0035:2:0:0
+NRJ België
+p:Unknown
+445c:00c03101:0453:0001:1:0:0
+Sat. 1 Deutschland
+p:Unknown
+445d:00c03101:0453:0001:1:0:0
+ProSieben Deutschland
+p:Unknown
+445e:00c03101:0453:0001:1:0:0
+Kabel Eins Deutschland
+p:Unknown
+445f:00c03101:0453:0001:1:0:0
+Welt
+p:Unknown
+4460:00c03101:0453:0001:1:0:0
+Sat. 1 Gold Deutschland
+p:Unknown
+4461:00c03101:0453:0001:1:0:0
+ProSieben Maxx Deutschland
+p:Unknown
+4462:00c03101:0453:0001:1:0:0
+Sixx Deutschland
+p:Unknown
+4463:00c03101:0453:0001:1:0:0
+Sat. 1 Bayern
+p:Unknown
+4464:00c03101:0453:0001:1:0:0
+Sat. 1 NRW
+p:Unknown
+4465:00c03101:0453:0001:1:0:0
+Kabel Eins Doku Deutschland
+p:Unknown
+2f44:00c03108:0454:0001:1:0:0
+QVC Deutschland
+p:Unknown
+2f5a:00c03108:0454:0001:1:0:0
+Bibel TV
+p:Unknown
+2f69:00c03108:0454:0001:1:0:0
+Canal Algérie 2
+p:Unknown
+2f6a:00c03108:0454:0001:1:0:0
+Thalitha A3
+p:Unknown
+2f6c:00c03108:0454:0001:1:0:0
+RMC Life
+p:Canal+ France
+2f9a:00c03108:0454:0001:1:0:0
+SBN International
+p:Unknown
+1518:00c0311e:0455:0001:1:0:0
+Sonnenklar TV
+p:Unknown
+1519:00c0311e:0455:0001:1:0:0
+Tele 5
+p:HD+
+151a:00c0311e:0455:0001:1:0:0
+DMAX Deutschland
+p:HD+
+151b:00c0311e:0455:0001:1:0:0
+Juwelo
+p:Unknown
+151c:00c0311e:0455:0001:1:0:0
+Pearl TV
+p:Unknown
+152d:00c0311e:0455:0001:1:0:0
+Tele 5
+p:Canal+ Austria
+152e:00c0311e:0455:0001:1:0:0
+DMAX Deutschland
+p:Canal+ Austria
+1c20:00c0313c:0457:0001:1:0:0
+Bloomberg TV Europe
+p:Unknown
+1c7a:00c0313c:0457:0001:1:0:0
+Sky News International
+p:Unknown
+6f76:00c0313c:0457:0001:1:0:0
+Astra Demo
+p:Unknown
+1c79:00c0313c:0457:0001:2:0:0
+Radio Horeb
+p:Unknown
+1efb:00c0313c:0457:0001:2:0:0
+RTL Radio
+p:Unknown
+2936:00c03142:0458:0001:1:0:0
+Xplore
+p:Unknown
+2938:00c03142:0458:0001:1:0:0
+One Terra
+p:Unknown
+293a:00c03142:0458:0001:1:0:0
+Deluxe Rap
+p:Unknown
+293b:00c03142:0458:0001:1:0:0
+Deluxe Dance by Kontor
+p:Unknown
+293d:00c03142:0458:0001:1:0:0
+Just Cooking
+p:Unknown
+293e:00c03142:0458:0001:1:0:0
+Just Fishing
+p:Unknown
+2940:00c03142:0458:0001:1:0:0
+Höhenrausch
+p:Unknown
+2941:00c03142:0458:0001:1:0:0
+Crime Time
+p:Unknown
+2942:00c03142:0458:0001:1:0:0
+Serien +
+p:Unknown
+313c:00c03159:0459:0001:1:0:0
+Telegold
+p:Unknown
+3148:00c03159:0459:0001:1:0:0
+Shop LC Deutschland
+p:Unknown
+3150:00c03159:0459:0001:1:0:0
+Hot Babes TV
+p:Unknown
+315f:00c03159:0459:0001:1:0:0
+Erotika TV
+p:Unknown
+316e:00c03159:0459:0001:2:0:0
+FFN
+p:Unknown
+316f:00c03159:0459:0001:2:0:0
+Radio Paloma
+p:Unknown
+3170:00c03159:0459:0001:2:0:0
+Radio HBR
+p:Unknown
+3171:00c03159:0459:0001:2:0:0
+Radio HCJB Deutschland
+p:Unknown
+2968:00c03160:045a:0001:1:0:0
+One Terra
+p:HD+
+2969:00c03160:045a:0001:1:0:0
+Xplore
+p:HD+
+296b:00c03160:045a:0001:1:0:0
+Deluxe Dance by Kontor
+p:HD+
+296d:00c03160:045a:0001:1:0:0
+Just Cooking
+p:HD+
+296e:00c03160:045a:0001:1:0:0
+Deluxe Rock
+p:HD+
+332e:00c03177:045b:0001:1:0:0
+Nitro Austria
+p:Unknown
+332f:00c03177:045b:0001:1:0:0
+Dokusat
+p:Unknown
+3330:00c03177:045b:0001:1:0:0
+LT 1
+p:Unknown
+3332:00c03177:045b:0001:1:0:0
+Shop LC Deutschland
+p:Unknown
+3336:00c03177:045b:0001:1:0:0
+Genius TV+
+p:Unknown
+3339:00c03177:045b:0001:1:0:0
+L TV
+p:Unknown
+3355:00c03177:045b:0001:1:0:0
+EWTN auf Deutsch
+p:Unknown
+3354:00c03177:045b:0001:2:0:0
+Radio Maria Österreich
+p:Unknown
+29cc:00c0317e:045c:0001:1:0:0
+Just Fishing
+p:HD+
+29d0:00c0317e:045c:0001:1:0:0
+Crime Time
+p:HD+
+29d1:00c0317e:045c:0001:1:0:0
+Serien +
+p:HD+
+29d2:00c0317e:045c:0001:1:0:0
+Deluxe Lounge
+p:HD+
+29d3:00c0317e:045c:0001:1:0:0
+Höhenrausch
+p:HD+
+end

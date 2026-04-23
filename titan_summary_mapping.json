@@ -1,0 +1,26 @@
+{
+    "upd": 0,
+    "ver": 535,
+    "chk": 586,
+    "t1": 0,
+    "dup": 0,
+    "skip": 0,
+    "unm": [],
+    "audits": [
+        "audit_Hellas Sat 3-4 (KU-Band)@39.0E.csv"
+    ],
+    "unmatched_reports": [
+        "missed_Hellas Sat 3-4 (KU-Band)@39.0E.txt"
+    ],
+    "processed_csvs": 1,
+    "total_time": 0.04372453689575195,
+    "sat_data": {
+        "Hellas Sat 3-4 (KU-Band)@39.0E": {
+            "upd": 0,
+            "ver": 535,
+            "chk": 586,
+            "unm": 51,
+            "dup": 0
+        }
+    }
+}
