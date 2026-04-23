@@ -1,5 +1,6 @@
 picons/*.png
 picons/snp-index
+ZZpicons/*.png
 .python-version
 *.csv
 *.log
