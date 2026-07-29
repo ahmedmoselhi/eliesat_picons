@@ -1,16 +1,10 @@
 eDVB services /4/
 transponders
-01050ff5:0001:0000
-	s 4085000:3330000:2:0:261:2:0:0:0:2:2
-/
 01051003:0064:006f
 	s 4099000:20000000:2:0:261:2:0:1:0:2:2
 /
 end
 services
-0001:01050ff5:0001:0000:1:0:0
-Télé Sahel
-p:Unknown
 0001:01051003:0064:006f:1:0:0
 Télé Sahel
 p:Unknown
@@ -47,8 +41,8 @@ p:Unknown
 000c:01051003:0064:006f:1:0:0
 Anfani TV
 p:Unknown
-000e:01051003:0064:006f:1:0:0
-Labari TV
+000d:01051003:0064:006f:1:0:0
+Tafouk TV
 p:Unknown
 000f:01051003:0064:006f:1:0:0
 TV Fidelité
@@ -58,6 +52,9 @@ Niger 24
 p:Unknown
 0013:01051003:0064:006f:1:0:0
 Télé Sahel
+p:Unknown
+0014:01051003:0064:006f:1:0:0
+Tal TV
 p:Unknown
 0015:01051003:0064:006f:2:0:0
 Voix du Sahel

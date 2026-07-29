@@ -1,0 +1,155 @@
+eDVB services /4/
+transponders
+01312a2a:0001:ffff
+	s 10794000:4800000:0:0:305:2:0:1:0:2:2
+/
+01312a30:0001:ffff
+	s 10800000:4000000:0:0:305:2:0:1:0:2:2
+/
+01312a42:0001:ffff
+	s 10818000:6000000:0:0:305:2:0:1:0:2:2
+/
+01312a48:0001:ffff
+	s 10824000:4440000:0:0:305:2:0:0:0:2:2
+/
+01312a4e:ffff:ffff
+	s 10830000:2600000:0:0:305:2:0:0:0:2:2
+/
+01312aac:0001:3001
+	s 10924000:17000000:0:0:305:2:0:0:0:2:2
+/
+01312abb:0001:ffff
+	s 10939000:3125000:0:0:305:2:0:1:0:2:2
+/
+01312b48:0001:ffff
+	s 11080000:3200000:1:0:305:2:0:1:0:2:2
+/
+01312b60:0000:0000
+	s 11104000:2500000:1:0:305:2:0:1:0:2:2
+/
+01312b6e:0001:ffff
+	s 11118000:2000000:0:0:305:2:0:1:0:2:2
+/
+01312b71:0001:0001
+	s 11121000:2400000:0:0:305:2:0:1:0:2:2
+/
+01312b86:0001:ffff
+	s 11142000:2960000:0:0:305:2:0:0:0:2:2
+/
+01312b9e:0000:0000
+	s 11166000:4000000:1:0:305:2:0:1:0:2:2
+/
+01312d9e:0000:0000
+	s 11678000:2800000:0:0:305:2:0:1:0:2:2
+/
+01312d9f:0001:ffff
+	s 11679000:2850000:1:0:305:2:0:1:0:2:2
+/
+end
+services
+0001:01312a2a:0001:ffff:1:0:0
+Quran TV
+p:Unknown
+0001:01312a30:0001:ffff:1:0:0
+Sunna TV
+p:Unknown
+0001:01312a42:0001:ffff:1:0:0
+Sunna TV
+p:Unknown
+0001:01312a48:0001:ffff:1:0:0
+IEN Doros TV
+p:Unknown
+0001:01312a4e:ffff:ffff:1:0:0
+RTD 4
+p:Unknown
+0002:01312a4e:ffff:ffff:2:0:0
+Radio Djibouti 1
+p:Unknown
+0003:01312a4e:ffff:ffff:2:0:0
+Radio Djibouti 2
+p:Unknown
+0004:01312a4e:ffff:ffff:2:0:0
+Radio Djibouti 3
+p:Unknown
+0a29:01312aac:0001:3001:1:0:0
+Saudi TV
+p:Unknown
+0a2a:01312aac:0001:3001:1:0:0
+KSA Sport 2
+p:Unknown
+0a2b:01312aac:0001:3001:1:0:0
+KSA Sport 1
+p:Unknown
+0a2c:01312aac:0001:3001:1:0:0
+Ekhbariya TV
+p:Unknown
+0a2d:01312aac:0001:3001:1:0:0
+Thikrayat TV
+p:Unknown
+15e1:01312aac:0001:3001:1:0:0
+Quran TV
+p:Unknown
+15e2:01312aac:0001:3001:1:0:0
+Sunna TV
+p:Unknown
+15e3:01312aac:0001:3001:1:0:0
+SBC
+p:Unknown
+15e4:01312aac:0001:3001:1:0:0
+KSA Sport 3
+p:Unknown
+15e5:01312aac:0001:3001:1:0:0
+Saudia Alaan TV
+p:Unknown
+0a3c:01312aac:0001:3001:2:0:0
+Holly Quran Radio
+p:Unknown
+0a3d:01312aac:0001:3001:2:0:0
+Riyadh Radio
+p:Unknown
+0a3e:01312aac:0001:3001:2:0:0
+Jeddah Radio
+p:Unknown
+0a3f:01312aac:0001:3001:2:0:0
+Saudia Radio
+p:Unknown
+0a41:01312aac:0001:3001:2:0:0
+Nida Alislam Radio
+p:Unknown
+0a48:01312aac:0001:3001:2:0:0
+Alazm Radio
+p:Unknown
+0a49:01312aac:0001:3001:2:0:0
+Khuzama Radio
+p:Unknown
+0001:01312abb:0001:ffff:1:0:0
+Quran TV
+p:Unknown
+0001:01312b48:0001:ffff:1:0:0
+Al Basra TV
+p:Unknown
+0001:01312b60:0000:0000:1:0:0
+Sudan TV
+p:Unknown
+0001:01312b6e:0001:ffff:1:0:0
+Diwan TV
+p:Unknown
+0001:01312b71:0001:0001:1:0:0
+Saba TV
+p:Unknown
+0001:01312b86:0001:ffff:1:0:0
+2M TV
+p:Unknown
+0002:01312b86:0001:ffff:2:0:0
+Radio 2M
+p:Unknown
+0001:01312b9e:0000:0000:1:0:0
+ERI TV 1
+p:Unknown
+0001:01312d9e:0000:0000:1:0:0
+LBC International
+p:Unknown
+0001:01312d9f:0001:ffff:1:0:0
+Al Jadeed
+p:Unknown
+end

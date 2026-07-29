@@ -12,17 +12,17 @@ transponders
 01862b83:00a0:0000
 	s 11139000:1000000:1:0:390:2:0:1:0:2:2
 /
-01862cf6:0000:0000
-	s 11510000:4444000:0:0:390:2:0:1:0:2:2
-/
 01862cfa:0000:0001
 	s 11514000:2141000:0:0:390:2:0:1:0:2:2
 /
-01862df0:0001:ffff
+01862df0:0001:20c4
 	s 11760000:16515000:0:0:390:2:0:1:0:2:2
 /
-01862e03:0002:ffff
+01862e03:0002:20c4
 	s 11779000:16515000:0:0:390:2:0:1:0:2:2
+/
+01862e3d:0001:20c4
+	s 11837000:16515000:0:0:390:2:0:1:0:2:2
 /
 01862f55:00b1:039e
 	s 12117000:30000000:0:0:390:2:0:1:0:2:2
@@ -74,9 +74,6 @@ transponders
 /
 0186307e:0069:212c
 	s 12414000:11568000:0:0:390:2:0:1:0:2:2
-/
-01863097:0001:ffff
-	s 12439000:4444000:0:0:390:2:0:1:0:2:2
 /
 018630af:0005:0001
 	s 12463000:30000000:0:0:390:2:0:1:0:2:2
@@ -135,7 +132,7 @@ p:Unknown
 Pame Stoichima Virtual Sports Mpasket
 p:Unknown
 0161:018629ea:0001:02be:1:0:0
-ERT World
+ERT Cosmos
 p:Unknown
 03f4:018629ea:0001:02be:1:0:0
 4E
@@ -285,7 +282,7 @@ p:Tring
 Muse
 p:Tring
 09ce:01862ab2:03fc:039e:1:0:0
-Tring Family
+Tring Summertime
 p:Tring
 0a64:01862ab2:03fc:039e:1:0:0
 Tring History
@@ -338,12 +335,6 @@ p:Tring
 1356:01862ab2:03fc:039e:1:0:0
 TV Klan
 p:Tring
-136a:01862ab2:03fc:039e:1:0:0
-Big Brother VIP Albania 1
-p:Tring
-1374:01862ab2:03fc:039e:1:0:0
-Big Brother VIP Albania 2
-p:Tring
 137e:01862ab2:03fc:039e:1:0:0
 Top News
 p:Tring
@@ -371,38 +362,56 @@ p:Tring
 1c14:01862b83:00a0:0000:1:0:0
 Equ TV
 p:Unknown
-0001:01862cf6:0000:0000:1:0:0
-Media Office
-p:Unknown
 0001:01862cfa:0000:0001:1:0:0
 Alsumaria
 p:Unknown
-0001:01862df0:0001:ffff:1:0:0
+0001:01862df0:0001:20c4:1:0:0
 Alpha Kyprou
 p:Unknown
-0002:01862df0:0001:ffff:1:0:0
+0002:01862df0:0001:20c4:1:0:0
 Ant1 Kypros
 p:Unknown
-0003:01862df0:0001:ffff:1:0:0
+0003:01862df0:0001:20c4:1:0:0
 Omega Channel
 p:Unknown
-0004:01862df0:0001:ffff:1:0:0
+0004:01862df0:0001:20c4:1:0:0
 Sigma TV
 p:Unknown
-0005:01862df0:0001:ffff:1:0:0
+0005:01862df0:0001:20c4:1:0:0
 Capital TV
 p:Unknown
-000b:01862df0:0001:ffff:1:0:0
+000b:01862df0:0001:20c4:1:0:0
 One Channel Cyprus
 p:Unknown
-000c:01862e03:0002:ffff:1:0:0
+000c:01862e03:0002:20c4:1:0:0
 Plus
 p:Unknown
-000d:01862e03:0002:ffff:1:0:0
+000d:01862e03:0002:20c4:1:0:0
 Smile TV
 p:Unknown
-000e:01862e03:0002:ffff:1:0:0
+000e:01862e03:0002:20c4:1:0:0
 Vergina Kypros
+p:Unknown
+0008:01862e03:0002:20c4:2:0:0
+Kanali 6
+p:Unknown
+0001:01862e3d:0001:20c4:1:0:0
+Alpha Kyprou
+p:Unknown
+0002:01862e3d:0001:20c4:1:0:0
+Ant1 Kypros
+p:Unknown
+0003:01862e3d:0001:20c4:1:0:0
+Omega Channel
+p:Unknown
+0004:01862e3d:0001:20c4:1:0:0
+Sigma TV
+p:Unknown
+0005:01862e3d:0001:20c4:1:0:0
+Capital TV
+p:Unknown
+000b:01862e3d:0001:20c4:1:0:0
+One Channel Cyprus
 p:Unknown
 0065:01862f55:00b1:039e:1:0:0
 Max Sport 1
@@ -423,7 +432,7 @@ p:A1 Bulgaria
 Detski Mir
 p:A1 Bulgaria
 006b:01862f55:00b1:039e:1:0:0
-Code Fashion TV
+CodeFashion
 p:A1 Bulgaria
 006c:01862f55:00b1:039e:1:0:0
 Rodnoe Kino
@@ -480,10 +489,10 @@ p:A1 Bulgaria
 Peretz International
 p:A1 Bulgaria
 007e:01862f55:00b1:039e:1:0:0
-FilmBox Arthouse Worldwide
+FilmBox+ Festival Worldwide
 p:A1 Bulgaria
 007f:01862f55:00b1:039e:1:0:0
-FilmBox Stars Adria
+FilmBox+ Love & Crime Adria
 p:A1 Bulgaria
 0081:01862f55:00b1:039e:1:0:0
 Planeta
@@ -561,7 +570,7 @@ p:A1 Bulgaria
 Viasat History East
 p:A1 Bulgaria
 00ce:01862f69:00b2:039e:1:0:0
-Epic Drama
+Viasat Epic Drama
 p:A1 Bulgaria
 00cf:01862f69:00b2:039e:1:0:0
 8 Kanal International
@@ -573,7 +582,7 @@ p:A1 Bulgaria
 Mediaset Italia
 p:A1 Bulgaria
 00d3:01862f69:00b2:039e:1:0:0
-FilmBox Extra HD Adria
+FilmBox+ Emotion Bulgaria
 p:A1 Bulgaria
 00d4:01862f69:00b2:039e:1:0:0
 Stingray Classica
@@ -618,7 +627,7 @@ p:A1 Bulgaria
 Super Toons
 p:A1 Bulgaria
 00e2:01862f69:00b2:039e:1:0:0
-Code Health TV
+CodeHealth
 p:A1 Bulgaria
 00e3:01862f69:00b2:039e:1:0:0
 Diema Family
@@ -690,10 +699,10 @@ p:A1 Bulgaria
 Nicktoons Bulgaria
 p:A1 Bulgaria
 00d9:01862f7c:0007:0001:1:0:0
-Code Health TV
+CodeHealth
 p:Bulsatcom
 01b1:01862f7c:0007:0001:1:0:0
-Epic Drama
+Viasat Epic Drama
 p:Bulsatcom
 01b3:01862f7c:0007:0001:1:0:0
 SkyShowtime 2
@@ -912,7 +921,7 @@ p:Bulsatcom
 SKAT
 p:Bulsatcom
 0141:01862fa2:0002:0001:1:0:0
-FilmBox Central Europe
+FilmBox+ One Central Europe
 p:Bulsatcom
 0143:01862fa2:0002:0001:1:0:0
 Peretz International
@@ -990,7 +999,7 @@ p:Unknown
 ERT News
 p:Unknown
 000b:01862fc0:0002:212c:2:0:0
-Proto Programma
+ERT News Radio
 p:Unknown
 000c:01862fc0:0002:212c:2:0:0
 Kosmos
@@ -1038,7 +1047,7 @@ p:Unknown
 TV5Monde Europe
 p:Unknown
 0006:01862fd2:0001:212c:1:0:0
-BBC News Europe
+ERT Cosmos
 p:Unknown
 0007:01862fd2:0001:212c:1:0:0
 ERT News
@@ -1328,6 +1337,9 @@ p:A1 Bulgaria
 046d:01863015:0b11:039e:1:0:0
 Viasat Explore East
 p:A1 Bulgaria
+046e:01863015:0b11:039e:1:0:0
+Max One
+p:A1 Bulgaria
 046f:01863015:0b11:039e:1:0:0
 Viasat Nature East
 p:A1 Bulgaria
@@ -1373,6 +1385,9 @@ p:A1 Bulgaria
 047d:01863015:0b11:039e:1:0:0
 BG+
 p:A1 Bulgaria
+047e:01863015:0b11:039e:1:0:0
+Max Movie
+p:A1 Bulgaria
 047f:01863015:0b11:039e:1:0:0
 TV 1
 p:A1 Bulgaria
@@ -1405,9 +1420,6 @@ CineWow
 p:Orange România
 014d:01863028:0002:001c:1:0:0
 Alfa Omega TV
-p:Orange România
-0194:01863028:0002:001c:1:0:0
-Stingray IConcerts
 p:Orange România
 020c:01863028:0002:001c:1:0:0
 Inedit TV
@@ -1476,7 +1488,7 @@ p:Orange România
 Sport Extra
 p:Orange România
 00d6:0186304f:0010:001c:1:0:0
-FilmBox Premium Romania
+FilmBox+ Hits Romania
 p:Orange România
 00db:0186304f:0010:001c:1:0:0
 Magic TV
@@ -1509,7 +1521,7 @@ p:Orange România
 Minimax Romania
 p:Orange România
 0082:01863075:0012:001c:1:0:0
-FilmBox Extra HD Romania
+FilmBox+ Emotion Romania
 p:Orange România
 008a:01863075:0012:001c:1:0:0
 A7 TV
@@ -1527,7 +1539,7 @@ p:Orange România
 EuroNews România
 p:Orange România
 00d7:01863075:0012:001c:1:0:0
-FilmBox Basic
+FilmBox+ One Central Europe
 p:Orange România
 0123:01863075:0012:001c:1:0:0
 AXN Spin Romania
@@ -1583,9 +1595,6 @@ p:Unknown
 0e74:0186307e:0069:212c:1:0:0
 Makedonia TV
 p:Unknown
-0001:01863097:0001:ffff:1:0:0
-Media Office
-p:Unknown
 0016:018630af:0005:0001:1:0:0
 Eurosport 1
 p:Bulsatcom
@@ -1602,7 +1611,7 @@ p:Bulsatcom
 BTV Action
 p:Bulsatcom
 008a:018630af:0005:0001:1:0:0
-FilmBox Extra HD Bulgaria
+FilmBox+ Emotion Bulgaria
 p:Bulsatcom
 00cc:018630af:0005:0001:1:0:0
 National Geographic Bulgaria
@@ -1638,7 +1647,7 @@ p:Bulsatcom
 AMC Balkan
 p:Bulsatcom
 01a5:018630af:0005:0001:1:0:0
-FilmBox Stars Adria
+FilmBox+ Love & Crime Adria
 p:Bulsatcom
 01a6:018630af:0005:0001:1:0:0
 Movie Star
@@ -1674,7 +1683,7 @@ p:Orange România
 Eurosport 2 Romania
 p:Orange România
 00fc:018630ec:000d:001c:1:0:0
-Epic Drama
+Viasat Epic Drama
 p:Orange România
 010f:018630ec:000d:001c:1:0:0
 M1
@@ -1683,7 +1692,7 @@ p:Orange România
 M2
 p:Orange România
 011e:018630ec:000d:001c:1:0:0
-Zu TV
+Chefi.ro
 p:Orange România
 012e:018630ec:000d:001c:1:0:0
 Cool TV
@@ -1788,7 +1797,7 @@ p:Unknown
 Happy Channel
 p:Unknown
 0005:01863170:0000:016e:1:0:0
-Zu TV
+Chefi.ro
 p:Unknown
 0006:01863170:0000:016e:1:0:0
 Antena International

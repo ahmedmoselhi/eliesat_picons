@@ -1,0 +1,161 @@
+eDVB services /4/
+transponders
+00642bd5:0001:0010
+	s 11221000:24760000:1:0:100:2:0:1:0:2:2
+/
+006430db:0000:0000
+	s 12507000:255000:0:0:100:2:0:0:0:2:2
+/
+006431c0:0001:0002
+	s 12736000:4000000:1:0:100:2:0:1:0:2:2
+/
+end
+services
+1f41:00642bd5:0001:0010:1:0:0
+BBC One
+p:Unknown
+1f42:00642bd5:0001:0010:1:0:0
+CBBC
+p:Unknown
+1f43:00642bd5:0001:0010:1:0:0
+ITV 1 London
+p:Unknown
+1f44:00642bd5:0001:0010:1:0:0
+BFBS Extra
+p:Unknown
+1f45:00642bd5:0001:0010:1:0:0
+Sky Sports Main Event UK
+p:Unknown
+1f46:00642bd5:0001:0010:1:0:0
+TNT Sports 1 UK
+p:Unknown
+1f47:00642bd5:0001:0010:1:0:0
+BFBS Sport
+p:Unknown
+1f48:00642bd5:0001:0010:1:0:0
+Sky News UK
+p:Unknown
+1f49:00642bd5:0001:0010:1:0:0
+Channel 4 London
+p:Unknown
+1f4a:00642bd5:0001:0010:1:0:0
+5
+p:Unknown
+1f4b:00642bd5:0001:0010:1:0:0
+BBC One Delay
+p:Unknown
+1f4c:00642bd5:0001:0010:1:0:0
+BBC Two Delay
+p:Unknown
+1f4d:00642bd5:0001:0010:1:0:0
+ITV 1 Delay
+p:Unknown
+1f4e:00642bd5:0001:0010:1:0:0
+BFBS Extra Delay
+p:Unknown
+1f51:00642bd5:0001:0010:1:0:0
+BFBS Extra 2
+p:Unknown
+1f52:00642bd5:0001:0010:1:0:0
+Kantipur TV
+p:Unknown
+1f55:00642bd5:0001:0010:2:0:0
+BFBS Ops
+p:Unknown
+1f56:00642bd5:0001:0010:2:0:0
+BFBS Cyprus
+p:Unknown
+1f57:00642bd5:0001:0010:2:0:0
+BFBS UK Bases
+p:Unknown
+1f58:00642bd5:0001:0010:2:0:0
+BFBS Radio 2
+p:Unknown
+1f59:00642bd5:0001:0010:2:0:0
+BFBS Germany
+p:Unknown
+1f5a:00642bd5:0001:0010:2:0:0
+BFBS Best of British
+p:Unknown
+1f5b:00642bd5:0001:0010:2:0:0
+BFBS UK National
+p:Unknown
+1f5d:00642bd5:0001:0010:2:0:0
+BFBS Brunei
+p:Unknown
+1f5e:00642bd5:0001:0010:2:0:0
+BFBS Northern Ireland
+p:Unknown
+1f5f:00642bd5:0001:0010:2:0:0
+BFBS Ops
+p:Unknown
+1f60:00642bd5:0001:0010:2:0:0
+BFBS Beats
+p:Unknown
+1f61:00642bd5:0001:0010:2:0:0
+BFBS Gurkha Network
+p:Unknown
+1f62:00642bd5:0001:0010:2:0:0
+BFBS Edge
+p:Unknown
+1f63:00642bd5:0001:0010:2:0:0
+BFBS Rewind
+p:Unknown
+1f65:00642bd5:0001:0010:2:0:0
+BFBS Samishran
+p:Unknown
+1f68:00642bd5:0001:0010:2:0:0
+BBC World Service English
+p:Unknown
+1f69:00642bd5:0001:0010:2:0:0
+Fun Kids
+p:Unknown
+1f6a:00642bd5:0001:0010:2:0:0
+TalkSport
+p:Unknown
+1f6b:00642bd5:0001:0010:2:0:0
+BFBS Blandford
+p:Unknown
+1f6c:00642bd5:0001:0010:2:0:0
+BFBS Scotland
+p:Unknown
+1f6d:00642bd5:0001:0010:2:0:0
+BFBS Brize Norton
+p:Unknown
+1f6f:00642bd5:0001:0010:2:0:0
+BFBS Gibraltar
+p:Unknown
+1f70:00642bd5:0001:0010:2:0:0
+BFBS Gurkha Network
+p:Unknown
+2135:00642bd5:0001:0010:2:0:0
+BFBS Aldershot
+p:Unknown
+2136:00642bd5:0001:0010:2:0:0
+BFBS Brize Norton
+p:Unknown
+2137:00642bd5:0001:0010:2:0:0
+BFBS Salisbury Plain
+p:Unknown
+2138:00642bd5:0001:0010:2:0:0
+BFBS Catterick
+p:Unknown
+2139:00642bd5:0001:0010:2:0:0
+BFBS Colchester
+p:Unknown
+213a:00642bd5:0001:0010:2:0:0
+BFBS Scotland
+p:Unknown
+213b:00642bd5:0001:0010:2:0:0
+BFBS Northern Ireland
+p:Unknown
+213c:00642bd5:0001:0010:2:0:0
+BFBS UK National
+p:Unknown
+0001:006430db:0000:0000:2:0:0
+Radio Maria Italia
+p:Unknown
+0460:006431c0:0001:0002:1:0:0
+Zap Viva Internacional
+p:Unknown
+end

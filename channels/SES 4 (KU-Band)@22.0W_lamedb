@@ -1,0 +1,1541 @@
+eDVB services /4/
+transponders
+0d342aea:0322:0007
+	s 10986000:45000000:1:0:-220:2:0:1:0:2:2
+/
+0d342b2b:0191:0007
+	s 11051000:45000000:1:0:-220:2:0:1:0:2:2
+/
+0d342b67:0001:0001
+	s 11111000:45000000:1:0:-220:2:0:1:0:2:2
+/
+0d342ba3:0329:0007
+	s 11171000:45000000:1:0:-220:2:0:1:0:2:2
+/
+0d342d1f:0190:0007
+	s 11551000:45000000:1:0:-220:2:0:1:0:2:2
+/
+0d342d5b:0328:0007
+	s 11611000:45000000:1:0:-220:2:0:1:0:2:2
+/
+0d342d97:3cf0:013e
+	s 11671000:30000000:1:0:-220:2:0:0:0:2:2
+/
+0d342ee2:0001:0001
+	s 12002000:2500000:1:0:-220:2:0:1:0:2:2
+/
+0d3430f2:0321:0007
+	s 12530000:30000000:1:0:-220:2:0:1:0:2:2
+/
+0d34311a:0323:0007
+	s 12570000:30000000:1:0:-220:2:0:1:0:2:2
+/
+0d343142:0324:0007
+	s 12610000:30000000:1:0:-220:2:0:1:0:2:2
+/
+0d34316a:0325:0007
+	s 12650000:30000000:1:0:-220:2:0:1:0:2:2
+/
+0d343180:0001:ffff
+	s 12672000:27500000:0:0:-220:2:0:0:0:2:2
+/
+0d343192:0326:0007
+	s 12690000:30000000:1:0:-220:2:0:1:0:2:2
+/
+0d3431ba:0327:0007
+	s 12730000:30000000:1:0:-220:2:0:1:0:2:2
+/
+end
+services
+2009:0d342aea:0322:0007:1:0:0
+Africa 24
+p:Canal+ Afrique
+200a:0d342aea:0322:0007:1:0:0
+Africable TV
+p:Canal+ Afrique
+200b:0d342aea:0322:0007:1:0:0
+A+ Bénin
+p:Canal+ Afrique
+200c:0d342aea:0322:0007:1:0:0
+Bloomberg TV Africa
+p:Canal+ Afrique
+200d:0d342aea:0322:0007:1:0:0
+BBC Earth Africa
+p:Canal+ Afrique
+200e:0d342aea:0322:0007:1:0:0
+RTI 1
+p:Canal+ Afrique
+200f:0d342aea:0322:0007:1:0:0
+LTM TV
+p:Canal+ Afrique
+2010:0d342aea:0322:0007:1:0:0
+Hustler HD Europe
+p:Canal+ Afrique
+2012:0d342aea:0322:0007:1:0:0
+RTI 2
+p:Canal+ Afrique
+2015:0d342aea:0322:0007:1:0:0
+Impact TV
+p:Canal+ Afrique
+2016:0d342aea:0322:0007:1:0:0
+Canal + Docs
+p:Canal+ Afrique
+2017:0d342aea:0322:0007:1:0:0
+Burkina Info TV
+p:Canal+ Afrique
+2018:0d342aea:0322:0007:1:0:0
+Toumaï TV
+p:Canal+ Afrique
+2019:0d342aea:0322:0007:1:0:0
+VoxAfrica TV Français
+p:Canal+ Afrique
+201b:0d342aea:0322:0007:1:0:0
+Trace Africa
+p:Canal+ Afrique
+201c:0d342aea:0322:0007:1:0:0
+TV 10
+p:Canal+ Afrique
+201d:0d342aea:0322:0007:1:0:0
+Eden TV
+p:Canal+ Afrique
+201e:0d342aea:0322:0007:1:0:0
+Bravo France
+p:Canal+ Afrique
+201f:0d342aea:0322:0007:1:0:0
+Télé Sahel
+p:Canal+ Afrique
+2020:0d342aea:0322:0007:1:0:0
+13ème Rue
+p:Canal+ Afrique
+2021:0d342aea:0322:0007:1:0:0
+Série Club
+p:Canal+ Afrique
+2022:0d342aea:0322:0007:1:0:0
+Alafia TV
+p:Canal+ Afrique
+2023:0d342aea:0322:0007:1:0:0
+TVGE
+p:Canal+ Afrique
+2024:0d342aea:0322:0007:1:0:0
+Ivoire TV Music
+p:Canal+ Afrique
+2025:0d342aea:0322:0007:1:0:0
+Sensation TV
+p:Canal+ Afrique
+2026:0d342aea:0322:0007:1:0:0
+Ténéré TV
+p:Canal+ Afrique
+2027:0d342aea:0322:0007:1:0:0
+Labari TV
+p:Canal+ Afrique
+2028:0d342aea:0322:0007:1:0:0
+Galaxie TV
+p:Canal+ Afrique
+2029:0d342aea:0322:0007:1:0:0
+Balafon TV
+p:Canal+ Afrique
+202a:0d342aea:0322:0007:1:0:0
+Dash TV News
+p:Canal+ Afrique
+202b:0d342aea:0322:0007:1:0:0
+TPT+
+p:Canal+ Afrique
+202d:0d342aea:0322:0007:1:0:0
+Heritage TV
+p:Canal+ Afrique
+202e:0d342aea:0322:0007:1:0:0
+Isibo TV
+p:Canal+ Afrique
+202f:0d342aea:0322:0007:1:0:0
+Sunna TV Ayneha
+p:Canal+ Afrique
+204e:0d342aea:0322:0007:1:0:0
+Gulli Bil Arabie
+p:Canal+ Afrique
+204f:0d342aea:0322:0007:1:0:0
+SuperSport Premier League Africa
+p:Canal+ Afrique
+2050:0d342aea:0322:0007:1:0:0
+Cartoonito France
+p:Canal+ Afrique
+203a:0d342aea:0322:0007:2:0:0
+Africa Radio
+p:Unknown
+203b:0d342aea:0322:0007:2:0:0
+Radio Lomé
+p:Unknown
+203c:0d342aea:0322:0007:2:0:0
+Océane
+p:Unknown
+203e:0d342aea:0322:0007:2:0:0
+Europe 1
+p:Unknown
+203f:0d342aea:0322:0007:2:0:0
+Jazz Radio
+p:Unknown
+2040:0d342aea:0322:0007:2:0:0
+Hit Radio Côte d'Ivoire
+p:Unknown
+2041:0d342aea:0322:0007:2:0:0
+Radio Congo
+p:Unknown
+2042:0d342aea:0322:0007:2:0:0
+Radio Nieta
+p:Canal+ Afrique
+2043:0d342aea:0322:0007:2:0:0
+Radio Bénin
+p:Unknown
+2044:0d342aea:0322:0007:2:0:0
+RTB Radio
+p:Unknown
+2045:0d342aea:0322:0007:2:0:0
+Fréquence 2
+p:Unknown
+2046:0d342aea:0322:0007:2:0:0
+Radio Sénégal International
+p:Unknown
+2048:0d342aea:0322:0007:2:0:0
+Radio Rwanda
+p:Canal+ Afrique
+1006:0d342b2b:0191:0007:1:0:0
+TV 7
+p:Canal+ Afrique
+1007:0d342b2b:0191:0007:1:0:0
+Diaspo New TV
+p:Canal+ Afrique
+1008:0d342b2b:0191:0007:1:0:0
+Sahara TV
+p:Canal+ Afrique
+1009:0d342b2b:0191:0007:1:0:0
+Vision 4 RCA
+p:Canal+ Afrique
+100a:0d342b2b:0191:0007:1:0:0
+Maisha Magic East
+p:Canal+ Afrique
+100c:0d342b2b:0191:0007:1:0:0
+LGF Pop
+p:Canal+ Afrique
+100d:0d342b2b:0191:0007:1:0:0
+Nieta TV
+p:Canal+ Afrique
+100e:0d342b2b:0191:0007:1:0:0
+Lux TV
+p:Canal+ Afrique
+100f:0d342b2b:0191:0007:1:0:0
+KTN News
+p:Canal+ Afrique
+1011:0d342b2b:0191:0007:1:0:0
+Madi TV
+p:Canal+ Afrique
+1012:0d342b2b:0191:0007:1:0:0
+Ecclesia TV
+p:Canal+ Afrique
+1018:0d342b2b:0191:0007:1:0:0
+Jesus 24 TV
+p:Canal+ Afrique
+1019:0d342b2b:0191:0007:1:0:0
+Dorcel TV Africa
+p:Canal+ Afrique
+101a:0d342b2b:0191:0007:1:0:0
+Nathan +
+p:Canal+ Afrique
+101b:0d342b2b:0191:0007:1:0:0
+Gulli Africa
+p:Canal+ Afrique
+101f:0d342b2b:0191:0007:1:0:0
+MTV France
+p:Canal+ Afrique
+1022:0d342b2b:0191:0007:1:0:0
+Piwi +
+p:Canal+ Afrique
+1023:0d342b2b:0191:0007:1:0:0
+Planète +
+p:Canal+ Afrique
+1024:0d342b2b:0191:0007:1:0:0
+TéléToon +
+p:Canal+ Afrique
+1025:0d342b2b:0191:0007:1:0:0
+TFX
+p:Canal+ Afrique
+1027:0d342b2b:0191:0007:1:0:0
+TV5Monde Afrique
+p:Canal+ Afrique
+1029:0d342b2b:0191:0007:1:0:0
+Zee Magic
+p:Canal+ Afrique
+102b:0d342b2b:0191:0007:1:0:0
+Liptako TV
+p:Canal+ Afrique
+1036:0d342b2b:0191:0007:1:0:0
+Saraounia TV
+p:Canal+ Afrique
+1039:0d342b2b:0191:0007:1:0:0
+Ratelki
+p:Canal+ Afrique
+103a:0d342b2b:0191:0007:1:0:0
+SuperSport LaLiga Africa
+p:Canal+ Afrique
+103b:0d342b2b:0191:0007:1:0:0
+Canal + Kids
+p:Canal+ Afrique
+103e:0d342b2b:0191:0007:1:0:0
+Cavi TV
+p:Canal+ Afrique
+1069:0d342b67:0001:0001:1:0:0
+Africa Magic Hausa
+p:Canal+ Afrique
+106a:0d342b67:0001:0001:1:0:0
+TV O
+p:Canal+ Afrique
+106b:0d342b67:0001:0001:1:0:0
+3 TV
+p:Canal+ Afrique
+106c:0d342b67:0001:0001:1:0:0
+Flash TV
+p:Canal+ Afrique
+106d:0d342b67:0001:0001:1:0:0
+Cartoon Network Africa
+p:Canal+ Afrique
+106e:0d342b67:0001:0001:1:0:0
+TNT Africa
+p:Canal+ Afrique
+106f:0d342b67:0001:0001:1:0:0
+Bravo Africa
+p:Canal+ Afrique
+1070:0d342b67:0001:0001:1:0:0
+Zee World
+p:Canal+ Afrique
+1071:0d342b67:0001:0001:1:0:0
+Africa Magic Epic
+p:Canal+ Afrique
+1072:0d342b67:0001:0001:1:0:0
+Nick Jr Africa
+p:Canal+ Afrique
+1073:0d342b67:0001:0001:1:0:0
+Universal TV Africa
+p:Canal+ Afrique
+1074:0d342b67:0001:0001:1:0:0
+Nickelodeon Africa
+p:Canal+ Afrique
+1075:0d342b67:0001:0001:1:0:0
+Univers TV
+p:Canal+ Afrique
+1076:0d342b67:0001:0001:1:0:0
+Bblack! Africa
+p:Canal+ Afrique
+1078:0d342b67:0001:0001:1:0:0
+Africa 24 Infinity
+p:Canal+ Afrique
+1079:0d342b67:0001:0001:1:0:0
+Aljazeera English
+p:Canal+ Afrique
+107a:0d342b67:0001:0001:1:0:0
+Voir + Sénégal
+p:Unknown
+107c:0d342b67:0001:0001:1:0:0
+Africa 24 English
+p:Canal+ Afrique
+107d:0d342b67:0001:0001:1:0:0
+Leral TV
+p:Canal+ Afrique
+107e:0d342b67:0001:0001:1:0:0
+RTGA World
+p:Canal+ Afrique
+1080:0d342b67:0001:0001:1:0:0
+Info TV
+p:Canal+ Afrique
+1081:0d342b67:0001:0001:1:0:0
+Cam 10
+p:Canal+ Afrique
+1082:0d342b67:0001:0001:1:0:0
+DBS TV
+p:Canal+ Afrique
+1083:0d342b67:0001:0001:1:0:0
+Malaika TV
+p:Canal+ Afrique
+1087:0d342b67:0001:0001:1:0:0
+RTCE Monde
+p:Canal+ Afrique
+1088:0d342b67:0001:0001:1:0:0
+Bukedde 1
+p:Canal+ Afrique
+1089:0d342b67:0001:0001:1:0:0
+Africa Magic Showcase
+p:Canal+ Afrique
+108a:0d342b67:0001:0001:1:0:0
+M-Net Movies 4
+p:Canal+ Afrique
+108b:0d342b67:0001:0001:1:0:0
+M-Net Movies 3
+p:Canal+ Afrique
+108c:0d342b67:0001:0001:1:0:0
+Studio Universal Africa
+p:Canal+ Afrique
+108d:0d342b67:0001:0001:1:0:0
+Telesud
+p:Canal+ Afrique
+108e:0d342b67:0001:0001:1:0:0
+Passion Bollywood
+p:Canal+ Afrique
+108f:0d342b67:0001:0001:1:0:0
+Horeb TV
+p:Canal+ Afrique
+109b:0d342b67:0001:0001:1:0:0
+Espérance TV
+p:Canal+ Afrique
+109c:0d342b67:0001:0001:1:0:0
+Ishusho TV
+p:Canal+ Afrique
+109d:0d342b67:0001:0001:1:0:0
+Sinema Zetu
+p:Canal+ Afrique
+109e:0d342b67:0001:0001:1:0:0
+Isango TV
+p:Canal+ Afrique
+109f:0d342b67:0001:0001:1:0:0
+Télé 24
+p:Canal+ Afrique
+10a0:0d342b67:0001:0001:1:0:0
+Manara TV
+p:Canal+ Afrique
+10a1:0d342b67:0001:0001:1:0:0
+CNN International Europe
+p:Canal+ Afrique
+10a2:0d342b67:0001:0001:1:0:0
+Buja TV
+p:Canal+ Afrique
+10a3:0d342b67:0001:0001:1:0:0
+West Africa TV
+p:Canal+ Afrique
+10ae:0d342b67:0001:0001:1:0:0
+Educa TV
+p:Canal+ Afrique
+10af:0d342b67:0001:0001:1:0:0
+Africa Magic Yoruba
+p:Canal+ Afrique
+10b1:0d342b67:0001:0001:1:0:0
+Maisha Magic Plus
+p:Canal+ Afrique
+10a4:0d342b67:0001:0001:2:0:0
+Radio Kadi FM
+p:Unknown
+10a5:0d342b67:0001:0001:2:0:0
+Joliba FM
+p:Canal+ Afrique
+10a6:0d342b67:0001:0001:2:0:0
+Wat FM
+p:Unknown
+10a7:0d342b67:0001:0001:2:0:0
+Renouveau FM
+p:Unknown
+10a8:0d342b67:0001:0001:2:0:0
+Diaspora FM
+p:Unknown
+10a9:0d342b67:0001:0001:2:0:0
+Asonga Radio
+p:Unknown
+10aa:0d342b67:0001:0001:2:0:0
+RadioStar
+p:Unknown
+10ab:0d342b67:0001:0001:2:0:0
+Horizon FM
+p:Unknown
+22c5:0d342ba3:0329:0007:1:0:0
+Canal + Première Centre
+p:Canal+ Afrique
+22c6:0d342ba3:0329:0007:1:0:0
+ITV
+p:Canal+ Afrique
+22c7:0d342ba3:0329:0007:1:0:0
+TF 1
+p:Canal+ Afrique
+22c8:0d342ba3:0329:0007:1:0:0
+Canal + Cinéma Centre
+p:Canal+ Afrique
+22c9:0d342ba3:0329:0007:1:0:0
+Nickelodeon Junior France
+p:Canal+ Afrique
+22ca:0d342ba3:0329:0007:1:0:0
+Media Sports Infos
+p:Canal+ Afrique
+22cb:0d342ba3:0329:0007:1:0:0
+Canal + Magic
+p:Canal+ Afrique
+22cd:0d342ba3:0329:0007:1:0:0
+Canal + Family Centre
+p:Canal+ Afrique
+22ce:0d342ba3:0329:0007:1:0:0
+Voir + Afrique
+p:Unknown
+22cf:0d342ba3:0329:0007:1:0:0
+Canal + Sport 2
+p:Canal+ Afrique
+22d0:0d342ba3:0329:0007:1:0:0
+Canal + Sport 3
+p:Canal+ Afrique
+22d1:0d342ba3:0329:0007:1:0:0
+Pacis TV
+p:Canal+ Afrique
+22d2:0d342ba3:0329:0007:1:0:0
+My Media Prime
+p:Canal+ Afrique
+22d3:0d342ba3:0329:0007:1:0:0
+Private TV
+p:Canal+ Afrique
+22d4:0d342ba3:0329:0007:1:0:0
+SciFi France
+p:Canal+ Afrique
+22d5:0d342ba3:0329:0007:1:0:0
+Discovery Channel France
+p:Canal+ Afrique
+22d6:0d342ba3:0329:0007:1:0:0
+Horizon 3
+p:Canal+ Afrique
+22d7:0d342ba3:0329:0007:1:0:0
+Trace Urban Afrique
+p:Canal+ Afrique
+22d8:0d342ba3:0329:0007:1:0:0
+One TV (1)
+p:Canal+ Afrique
+22d9:0d342ba3:0329:0007:1:0:0
+RTVC
+p:Canal+ Afrique
+22da:0d342ba3:0329:0007:1:0:0
+Canal + Pop
+p:Canal+ Afrique
+22db:0d342ba3:0329:0007:1:0:0
+Action
+p:Canal+ Afrique
+22dc:0d342ba3:0329:0007:1:0:0
+Trace Mboa
+p:Canal+ Afrique
+22dd:0d342ba3:0329:0007:1:0:0
+Canal + Action Centre
+p:Canal+ Afrique
+22de:0d342ba3:0329:0007:1:0:0
+Histoire TV
+p:Canal+ Afrique
+22df:0d342ba3:0329:0007:1:0:0
+Nollywood TV
+p:Canal+ Afrique
+22e0:0d342ba3:0329:0007:1:0:0
+TV Al Bayane
+p:Canal+ Afrique
+22e1:0d342ba3:0329:0007:1:0:0
+Parole Eternelle TV
+p:Canal+ Afrique
+22e2:0d342ba3:0329:0007:1:0:0
+Boomerang France
+p:Canal+ Afrique
+0fa1:0d342d1f:0190:0007:1:0:0
+Parlemen TV
+p:Canal+ Afrique
+0fa2:0d342d1f:0190:0007:1:0:0
+AB 1
+p:Canal+ Afrique
+0fa3:0d342d1f:0190:0007:1:0:0
+La Nouvelle Chaîne Ivorienne
+p:Canal+ Afrique
+0fa4:0d342d1f:0190:0007:1:0:0
+Animaux
+p:Canal+ Afrique
+0fa5:0d342d1f:0190:0007:1:0:0
+RTS 1
+p:Canal+ Afrique
+0fa6:0d342d1f:0190:0007:1:0:0
+BTN TV
+p:Canal+ Afrique
+0fa7:0d342d1f:0190:0007:1:0:0
+RTB TV
+p:Canal+ Afrique
+0fa8:0d342d1f:0190:0007:1:0:0
+Bénin TV
+p:Canal+ Afrique
+0fa9:0d342d1f:0190:0007:1:0:0
+Crime District
+p:Canal+ Afrique
+0faa:0d342d1f:0190:0007:1:0:0
+TVT
+p:Canal+ Afrique
+0fab:0d342d1f:0190:0007:1:0:0
+Chif TV
+p:Canal+ Afrique
+0fac:0d342d1f:0190:0007:1:0:0
+NCA TV
+p:Canal+ Afrique
+0fad:0d342d1f:0190:0007:1:0:0
+Investigation Discovery France
+p:Canal+ Afrique
+0fae:0d342d1f:0190:0007:1:0:0
+KC2
+p:Canal+ Afrique
+0faf:0d342d1f:0190:0007:1:0:0
+SOS Docteur TV
+p:Canal+ Afrique
+0fb0:0d342d1f:0190:0007:1:0:0
+SuperSport Action Africa
+p:Canal+ Afrique
+0fb1:0d342d1f:0190:0007:1:0:0
+Mangas
+p:Canal+ Afrique
+0fb3:0d342d1f:0190:0007:1:0:0
+Renouveau TV
+p:Canal+ Afrique
+0fb4:0d342d1f:0190:0007:1:0:0
+RTS 2
+p:Canal+ Afrique
+0fb5:0d342d1f:0190:0007:1:0:0
+Télé Tchad
+p:Canal+ Afrique
+0fb6:0d342d1f:0190:0007:1:0:0
+Toute l'Histoire
+p:Canal+ Afrique
+0fb7:0d342d1f:0190:0007:1:0:0
+Trek
+p:Canal+ Afrique
+0fb8:0d342d1f:0190:0007:1:0:0
+TV 1 Prime
+p:Canal+ Afrique
+0fb9:0d342d1f:0190:0007:1:0:0
+Voir + Ivoire
+p:Unknown
+0fba:0d342d1f:0190:0007:1:0:0
+CRTV Sports and Entertainment
+p:Canal+ Afrique
+0fbb:0d342d1f:0190:0007:1:0:0
+National Geographic France
+p:Canal+ Afrique
+0fbc:0d342d1f:0190:0007:1:0:0
+Telemundo Africa
+p:Canal+ Afrique
+0fbd:0d342d1f:0190:0007:1:0:0
+Gabon 1ère
+p:Canal+ Afrique
+0fbe:0d342d1f:0190:0007:1:0:0
+Télé Congo
+p:Canal+ Afrique
+0fbf:0d342d1f:0190:0007:1:0:0
+Zee Alwan
+p:Canal+ Afrique
+0fc0:0d342d1f:0190:0007:1:0:0
+Canal 2 International
+p:Canal+ Afrique
+0fc1:0d342d1f:0190:0007:1:0:0
+Lutte TV
+p:Canal+ Afrique
+0fc2:0d342d1f:0190:0007:1:0:0
+DRTV International
+p:Canal+ Afrique
+0fc3:0d342d1f:0190:0007:1:0:0
+Pyramide TV
+p:Canal+ Afrique
+0fc4:0d342d1f:0190:0007:1:0:0
+TV 2 Rwanda
+p:Canal+ Afrique
+0fc5:0d342d1f:0190:0007:1:0:0
+Citizen TV
+p:Canal+ Afrique
+2261:0d342d5b:0328:0007:1:0:0
+Novelas+
+p:Canal+ Afrique
+2262:0d342d5b:0328:0007:1:0:0
+Canal + Sport 4
+p:Canal+ Afrique
+2263:0d342d5b:0328:0007:1:0:0
+Canal + Sport 5
+p:Canal+ Afrique
+2264:0d342d5b:0328:0007:1:0:0
+Canal + Cinéma Ouest
+p:Canal+ Afrique
+2265:0d342d5b:0328:0007:1:0:0
+PRC TV
+p:Canal+ Afrique
+2266:0d342d5b:0328:0007:1:0:0
+NBA TV Africa
+p:Canal+ Afrique
+2267:0d342d5b:0328:0007:1:0:0
+Canal + Family Ouest
+p:Canal+ Afrique
+2268:0d342d5b:0328:0007:1:0:0
+Canal + Action Ouest
+p:Canal+ Afrique
+226a:0d342d5b:0328:0007:1:0:0
+Canal + Première Ouest
+p:Canal+ Afrique
+226b:0d342d5b:0328:0007:1:0:0
+RTL 9
+p:Canal+ Afrique
+226c:0d342d5b:0328:0007:1:0:0
+SuperSport Football
+p:Canal+ Afrique
+226d:0d342d5b:0328:0007:1:0:0
+France 2
+p:Canal+ Afrique
+226e:0d342d5b:0328:0007:1:0:0
+InfoSport +
+p:Canal+ Afrique
+2270:0d342d5b:0328:0007:1:0:0
+Mandé TV
+p:Canal+ Afrique
+2271:0d342d5b:0328:0007:1:0:0
+Joliba TV News
+p:Canal+ Afrique
+2272:0d342d5b:0328:0007:1:0:0
+Canal + Sport 1
+p:Canal+ Afrique
+2274:0d342d5b:0328:0007:1:0:0
+SuperSport Football Plus Africa
+p:Canal+ Afrique
+2275:0d342d5b:0328:0007:1:0:0
+TGB
+p:Canal+ Afrique
+2276:0d342d5b:0328:0007:1:0:0
+Cartoon Network France
+p:Canal+ Afrique
+2277:0d342d5b:0328:0007:1:0:0
+TF 1 Séries Films
+p:Canal+ Afrique
+2278:0d342d5b:0328:0007:1:0:0
+Asfiyahi TV
+p:Canal+ Afrique
+2279:0d342d5b:0328:0007:1:0:0
+France 5
+p:Canal+ Afrique
+227c:0d342d5b:0328:0007:1:0:0
+Dorcel TV +1
+p:Canal+ Afrique
+227e:0d342d5b:0328:0007:1:0:0
+Museum TV International
+p:Canal+ Afrique
+0002:0d342d97:3cf0:013e:1:0:0
+Amen TV Sat
+p:Canal+ Afrique
+0006:0d342d97:3cf0:013e:1:0:0
+Tele Fontaine Vie TV
+p:Canal+ Afrique
+000a:0d342d97:3cf0:013e:1:0:0
+CGTN Français
+p:Canal+ Afrique
+0014:0d342d97:3cf0:013e:1:0:0
+Business 24 Africa
+p:Canal+ Afrique
+0016:0d342d97:3cf0:013e:1:0:0
+Vision 4
+p:Canal+ Afrique
+0017:0d342d97:3cf0:013e:1:0:0
+Shadow TV
+p:Canal+ Afrique
+0019:0d342d97:3cf0:013e:1:0:0
+Africanews Français
+p:Canal+ Afrique
+0028:0d342d97:3cf0:013e:1:0:0
+Medi 1 TV Afrique
+p:Canal+ Afrique
+002b:0d342d97:3cf0:013e:1:0:0
+A1 TV
+p:Canal+ Afrique
+003d:0d342d97:3cf0:013e:1:0:0
+EMCI TV Afrique
+p:Canal+ Afrique
+0040:0d342d97:3cf0:013e:1:0:0
+Miracle TV+
+p:Canal+ Afrique
+0065:0d342d97:3cf0:013e:2:0:0
+RFI Afrique
+p:Unknown
+0001:0d342ee2:0001:0001:1:0:0
+TV Ponta Negra
+p:Unknown
+1fa5:0d3430f2:0321:0007:1:0:0
+Telemusik
+p:Canal+ Afrique
+1fa6:0d3430f2:0321:0007:1:0:0
+MTV Alloubnaniya
+p:Canal+ Afrique
+1fa7:0d3430f2:0321:0007:1:0:0
+Afrik Info TV
+p:Canal+ Afrique
+1fa8:0d3430f2:0321:0007:1:0:0
+7TV
+p:Canal+ Afrique
+1fa9:0d3430f2:0321:0007:1:0:0
+Novelas+
+p:Canal+ Afrique
+1faa:0d3430f2:0321:0007:1:0:0
+Pitchoun Kids Music
+p:Canal+ Afrique
+1fab:0d3430f2:0321:0007:1:0:0
+Evangile TV
+p:Canal+ Afrique
+1fac:0d3430f2:0321:0007:1:0:0
+Touba TV
+p:Canal+ Afrique
+1fad:0d3430f2:0321:0007:1:0:0
+Al Mouridiyyah TV
+p:Canal+ Afrique
+1fae:0d3430f2:0321:0007:1:0:0
+EuroNews Français
+p:Canal+ Afrique
+1faf:0d3430f2:0321:0007:1:0:0
+Mourchid TV
+p:Canal+ Afrique
+1fb0:0d3430f2:0321:0007:1:0:0
+Love Nature
+p:Canal+ Afrique
+1fb1:0d3430f2:0321:0007:1:0:0
+Segou TV
+p:Canal+ Afrique
+1fb2:0d3430f2:0321:0007:1:0:0
+Reflet TV
+p:Canal+ Afrique
+1fb3:0d3430f2:0321:0007:1:0:0
+Malikia TV
+p:Canal+ Afrique
+1fb5:0d3430f2:0321:0007:1:0:0
+RTF
+p:Canal+ Afrique
+1fb6:0d3430f2:0321:0007:1:0:0
+Kayes TV
+p:Canal+ Afrique
+1fb7:0d3430f2:0321:0007:1:0:0
+Zacu TV
+p:Canal+ Afrique
+1fb8:0d3430f2:0321:0007:1:0:0
+Cuisines
+p:Canal+ Afrique
+1fb9:0d3430f2:0321:0007:1:0:0
+Melody d'Afrique
+p:Canal+ Afrique
+1fba:0d3430f2:0321:0007:1:0:0
+RTB Télé Zénith
+p:Canal+ Afrique
+1fbb:0d3430f2:0321:0007:1:0:0
+Sunna TV Savana
+p:Canal+ Afrique
+1fbd:0d3430f2:0321:0007:1:0:0
+Génération Originale TV
+p:Canal+ Afrique
+1fbe:0d3430f2:0321:0007:1:0:0
+Canal 2 Movies
+p:Canal+ Afrique
+1fbf:0d3430f2:0321:0007:1:0:0
+M7 TV
+p:Canal+ Afrique
+1fc0:0d3430f2:0321:0007:1:0:0
+RTB 3
+p:Canal+ Afrique
+1fc1:0d3430f2:0321:0007:1:0:0
+TV Al Houda
+p:Canal+ Afrique
+1fc2:0d3430f2:0321:0007:1:0:0
+RTB TV
+p:Canal+ Afrique
+1fc3:0d3430f2:0321:0007:1:0:0
+Lumen Christi TV
+p:Canal+ Afrique
+1fd6:0d3430f2:0321:0007:2:0:0
+Radio Parlementaire
+p:Canal+ Afrique
+1fd7:0d3430f2:0321:0007:2:0:0
+ORTM Radio Mali
+p:Unknown
+1fd8:0d3430f2:0321:0007:2:0:0
+ORTM Chaîne 2
+p:Unknown
+1fd9:0d3430f2:0321:0007:2:0:0
+RFI Hausa
+p:Canal+ Afrique
+1fda:0d3430f2:0321:0007:2:0:0
+RFI Mandenkan
+p:Canal+ Afrique
+1fdb:0d3430f2:0321:0007:2:0:0
+RFI Kiswahili
+p:Canal+ Afrique
+1fdc:0d3430f2:0321:0007:2:0:0
+RFI Fulfulde
+p:Canal+ Afrique
+1fdd:0d3430f2:0321:0007:2:0:0
+Savane FM
+p:Unknown
+1fde:0d3430f2:0321:0007:2:0:0
+B-One Radio
+p:Unknown
+1fdf:0d3430f2:0321:0007:2:0:0
+Sahel FM
+p:Unknown
+1fe0:0d3430f2:0321:0007:2:0:0
+Radio Tchad
+p:Unknown
+1fe1:0d3430f2:0321:0007:2:0:0
+FM Fulbe
+p:Unknown
+206d:0d34311a:0323:0007:1:0:0
+Dounia TV
+p:Canal+ Afrique
+206e:0d34311a:0323:0007:1:0:0
+Bonferey
+p:Canal+ Afrique
+206f:0d34311a:0323:0007:1:0:0
+BCN TV
+p:Canal+ Afrique
+2072:0d34311a:0323:0007:1:0:0
+Ludikids
+p:Canal+ Afrique
+2073:0d34311a:0323:0007:1:0:0
+Vixen
+p:Canal+ Afrique
+2075:0d34311a:0323:0007:1:0:0
+Equinoxe TV
+p:Canal+ Afrique
+2078:0d34311a:0323:0007:1:0:0
+Nickelodeon France
+p:Canal+ Afrique
+207a:0d34311a:0323:0007:1:0:0
+ORTM 1
+p:Canal+ Afrique
+207d:0d34311a:0323:0007:1:0:0
+Africa 24 Sport
+p:Canal+ Afrique
+207e:0d34311a:0323:0007:1:0:0
+ORTM 2
+p:Canal+ Afrique
+2081:0d34311a:0323:0007:1:0:0
+Tiji
+p:Canal+ Afrique
+2082:0d34311a:0323:0007:1:0:0
+XXL TV
+p:Canal+ Afrique
+2083:0d34311a:0323:0007:1:0:0
+7 Info
+p:Canal+ Afrique
+2084:0d34311a:0323:0007:1:0:0
+Penthouse Black +1
+p:Canal+ Afrique
+2086:0d34311a:0323:0007:1:0:0
+Automoto la chaîne
+p:Canal+ Afrique
+2087:0d34311a:0323:0007:1:0:0
+RTI La 3
+p:Canal+ Afrique
+2088:0d34311a:0323:0007:1:0:0
+Walf TV
+p:Canal+ Afrique
+2089:0d34311a:0323:0007:1:0:0
+Cherifla TV
+p:Canal+ Afrique
+208a:0d34311a:0323:0007:1:0:0
+CRTV News
+p:Canal+ Afrique
+208b:0d34311a:0323:0007:1:0:0
+RTNB TV
+p:Canal+ Afrique
+208c:0d34311a:0323:0007:1:0:0
+Novelas+
+p:Canal+ Afrique
+208d:0d34311a:0323:0007:1:0:0
+Arewa 24
+p:Canal+ Afrique
+208e:0d34311a:0323:0007:1:0:0
+Savane TV
+p:Canal+ Afrique
+209e:0d34311a:0323:0007:2:0:0
+Radio Equinoxe
+p:Unknown
+209f:0d34311a:0323:0007:2:0:0
+Radio Gabon
+p:Unknown
+20a0:0d34311a:0323:0007:2:0:0
+I Radio 90.3
+p:Unknown
+20a1:0d34311a:0323:0007:2:0:0
+Radio de la Paix
+p:Unknown
+20a3:0d34311a:0323:0007:2:0:0
+Radio LGF Pop
+p:Unknown
+20a4:0d34311a:0323:0007:2:0:0
+Radio Notre Dame International
+p:Unknown
+20a5:0d34311a:0323:0007:2:0:0
+Franceinfo:
+p:Unknown
+20a6:0d34311a:0323:0007:2:0:0
+Top Congo FM
+p:Unknown
+20a8:0d34311a:0323:0007:2:0:0
+Radio Jam
+p:Unknown
+20a9:0d34311a:0323:0007:2:0:0
+Radio Al Bayane
+p:Unknown
+20aa:0d34311a:0323:0007:2:0:0
+Radio Ndarason Internationale
+p:Canal+ Afrique
+20d1:0d343142:0324:0007:1:0:0
+2S TV
+p:Canal+ Afrique
+20d2:0d343142:0324:0007:1:0:0
+ARTE Français
+p:Canal+ Afrique
+20d3:0d343142:0324:0007:1:0:0
+BBC News Africa
+p:Canal+ Afrique
+20d4:0d343142:0324:0007:1:0:0
+A+
+p:Canal+ Afrique
+20d5:0d343142:0324:0007:1:0:0
+CRTV
+p:Canal+ Afrique
+20d6:0d343142:0324:0007:1:0:0
+Brik TV
+p:Canal+ Afrique
+20d7:0d343142:0324:0007:1:0:0
+Al Nassr TV
+p:Canal+ Afrique
+20d8:0d343142:0324:0007:1:0:0
+Tchad Infos TV
+p:Canal+ Afrique
+20d9:0d343142:0324:0007:1:0:0
+Nollywood TV Épic
+p:Canal+ Afrique
+20da:0d343142:0324:0007:1:0:0
+RTB Télé Zénith
+p:Canal+ Afrique
+20dc:0d343142:0324:0007:1:0:0
+Planète + Crime
+p:Canal+ Afrique
+20dd:0d343142:0324:0007:1:0:0
+C Star
+p:Canal+ Afrique
+20de:0d343142:0324:0007:1:0:0
+Lamp Fall TV
+p:Canal+ Afrique
+20e0:0d343142:0324:0007:1:0:0
+STV
+p:Canal+ Afrique
+20e1:0d343142:0324:0007:1:0:0
+Benie TV
+p:Canal+ Afrique
+20e2:0d343142:0324:0007:1:0:0
+TFM
+p:Canal+ Afrique
+20e3:0d343142:0324:0007:1:0:0
+TM1 TV
+p:Canal+ Afrique
+20e4:0d343142:0324:0007:1:0:0
+C News
+p:Canal+ Afrique
+20e5:0d343142:0324:0007:1:0:0
+Sunu Yeuf
+p:Canal+ Afrique
+20e6:0d343142:0324:0007:1:0:0
+TMC
+p:Canal+ Afrique
+20eb:0d343142:0324:0007:1:0:0
+TVC Benin
+p:Canal+ Afrique
+2102:0d343142:0324:0007:2:0:0
+Radio France Internationale
+p:Canal+ Afrique
+2103:0d343142:0324:0007:2:0:0
+RFM
+p:Unknown
+2104:0d343142:0324:0007:2:0:0
+CRTV National Radio
+p:Unknown
+2105:0d343142:0324:0007:2:0:0
+Radio Côte d'Ivoire
+p:Unknown
+2107:0d343142:0324:0007:2:0:0
+Radio Guinée
+p:Unknown
+2108:0d343142:0324:0007:2:0:0
+Radio Okapi
+p:Unknown
+210a:0d343142:0324:0007:2:0:0
+Alpha Blondy FM
+p:Unknown
+210b:0d343142:0324:0007:2:0:0
+Radio Legende
+p:Unknown
+2135:0d34316a:0325:0007:1:0:0
+M6 International
+p:Canal+ Afrique
+2136:0d34316a:0325:0007:1:0:0
+Tivi5Monde
+p:Canal+ Afrique
+2137:0d34316a:0325:0007:1:0:0
+Life TV
+p:Canal+ Afrique
+2138:0d34316a:0325:0007:1:0:0
+RTG
+p:Canal+ Afrique
+2139:0d34316a:0325:0007:1:0:0
+Digital Congo TV
+p:Canal+ Afrique
+213a:0d34316a:0325:0007:1:0:0
+LCI
+p:Canal+ Afrique
+213b:0d34316a:0325:0007:1:0:0
+2M TV
+p:Canal+ Afrique
+213c:0d34316a:0325:0007:1:0:0
+Planète + Aventure
+p:Canal+ Afrique
+213e:0d34316a:0325:0007:1:0:0
+Congo 26 TV
+p:Canal+ Afrique
+213f:0d34316a:0325:0007:1:0:0
+TCF
+p:Canal+ Afrique
+2140:0d34316a:0325:0007:1:0:0
+Chinguit TV
+p:Canal+ Afrique
+2141:0d34316a:0325:0007:1:0:0
+BF1
+p:Canal+ Afrique
+2142:0d34316a:0325:0007:1:0:0
+Gabon 24
+p:Canal+ Afrique
+2143:0d34316a:0325:0007:1:0:0
+Aljazeera Channel
+p:Canal+ Afrique
+2144:0d34316a:0325:0007:1:0:0
+SuperSport Africa 2
+p:Canal+ Afrique
+2145:0d34316a:0325:0007:1:0:0
+Elwataniya TV
+p:Canal+ Afrique
+2146:0d34316a:0325:0007:1:0:0
+Tchad 24
+p:Canal+ Afrique
+2147:0d34316a:0325:0007:1:0:0
+GTV
+p:Canal+ Afrique
+2148:0d34316a:0325:0007:1:0:0
+A+ Ivoire
+p:Canal+ Afrique
+2149:0d34316a:0325:0007:1:0:0
+France 24 English
+p:Canal+ Afrique
+214a:0d34316a:0325:0007:1:0:0
+Antenne TV A
+p:Canal+ Afrique
+214b:0d34316a:0325:0007:1:0:0
+Bénin TV Alafia
+p:Canal+ Afrique
+214c:0d34316a:0325:0007:1:0:0
+CNBC Africa
+p:Canal+ Afrique
+214d:0d34316a:0325:0007:1:0:0
+Canal 3 Burkina
+p:Canal+ Afrique
+214e:0d34316a:0325:0007:1:0:0
+Mikuba TV
+p:Canal+ Afrique
+214f:0d34316a:0325:0007:1:0:0
+Voir + RDC
+p:Unknown
+2167:0d34316a:0325:0007:2:0:0
+Vibe Radio
+p:Unknown
+216a:0d34316a:0325:0007:2:0:0
+Victoire FM
+p:Unknown
+216b:0d34316a:0325:0007:2:0:0
+Afrik Info FM
+p:Unknown
+216c:0d34316a:0325:0007:2:0:0
+Radio Kledu
+p:Unknown
+216d:0d34316a:0325:0007:2:0:0
+Radio Djekafo
+p:Unknown
+216e:0d34316a:0325:0007:2:0:0
+Sud FM
+p:Unknown
+216f:0d34316a:0325:0007:2:0:0
+Lamp Fall FM
+p:Unknown
+2170:0d34316a:0325:0007:2:0:0
+Trace FM Côte d'Ivoire
+p:Unknown
+2171:0d34316a:0325:0007:2:0:0
+Radio Balafon
+p:Unknown
+2172:0d34316a:0325:0007:2:0:0
+Parole Eternelle Radio
+p:Canal+ Afrique
+2173:0d34316a:0325:0007:2:0:0
+Tchad Infos Radio
+p:Canal+ Afrique
+0001:0d343180:0001:ffff:1:0:0
+TV 6
+p:Unknown
+0002:0d343180:0001:ffff:1:0:0
+Canal Algérie 2
+p:Unknown
+0003:0d343180:0001:ffff:1:0:0
+Thalitha A3
+p:Unknown
+0004:0d343180:0001:ffff:1:0:0
+ENTV
+p:Unknown
+001a:0d343180:0001:ffff:1:0:0
+TV 5 Coran
+p:Unknown
+001b:0d343180:0001:ffff:1:0:0
+TV 4 Amazigh
+p:Unknown
+0006:0d343180:0001:ffff:2:0:0
+Radio Décrochage
+p:Unknown
+0007:0d343180:0001:ffff:2:0:0
+Chaîne 2
+p:Unknown
+0008:0d343180:0001:ffff:2:0:0
+Chaîne 3
+p:Unknown
+0009:0d343180:0001:ffff:2:0:0
+Ifrikya FM
+p:Unknown
+000a:0d343180:0001:ffff:2:0:0
+Radio Ouargla
+p:Unknown
+000b:0d343180:0001:ffff:2:0:0
+Radio Tamanrasset
+p:Unknown
+000c:0d343180:0001:ffff:2:0:0
+Radio Béchar
+p:Unknown
+000d:0d343180:0001:ffff:2:0:0
+Radio Tlemcen
+p:Unknown
+000e:0d343180:0001:ffff:2:0:0
+Radio Adrar
+p:Unknown
+000f:0d343180:0001:ffff:2:0:0
+Radio Ghardaïa
+p:Unknown
+0010:0d343180:0001:ffff:2:0:0
+Radio Illizi
+p:Unknown
+0011:0d343180:0001:ffff:2:0:0
+Radio Algérie Internationale
+p:Unknown
+0012:0d343180:0001:ffff:2:0:0
+Radio El Oued
+p:Unknown
+0013:0d343180:0001:ffff:2:0:0
+Radio Tindouf
+p:Unknown
+0014:0d343180:0001:ffff:2:0:0
+Radio Batna
+p:Unknown
+0015:0d343180:0001:ffff:2:0:0
+Radio Jijel
+p:Unknown
+0016:0d343180:0001:ffff:2:0:0
+Radio Souk Ahras
+p:Unknown
+0017:0d343180:0001:ffff:2:0:0
+Radio Laghouat
+p:Unknown
+0018:0d343180:0001:ffff:2:0:0
+Radio Naâma
+p:Unknown
+0019:0d343180:0001:ffff:2:0:0
+Chaîne 1
+p:Unknown
+001d:0d343180:0001:ffff:2:0:0
+Radio Blida
+p:Unknown
+001e:0d343180:0001:ffff:2:0:0
+Radio El Tarf
+p:Unknown
+001f:0d343180:0001:ffff:2:0:0
+Radio Médéa
+p:Unknown
+0020:0d343180:0001:ffff:2:0:0
+Radio Mila
+p:Unknown
+0021:0d343180:0001:ffff:2:0:0
+Radio Saïda
+p:Unknown
+0022:0d343180:0001:ffff:2:0:0
+Radio Skikda
+p:Unknown
+0023:0d343180:0001:ffff:2:0:0
+Radio Mascara
+p:Unknown
+0024:0d343180:0001:ffff:2:0:0
+Radio Guelma
+p:Unknown
+0025:0d343180:0001:ffff:2:0:0
+Radio Aïn Témouchent
+p:Unknown
+0026:0d343180:0001:ffff:2:0:0
+Radio Khenchela
+p:Unknown
+0027:0d343180:0001:ffff:2:0:0
+Radio Béjaïa
+p:Unknown
+0028:0d343180:0001:ffff:2:0:0
+Radio Bouira
+p:Unknown
+0029:0d343180:0001:ffff:2:0:0
+Radio Relizane
+p:Unknown
+002a:0d343180:0001:ffff:2:0:0
+Radio Annaba
+p:Unknown
+002b:0d343180:0001:ffff:2:0:0
+Radio Tizi Ouzou
+p:Unknown
+002c:0d343180:0001:ffff:2:0:0
+Radio Tissemsilt
+p:Unknown
+002d:0d343180:0001:ffff:2:0:0
+Radio El Bayadh
+p:Unknown
+002e:0d343180:0001:ffff:2:0:0
+Radio Tebessa
+p:Unknown
+002f:0d343180:0001:ffff:2:0:0
+Radio Djelfa
+p:Unknown
+0030:0d343180:0001:ffff:2:0:0
+Radio Aïn Defla
+p:Unknown
+0031:0d343180:0001:ffff:2:0:0
+Radio Tipaza
+p:Unknown
+0032:0d343180:0001:ffff:2:0:0
+Radio Boumerdès
+p:Unknown
+0033:0d343180:0001:ffff:2:0:0
+Radio Oran
+p:Unknown
+0034:0d343180:0001:ffff:2:0:0
+Radio Tiaret
+p:Unknown
+0035:0d343180:0001:ffff:2:0:0
+Radio Mostaganem
+p:Unknown
+0036:0d343180:0001:ffff:2:0:0
+Radio M'Sila
+p:Unknown
+0037:0d343180:0001:ffff:2:0:0
+Radio Bordj Bou Arreridj
+p:Unknown
+0038:0d343180:0001:ffff:2:0:0
+Radio Sétif
+p:Unknown
+0039:0d343180:0001:ffff:2:0:0
+Radio Biskra
+p:Unknown
+003a:0d343180:0001:ffff:2:0:0
+Radio Constantine
+p:Unknown
+003b:0d343180:0001:ffff:2:0:0
+Radio Oum El Bouaghi
+p:Unknown
+003c:0d343180:0001:ffff:2:0:0
+Radio Chlef
+p:Unknown
+003d:0d343180:0001:ffff:2:0:0
+Radio Sidi Bel Abbès
+p:Unknown
+003f:0d343180:0001:ffff:2:0:0
+Radio Coran
+p:Unknown
+0296:0d343180:0001:ffff:2:0:0
+Radio El Bahdja
+p:Unknown
+0298:0d343180:0001:ffff:2:0:0
+Radio Culture
+p:Unknown
+0299:0d343180:0001:ffff:2:0:0
+Radio Jil FM
+p:Unknown
+2199:0d343192:0326:0007:1:0:0
+KTO
+p:Canal+ Afrique
+219a:0d343192:0326:0007:1:0:0
+Iqraa English
+p:Canal+ Afrique
+219b:0d343192:0326:0007:1:0:0
+CDirect
+p:Canal+ Afrique
+219c:0d343192:0326:0007:1:0:0
+Mandeka
+p:Canal+ Afrique
+219d:0d343192:0326:0007:1:0:0
+Trace Teranga
+p:Canal+ Afrique
+219e:0d343192:0326:0007:1:0:0
+B-One TV
+p:Canal+ Afrique
+219f:0d343192:0326:0007:1:0:0
+Vox TV
+p:Canal+ Afrique
+21a1:0d343192:0326:0007:1:0:0
+Trace Kitoko
+p:Canal+ Afrique
+21a2:0d343192:0326:0007:1:0:0
+Evasion TV
+p:Canal+ Afrique
+21a3:0d343192:0326:0007:1:0:0
+Gabon Culture
+p:Canal+ Afrique
+21a4:0d343192:0326:0007:1:0:0
+Trace Ivoire
+p:Canal+ Afrique
+21a5:0d343192:0326:0007:1:0:0
+LGF Talk
+p:Canal+ Afrique
+21a6:0d343192:0326:0007:1:0:0
+Kaback TV
+p:Canal+ Afrique
+21a7:0d343192:0326:0007:1:0:0
+RTG 2
+p:Canal+ Afrique
+21a8:0d343192:0326:0007:1:0:0
+Electron TV
+p:Canal+ Afrique
+21a9:0d343192:0326:0007:1:0:0
+Penthouse Black
+p:Canal+ Afrique
+21ab:0d343192:0326:0007:1:0:0
+LM TV Français
+p:Canal+ Afrique
+21ac:0d343192:0326:0007:1:0:0
+La Guinée Fé
+p:Canal+ Afrique
+21ae:0d343192:0326:0007:1:0:0
+CIS TV
+p:Canal+ Afrique
+21b0:0d343192:0326:0007:1:0:0
+Moliere TV
+p:Canal+ Afrique
+21b1:0d343192:0326:0007:1:0:0
+Nyota TV
+p:Canal+ Afrique
+21b2:0d343192:0326:0007:1:0:0
+MCR TV NF
+p:Canal+ Afrique
+21b4:0d343192:0326:0007:1:0:0
+Pulaagu
+p:Canal+ Afrique
+21b5:0d343192:0326:0007:1:0:0
+SSM TV
+p:Canal+ Afrique
+21fe:0d3431ba:0327:0007:1:0:0
+RTVS 1
+p:Canal+ Afrique
+21ff:0d3431ba:0327:0007:1:0:0
+France 3
+p:Canal+ Afrique
+2201:0d3431ba:0327:0007:1:0:0
+RTB 3
+p:Canal+ Afrique
+2202:0d3431ba:0327:0007:1:0:0
+Trace Gospel
+p:Canal+ Afrique
+2203:0d3431ba:0327:0007:1:0:0
+Sun+ TV
+p:Canal+ Afrique
+2204:0d3431ba:0327:0007:1:0:0
+Sud1ère
+p:Canal+ Afrique
+2205:0d3431ba:0327:0007:1:0:0
+France 24 Français
+p:Canal+ Afrique
+2206:0d3431ba:0327:0007:1:0:0
+Asonga TV
+p:Canal+ Afrique
+2207:0d3431ba:0327:0007:1:0:0
+Science & Vie TV
+p:Canal+ Afrique
+2208:0d3431ba:0327:0007:1:0:0
+Sen TV
+p:Canal+ Afrique
+2209:0d3431ba:0327:0007:1:0:0
+Télé 50
+p:Canal+ Afrique
+220a:0d3431ba:0327:0007:1:0:0
+RTDS
+p:Canal+ Afrique
+220b:0d3431ba:0327:0007:1:0:0
+Elmouritaniya
+p:Canal+ Afrique
+220c:0d3431ba:0327:0007:1:0:0
+TV +
+p:Canal+ Afrique
+220e:0d3431ba:0327:0007:1:0:0
+RTNC
+p:Canal+ Afrique
+220f:0d3431ba:0327:0007:1:0:0
+RTD 4
+p:Canal+ Afrique
+2210:0d3431ba:0327:0007:1:0:0
+Maboke TV
+p:Canal+ Afrique
+2211:0d3431ba:0327:0007:1:0:0
+Canal 3 Benin
+p:Canal+ Afrique
+2212:0d3431ba:0327:0007:1:0:0
+E-Télé Benin
+p:Canal+ Afrique
+2213:0d3431ba:0327:0007:1:0:0
+Tauraruwa TV
+p:Canal+ Afrique
+2214:0d3431ba:0327:0007:1:0:0
+Rwanda TV
+p:Canal+ Afrique
+2216:0d3431ba:0327:0007:1:0:0
+SuperSport WWE
+p:Canal+ Afrique
+2217:0d3431ba:0327:0007:1:0:0
+Maisha Magic Bongo
+p:Canal+ Afrique
+2218:0d3431ba:0327:0007:1:0:0
+Tafouk TV
+p:Canal+ Afrique
+2219:0d3431ba:0327:0007:1:0:0
+Canal+ Golf
+p:Canal+ Afrique
+222e:0d3431ba:0327:0007:2:0:0
+Zik FM
+p:Unknown
+222f:0d3431ba:0327:0007:2:0:0
+Radio Mucodec
+p:Unknown
+2230:0d3431ba:0327:0007:2:0:0
+Sabari FM
+p:Unknown
+2231:0d3431ba:0327:0007:2:0:0
+Walf FM
+p:Unknown
+2232:0d3431ba:0327:0007:2:0:0
+Life Radio
+p:Unknown
+2233:0d3431ba:0327:0007:2:0:0
+LGF Fun
+p:Canal+ Afrique
+2234:0d3431ba:0327:0007:2:0:0
+Radio 10
+p:Canal+ Afrique
+2237:0d3431ba:0327:0007:2:0:0
+Radio Ndeke Luka
+p:Unknown
+2238:0d3431ba:0327:0007:2:0:0
+Hit Radio RCA
+p:Unknown
+2239:0d3431ba:0327:0007:2:0:0
+CIS Radio
+p:Unknown
+223a:0d3431ba:0327:0007:2:0:0
+Maquis FM
+p:Unknown
+end

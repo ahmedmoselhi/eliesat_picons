@@ -1,6 +1,6 @@
 eDVB services /4/
 transponders
-0dbf0e94:0000:0000
+0dbf0e94:03e9:2180
 	s 3732000:40410000:2:0:-81:2:0:1:0:2:2
 /
 0dbf0ef2:1f5f:077e
@@ -32,26 +32,32 @@ transponders
 /
 end
 services
-0065:0dbf0e94:0000:0000:1:0:0
+0065:0dbf0e94:03e9:2180:1:0:0
 RTI 1
 p:Unknown
-0066:0dbf0e94:0000:0000:1:0:0
+0066:0dbf0e94:03e9:2180:1:0:0
 RTI 2
 p:Unknown
-0067:0dbf0e94:0000:0000:1:0:0
+0067:0dbf0e94:03e9:2180:1:0:0
 RTI La 3
 p:Unknown
-0068:0dbf0e94:0000:0000:1:0:0
+0068:0dbf0e94:03e9:2180:1:0:0
 La Nouvelle Chaîne Ivorienne
 p:Unknown
-0069:0dbf0e94:0000:0000:1:0:0
+0069:0dbf0e94:03e9:2180:1:0:0
 A+ Ivoire
 p:Unknown
-006a:0dbf0e94:0000:0000:1:0:0
+006a:0dbf0e94:03e9:2180:1:0:0
 Life TV
 p:Unknown
-006b:0dbf0e94:0000:0000:1:0:0
+006b:0dbf0e94:03e9:2180:1:0:0
 7 Info
+p:Unknown
+006c:0dbf0e94:03e9:2180:1:0:0
+Ivoire TV Music
+p:Unknown
+006d:0dbf0e94:03e9:2180:1:0:0
+Sud1ère
 p:Unknown
 0169:0dbf0ef2:1f5f:077e:1:0:0
 Télé Congo
@@ -73,12 +79,6 @@ CRTV News
 p:Unknown
 0003:0dbf0ef8:0001:0001:1:0:0
 CRTV Sports and Entertainment
-p:Unknown
-0001:0dbf0f0c:0008:0088:1:0:0
-ZNBC TV 3
-p:Unknown
-0003:0dbf0f0c:0008:0088:1:0:0
-Mozo TV
 p:Unknown
 0005:0dbf0f0c:0008:0088:1:0:0
 Parliament TV
@@ -104,9 +104,6 @@ p:Unknown
 005d:0dbf0f0c:0008:0088:1:0:0
 Musanza TV
 p:Unknown
-005e:0dbf0f0c:0008:0088:1:0:0
-Sun Sports TV
-p:Unknown
 0062:0dbf0f0c:0008:0088:1:0:0
 Q TV
 p:Unknown
@@ -122,11 +119,11 @@ p:Unknown
 006b:0dbf0f0c:0008:0088:1:0:0
 ABN TV
 p:Unknown
-006e:0dbf0f0c:0008:0088:1:0:0
-Ingoma TV
-p:Unknown
 0070:0dbf0f0c:0008:0088:1:0:0
 Promise TV
+p:Unknown
+0079:0dbf0f0c:0008:0088:1:0:0
+Light TV
 p:Unknown
 0080:0dbf0f0c:0008:0088:1:0:0
 NAC 28 TV
@@ -142,6 +139,9 @@ Prime TV
 p:Unknown
 01c2:0dbf0f0c:0008:0088:1:0:0
 Hope Channel Zambia
+p:Unknown
+01c4:0dbf0f0c:0008:0088:1:0:0
+ZNBC TV 1
 p:Unknown
 0200:0dbf0f0c:0008:0088:1:0:0
 Lumen TV
@@ -178,6 +178,30 @@ Nina Novelas English
 p:Unknown
 00d8:0dbf0f55:1fbd:0001:1:0:0
 Nina Novelas Français
+p:Unknown
+0321:0dbf0f55:1fbd:0001:2:0:0
+Monte Carlo Doualiya
+p:Unknown
+0322:0dbf0f55:1fbd:0001:2:0:0
+RFI Français
+p:Unknown
+0341:0dbf0f55:1fbd:0001:2:0:0
+RFI Langues 1
+p:Unknown
+0342:0dbf0f55:1fbd:0001:2:0:0
+RFI Langues 2
+p:Unknown
+0343:0dbf0f55:1fbd:0001:2:0:0
+RFI Musique
+p:Unknown
+0344:0dbf0f55:1fbd:0001:2:0:0
+RFI Diverse 1
+p:Unknown
+0345:0dbf0f55:1fbd:0001:2:0:0
+RFI Diverse 2
+p:Unknown
+0346:0dbf0f55:1fbd:0001:2:0:0
+RFI Diverse 3
 p:Unknown
 06f4:0dbf0f7c:1f87:077e:2:0:0
 Radio Notre Dame International

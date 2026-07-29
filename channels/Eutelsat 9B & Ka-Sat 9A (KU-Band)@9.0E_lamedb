@@ -1,0 +1,1124 @@
+eDVB services /4/
+transponders
+005a2dcf:c35a:009e
+	s 11727000:30000000:1:0:90:2:0:1:0:2:2
+/
+005a2e09:14b4:009c
+	s 11785000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2e2f:0001:0064
+	s 11823000:27500000:0:0:90:2:0:0:0:2:2
+/
+005a2e43:0001:00aa
+	s 11843000:27500000:1:0:90:2:0:1:0:2:2
+/
+005a2e55:1644:009c
+	s 11861000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2e69:c3aa:009e
+	s 11881000:30000000:1:0:90:2:0:1:0:2:2
+/
+005a2e7c:170c:009e
+	s 11900000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2e8f:c3be:009e
+	s 11919000:30000000:1:0:90:2:0:1:0:2:2
+/
+005a2ea2:0009:00aa
+	s 11938000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2eb6:1838:009e
+	s 11958000:27500000:1:0:90:2:0:1:0:2:2
+/
+005a2ec9:2134:009c
+	s 11977000:30000000:0:0:90:2:0:1:0:2:2
+/
+005a2edc:1900:009c
+	s 11996000:27500000:1:0:90:2:0:0:0:2:2
+/
+005a2eef:1964:009c
+	s 12015000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2f02:19c8:009e
+	s 12034000:27500000:1:0:90:2:0:1:0:2:2
+/
+005a2f16:0002:00aa
+	s 12054000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2f3c:1af4:009e
+	s 12092000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2f4f:0107:217c
+	s 12111000:31400000:1:0:90:2:0:1:0:2:2
+/
+005a2f75:03a2:0110
+	s 12149000:31400000:1:0:90:2:0:1:0:2:2
+/
+005a2f89:0008:00aa
+	s 12169000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2faf:0004:00aa
+	s 12207000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2fc2:20e1:217c
+	s 12226000:31400000:1:0:90:2:0:1:0:2:2
+/
+005a2fc2:0064:2324
+	s 12226000:30000000:1:0:90:2:0:1:0:2:2
+/
+005a2fd5:1edc:009c
+	s 12245000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a2ffc:0005:00aa
+	s 12284000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a300f:10e1:217c
+	s 12303000:31400000:1:0:90:2:0:1:0:2:2
+/
+005a300f:012c:2324
+	s 12303000:30000000:1:0:90:2:0:1:0:2:2
+/
+005a3035:0204:001d
+	s 12341000:31400000:1:0:90:2:0:1:0:2:2
+/
+005a305c:40e1:217c
+	s 12380000:31400000:1:0:90:2:0:1:0:2:2
+/
+005a306f:0006:00aa
+	s 12399000:27500000:0:0:90:2:0:1:0:2:2
+/
+005a30b2:18e1:217c
+	s 12466000:41950000:1:0:90:2:0:1:0:2:2
+/
+005a30bb:0007:00aa
+	s 12475000:27500000:0:0:90:2:0:1:0:2:2
+/
+end
+services
+0364:005a2dcf:c35a:009e:1:0:0
+Israel+
+p:Unknown
+0362:005a2dcf:c35a:009e:2:0:0
+TRT Tamil Olli
+p:Unknown
+00c9:005a2e09:14b4:009c:1:0:0
+ProSieben Maxx Deutschland
+p:Canal+ Germany
+00ca:005a2e09:14b4:009c:1:0:0
+MTV Germany
+p:Canal+ Germany
+00cb:005a2e09:14b4:009c:1:0:0
+Welt
+p:Canal+ Germany
+00cc:005a2e09:14b4:009c:1:0:0
+RTL Up
+p:Canal+ Germany
+00cd:005a2e09:14b4:009c:1:0:0
+Eurosport 1 Germany
+p:Canal+ Germany
+00ce:005a2e09:14b4:009c:1:0:0
+Toggo Plus
+p:Canal+ Germany
+00cf:005a2e09:14b4:009c:1:0:0
+Voxup
+p:Canal+ Germany
+00d8:005a2e09:14b4:009c:1:0:0
+Comedy Central Deutschland
+p:Unknown
+0712:005a2e2f:0001:0064:1:0:0
+Sisal TV 1
+p:Unknown
+0726:005a2e2f:0001:0064:1:0:0
+Sisal TV 3
+p:Unknown
+0730:005a2e2f:0001:0064:1:0:0
+Sisal TV 4
+p:Unknown
+073a:005a2e2f:0001:0064:1:0:0
+Sisal TV 5
+p:Unknown
+0744:005a2e2f:0001:0064:1:0:0
+EuroNews Russkiy
+p:Unknown
+074e:005a2e2f:0001:0064:1:0:0
+GoldBet League
+p:Unknown
+0762:005a2e2f:0001:0064:1:0:0
+GoldBet Racing
+p:Unknown
+0780:005a2e2f:0001:0064:1:0:0
+AMC Ukraine
+p:Unknown
+065e:005a2e2f:0001:0064:2:0:0
+Radio Carrefour ipermercati
+p:Unknown
+0668:005a2e2f:0001:0064:2:0:0
+Radio Carrefour market
+p:Unknown
+03f5:005a2e43:0001:00aa:1:0:0
+Stingray IConcerts
+p:Cosmote TV
+03fd:005a2e43:0001:00aa:1:0:0
+Kriti TV
+p:Cosmote TV
+0407:005a2e43:0001:00aa:1:0:0
+Luxe TV
+p:Cosmote TV
+041d:005a2e43:0001:00aa:1:0:0
+Stingray CMusic
+p:Cosmote TV
+041e:005a2e43:0001:00aa:1:0:0
+Kontra
+p:Cosmote TV
+043b:005a2e43:0001:00aa:1:0:0
+France 24 Français
+p:Cosmote TV
+043d:005a2e43:0001:00aa:1:0:0
+CNBC Europe
+p:Cosmote TV
+0437:005a2e43:0001:00aa:1:0:0
+Star Kentrikis Elladas
+p:Cosmote TV
+0440:005a2e43:0001:00aa:1:0:0
+BBC News Europe
+p:Cosmote TV
+0449:005a2e43:0001:00aa:1:0:0
+Mezzo Live
+p:Cosmote TV
+0452:005a2e43:0001:00aa:1:0:0
+E! Europe
+p:Cosmote TV
+0454:005a2e43:0001:00aa:1:0:0
+Ginx TV Greece
+p:Cosmote TV
+00e6:005a2e55:1644:009c:1:0:0
+Kabel Eins Deutschland
+p:Canal+ Germany
+00e7:005a2e55:1644:009c:1:0:0
+DMAX Deutschland
+p:Canal+ Germany
+00e8:005a2e55:1644:009c:1:0:0
+Tele 5
+p:Canal+ Germany
+00e9:005a2e55:1644:009c:1:0:0
+Nickelodeon Deutschland
+p:Canal+ Germany
+00ea:005a2e55:1644:009c:1:0:0
+Sport 1
+p:Canal+ Germany
+00eb:005a2e55:1644:009c:1:0:0
+TLC Germany
+p:Canal+ Germany
+00ec:005a2e55:1644:009c:1:0:0
+BBC News Europe
+p:Unknown
+1388:005a2e69:c3aa:009e:1:0:0
+Travel Channel Europe
+p:Unknown
+13ec:005a2e69:c3aa:009e:1:0:0
+HGTV Pan Regional
+p:Unknown
+1450:005a2e69:c3aa:009e:1:0:0
+TLC Balkan
+p:Unknown
+14b4:005a2e69:c3aa:009e:1:0:0
+Discovery Channel Central Europe
+p:Unknown
+1518:005a2e69:c3aa:009e:1:0:0
+Animal Planet Europe
+p:Unknown
+157c:005a2e69:c3aa:009e:1:0:0
+Investigation Discovery Europe
+p:Unknown
+15e0:005a2e69:c3aa:009e:1:0:0
+TLC Pan Regional
+p:Unknown
+1644:005a2e69:c3aa:009e:1:0:0
+Discovery Science Europe
+p:Unknown
+16a8:005a2e69:c3aa:009e:1:0:0
+Food Network EMEA
+p:Unknown
+170c:005a2e69:c3aa:009e:1:0:0
+TLC Pan Regional
+p:Unknown
+000e:005a2e7c:170c:009e:1:0:0
+Trace Sport Stars
+p:Unknown
+000f:005a2e7c:170c:009e:1:0:0
+Trace Urban
+p:Unknown
+0017:005a2e7c:170c:009e:1:0:0
+RTB TV
+p:Unknown
+0019:005a2e7c:170c:009e:1:0:0
+RTI 1
+p:Unknown
+001e:005a2e7c:170c:009e:1:0:0
+Télé Sahel
+p:Unknown
+0067:005a2e7c:170c:009e:1:0:0
+JimJam Middle East
+p:Unknown
+0068:005a2e7c:170c:009e:1:0:0
+JimJam Europe
+p:Unknown
+0073:005a2e7c:170c:009e:1:0:0
+Rai Italia Africa
+p:Unknown
+0074:005a2e7c:170c:009e:1:0:0
+Bénin TV
+p:Unknown
+00e9:005a2e7c:170c:009e:1:0:0
+EBS
+p:Unknown
+01b1:005a2e7c:170c:009e:1:0:0
+EBS+
+p:Unknown
+0018:005a2e7c:170c:009e:2:0:0
+RTB Radio
+p:Unknown
+0078:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Atlantic
+p:Unknown
+0087:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Aviano
+p:Unknown
+0088:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Bavaria
+p:Unknown
+0089:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Benelux
+p:Unknown
+008a:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Incirlik
+p:Unknown
+008b:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Kaiserslautern
+p:Unknown
+008c:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Naples
+p:Unknown
+008d:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Rota
+p:Unknown
+008e:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Souda Bay
+p:Unknown
+008f:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Spangdahlem
+p:Unknown
+0090:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Stuttgart
+p:Unknown
+0091:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Vicenza
+p:Unknown
+0092:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Wiesbaden
+p:Unknown
+0093:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Bahrain
+p:Unknown
+0094:005a2e7c:170c:009e:2:0:0
+AFN The Eagle Sembach
+p:Unknown
+17d4:005a2e8f:c3be:009e:1:0:0
+Cartoon Network Central & Eastern Europe
+p:Unknown
+1838:005a2e8f:c3be:009e:1:0:0
+Discovery Channel Hungary
+p:Unknown
+1900:005a2e8f:c3be:009e:1:0:0
+Cartoonito Central & Eastern Europe
+p:Unknown
+1a2c:005a2e8f:c3be:009e:1:0:0
+Warner TV Czech
+p:Unknown
+1a90:005a2e8f:c3be:009e:1:0:0
+Eurosport 1 France
+p:Unknown
+1af4:005a2e8f:c3be:009e:1:0:0
+Eurosport 2 France
+p:Unknown
+03ea:005a2ea2:0009:00aa:1:0:0
+ERT News
+p:Cosmote TV
+03f8:005a2ea2:0009:00aa:1:0:0
+Village Cinemas
+p:Cosmote TV
+03f9:005a2ea2:0009:00aa:1:0:0
+Vergina TV
+p:Cosmote TV
+0409:005a2ea2:0009:00aa:1:0:0
+TV 100
+p:Cosmote TV
+0410:005a2ea2:0009:00aa:1:0:0
+CNN International Europe
+p:Cosmote TV
+0414:005a2ea2:0009:00aa:1:0:0
+TCM Middle East & Northern Africa
+p:Cosmote TV
+0451:005a2ea2:0009:00aa:1:0:0
+ERT 3
+p:Cosmote TV
+0453:005a2ea2:0009:00aa:1:0:0
+National Geographic Ellada
+p:Cosmote TV
+0458:005a2ea2:0009:00aa:1:0:0
+ERT 2 Spor
+p:Cosmote TV
+0459:005a2ea2:0009:00aa:1:0:0
+Asharq News
+p:Cosmote TV
+0460:005a2ea2:0009:00aa:1:0:0
+Cosmote Cinema 2
+p:Cosmote TV
+0461:005a2ea2:0009:00aa:1:0:0
+FX Life Greece
+p:Cosmote TV
+0470:005a2ea2:0009:00aa:1:0:0
+ERT Cosmos
+p:Unknown
+0472:005a2ea2:0009:00aa:1:0:0
+Nova Sports 5
+p:Cosmote TV
+0473:005a2ea2:0009:00aa:1:0:0
+Nova Sports 6
+p:Cosmote TV
+0065:005a2eb6:1838:009e:1:0:0
+M1
+p:Unknown
+0066:005a2eb6:1838:009e:1:0:0
+M2
+p:Unknown
+0067:005a2eb6:1838:009e:1:0:0
+Duna TV
+p:Unknown
+0068:005a2eb6:1838:009e:1:0:0
+M4 Sport
+p:Unknown
+0069:005a2eb6:1838:009e:1:0:0
+Duna World
+p:Unknown
+006a:005a2eb6:1838:009e:1:0:0
+M5
+p:Unknown
+0097:005a2eb6:1838:009e:2:0:0
+Kossuth Rádió
+p:Unknown
+0098:005a2eb6:1838:009e:2:0:0
+Petöfi Rádió
+p:Unknown
+0099:005a2eb6:1838:009e:2:0:0
+Bartók Rádió
+p:Unknown
+009a:005a2eb6:1838:009e:2:0:0
+Nemzetiségi Rádió
+p:Unknown
+009b:005a2eb6:1838:009e:2:0:0
+Parlamenti Rádió
+p:Unknown
+009c:005a2eb6:1838:009e:2:0:0
+Dankó Rádió
+p:Unknown
+009d:005a2eb6:1838:009e:2:0:0
+Nemzeti Sportrádió
+p:Unknown
+009e:005a2eb6:1838:009e:2:0:0
+Magyar Katolikus Rádió
+p:Unknown
+00a1:005a2eb6:1838:009e:2:0:0
+Kossuth Rádió
+p:Unknown
+00a2:005a2eb6:1838:009e:2:0:0
+Petöfi Rádió
+p:Unknown
+00a3:005a2eb6:1838:009e:2:0:0
+Bartók Rádió
+p:Unknown
+00a6:005a2eb6:1838:009e:2:0:0
+Dankó Rádió
+p:Unknown
+00a7:005a2eb6:1838:009e:2:0:0
+Kossuth Rádió
+p:Unknown
+00a8:005a2eb6:1838:009e:2:0:0
+Dankó Rádió
+p:Unknown
+01f6:005a2ec9:2134:009c:1:0:0
+Playboy TV Europe
+p:Canal+ Germany
+01f7:005a2ec9:2134:009c:1:0:0
+ITVN Europe
+p:Canal+ Germany
+01f8:005a2ec9:2134:009c:1:0:0
+Auto Motor und Sport
+p:Canal+ Germany
+01fa:005a2ec9:2134:009c:1:0:0
+Fix & Foxi
+p:Canal+ Germany
+01fb:005a2ec9:2134:009c:1:0:0
+Penthouse Passion
+p:Canal+ Germany
+01fc:005a2ec9:2134:009c:1:0:0
+Luxe TV
+p:Canal+ Germany
+01fd:005a2ec9:2134:009c:1:0:0
+Mezzo Live
+p:Canal+ Germany
+01fe:005a2ec9:2134:009c:1:0:0
+TVRI World
+p:Unknown
+01ff:005a2ec9:2134:009c:1:0:0
+Curiosity Channel Powered by Spiegel
+p:Canal+ Germany
+0200:005a2ec9:2134:009c:1:0:0
+Marco Polo TV
+p:Canal+ Germany
+0202:005a2ec9:2134:009c:1:0:0
+Gute Laune TV
+p:Canal+ Germany
+0204:005a2ec9:2134:009c:1:0:0
+Dusk
+p:Canal+ Germany
+0205:005a2ec9:2134:009c:1:0:0
+MyZen TV
+p:Canal+ Germany
+0206:005a2ec9:2134:009c:1:0:0
+Museum TV International
+p:Canal+ Germany
+026b:005a2edc:1900:009c:1:0:0
+CCTV 4 Europe
+p:Unknown
+026c:005a2edc:1900:009c:1:0:0
+CGTN Español
+p:Unknown
+026d:005a2edc:1900:009c:1:0:0
+CGTN Russkij
+p:Unknown
+026e:005a2edc:1900:009c:1:0:0
+CGTN Arabic
+p:Unknown
+026f:005a2edc:1900:009c:1:0:0
+CGTN Documentary
+p:Unknown
+0196:005a2eef:1964:009c:1:0:0
+Toggo Deutschland
+p:Canal+ Germany
+01a0:005a2eef:1964:009c:1:0:0
+Sixx Deutschland
+p:Canal+ Germany
+01a1:005a2eef:1964:009c:1:0:0
+RTL Zwei Deutschland
+p:Canal+ Germany
+01a2:005a2eef:1964:009c:1:0:0
+Deluxe Music
+p:Canal+ Germany
+01a3:005a2eef:1964:009c:1:0:0
+Comedy Central Deutschland
+p:Canal+ Germany
+01a4:005a2eef:1964:009c:1:0:0
+Disney Channel Deutschland
+p:Canal+ Germany
+01a5:005a2eef:1964:009c:1:0:0
+Nickelodeon Deutschland
+p:Unknown
+00ca:005a2f02:19c8:009e:1:0:0
+M6 Suisse
+p:Unknown
+00cc:005a2f02:19c8:009e:1:0:0
+6ter Suisse
+p:Unknown
+00cd:005a2f02:19c8:009e:1:0:0
+W9 Suisse
+p:Unknown
+015f:005a2f02:19c8:009e:1:0:0
+Télé Congo
+p:Unknown
+0161:005a2f02:19c8:009e:1:0:0
+Phoenix InfoNews Channel
+p:Unknown
+0162:005a2f02:19c8:009e:1:0:0
+ORTM 1
+p:Unknown
+0160:005a2f02:19c8:009e:2:0:0
+Radio Congo
+p:Unknown
+03e9:005a2f16:0002:00aa:1:0:0
+AEK Super League Pass
+p:Cosmote TV
+03eb:005a2f16:0002:00aa:1:0:0
+Cosmote Sport 6
+p:Cosmote TV
+03ed:005a2f16:0002:00aa:1:0:0
+Vouli TV
+p:Unknown
+03f1:005a2f16:0002:00aa:1:0:0
+Nova Sports 1
+p:Cosmote TV
+03f4:005a2f16:0002:00aa:1:0:0
+4E
+p:Unknown
+0406:005a2f16:0002:00aa:1:0:0
+Ant1
+p:Cosmote TV
+040f:005a2f16:0002:00aa:1:0:0
+Cosmote Sport 4
+p:Cosmote TV
+0415:005a2f16:0002:00aa:1:0:0
+One Channel
+p:Cosmote TV
+041a:005a2f16:0002:00aa:1:0:0
+National Geographic Wild Europe
+p:Cosmote TV
+0424:005a2f16:0002:00aa:1:0:0
+Nova Sports 2
+p:Cosmote TV
+0426:005a2f16:0002:00aa:1:0:0
+FashionTV Europe
+p:Cosmote TV
+0430:005a2f16:0002:00aa:1:0:0
+Baby TV Europe
+p:Cosmote TV
+0438:005a2f16:0002:00aa:1:0:0
+EuroNews Ellinika
+p:Cosmote TV
+0443:005a2f16:0002:00aa:1:0:0
+Cosmote Sport 7
+p:Cosmote TV
+044a:005a2f16:0002:00aa:1:0:0
+Makedonia TV
+p:Cosmote TV
+046f:005a2f3c:1af4:009e:1:0:0
+Diva Romania
+p:Unknown
+0474:005a2f3c:1af4:009e:1:0:0
+Diva Balkans
+p:Unknown
+0479:005a2f3c:1af4:009e:1:0:0
+E! Europe
+p:Unknown
+0483:005a2f3c:1af4:009e:2:0:0
+Premier Christian Radio
+p:Unknown
+0497:005a2f3c:1af4:009e:2:0:0
+TalkSport
+p:Unknown
+02c7:005a2f4f:0107:217c:1:0:0
+La 7
+p:Unknown
+02c8:005a2f4f:0107:217c:1:0:0
+La 7 Cinema
+p:Unknown
+0bb9:005a2f4f:0107:217c:1:0:0
+Italia 121
+p:Unknown
+0bba:005a2f4f:0107:217c:1:0:0
+Arte Italia 124
+p:Unknown
+0bbb:005a2f4f:0107:217c:1:0:0
+Arte Italia 125
+p:Unknown
+0bbc:005a2f4f:0107:217c:1:0:0
+Italia 126
+p:Unknown
+0bbd:005a2f4f:0107:217c:1:0:0
+Italia 127
+p:Unknown
+0bbe:005a2f4f:0107:217c:1:0:0
+Italia 135
+p:Unknown
+0bbf:005a2f4f:0107:217c:1:0:0
+Italia 134
+p:Unknown
+0c1f:005a2f4f:0107:217c:1:0:0
+Italia 136
+p:Unknown
+0bbc:005a2f75:03a2:0110:1:0:0
+Rete 4
+p:Unknown
+0bbd:005a2f75:03a2:0110:1:0:0
+Canale 5
+p:Unknown
+0bbe:005a2f75:03a2:0110:1:0:0
+Italia 1
+p:Unknown
+0bcc:005a2f75:03a2:0110:1:0:0
+20 Mediaset
+p:Unknown
+0bef:005a2f75:03a2:0110:1:0:0
+Mediaset Extra
+p:Unknown
+03fb:005a2f89:0008:00aa:1:0:0
+Cosmote TV Promo Channel
+p:Unknown
+03fc:005a2f89:0008:00aa:1:0:0
+Nova Sports Extra 4
+p:Cosmote TV
+040e:005a2f89:0008:00aa:1:0:0
+FX Greece
+p:Cosmote TV
+0455:005a2f89:0008:00aa:1:0:0
+Cosmote Sport 5
+p:Cosmote TV
+0462:005a2f89:0008:00aa:1:0:0
+Nova Sports Prime
+p:Cosmote TV
+0463:005a2f89:0008:00aa:1:0:0
+Nea TV
+p:Cosmote TV
+0464:005a2f89:0008:00aa:1:0:0
+Action 24
+p:Cosmote TV
+0465:005a2f89:0008:00aa:1:0:0
+EuroNews English
+p:Cosmote TV
+0466:005a2f89:0008:00aa:1:0:0
+Cosmote Sport 9
+p:Cosmote TV
+0467:005a2f89:0008:00aa:1:0:0
+BBC Earth Greece
+p:Cosmote TV
+0469:005a2f89:0008:00aa:1:0:0
+Alarabiya
+p:Cosmote TV
+046c:005a2f89:0008:00aa:1:0:0
+Viasat Nature East
+p:Cosmote TV
+046d:005a2f89:0008:00aa:1:0:0
+Viasat Explore East
+p:Cosmote TV
+046e:005a2f89:0008:00aa:1:0:0
+Crime + Investigation UK
+p:Cosmote TV
+0401:005a2faf:0004:00aa:1:0:0
+Motorvision+
+p:Cosmote TV
+0408:005a2faf:0004:00aa:1:0:0
+Cosmote History
+p:Cosmote TV
+040b:005a2faf:0004:00aa:1:0:0
+Nova Sports 3
+p:Cosmote TV
+040c:005a2faf:0004:00aa:1:0:0
+Smile TV
+p:Cosmote TV
+0413:005a2faf:0004:00aa:1:0:0
+Alpha TV
+p:Cosmote TV
+0416:005a2faf:0004:00aa:1:0:0
+Cosmote Series
+p:Cosmote TV
+042e:005a2faf:0004:00aa:1:0:0
+Disney Channel Middle East
+p:Cosmote TV
+042f:005a2faf:0004:00aa:1:0:0
+Cosmote Sport Highlights
+p:Cosmote TV
+0441:005a2faf:0004:00aa:1:0:0
+SKAÏ
+p:Cosmote TV
+0448:005a2faf:0004:00aa:1:0:0
+Olympiakos Super League Pass
+p:Cosmote TV
+044b:005a2faf:0004:00aa:1:0:0
+Star Channel
+p:Cosmote TV
+044f:005a2faf:0004:00aa:1:0:0
+Nova Sports 4
+p:Cosmote TV
+045b:005a2faf:0004:00aa:1:0:0
+Viasat History East
+p:Cosmote TV
+07d3:005a2fc2:20e1:217c:1:0:0
+Telecity Lombardia
+p:Unknown
+07d4:005a2fc2:20e1:217c:1:0:0
+Espansione TV
+p:Unknown
+07d5:005a2fc2:20e1:217c:1:0:0
+Bergamo TV
+p:Unknown
+07d6:005a2fc2:20e1:217c:1:0:0
+Rete 55
+p:Unknown
+07d7:005a2fc2:20e1:217c:1:0:0
+Teletutto
+p:Unknown
+07d8:005a2fc2:20e1:217c:1:0:0
+TeleSondrioNews
+p:Unknown
+07d9:005a2fc2:20e1:217c:1:0:0
+70-80.it
+p:Unknown
+07da:005a2fc2:20e1:217c:1:0:0
+Super TV Brescia
+p:Unknown
+07db:005a2fc2:20e1:217c:1:0:0
+Più Valli TV
+p:Unknown
+07dc:005a2fc2:20e1:217c:1:0:0
+Telecolor
+p:Unknown
+07dd:005a2fc2:20e1:217c:1:0:0
+Canale Italia 77
+p:Unknown
+07de:005a2fc2:20e1:217c:1:0:0
+Seila TV
+p:Unknown
+07df:005a2fc2:20e1:217c:2:0:0
+Radio Bruno TV
+p:Unknown
+07e0:005a2fc2:20e1:217c:1:0:0
+Valenza TV
+p:Unknown
+07e3:005a2fc2:20e1:217c:1:0:0
+BiriKina TV
+p:Unknown
+000b:005a2fc2:0064:2324:1:0:0
+Pershiy
+p:Unknown
+000c:005a2fc2:0064:2324:1:0:0
+1+1 Ukraïna
+p:Unknown
+000d:005a2fc2:0064:2324:1:0:0
+1+1 Marafon
+p:Unknown
+000e:005a2fc2:0064:2324:1:0:0
+Suspilne Kultura
+p:Unknown
+000f:005a2fc2:0064:2324:1:0:0
+ICTV
+p:Unknown
+0010:005a2fc2:0064:2324:1:0:0
+Telekanal STB
+p:Unknown
+0011:005a2fc2:0064:2324:1:0:0
+Inter
+p:Unknown
+0012:005a2fc2:0064:2324:1:0:0
+UNIAN Serial
+p:Unknown
+0013:005a2fc2:0064:2324:1:0:0
+Bigudi
+p:Unknown
+0014:005a2fc2:0064:2324:1:0:0
+Super+
+p:Unknown
+012d:005a2fd5:1edc:009c:1:0:0
+RTL Deutschland
+p:Canal+ Germany
+012e:005a2fd5:1edc:009c:1:0:0
+Vox Deutschland
+p:Canal+ Germany
+012f:005a2fd5:1edc:009c:1:0:0
+Sat. 1 Deutschland
+p:Canal+ Germany
+0130:005a2fd5:1edc:009c:1:0:0
+ProSieben Deutschland
+p:Canal+ Germany
+0132:005a2fd5:1edc:009c:1:0:0
+Nitro Deutschland
+p:Canal+ Germany
+0133:005a2fd5:1edc:009c:1:0:0
+N-TV
+p:Canal+ Germany
+0134:005a2fd5:1edc:009c:1:0:0
+Voxup
+p:Unknown
+03ec:005a2ffc:0005:00aa:1:0:0
+Sirina TV
+p:Cosmote TV
+03f0:005a2ffc:0005:00aa:1:0:0
+Cosmote Cinema 1
+p:Cosmote TV
+03f2:005a2ffc:0005:00aa:1:0:0
+Duck TV SD
+p:Cosmote TV
+03fe:005a2ffc:0005:00aa:1:0:0
+Nova Sports Premier League
+p:Cosmote TV
+03ff:005a2ffc:0005:00aa:1:0:0
+Nova Sports News
+p:Cosmote TV
+0402:005a2ffc:0005:00aa:1:0:0
+ERT 1
+p:Cosmote TV
+0405:005a2ffc:0005:00aa:1:0:0
+Open Beyond TV
+p:Cosmote TV
+0411:005a2ffc:0005:00aa:1:0:0
+Hustler HD Europe
+p:Cosmote TV
+041f:005a2ffc:0005:00aa:1:0:0
+Panathinaikos Super League Pass
+p:Cosmote TV
+0425:005a2ffc:0005:00aa:1:0:0
+Dorcel XXX
+p:Cosmote TV
+0434:005a2ffc:0005:00aa:1:0:0
+Vixen
+p:Cosmote TV
+0436:005a2ffc:0005:00aa:1:0:0
+Ena Channel
+p:Cosmote TV
+0442:005a2ffc:0005:00aa:1:0:0
+Blue Hustler Europe
+p:Cosmote TV
+0447:005a2ffc:0005:00aa:1:0:0
+Cosmote Sport 1
+p:Cosmote TV
+03e9:005a300f:10e1:217c:1:0:0
+Top Calcio 24
+p:Unknown
+03ea:005a300f:10e1:217c:1:0:0
+Videogruppo
+p:Unknown
+03eb:005a300f:10e1:217c:1:0:0
+Sesta Rete
+p:Unknown
+03ec:005a300f:10e1:217c:1:0:0
+Telecupole
+p:Unknown
+03ed:005a300f:10e1:217c:1:0:0
+Primantenna
+p:Unknown
+03ee:005a300f:10e1:217c:1:0:0
+Canale Italia
+p:Unknown
+03ef:005a300f:10e1:217c:1:0:0
+Canale Italia Piemonte
+p:Unknown
+03f0:005a300f:10e1:217c:1:0:0
+Telecity Piemonte
+p:Unknown
+03f1:005a300f:10e1:217c:1:0:0
+Valenza TV
+p:Unknown
+03f2:005a300f:10e1:217c:1:0:0
+ReteSette
+p:Unknown
+03f3:005a300f:10e1:217c:1:0:0
+GRP Vera TV
+p:Unknown
+03f4:005a300f:10e1:217c:1:0:0
+VCO Azzurra TV
+p:Unknown
+03f5:005a300f:10e1:217c:1:0:0
+Videonovara
+p:Unknown
+03f6:005a300f:10e1:217c:1:0:0
+Onda Novara TV
+p:Unknown
+03f7:005a300f:10e1:217c:1:0:0
+Motori TV
+p:Unknown
+001f:005a300f:012c:2324:1:0:0
+K1
+p:Unknown
+0020:005a300f:012c:2324:1:0:0
+K2
+p:Unknown
+0021:005a300f:012c:2324:1:0:0
+Zoom
+p:Unknown
+0022:005a300f:012c:2324:1:0:0
+Rada
+p:Unknown
+0023:005a300f:012c:2324:1:0:0
+Rada
+p:Unknown
+0025:005a300f:012c:2324:1:0:0
+Enter Film
+p:Unknown
+0026:005a300f:012c:2324:1:0:0
+Piksel TV
+p:Unknown
+0027:005a300f:012c:2324:1:0:0
+Sonce
+p:Unknown
+0028:005a300f:012c:2324:1:0:0
+Tuso
+p:Unknown
+0010:005a3035:0204:001d:1:0:0
+Giallo
+p:Unknown
+0014:005a3035:0204:001d:1:0:0
+Food Network Italia
+p:Unknown
+0015:005a3035:0204:001d:2:0:0
+RTL 102.5 RadioVisione
+p:Unknown
+0016:005a3035:0204:001d:1:0:0
+Discovery Channel Italia
+p:Unknown
+0018:005a3035:0204:001d:1:0:0
+CS24 Live
+p:Unknown
+001a:005a3035:0204:001d:1:0:0
+TeleCampione
+p:Unknown
+001b:005a3035:0204:001d:1:0:0
+Donna TV
+p:Unknown
+002c:005a3035:0204:001d:1:0:0
+Real Time Italia
+p:Unknown
+0032:005a3035:0204:001d:1:0:0
+DMAX Italia
+p:Unknown
+0082:005a3035:0204:001d:2:0:0
+Radio Zeta Radiovisione
+p:Unknown
+00da:005a3035:0204:001d:2:0:0
+Radio Freccia TV
+p:Unknown
+00dd:005a3035:0204:001d:2:0:0
+RTL 102.5
+p:Unknown
+0fa1:005a305c:40e1:217c:1:0:0
+Primocanale
+p:Unknown
+0fa2:005a305c:40e1:217c:1:0:0
+Telenord
+p:Unknown
+0fa3:005a305c:40e1:217c:2:0:0
+Teleradiopace 1
+p:Unknown
+0fa4:005a305c:40e1:217c:1:0:0
+Telecity Liguria
+p:Unknown
+0fa5:005a305c:40e1:217c:1:0:0
+Telegenova
+p:Unknown
+0fa6:005a305c:40e1:217c:1:0:0
+Tele Liguria Sud
+p:Unknown
+0fa7:005a305c:40e1:217c:1:0:0
+Primopiano
+p:Unknown
+0fa8:005a305c:40e1:217c:1:0:0
+Telecolor
+p:Unknown
+0fa9:005a305c:40e1:217c:1:0:0
+Canale Italia
+p:Unknown
+0faa:005a305c:40e1:217c:1:0:0
+Valenza TV
+p:Unknown
+0fab:005a305c:40e1:217c:1:0:0
+Primantenna
+p:Unknown
+0fac:005a305c:40e1:217c:1:0:0
+ReteSette
+p:Unknown
+0fae:005a305c:40e1:217c:2:0:0
+Teleradiopace 2
+p:Unknown
+0faf:005a305c:40e1:217c:1:0:0
+Luna TV
+p:Unknown
+03f7:005a306f:0006:00aa:1:0:0
+Cosmote Sport 2
+p:Cosmote TV
+0400:005a306f:0006:00aa:1:0:0
+Mega TV
+p:Cosmote TV
+0403:005a306f:0006:00aa:1:0:0
+Disney Jr Middle East
+p:Cosmote TV
+0404:005a306f:0006:00aa:1:0:0
+Cosmote Sport 3
+p:Cosmote TV
+040d:005a306f:0006:00aa:1:0:0
+Mad TV
+p:Cosmote TV
+0417:005a306f:0006:00aa:1:0:0
+Cosmote Series Marathon
+p:Cosmote TV
+0418:005a306f:0006:00aa:1:0:0
+Mega News
+p:Cosmote TV
+0433:005a306f:0006:00aa:1:0:0
+Nova Sports Extra 1
+p:Cosmote TV
+043a:005a306f:0006:00aa:1:0:0
+France 24 English
+p:Cosmote TV
+0445:005a306f:0006:00aa:1:0:0
+Keedoo
+p:Cosmote TV
+0446:005a306f:0006:00aa:1:0:0
+Cosmote Cinema 3
+p:Cosmote TV
+044d:005a306f:0006:00aa:1:0:0
+Cosmote Sport 8
+p:Cosmote TV
+044e:005a306f:0006:00aa:1:0:0
+Nova Sports Start
+p:Cosmote TV
+0428:005a306f:0006:00aa:2:0:0
+Peiraiki Ekklisia 91.2 FM
+p:Unknown
+0709:005a30b2:18e1:217c:1:0:0
+ReteSette
+p:Unknown
+070b:005a30b2:18e1:217c:1:0:0
+Canale Italia
+p:Unknown
+070e:005a30b2:18e1:217c:1:0:0
+Telecity Valle d'Aosta
+p:Unknown
+0713:005a30b2:18e1:217c:1:0:0
+France 24 Français
+p:Unknown
+0714:005a30b2:18e1:217c:1:0:0
+RTS 1
+p:Unknown
+0715:005a30b2:18e1:217c:1:0:0
+TV5Monde Europe
+p:Unknown
+040a:005a30bb:0007:00aa:1:0:0
+Panik TV
+p:Cosmote TV
+0427:005a30bb:0007:00aa:1:0:0
+Mad Viral
+p:Cosmote TV
+0435:005a30bb:0007:00aa:1:0:0
+Nova Sports Extra 3
+p:Cosmote TV
+0439:005a30bb:0007:00aa:1:0:0
+DW English
+p:Cosmote TV
+043c:005a30bb:0007:00aa:1:0:0
+Aljazeera English
+p:Cosmote TV
+043e:005a30bb:0007:00aa:1:0:0
+Naftemporiki TV
+p:Cosmote TV
+043f:005a30bb:0007:00aa:1:0:0
+Bloomberg TV Europe
+p:Cosmote TV
+0444:005a30bb:0007:00aa:1:0:0
+Nova Sports Extra 2
+p:Cosmote TV
+0457:005a30bb:0007:00aa:1:0:0
+Attica TV
+p:Cosmote TV
+045c:005a30bb:0007:00aa:1:0:0
+Center TV
+p:Cosmote TV
+0468:005a30bb:0007:00aa:1:0:0
+Museum TV International
+p:Cosmote TV
+046a:005a30bb:0007:00aa:1:0:0
+Sky News International
+p:Cosmote TV
+046f:005a30bb:0007:00aa:1:0:0
+MyZen TV
+p:Cosmote TV
+0471:005a30bb:0007:00aa:1:0:0
+Nautical Channel
+p:Cosmote TV
+end

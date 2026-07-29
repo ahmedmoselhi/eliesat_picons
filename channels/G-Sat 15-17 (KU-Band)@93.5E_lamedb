@@ -1,0 +1,1670 @@
+eDVB services /4/
+transponders
+03a72ada:0000:0000
+	s 10970000:29500000:1:0:935:2:0:1:0:2:2
+/
+03a72b02:0000:0000
+	s 11010000:29500000:1:0:935:2:0:1:0:2:2
+/
+03a72b2a:0001:0063
+	s 11050000:30000000:1:0:935:2:0:1:0:2:2
+/
+03a72b52:0001:0063
+	s 11090000:29500000:1:0:935:2:0:0:0:2:2
+/
+03a72b7a:0000:0000
+	s 11130000:29500000:1:0:935:2:0:1:0:2:2
+/
+03a72ba2:0002:0063
+	s 11170000:29500000:1:0:935:2:0:0:0:2:2
+/
+03a72cce:0008:0063
+	s 11470000:30000000:0:0:935:2:0:1:0:2:2
+/
+03a72cce:0003:0063
+	s 11470000:29500000:1:0:935:2:0:0:0:2:2
+/
+03a72cf6:0549:0001
+	s 11510000:29500000:0:0:935:2:0:1:0:2:2
+/
+03a72cf6:0004:0063
+	s 11510000:29500000:1:0:935:2:0:0:0:2:2
+/
+03a72d1e:0000:0000
+	s 11550000:29500000:0:0:935:2:0:1:0:2:2
+/
+03a72d1e:0005:0063
+	s 11550000:29500000:1:0:935:2:0:0:0:2:2
+/
+03a72d46:0548:0001
+	s 11590000:29500000:0:0:935:2:0:1:0:2:2
+/
+03a72d46:0000:0000
+	s 11590000:29500000:1:0:935:2:0:1:0:2:2
+/
+03a72d6e:0000:0000
+	s 11630000:29500000:0:0:935:2:0:1:0:2:2
+/
+03a72d6e:0006:0063
+	s 11630000:30000000:1:0:935:2:0:1:0:2:2
+/
+03a72d96:0039:0001
+	s 11670000:29500000:0:0:935:2:0:1:0:2:2
+/
+03a72d96:0000:0000
+	s 11670000:29500000:1:0:935:2:0:1:0:2:2
+/
+end
+services
+0079:03a72ada:0000:0000:1:0:0
+E-Vidya 1
+p:Unknown
+007a:03a72ada:0000:0000:1:0:0
+E-Vidya 2
+p:Unknown
+007b:03a72ada:0000:0000:1:0:0
+E-Vidya 3
+p:Unknown
+007c:03a72ada:0000:0000:1:0:0
+E-Vidya 4
+p:Unknown
+007d:03a72ada:0000:0000:1:0:0
+E-Vidya 5
+p:Unknown
+007e:03a72ada:0000:0000:1:0:0
+E-Vidya 6
+p:Unknown
+007f:03a72ada:0000:0000:1:0:0
+E-Vidya 7
+p:Unknown
+0080:03a72ada:0000:0000:1:0:0
+E-Vidya 8
+p:Unknown
+0081:03a72ada:0000:0000:1:0:0
+E-Vidya 9
+p:Unknown
+0082:03a72ada:0000:0000:1:0:0
+E-Vidya 10
+p:Unknown
+0083:03a72ada:0000:0000:1:0:0
+E-Vidya 11
+p:Unknown
+0084:03a72ada:0000:0000:1:0:0
+E-Vidya 12
+p:Unknown
+0085:03a72ada:0000:0000:1:0:0
+E-Vidya 13
+p:Unknown
+0086:03a72ada:0000:0000:1:0:0
+E-Vidya 14
+p:Unknown
+0087:03a72ada:0000:0000:1:0:0
+E-Vidya 15
+p:Unknown
+0088:03a72ada:0000:0000:1:0:0
+E-Vidya 16
+p:Unknown
+0089:03a72ada:0000:0000:1:0:0
+E-Vidya 17
+p:Unknown
+008a:03a72ada:0000:0000:1:0:0
+E-Vidya 18
+p:Unknown
+008b:03a72ada:0000:0000:1:0:0
+E-Vidya 19
+p:Unknown
+008c:03a72ada:0000:0000:1:0:0
+E-Vidya 20
+p:Unknown
+008d:03a72ada:0000:0000:1:0:0
+E-Vidya 21
+p:Unknown
+008e:03a72ada:0000:0000:1:0:0
+E-Vidya 22
+p:Unknown
+008f:03a72ada:0000:0000:1:0:0
+E-Vidya 23
+p:Unknown
+0090:03a72ada:0000:0000:1:0:0
+E-Vidya 24
+p:Unknown
+0091:03a72ada:0000:0000:1:0:0
+E-Vidya 25
+p:Unknown
+0092:03a72ada:0000:0000:1:0:0
+E-Vidya 26
+p:Unknown
+0093:03a72ada:0000:0000:1:0:0
+E-Vidya 27
+p:Unknown
+0094:03a72ada:0000:0000:1:0:0
+E-Vidya 28
+p:Unknown
+0095:03a72ada:0000:0000:1:0:0
+E-Vidya 29
+p:Unknown
+0096:03a72ada:0000:0000:1:0:0
+E-Vidya 30
+p:Unknown
+0097:03a72ada:0000:0000:1:0:0
+E-Vidya 31
+p:Unknown
+0098:03a72ada:0000:0000:1:0:0
+E-Vidya 32
+p:Unknown
+0099:03a72ada:0000:0000:1:0:0
+E-Vidya 33
+p:Unknown
+009a:03a72ada:0000:0000:1:0:0
+E-Vidya 34
+p:Unknown
+009b:03a72ada:0000:0000:1:0:0
+E-Vidya 35
+p:Unknown
+009c:03a72ada:0000:0000:1:0:0
+E-Vidya 36
+p:Unknown
+009d:03a72ada:0000:0000:1:0:0
+E-Vidya 37
+p:Unknown
+009e:03a72ada:0000:0000:1:0:0
+E-Vidya 38
+p:Unknown
+009f:03a72ada:0000:0000:1:0:0
+E-Vidya 39
+p:Unknown
+00a0:03a72ada:0000:0000:1:0:0
+E-Vidya 40
+p:Unknown
+00a1:03a72b02:0000:0000:1:0:0
+E-Vidya 41
+p:Unknown
+00a2:03a72b02:0000:0000:1:0:0
+E-Vidya 42
+p:Unknown
+00a3:03a72b02:0000:0000:1:0:0
+E-Vidya 43
+p:Unknown
+00a4:03a72b02:0000:0000:1:0:0
+E-Vidya 44
+p:Unknown
+00a5:03a72b02:0000:0000:1:0:0
+E-Vidya 45
+p:Unknown
+00a6:03a72b02:0000:0000:1:0:0
+E-Vidya 46
+p:Unknown
+00a7:03a72b02:0000:0000:1:0:0
+E-Vidya 47
+p:Unknown
+00a8:03a72b02:0000:0000:1:0:0
+E-Vidya 48
+p:Unknown
+00a9:03a72b02:0000:0000:1:0:0
+E-Vidya 49
+p:Unknown
+00aa:03a72b02:0000:0000:1:0:0
+E-Vidya 50
+p:Unknown
+00ab:03a72b02:0000:0000:1:0:0
+E-Vidya 51
+p:Unknown
+00ac:03a72b02:0000:0000:1:0:0
+E-Vidya 52
+p:Unknown
+00ad:03a72b02:0000:0000:1:0:0
+E-Vidya 53
+p:Unknown
+00ae:03a72b02:0000:0000:1:0:0
+E-Vidya 54
+p:Unknown
+00af:03a72b02:0000:0000:1:0:0
+E-Vidya 55
+p:Unknown
+00b0:03a72b02:0000:0000:1:0:0
+E-Vidya 56
+p:Unknown
+00b1:03a72b02:0000:0000:1:0:0
+E-Vidya 57
+p:Unknown
+00b2:03a72b02:0000:0000:1:0:0
+E-Vidya 58
+p:Unknown
+00b3:03a72b02:0000:0000:1:0:0
+E-Vidya 59
+p:Unknown
+00b4:03a72b02:0000:0000:1:0:0
+E-Vidya 60
+p:Unknown
+00b5:03a72b02:0000:0000:1:0:0
+E-Vidya 61
+p:Unknown
+00b6:03a72b02:0000:0000:1:0:0
+E-Vidya 62
+p:Unknown
+00b7:03a72b02:0000:0000:1:0:0
+E-Vidya 63
+p:Unknown
+00b8:03a72b02:0000:0000:1:0:0
+E-Vidya 64
+p:Unknown
+00b9:03a72b02:0000:0000:1:0:0
+E-Vidya 65
+p:Unknown
+00ba:03a72b02:0000:0000:1:0:0
+E-Vidya 66
+p:Unknown
+00bb:03a72b02:0000:0000:1:0:0
+E-Vidya 67
+p:Unknown
+00bc:03a72b02:0000:0000:1:0:0
+E-Vidya 68
+p:Unknown
+00bd:03a72b02:0000:0000:1:0:0
+E-Vidya 69
+p:Unknown
+00be:03a72b02:0000:0000:1:0:0
+E-Vidya 70
+p:Unknown
+00bf:03a72b02:0000:0000:1:0:0
+E-Vidya 71
+p:Unknown
+00c0:03a72b02:0000:0000:1:0:0
+E-Vidya 72
+p:Unknown
+00c1:03a72b02:0000:0000:1:0:0
+E-Vidya 73
+p:Unknown
+00c2:03a72b02:0000:0000:1:0:0
+E-Vidya 74
+p:Unknown
+00c3:03a72b02:0000:0000:1:0:0
+E-Vidya 75
+p:Unknown
+00c4:03a72b02:0000:0000:1:0:0
+E-Vidya 76
+p:Unknown
+00c5:03a72b02:0000:0000:1:0:0
+E-Vidya 77
+p:Unknown
+00c6:03a72b02:0000:0000:1:0:0
+E-Vidya 78
+p:Unknown
+00c7:03a72b02:0000:0000:1:0:0
+E-Vidya 79
+p:Unknown
+00c8:03a72b02:0000:0000:1:0:0
+E-Vidya 80
+p:Unknown
+08fd:03a72b2a:0001:0063:1:0:0
+DD Goa
+p:Unknown
+08fe:03a72b2a:0001:0063:1:0:0
+DD Haryana
+p:Unknown
+08ff:03a72b2a:0001:0063:1:0:0
+DD Meghalaya
+p:Unknown
+0900:03a72b2a:0001:0063:1:0:0
+DD Manipur
+p:Unknown
+0901:03a72b2a:0001:0063:1:0:0
+DD Nagaland
+p:Unknown
+0902:03a72b2a:0001:0063:1:0:0
+DD Mizoram
+p:Unknown
+0903:03a72b2a:0001:0063:1:0:0
+DD Urdu
+p:Unknown
+0904:03a72b2a:0001:0063:1:0:0
+Aaj Ki Khabar
+p:Unknown
+0905:03a72b2a:0001:0063:1:0:0
+KBS World
+p:Unknown
+0906:03a72b2a:0001:0063:1:0:0
+DD News
+p:Unknown
+0907:03a72b2a:0001:0063:1:0:0
+DD India
+p:Unknown
+0908:03a72b2a:0001:0063:1:0:0
+DD National
+p:Unknown
+0909:03a72b2a:0001:0063:1:0:0
+DD Sports
+p:Unknown
+090a:03a72b2a:0001:0063:1:0:0
+DD Kisan
+p:Unknown
+090b:03a72b2a:0001:0063:1:0:0
+Sansad TV 1
+p:Unknown
+090c:03a72b2a:0001:0063:1:0:0
+Sansad TV 2
+p:Unknown
+07d1:03a72b52:0001:0063:1:0:0
+DD News
+p:Unknown
+07d2:03a72b52:0001:0063:1:0:0
+DD National
+p:Unknown
+07d3:03a72b52:0001:0063:1:0:0
+DD Kisan
+p:Unknown
+07d4:03a72b52:0001:0063:1:0:0
+Zee Action
+p:Unknown
+07d5:03a72b52:0001:0063:1:0:0
+Anmol Cinema 2
+p:Unknown
+07d6:03a72b52:0001:0063:1:0:0
+Sun Marathi
+p:Unknown
+07d7:03a72b52:0001:0063:1:0:0
+Epic Music
+p:Unknown
+07d8:03a72b52:0001:0063:1:0:0
+DD Girnar
+p:Unknown
+07d9:03a72b52:0001:0063:1:0:0
+B4U Music India
+p:Unknown
+07da:03a72b52:0001:0063:1:0:0
+ABP News India
+p:Unknown
+07db:03a72b52:0001:0063:1:0:0
+B4U Bhojpuri
+p:Unknown
+07dc:03a72b52:0001:0063:1:0:0
+B4U Movies India
+p:Unknown
+07dd:03a72b52:0001:0063:1:0:0
+Good News Today
+p:Unknown
+07de:03a72b52:0001:0063:1:0:0
+News 24
+p:Unknown
+07df:03a72b52:0001:0063:1:0:0
+Shemaroo Umang
+p:Unknown
+07e0:03a72b52:0001:0063:1:0:0
+Aaj Tak
+p:Unknown
+07e1:03a72b52:0001:0063:1:0:0
+All Time Movies
+p:Unknown
+07e2:03a72b52:0001:0063:1:0:0
+Anmol TV
+p:Unknown
+0af1:03a72b52:0001:0063:2:0:0
+AIR News
+p:Unknown
+0af2:03a72b52:0001:0063:2:0:0
+AIR Telugu
+p:Unknown
+0af3:03a72b52:0001:0063:2:0:0
+AIR Marathi
+p:Unknown
+0af4:03a72b52:0001:0063:2:0:0
+AIR Tamil
+p:Unknown
+0af5:03a72b52:0001:0063:2:0:0
+AIR Vividh Bharati
+p:Unknown
+0af6:03a72b52:0001:0063:2:0:0
+AIR Rohtak
+p:Unknown
+0af7:03a72b52:0001:0063:2:0:0
+AIR Vijayawada
+p:Unknown
+0af8:03a72b52:0001:0063:2:0:0
+AIR Imphal
+p:Unknown
+00c9:03a72b7a:0000:0000:1:0:0
+E-Vidya 81
+p:Unknown
+00ca:03a72b7a:0000:0000:1:0:0
+E-Vidya 82
+p:Unknown
+00cb:03a72b7a:0000:0000:1:0:0
+E-Vidya 83
+p:Unknown
+00cc:03a72b7a:0000:0000:1:0:0
+E-Vidya 84
+p:Unknown
+00cd:03a72b7a:0000:0000:1:0:0
+E-Vidya 85
+p:Unknown
+00ce:03a72b7a:0000:0000:1:0:0
+E-Vidya 86
+p:Unknown
+00cf:03a72b7a:0000:0000:1:0:0
+E-Vidya 87
+p:Unknown
+00d0:03a72b7a:0000:0000:1:0:0
+E-Vidya 88
+p:Unknown
+00d1:03a72b7a:0000:0000:1:0:0
+E-Vidya 89
+p:Unknown
+00d2:03a72b7a:0000:0000:1:0:0
+E-Vidya 90
+p:Unknown
+00d3:03a72b7a:0000:0000:1:0:0
+E-Vidya 91
+p:Unknown
+00d4:03a72b7a:0000:0000:1:0:0
+E-Vidya 92
+p:Unknown
+00d5:03a72b7a:0000:0000:1:0:0
+E-Vidya 93
+p:Unknown
+00d6:03a72b7a:0000:0000:1:0:0
+E-Vidya 94
+p:Unknown
+00d7:03a72b7a:0000:0000:1:0:0
+E-Vidya 95
+p:Unknown
+00d8:03a72b7a:0000:0000:1:0:0
+E-Vidya 96
+p:Unknown
+00d9:03a72b7a:0000:0000:1:0:0
+E-Vidya 97
+p:Unknown
+00da:03a72b7a:0000:0000:1:0:0
+E-Vidya 98
+p:Unknown
+00db:03a72b7a:0000:0000:1:0:0
+E-Vidya 99
+p:Unknown
+00dc:03a72b7a:0000:0000:1:0:0
+E-Vidya 100
+p:Unknown
+00dd:03a72b7a:0000:0000:1:0:0
+E-Vidya 101
+p:Unknown
+00de:03a72b7a:0000:0000:1:0:0
+E-Vidya 102
+p:Unknown
+00df:03a72b7a:0000:0000:1:0:0
+E-Vidya 103
+p:Unknown
+00e0:03a72b7a:0000:0000:1:0:0
+E-Vidya 104
+p:Unknown
+00e1:03a72b7a:0000:0000:1:0:0
+E-Vidya 105
+p:Unknown
+00e2:03a72b7a:0000:0000:1:0:0
+E-Vidya 106
+p:Unknown
+00e3:03a72b7a:0000:0000:1:0:0
+E-Vidya 107
+p:Unknown
+00e4:03a72b7a:0000:0000:1:0:0
+E-Vidya 108
+p:Unknown
+00e5:03a72b7a:0000:0000:1:0:0
+E-Vidya 109
+p:Unknown
+00e6:03a72b7a:0000:0000:1:0:0
+E-Vidya 110
+p:Unknown
+00e7:03a72b7a:0000:0000:1:0:0
+E-Vidya 111
+p:Unknown
+00e8:03a72b7a:0000:0000:1:0:0
+E-Vidya 112
+p:Unknown
+00e9:03a72b7a:0000:0000:1:0:0
+E-Vidya 113
+p:Unknown
+00ea:03a72b7a:0000:0000:1:0:0
+E-Vidya 114
+p:Unknown
+00eb:03a72b7a:0000:0000:1:0:0
+E-Vidya 115
+p:Unknown
+00ec:03a72b7a:0000:0000:1:0:0
+E-Vidya 116
+p:Unknown
+00ed:03a72b7a:0000:0000:1:0:0
+E-Vidya 117
+p:Unknown
+00ee:03a72b7a:0000:0000:1:0:0
+E-Vidya 118
+p:Unknown
+00ef:03a72b7a:0000:0000:1:0:0
+E-Vidya 119
+p:Unknown
+00f0:03a72b7a:0000:0000:1:0:0
+E-Vidya 120
+p:Unknown
+0804:03a72ba2:0002:0063:1:0:0
+Star Utsav Movies
+p:Unknown
+0805:03a72ba2:0002:0063:1:0:0
+DD Tamil
+p:Unknown
+0806:03a72ba2:0002:0063:1:0:0
+DD Punjabi
+p:Unknown
+0807:03a72ba2:0002:0063:1:0:0
+DD Sahyadri
+p:Unknown
+0808:03a72ba2:0002:0063:1:0:0
+Fakt Marathi
+p:Unknown
+0809:03a72ba2:0002:0063:1:0:0
+Star Utsav
+p:Unknown
+080a:03a72ba2:0002:0063:1:0:0
+Sansad TV 1
+p:Unknown
+080b:03a72ba2:0002:0063:1:0:0
+Sansad TV 2
+p:Unknown
+080c:03a72ba2:0002:0063:1:0:0
+Shemaroo TV
+p:Unknown
+080d:03a72ba2:0002:0063:1:0:0
+Dangal TV
+p:Unknown
+080e:03a72ba2:0002:0063:1:0:0
+Bhojpuri Cinema
+p:Unknown
+080f:03a72ba2:0002:0063:1:0:0
+Zee Biskope
+p:Unknown
+0810:03a72ba2:0002:0063:1:0:0
+Sun Neo
+p:Unknown
+0811:03a72ba2:0002:0063:1:0:0
+Goldmines
+p:Unknown
+0812:03a72ba2:0002:0063:1:0:0
+The Q
+p:Unknown
+0813:03a72ba2:0002:0063:1:0:0
+Colors Cineplex Bollywood
+p:Unknown
+0814:03a72ba2:0002:0063:1:0:0
+Goldmines Bollywood
+p:Unknown
+0b05:03a72ba2:0002:0063:2:0:0
+AIR Gujarati
+p:Unknown
+0b06:03a72ba2:0002:0063:2:0:0
+AIR Panjim
+p:Unknown
+0b07:03a72ba2:0002:0063:2:0:0
+AIR Punjabi
+p:Unknown
+0b08:03a72ba2:0002:0063:2:0:0
+AIR Puducherry
+p:Unknown
+0b09:03a72ba2:0002:0063:2:0:0
+AIR Srinagar
+p:Unknown
+0b0a:03a72ba2:0002:0063:2:0:0
+AIR Lucknow
+p:Unknown
+0b0b:03a72ba2:0002:0063:2:0:0
+AIR Patna
+p:Unknown
+0b0c:03a72ba2:0002:0063:2:0:0
+AIR Bhopal
+p:Unknown
+092f:03a72cce:0008:0063:1:0:0
+DD Tamil
+p:Unknown
+0930:03a72cce:0008:0063:1:0:0
+DD Sahyadri
+p:Unknown
+0931:03a72cce:0008:0063:1:0:0
+DD Girnar
+p:Unknown
+0932:03a72cce:0008:0063:1:0:0
+DD Odia
+p:Unknown
+0933:03a72cce:0008:0063:1:0:0
+Satsang TV
+p:Unknown
+0934:03a72cce:0008:0063:1:0:0
+Public TV
+p:Unknown
+0935:03a72cce:0008:0063:1:0:0
+TV 9 Marathi
+p:Unknown
+0936:03a72cce:0008:0063:1:0:0
+PTC Punjabi Gold
+p:Unknown
+0937:03a72cce:0008:0063:1:0:0
+Nation 27
+p:Unknown
+0938:03a72cce:0008:0063:1:0:0
+Rang
+p:Unknown
+0939:03a72cce:0008:0063:1:0:0
+Republic Kannada
+p:Unknown
+093a:03a72cce:0008:0063:1:0:0
+News India 24x7
+p:Unknown
+093b:03a72cce:0008:0063:1:0:0
+Prag News
+p:Unknown
+093c:03a72cce:0008:0063:1:0:0
+Rengoni TV
+p:Unknown
+093d:03a72cce:0008:0063:1:0:0
+NE News
+p:Unknown
+093e:03a72cce:0008:0063:1:0:0
+Republic TV
+p:Unknown
+093f:03a72cce:0008:0063:1:0:0
+Republic Bangla
+p:Unknown
+0940:03a72cce:0008:0063:1:0:0
+Living India News
+p:Unknown
+0942:03a72cce:0008:0063:1:0:0
+Gujarat First
+p:Unknown
+0944:03a72cce:0008:0063:1:0:0
+DD Bharati
+p:Unknown
+0835:03a72cce:0003:0063:1:0:0
+Dangal 2
+p:Unknown
+0836:03a72cce:0003:0063:1:0:0
+Colors Cineplex Superhits
+p:Unknown
+0837:03a72cce:0003:0063:1:0:0
+Sony Pal
+p:Unknown
+0838:03a72cce:0003:0063:1:0:0
+Manoranjan Movies
+p:Unknown
+0839:03a72cce:0003:0063:1:0:0
+Epic Bharat
+p:Unknown
+083a:03a72cce:0003:0063:1:0:0
+B4U Kadak
+p:Unknown
+083b:03a72cce:0003:0063:1:0:0
+Manoranjan TV
+p:Unknown
+083c:03a72cce:0003:0063:1:0:0
+TV 9 Bharatvarsh
+p:Unknown
+083d:03a72cce:0003:0063:1:0:0
+Aastha India
+p:Unknown
+083e:03a72cce:0003:0063:1:0:0
+GTC Punjabi
+p:Unknown
+083f:03a72cce:0003:0063:1:0:0
+Unique TV
+p:Unknown
+0840:03a72cce:0003:0063:1:0:0
+Anmol Cinema
+p:Unknown
+0841:03a72cce:0003:0063:1:0:0
+Sony Wah
+p:Unknown
+0842:03a72cce:0003:0063:1:0:0
+Colors Rishtey Asia
+p:Unknown
+0843:03a72cce:0003:0063:1:0:0
+Zee News
+p:Unknown
+0844:03a72cce:0003:0063:1:0:0
+Goldmines Movies
+p:Unknown
+0845:03a72cce:0003:0063:1:0:0
+Shemaroo Josh
+p:Unknown
+0846:03a72cce:0003:0063:1:0:0
+Sanskar TV
+p:Unknown
+0b19:03a72cce:0003:0063:2:0:0
+AIR Kannada
+p:Unknown
+0b1a:03a72cce:0003:0063:2:0:0
+AIR Bangla
+p:Unknown
+0b1b:03a72cce:0003:0063:2:0:0
+AIR Hindi
+p:Unknown
+0b1c:03a72cce:0003:0063:2:0:0
+AIR North East
+p:Unknown
+0b1d:03a72cce:0003:0063:2:0:0
+AIR Dehradun
+p:Unknown
+0b1e:03a72cce:0003:0063:2:0:0
+AIR Port Blair
+p:Unknown
+0b1f:03a72cce:0003:0063:2:0:0
+AIR Jaipur
+p:Unknown
+0b20:03a72cce:0003:0063:2:0:0
+AIR Gangtok
+p:Unknown
+5848:03a72cf6:0549:0001:1:0:0
+Colors Bangla
+p:Dish TV India
+7923:03a72cf6:0549:0001:1:0:0
+Sony Pix
+p:Dish TV India
+810d:03a72cf6:0549:0001:1:0:0
+CNBC TV 18
+p:Dish TV India
+8160:03a72cf6:0549:0001:1:0:0
+Sony Aath
+p:Dish TV India
+8178:03a72cf6:0549:0001:1:0:0
+News 18 Marathi
+p:Dish TV India
+8214:03a72cf6:0549:0001:1:0:0
+Epic TV
+p:Dish TV India
+821d:03a72cf6:0549:0001:1:0:0
+Colors Infinity
+p:Dish TV India
+8231:03a72cf6:0549:0001:1:0:0
+Prameya News 7
+p:Dish TV India
+8258:03a72cf6:0549:0001:1:0:0
+Comedy Active
+p:Dish TV India
+8261:03a72cf6:0549:0001:1:0:0
+Music India
+p:Dish TV India
+8277:03a72cf6:0549:0001:1:0:0
+Nepal 1
+p:Dish TV India
+8296:03a72cf6:0549:0001:1:0:0
+Channel Divya
+p:Dish TV India
+82ab:03a72cf6:0549:0001:1:0:0
+Jinvani Channel
+p:Dish TV India
+82ad:03a72cf6:0549:0001:1:0:0
+News 18 Punjab & Haryana & Himachal Pradesh
+p:Dish TV India
+82b1:03a72cf6:0549:0001:1:0:0
+News 18 Assam & North-East
+p:Dish TV India
+82b3:03a72cf6:0549:0001:1:0:0
+Jonack
+p:Dish TV India
+830e:03a72cf6:0549:0001:1:0:0
+Sun Bangla
+p:Dish TV India
+8382:03a72cf6:0549:0001:1:0:0
+Lokshahi Marathi
+p:Dish TV India
+8393:03a72cf6:0549:0001:1:0:0
+India News Haryana
+p:Dish TV India
+83ad:03a72cf6:0549:0001:1:0:0
+Ishwar Bhakti TV
+p:Dish TV India
+94d7:03a72cf6:0549:0001:1:0:0
+D2h Home 1
+p:Dish TV India
+94d9:03a72cf6:0549:0001:1:0:0
+D2h Home 2
+p:Dish TV India
+94df:03a72cf6:0549:0001:1:0:0
+D2h Home 1
+p:Dish TV India
+9500:03a72cf6:0549:0001:1:0:0
+ET Now Swadesh
+p:Dish TV India
+9501:03a72cf6:0549:0001:1:0:0
+Zindagi Active
+p:Dish TV India
+9502:03a72cf6:0549:0001:1:0:0
+Pravah Picture
+p:Dish TV India
+9504:03a72cf6:0549:0001:1:0:0
+Star Kiran
+p:Dish TV India
+952f:03a72cf6:0549:0001:1:0:0
+Hollywood Indie Active
+p:Dish TV India
+955a:03a72cf6:0549:0001:1:0:0
+IBC 24
+p:Dish TV India
+955d:03a72cf6:0549:0001:1:0:0
+India Daily 24x7
+p:Dish TV India
+9569:03a72cf6:0549:0001:1:0:0
+DD Rajasthan
+p:Unknown
+9590:03a72cf6:0549:0001:1:0:0
+D2h Customer Care
+p:Dish TV India
+95ac:03a72cf6:0549:0001:1:0:0
+Zee News
+p:Dish TV India
+968a:03a72cf6:0549:0001:1:0:0
+Living India News
+p:Dish TV India
+968e:03a72cf6:0549:0001:1:0:0
+Tabbar Hits
+p:Dish TV India
+96b4:03a72cf6:0549:0001:1:0:0
+DD Uttarakhand
+p:Unknown
+0867:03a72cf6:0004:0063:1:0:0
+NDTV India
+p:Unknown
+0868:03a72cf6:0004:0063:1:0:0
+News 18 India
+p:Unknown
+0869:03a72cf6:0004:0063:1:0:0
+News Nation
+p:Unknown
+086a:03a72cf6:0004:0063:1:0:0
+Times Now Navbharat
+p:Unknown
+086b:03a72cf6:0004:0063:1:0:0
+PTC Punjabi
+p:Unknown
+086c:03a72cf6:0004:0063:1:0:0
+DD India
+p:Unknown
+086d:03a72cf6:0004:0063:1:0:0
+RT News
+p:Unknown
+086e:03a72cf6:0004:0063:1:0:0
+PTC News
+p:Unknown
+086f:03a72cf6:0004:0063:1:0:0
+Sadhna TV
+p:Unknown
+0870:03a72cf6:0004:0063:1:0:0
+India TV
+p:Unknown
+0873:03a72cf6:0004:0063:1:0:0
+Republic Bharat
+p:Unknown
+0879:03a72cf6:0004:0063:1:0:0
+DD Sports
+p:Unknown
+087a:03a72cf6:0004:0063:1:0:0
+DD Bharati
+p:Unknown
+0b2d:03a72cf6:0004:0063:2:0:0
+AIR Raagam
+p:Unknown
+0b2e:03a72cf6:0004:0063:2:0:0
+AIR Ranchi
+p:Unknown
+0b2f:03a72cf6:0004:0063:2:0:0
+AIR Urdu
+p:Unknown
+0b30:03a72cf6:0004:0063:2:0:0
+AIR Odia
+p:Unknown
+0b31:03a72cf6:0004:0063:2:0:0
+AIR Malayalam
+p:Unknown
+0b32:03a72cf6:0004:0063:2:0:0
+AIR Assamese
+p:Unknown
+0b33:03a72cf6:0004:0063:2:0:0
+AIR Raipur
+p:Unknown
+0b34:03a72cf6:0004:0063:2:0:0
+AIR Shillong
+p:Unknown
+0001:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 1
+p:Unknown
+0002:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 2
+p:Unknown
+0003:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 3
+p:Unknown
+0004:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 4
+p:Unknown
+0005:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 5
+p:Unknown
+0006:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 6
+p:Unknown
+0007:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 7
+p:Unknown
+0008:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 8
+p:Unknown
+0009:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 9
+p:Unknown
+000a:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 10
+p:Unknown
+000b:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 11
+p:Unknown
+000c:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 12
+p:Unknown
+000d:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 13
+p:Unknown
+000e:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 14
+p:Unknown
+000f:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 15
+p:Unknown
+0010:03a72d1e:0000:0000:1:0:0
+VANDE Gujarat 16
+p:Unknown
+0011:03a72d1e:0000:0000:1:0:0
+Digi Shala 1
+p:Unknown
+0012:03a72d1e:0000:0000:1:0:0
+Digi Shala 2
+p:Unknown
+0013:03a72d1e:0000:0000:1:0:0
+Digi Shala 3
+p:Unknown
+0014:03a72d1e:0000:0000:1:0:0
+Digi Shala 4
+p:Unknown
+0015:03a72d1e:0000:0000:1:0:0
+Digi Shala 5
+p:Unknown
+0016:03a72d1e:0000:0000:1:0:0
+Digi Shala 6
+p:Unknown
+0017:03a72d1e:0000:0000:1:0:0
+Digi Shala 7
+p:Unknown
+0018:03a72d1e:0000:0000:1:0:0
+Digi Shala 8
+p:Unknown
+0019:03a72d1e:0000:0000:1:0:0
+Digi Shala 9
+p:Unknown
+001a:03a72d1e:0000:0000:1:0:0
+Digi Shala 10
+p:Unknown
+001b:03a72d1e:0000:0000:1:0:0
+Digi Shala 11
+p:Unknown
+0899:03a72d1e:0005:0063:1:0:0
+DD Yadagiri
+p:Unknown
+089a:03a72d1e:0005:0063:1:0:0
+DD Uttar Pradesh
+p:Unknown
+089b:03a72d1e:0005:0063:1:0:0
+DD Himachal Pradesh
+p:Unknown
+089c:03a72d1e:0005:0063:1:0:0
+DD Rajasthan
+p:Unknown
+089d:03a72d1e:0005:0063:1:0:0
+DD Sports
+p:Unknown
+089e:03a72d1e:0005:0063:1:0:0
+DD Bihar
+p:Unknown
+089f:03a72d1e:0005:0063:1:0:0
+DD Jharkhand
+p:Unknown
+08a0:03a72d1e:0005:0063:1:0:0
+DD Madhya Pradesh
+p:Unknown
+08a1:03a72d1e:0005:0063:1:0:0
+DD Tripura
+p:Unknown
+08a2:03a72d1e:0005:0063:1:0:0
+DD Chhattisgarh
+p:Unknown
+08a3:03a72d1e:0005:0063:1:0:0
+DD Kashir
+p:Unknown
+08a4:03a72d1e:0005:0063:1:0:0
+DD Chandana
+p:Unknown
+08a5:03a72d1e:0005:0063:1:0:0
+DD Uttarakhand
+p:Unknown
+08a6:03a72d1e:0005:0063:1:0:0
+DD Saptagiri
+p:Unknown
+08a7:03a72d1e:0005:0063:1:0:0
+DD Malayalam
+p:Unknown
+08a8:03a72d1e:0005:0063:1:0:0
+DD Assam
+p:Unknown
+08a9:03a72d1e:0005:0063:1:0:0
+DD Odia
+p:Unknown
+08aa:03a72d1e:0005:0063:1:0:0
+DD Arunprabha
+p:Unknown
+08ab:03a72d1e:0005:0063:1:0:0
+DD Bangla
+p:Unknown
+08ac:03a72d1e:0005:0063:1:0:0
+DD Urdu
+p:Unknown
+0b41:03a72d1e:0005:0063:2:0:0
+AIR Kohima
+p:Unknown
+0b42:03a72d1e:0005:0063:2:0:0
+AIR Aizawl
+p:Unknown
+0b43:03a72d1e:0005:0063:2:0:0
+AIR Itanagar
+p:Unknown
+0b44:03a72d1e:0005:0063:2:0:0
+AIR Agartala
+p:Unknown
+0b45:03a72d1e:0005:0063:2:0:0
+AIR Leh
+p:Unknown
+0b46:03a72d1e:0005:0063:2:0:0
+AIR Shimla
+p:Unknown
+0b47:03a72d1e:0005:0063:2:0:0
+AIR Jammu
+p:Unknown
+0b48:03a72d1e:0005:0063:2:0:0
+AIR Varanasi
+p:Unknown
+7d09:03a72d46:0548:0001:1:0:0
+Hungama TV
+p:Dish TV India
+812f:03a72d46:0548:0001:1:0:0
+News 18 Rajasthan
+p:Dish TV India
+8146:03a72d46:0548:0001:1:0:0
+News 18 Bihar & Jharkhand
+p:Dish TV India
+8153:03a72d46:0548:0001:1:0:0
+Saam TV
+p:Dish TV India
+8166:03a72d46:0548:0001:1:0:0
+Cine Active
+p:Dish TV India
+8169:03a72d46:0548:0001:1:0:0
+Zee Zest
+p:Dish TV India
+8185:03a72d46:0548:0001:1:0:0
+National Geographic Wild India
+p:Dish TV India
+81eb:03a72d46:0548:0001:1:0:0
+Investigation Discovery India
+p:Dish TV India
+82d1:03a72d46:0548:0001:1:0:0
+Gulistan News
+p:Dish TV India
+830b:03a72d46:0548:0001:1:0:0
+Star Sports 3
+p:Dish TV India
+8315:03a72d46:0548:0001:1:0:0
+Colors Gujarati Cinema
+p:Dish TV India
+836d:03a72d46:0548:0001:1:0:0
+Gyandarshan 1
+p:Dish TV India
+83b5:03a72d46:0548:0001:1:0:0
+Ruposhi Bangla
+p:Dish TV India
+83c4:03a72d46:0548:0001:1:0:0
+AKD Calcutta News
+p:Dish TV India
+83ca:03a72d46:0548:0001:1:0:0
+Balle Balle
+p:Dish TV India
+83d4:03a72d46:0548:0001:1:0:0
+Paras Gold
+p:Dish TV India
+9568:03a72d46:0548:0001:1:0:0
+DD Uttar Pradesh
+p:Dish TV India
+956b:03a72d46:0548:0001:1:0:0
+DD Madhya Pradesh
+p:Dish TV India
+9573:03a72d46:0548:0001:1:0:0
+DD Bangla
+p:Dish TV India
+95a5:03a72d46:0548:0001:1:0:0
+Live Times
+p:Dish TV India
+95b0:03a72d46:0548:0001:1:0:0
+Zee Punjabi
+p:Dish TV India
+95b5:03a72d46:0548:0001:1:0:0
+News 18 Uttar Pradesh & Uttarakhand
+p:Dish TV India
+95c7:03a72d46:0548:0001:1:0:0
+Sony Max 1
+p:Dish TV India
+968d:03a72d46:0548:0001:1:0:0
+K News India
+p:Dish TV India
+00f1:03a72d46:0000:0000:1:0:0
+E-Vidya 121
+p:Unknown
+00f2:03a72d46:0000:0000:1:0:0
+E-Vidya 122
+p:Unknown
+00f3:03a72d46:0000:0000:1:0:0
+E-Vidya 123
+p:Unknown
+00f4:03a72d46:0000:0000:1:0:0
+E-Vidya 124
+p:Unknown
+00f5:03a72d46:0000:0000:1:0:0
+E-Vidya 125
+p:Unknown
+00f6:03a72d46:0000:0000:1:0:0
+E-Vidya 126
+p:Unknown
+00f7:03a72d46:0000:0000:1:0:0
+E-Vidya 127
+p:Unknown
+00f8:03a72d46:0000:0000:1:0:0
+E-Vidya 128
+p:Unknown
+00f9:03a72d46:0000:0000:1:0:0
+E-Vidya 129
+p:Unknown
+00fa:03a72d46:0000:0000:1:0:0
+E-Vidya 130
+p:Unknown
+00fb:03a72d46:0000:0000:1:0:0
+E-Vidya 131
+p:Unknown
+00fc:03a72d46:0000:0000:1:0:0
+E-Vidya 132
+p:Unknown
+00fd:03a72d46:0000:0000:1:0:0
+E-Vidya 133
+p:Unknown
+00fe:03a72d46:0000:0000:1:0:0
+E-Vidya 134
+p:Unknown
+00ff:03a72d46:0000:0000:1:0:0
+E-Vidya 135
+p:Unknown
+0100:03a72d46:0000:0000:1:0:0
+E-Vidya 136
+p:Unknown
+0101:03a72d46:0000:0000:1:0:0
+E-Vidya 137
+p:Unknown
+0102:03a72d46:0000:0000:1:0:0
+E-Vidya 138
+p:Unknown
+0103:03a72d46:0000:0000:1:0:0
+E-Vidya 139
+p:Unknown
+0104:03a72d46:0000:0000:1:0:0
+E-Vidya 140
+p:Unknown
+0105:03a72d46:0000:0000:1:0:0
+E-Vidya 141
+p:Unknown
+0106:03a72d46:0000:0000:1:0:0
+E-Vidya 142
+p:Unknown
+0107:03a72d46:0000:0000:1:0:0
+E-Vidya 143
+p:Unknown
+0108:03a72d46:0000:0000:1:0:0
+E-Vidya 144
+p:Unknown
+0109:03a72d46:0000:0000:1:0:0
+E-Vidya 145
+p:Unknown
+010a:03a72d46:0000:0000:1:0:0
+E-Vidya 146
+p:Unknown
+010b:03a72d46:0000:0000:1:0:0
+E-Vidya 147
+p:Unknown
+010c:03a72d46:0000:0000:1:0:0
+E-Vidya 148
+p:Unknown
+010d:03a72d46:0000:0000:1:0:0
+E-Vidya 149
+p:Unknown
+010e:03a72d46:0000:0000:1:0:0
+E-Vidya 150
+p:Unknown
+010f:03a72d46:0000:0000:1:0:0
+E-Vidya 151
+p:Unknown
+0110:03a72d46:0000:0000:1:0:0
+E-Vidya 152
+p:Unknown
+0111:03a72d46:0000:0000:1:0:0
+E-Vidya 153
+p:Unknown
+0112:03a72d46:0000:0000:1:0:0
+E-Vidya 154
+p:Unknown
+0113:03a72d46:0000:0000:1:0:0
+E-Vidya 155
+p:Unknown
+0114:03a72d46:0000:0000:1:0:0
+E-Vidya 156
+p:Unknown
+0115:03a72d46:0000:0000:1:0:0
+E-Vidya 157
+p:Unknown
+0116:03a72d46:0000:0000:1:0:0
+E-Vidya 158
+p:Unknown
+0117:03a72d46:0000:0000:1:0:0
+E-Vidya 159
+p:Unknown
+0118:03a72d46:0000:0000:1:0:0
+E-Vidya 160
+p:Unknown
+0029:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 1
+p:Unknown
+002a:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 2
+p:Unknown
+002b:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 3
+p:Unknown
+002c:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 4
+p:Unknown
+002d:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 5
+p:Unknown
+002e:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 6
+p:Unknown
+002f:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 7
+p:Unknown
+0030:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 8
+p:Unknown
+0031:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 9
+p:Unknown
+0032:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 10
+p:Unknown
+0033:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 11
+p:Unknown
+0034:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 12
+p:Unknown
+0035:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 13
+p:Unknown
+0036:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 14
+p:Unknown
+0037:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 15
+p:Unknown
+0038:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 16
+p:Unknown
+0039:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 17
+p:Unknown
+003a:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 18
+p:Unknown
+003b:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 19
+p:Unknown
+003c:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 20
+p:Unknown
+003d:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 21
+p:Unknown
+003e:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 22
+p:Unknown
+003f:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 23
+p:Unknown
+0040:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 24
+p:Unknown
+0041:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 25
+p:Unknown
+0042:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 26
+p:Unknown
+0043:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 27
+p:Unknown
+0044:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 28
+p:Unknown
+0045:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 29
+p:Unknown
+0046:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 30
+p:Unknown
+0047:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 31
+p:Unknown
+0048:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 32
+p:Unknown
+0049:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 33
+p:Unknown
+004a:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 34
+p:Unknown
+004b:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 35
+p:Unknown
+004c:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 36
+p:Unknown
+004d:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 37
+p:Unknown
+004e:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 38
+p:Unknown
+004f:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 39
+p:Unknown
+0050:03a72d6e:0000:0000:1:0:0
+Swayam Prabha 40
+p:Unknown
+08cb:03a72d6e:0006:0063:1:0:0
+Aastha Bhajan India
+p:Unknown
+08cc:03a72d6e:0006:0063:1:0:0
+Chardikla Time TV
+p:Unknown
+08cd:03a72d6e:0006:0063:1:0:0
+Epic Bhojpuri
+p:Unknown
+08ce:03a72d6e:0006:0063:1:0:0
+TNP News
+p:Unknown
+08cf:03a72d6e:0006:0063:1:0:0
+India Daily Live
+p:Unknown
+08d0:03a72d6e:0006:0063:1:0:0
+Live Times
+p:Unknown
+08d1:03a72d6e:0006:0063:1:0:0
+Bharat Express
+p:Unknown
+08d2:03a72d6e:0006:0063:1:0:0
+Sudarshan News
+p:Unknown
+08d3:03a72d6e:0006:0063:1:0:0
+Mh 1 News
+p:Unknown
+08d4:03a72d6e:0006:0063:1:0:0
+Mh 1
+p:Unknown
+08d5:03a72d6e:0006:0063:1:0:0
+Daily Post News
+p:Unknown
+08d6:03a72d6e:0006:0063:1:0:0
+Mh 1 Dil Se
+p:Unknown
+08d7:03a72d6e:0006:0063:1:0:0
+TV 9 Gujarati
+p:Unknown
+08d8:03a72d6e:0006:0063:1:0:0
+Zee 24 Kalak
+p:Unknown
+08df:03a72d6e:0006:0063:1:0:0
+Bharat 24
+p:Unknown
+08e0:03a72d6e:0006:0063:1:0:0
+VTV News
+p:Unknown
+08e1:03a72d6e:0006:0063:1:0:0
+Network 10
+p:Unknown
+08e2:03a72d6e:0006:0063:1:0:0
+Pasand TV
+p:Unknown
+08e7:03a72d6e:0006:0063:1:0:0
+Oscar Movies Bhojpuri
+p:Unknown
+08e9:03a72d6e:0006:0063:1:0:0
+Manoranjan Prime
+p:Unknown
+08ea:03a72d6e:0006:0063:1:0:0
+TV 9 Telugu
+p:Unknown
+08eb:03a72d6e:0006:0063:1:0:0
+Aastha Kannada
+p:Unknown
+08ec:03a72d6e:0006:0063:1:0:0
+Aastha Telugu
+p:Unknown
+08ed:03a72d6e:0006:0063:1:0:0
+Vedic
+p:Unknown
+08ef:03a72d6e:0006:0063:1:0:0
+Sandesh News
+p:Unknown
+08f0:03a72d6e:0006:0063:1:0:0
+TV 9 Bangla
+p:Unknown
+08f1:03a72d6e:0006:0063:1:0:0
+News Live Bangla
+p:Unknown
+08f2:03a72d6e:0006:0063:1:0:0
+GTC News
+p:Unknown
+08f3:03a72d6e:0006:0063:1:0:0
+K News India
+p:Unknown
+0b55:03a72d6e:0006:0063:2:0:0
+AIR FM Rainbow Delhi
+p:Unknown
+0b56:03a72d6e:0006:0063:2:0:0
+AIR FM Gold Delhi
+p:Unknown
+0b57:03a72d6e:0006:0063:2:0:0
+AIR Darbhanga
+p:Unknown
+0b58:03a72d6e:0006:0063:2:0:0
+AIR Najibabad
+p:Unknown
+0b59:03a72d6e:0006:0063:2:0:0
+AIR World Service
+p:Unknown
+0b5a:03a72d6e:0006:0063:2:0:0
+AIR World Service
+p:Unknown
+0b5b:03a72d6e:0006:0063:2:0:0
+AIR Neighbourhood 1
+p:Unknown
+0b5c:03a72d6e:0006:0063:2:0:0
+AIR Neighbourhood 2
+p:Unknown
+0051:03a72d96:0039:0001:1:0:0
+SATHEE 1
+p:Unknown
+0052:03a72d96:0039:0001:1:0:0
+SATHEE 2
+p:Unknown
+0053:03a72d96:0039:0001:1:0:0
+SATHEE 3
+p:Unknown
+0054:03a72d96:0039:0001:1:0:0
+SATHEE 4
+p:Unknown
+0055:03a72d96:0039:0001:1:0:0
+SATHEE 5
+p:Unknown
+0056:03a72d96:0039:0001:1:0:0
+SATHEE 6
+p:Unknown
+0057:03a72d96:0039:0001:1:0:0
+SATHEE 7
+p:Unknown
+0074:03a72d96:0039:0001:1:0:0
+DD JK e-Pathshala
+p:Unknown
+0075:03a72d96:0039:0001:1:0:0
+Ayush Next Communication Network
+p:Unknown
+0077:03a72d96:0039:0001:1:0:0
+KITE VICTERS
+p:Unknown
+0078:03a72d96:0039:0001:1:0:0
+Digi Shala 64
+p:Unknown
+0119:03a72d96:0000:0000:1:0:0
+E-Vidya 161
+p:Unknown
+011a:03a72d96:0000:0000:1:0:0
+E-Vidya 162
+p:Unknown
+011b:03a72d96:0000:0000:1:0:0
+E-Vidya 163
+p:Unknown
+011c:03a72d96:0000:0000:1:0:0
+E-Vidya 164
+p:Unknown
+011d:03a72d96:0000:0000:1:0:0
+E-Vidya 165
+p:Unknown
+011e:03a72d96:0000:0000:1:0:0
+E-Vidya 166
+p:Unknown
+011f:03a72d96:0000:0000:1:0:0
+E-Vidya 167
+p:Unknown
+0120:03a72d96:0000:0000:1:0:0
+E-Vidya 168
+p:Unknown
+0121:03a72d96:0000:0000:1:0:0
+E-Vidya 169
+p:Unknown
+0122:03a72d96:0000:0000:1:0:0
+E-Vidya 170
+p:Unknown
+0123:03a72d96:0000:0000:1:0:0
+E-Vidya 171
+p:Unknown
+0124:03a72d96:0000:0000:1:0:0
+E-Vidya 172
+p:Unknown
+0125:03a72d96:0000:0000:1:0:0
+E-Vidya 173
+p:Unknown
+0126:03a72d96:0000:0000:1:0:0
+E-Vidya 174
+p:Unknown
+0127:03a72d96:0000:0000:1:0:0
+E-Vidya 175
+p:Unknown
+0128:03a72d96:0000:0000:1:0:0
+E-Vidya 176
+p:Unknown
+0129:03a72d96:0000:0000:1:0:0
+E-Vidya 177
+p:Unknown
+012a:03a72d96:0000:0000:1:0:0
+E-Vidya 178
+p:Unknown
+012b:03a72d96:0000:0000:1:0:0
+E-Vidya 179
+p:Unknown
+012c:03a72d96:0000:0000:1:0:0
+E-Vidya 180
+p:Unknown
+012d:03a72d96:0000:0000:1:0:0
+E-Vidya 181
+p:Unknown
+012e:03a72d96:0000:0000:1:0:0
+E-Vidya 182
+p:Unknown
+012f:03a72d96:0000:0000:1:0:0
+E-Vidya 183
+p:Unknown
+0130:03a72d96:0000:0000:1:0:0
+E-Vidya 184
+p:Unknown
+0131:03a72d96:0000:0000:1:0:0
+E-Vidya 185
+p:Unknown
+0132:03a72d96:0000:0000:1:0:0
+E-Vidya 186
+p:Unknown
+0133:03a72d96:0000:0000:1:0:0
+E-Vidya 187
+p:Unknown
+0134:03a72d96:0000:0000:1:0:0
+E-Vidya 188
+p:Unknown
+0135:03a72d96:0000:0000:1:0:0
+E-Vidya 189
+p:Unknown
+0136:03a72d96:0000:0000:1:0:0
+E-Vidya 190
+p:Unknown
+0137:03a72d96:0000:0000:1:0:0
+E-Vidya 191
+p:Unknown
+0138:03a72d96:0000:0000:1:0:0
+E-Vidya 192
+p:Unknown
+0139:03a72d96:0000:0000:1:0:0
+E-Vidya 193
+p:Unknown
+013a:03a72d96:0000:0000:1:0:0
+E-Vidya 194
+p:Unknown
+013b:03a72d96:0000:0000:1:0:0
+E-Vidya 195
+p:Unknown
+013c:03a72d96:0000:0000:1:0:0
+E-Vidya 196
+p:Unknown
+013d:03a72d96:0000:0000:1:0:0
+E-Vidya 197
+p:Unknown
+013e:03a72d96:0000:0000:1:0:0
+E-Vidya 198
+p:Unknown
+013f:03a72d96:0000:0000:1:0:0
+E-Vidya 199
+p:Unknown
+0140:03a72d96:0000:0000:1:0:0
+E-Vidya 200
+p:Unknown
+end

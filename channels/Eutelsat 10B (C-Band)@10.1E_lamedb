@@ -1,0 +1,308 @@
+eDVB services /4/
+transponders
+00650efc:0101:0a96
+	s 3836000:1650000:3:0:101:2:0:1:0:2:2
+/
+00650f15:0000:0000
+	s 3861000:4042000:3:0:101:2:0:1:0:2:2
+/
+00650f1e:0001:03e8
+	s 3870000:3333000:3:0:101:2:0:1:0:2:2
+/
+00650f3c:0004:0001
+	s 3900000:23330000:3:0:101:2:0:1:0:2:2
+/
+00650f6d:1000:2000
+	s 3949000:1212000:3:0:101:2:0:1:0:2:2
+/
+00650f92:0001:1234
+	s 3986000:18260000:3:0:101:2:0:1:0:2:2
+/
+00650fbc:0000:0000
+	s 4028000:2480000:3:0:101:2:0:1:0:2:2
+/
+00650fc7:0001:0001
+	s 4039000:3333000:3:0:101:2:0:1:0:2:2
+/
+00650fe1:0003:0001
+	s 4065000:3400000:3:0:101:2:0:1:0:2:2
+/
+0065100c:0001:0001
+	s 4108000:2170000:2:0:101:2:0:0:0:2:2
+/
+end
+services
+0002:00650efc:0101:0a96:1:0:0
+Loveworld XP
+p:Unknown
+0001:00650f15:0000:0000:1:0:0
+Télé Tchad
+p:Unknown
+0001:00650f1e:0001:03e8:1:0:0
+Rwanda TV
+p:Unknown
+0002:00650f1e:0001:03e8:1:0:0
+KC2
+p:Unknown
+000a:00650f3c:0004:0001:1:0:0
+Capuchin TV
+p:Unknown
+0018:00650f3c:0004:0001:1:0:0
+Family TV
+p:Unknown
+0066:00650f3c:0004:0001:1:0:0
+NTV
+p:Unknown
+0067:00650f3c:0004:0001:1:0:0
+KTN Home
+p:Unknown
+0068:00650f3c:0004:0001:1:0:0
+K24
+p:Unknown
+0069:00650f3c:0004:0001:1:0:0
+Shifu TV
+p:Unknown
+006a:00650f3c:0004:0001:1:0:0
+KBC Channel 1
+p:Unknown
+006b:00650f3c:0004:0001:1:0:0
+Zee Dunia
+p:Unknown
+006c:00650f3c:0004:0001:1:0:0
+Bliss TV
+p:Unknown
+006e:00650f3c:0004:0001:1:0:0
+Aviation TV
+p:Unknown
+0070:00650f3c:0004:0001:1:0:0
+Al Huda TV
+p:Unknown
+0074:00650f3c:0004:0001:1:0:0
+Sporty TV Kenya
+p:Unknown
+0075:00650f3c:0004:0001:1:0:0
+Citizen TV
+p:Unknown
+0076:00650f3c:0004:0001:1:0:0
+MBCI TV
+p:Unknown
+0077:00650f3c:0004:0001:1:0:0
+ST Rembo TV
+p:Unknown
+0078:00650f3c:0004:0001:1:0:0
+PPP TV
+p:Unknown
+007a:00650f3c:0004:0001:1:0:0
+Horizon TV
+p:Unknown
+007b:00650f3c:0004:0001:1:0:0
+Akili TV
+p:Unknown
+0084:00650f3c:0004:0001:1:0:0
+Kameme TV
+p:Unknown
+0087:00650f3c:0004:0001:1:0:0
+Nabii TV
+p:Unknown
+008b:00650f3c:0004:0001:1:0:0
+World Evangelism TV
+p:Unknown
+008d:00650f3c:0004:0001:1:0:0
+ST Rembo Plus
+p:Unknown
+008e:00650f3c:0004:0001:1:0:0
+Mwasky TV
+p:Unknown
+008f:00650f3c:0004:0001:1:0:0
+StarTimes TV Guide Kenya
+p:Unknown
+0091:00650f3c:0004:0001:1:0:0
+Tinker TV
+p:Unknown
+00a3:00650f3c:0004:0001:1:0:0
+Mahdi TV
+p:Unknown
+00b4:00650f3c:0004:0001:1:0:0
+TV 47
+p:Unknown
+00c1:00650f3c:0004:0001:1:0:0
+JCM TV
+p:Unknown
+00c3:00650f3c:0004:0001:1:0:0
+JCC TV
+p:Unknown
+00c4:00650f3c:0004:0001:1:0:0
+Agano TV
+p:Unknown
+00e8:00650f3c:0004:0001:1:0:0
+CCTV 4 Europe
+p:Unknown
+01c2:00650f3c:0004:0001:1:0:0
+Furahia TV
+p:Unknown
+01d6:00650f3c:0004:0001:1:0:0
+Nuru TV
+p:Unknown
+0250:00650f3c:0004:0001:1:0:0
+Urejesho TV
+p:Unknown
+0276:00650f3c:0004:0001:1:0:0
+Dunny TV
+p:Unknown
+0278:00650f3c:0004:0001:1:0:0
+Moja 1 TV
+p:Unknown
+027f:00650f3c:0004:0001:1:0:0
+Vika TV
+p:Unknown
+0284:00650f3c:0004:0001:1:0:0
+Mbuyu TV
+p:Unknown
+0297:00650f3c:0004:0001:1:0:0
+Zeze TV
+p:Unknown
+0298:00650f3c:0004:0001:1:0:0
+Flora TV
+p:Unknown
+0299:00650f3c:0004:0001:1:0:0
+Vidtribe TV
+p:Unknown
+029d:00650f3c:0004:0001:1:0:0
+Kirk TV
+p:Unknown
+02b0:00650f3c:0004:0001:1:0:0
+Xavier TV
+p:Unknown
+03e7:00650f3c:0004:0001:1:0:0
+Ramogi TV
+p:Unknown
+007d:00650f3c:0004:0001:2:0:0
+Kameme FM
+p:Unknown
+007e:00650f3c:0004:0001:2:0:0
+Milele FM
+p:Unknown
+007f:00650f3c:0004:0001:2:0:0
+Emoo FM
+p:Unknown
+0080:00650f3c:0004:0001:2:0:0
+Mayian FM
+p:Unknown
+0081:00650f3c:0004:0001:2:0:0
+Meru FM
+p:Unknown
+0082:00650f3c:0004:0001:2:0:0
+Osiepe FM
+p:Unknown
+0083:00650f3c:0004:0001:2:0:0
+Msenangu FM
+p:Unknown
+0245:00650f3c:0004:0001:2:0:0
+Radio Maisha
+p:Unknown
+0246:00650f3c:0004:0001:2:0:0
+Spice FM
+p:Unknown
+0001:00650f6d:1000:2000:1:0:0
+Hip TV
+p:Unknown
+015c:00650f92:0001:1234:1:0:0
+Salam TV
+p:Unknown
+015d:00650f92:0001:1234:1:0:0
+Uganda Catholic TV
+p:Unknown
+015e:00650f92:0001:1234:1:0:0
+UBC TV
+p:Unknown
+015f:00650f92:0001:1234:1:0:0
+NTV Uganda
+p:Unknown
+0160:00650f92:0001:1234:1:0:0
+NBS TV
+p:Unknown
+0161:00650f92:0001:1234:1:0:0
+Bukedde 1
+p:Unknown
+0162:00650f92:0001:1234:1:0:0
+Bukedde 2
+p:Unknown
+0163:00650f92:0001:1234:1:0:0
+BBS TV
+p:Unknown
+0164:00650f92:0001:1234:1:0:0
+Tayari West
+p:Unknown
+0165:00650f92:0001:1234:1:0:0
+TV West
+p:Unknown
+0166:00650f92:0001:1234:1:0:0
+Spark TV
+p:Unknown
+0167:00650f92:0001:1234:1:0:0
+Salt TV
+p:Unknown
+0168:00650f92:0001:1234:1:0:0
+Channel 44
+p:Unknown
+0169:00650f92:0001:1234:1:0:0
+Top TV
+p:Unknown
+016a:00650f92:0001:1234:1:0:0
+Chamuka TV
+p:Unknown
+016b:00650f92:0001:1234:1:0:0
+Kingdom TV
+p:Unknown
+016c:00650f92:0001:1234:1:0:0
+King Solomon TV
+p:Unknown
+016d:00650f92:0001:1234:1:0:0
+KBS TV
+p:Unknown
+016e:00650f92:0001:1234:1:0:0
+Sanyuka TV
+p:Unknown
+016f:00650f92:0001:1234:1:0:0
+Baba TV
+p:Unknown
+0170:00650f92:0001:1234:1:0:0
+Doxa TV
+p:Unknown
+0171:00650f92:0001:1234:1:0:0
+Westnile TV
+p:Unknown
+0001:00650fbc:0000:0000:1:0:0
+Morning Cloud TV
+p:Unknown
+0001:00650fc7:0001:0001:1:0:0
+TVT
+p:Unknown
+0002:00650fc7:0001:0001:1:0:0
+TVT
+p:Unknown
+0003:00650fc7:0001:0001:2:0:0
+Radio Lomé
+p:Unknown
+0004:00650fc7:0001:0001:2:0:0
+Radio Kara
+p:Unknown
+0001:00650fe1:0003:0001:1:0:0
+Antenne TV A
+p:Unknown
+0002:00650fe1:0003:0001:1:0:0
+Cinarc TV
+p:Unknown
+0003:00650fe1:0003:0001:1:0:0
+RTNC
+p:Unknown
+0004:00650fe1:0003:0001:1:0:0
+B-One TV
+p:Unknown
+0007:00650fe1:0003:0001:1:0:0
+Moliere TV
+p:Unknown
+0001:0065100c:0001:0001:2:0:0
+WRN Russkij
+p:Unknown
+end

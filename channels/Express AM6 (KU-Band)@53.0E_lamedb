@@ -30,32 +30,23 @@ transponders
 02122a9d:0002:2283
 	s 10909000:28724000:1:0:530:2:0:1:0:2:2
 /
-02122ab5:0004:0071
-	s 10933000:7000000:1:0:530:2:0:0:0:2:2
-/
 02122ade:0321:0001
 	s 10974000:4850000:0:0:530:2:0:0:0:2:2
 /
 02122af0:0001:0001
 	s 10992000:3500000:0:0:530:2:0:0:0:2:2
 /
-02122cc1:0001:0001
-	s 11457000:3460000:0:0:530:2:0:1:0:2:2
+02122d7c:0001:0001
+	s 11644000:3462000:0:0:530:2:0:1:0:2:2
 /
 021230e1:0001:0000
-	s 12513000:1815000:1:0:530:2:0:1:0:2:2
+	s 12513000:1816000:1:0:530:2:0:1:0:2:2
 /
 02123132:01f4:03e8
 	s 12594000:27500000:1:0:530:2:0:0:0:2:2
 /
-02123157:0001:ffff
-	s 12631000:3000000:1:0:530:2:0:1:0:2:2
-/
-0212315d:1000:2000
-	s 12637000:1837000:1:0:530:2:0:1:0:2:2
-/
-02123160:1000:ffff
-	s 12640000:2200000:1:0:530:2:0:1:0:2:2
+02123158:0001:0001
+	s 12632000:3000000:1:0:530:2:0:1:0:2:2
 /
 02123187:0001:ffff
 	s 12679000:1665000:1:0:530:2:0:1:0:2:2
@@ -150,7 +141,7 @@ p:Unknown
 Karusel
 p:Unknown
 044c:02122a58:0001:2283:1:0:0
-TV Centr
+TV Centr Moskva
 p:Unknown
 0456:02122a58:0001:2283:2:0:0
 Vesti FM
@@ -190,24 +181,6 @@ Radio Dacha
 p:Unknown
 0011:02122a71:000d:1111:2:0:0
 Radio Pika
-p:Unknown
-0036:02122a71:000d:1111:2:0:0
-Sputnik International
-p:Unknown
-0037:02122a71:000d:1111:2:0:0
-Sputnik International
-p:Unknown
-0038:02122a71:000d:1111:2:0:0
-Sputnik International
-p:Unknown
-0039:02122a71:000d:1111:2:0:0
-Sputnik International
-p:Unknown
-003a:02122a71:000d:1111:2:0:0
-Sputnik International
-p:Unknown
-0035:02122a71:000d:1111:2:0:0
-Sputnik International
 p:Unknown
 07da:02122a7b:000b:2283:1:0:0
 REN TV
@@ -251,48 +224,6 @@ p:Unknown
 046a:02122a9d:0002:2283:2:0:0
 Radio Rossii
 p:Unknown
-0192:02122ab5:0004:0071:2:0:0
-Avtoradio
-p:Unknown
-0193:02122ab5:0004:0071:2:0:0
-Avtoradio Moskva
-p:Unknown
-0194:02122ab5:0004:0071:2:0:0
-Avtoradio
-p:Unknown
-0197:02122ab5:0004:0071:2:0:0
-Humor FM
-p:Unknown
-0198:02122ab5:0004:0071:2:0:0
-Humor FM
-p:Unknown
-019a:02122ab5:0004:0071:2:0:0
-Humor FM
-p:Unknown
-019b:02122ab5:0004:0071:2:0:0
-Radio Enerdzhi
-p:Unknown
-019c:02122ab5:0004:0071:2:0:0
-Radio Enerdzhi
-p:Unknown
-019e:02122ab5:0004:0071:2:0:0
-Radio Enerdzhi
-p:Unknown
-01a6:02122ab5:0004:0071:2:0:0
-Comedy Radio
-p:Unknown
-01a7:02122ab5:0004:0071:2:0:0
-Comedy Radio
-p:Unknown
-01a8:02122ab5:0004:0071:2:0:0
-Comedy Radio
-p:Unknown
-01aa:02122ab5:0004:0071:2:0:0
-Detskoe Radio
-p:Unknown
-01ac:02122ab5:0004:0071:2:0:0
-Detskoe Radio Moskva
-p:Unknown
 0001:02122ade:0321:0001:1:0:0
 450
 p:Unknown
@@ -302,34 +233,34 @@ p:Unknown
 0001:02122af0:0001:0001:1:0:0
 Telekanal 78
 p:Unknown
-0001:02122cc1:0001:0001:1:0:0
+0001:02122d7c:0001:0001:1:0:0
 NTV Mir
 p:Unknown
-000c:02122cc1:0001:0001:2:0:0
+000c:02122d7c:0001:0001:2:0:0
 Sputnik International
 p:Unknown
-000d:02122cc1:0001:0001:2:0:0
+000d:02122d7c:0001:0001:2:0:0
 Sputnik International
 p:Unknown
-000e:02122cc1:0001:0001:2:0:0
+000e:02122d7c:0001:0001:2:0:0
 Sputnik International
 p:Unknown
-000f:02122cc1:0001:0001:2:0:0
+000f:02122d7c:0001:0001:2:0:0
 Sputnik International
 p:Unknown
-0010:02122cc1:0001:0001:2:0:0
+0010:02122d7c:0001:0001:2:0:0
 Sputnik International
 p:Unknown
-0011:02122cc1:0001:0001:2:0:0
+0011:02122d7c:0001:0001:2:0:0
 Sputnik International
 p:Unknown
-0012:02122cc1:0001:0001:2:0:0
+0012:02122d7c:0001:0001:2:0:0
 Sputnik International
 p:Unknown
-0013:02122cc1:0001:0001:2:0:0
+0013:02122d7c:0001:0001:2:0:0
 Sputnik International
 p:Unknown
-0014:02122cc1:0001:0001:2:0:0
+0014:02122d7c:0001:0001:2:0:0
 Sputnik International
 p:Unknown
 0001:021230e1:0001:0000:1:0:0
@@ -353,8 +284,14 @@ p:Unknown
 0009:02123132:01f4:03e8:1:0:0
 Tigrai TV
 p:Unknown
+000b:02123132:01f4:03e8:1:0:0
+Iran International
+p:Unknown
+000c:02123132:01f4:03e8:1:0:0
+Hagere Hamasien TV
+p:Unknown
 0012:02123132:01f4:03e8:1:0:0
-Aryen TV
+Zagros 24
 p:Unknown
 0001:02123132:01f4:03e8:2:0:0
 Rûdaw Radio
@@ -371,20 +308,8 @@ p:Unknown
 001d:02123132:01f4:03e8:2:0:0
 Sawt Al-Ahrar FM
 p:Unknown
-0001:02123157:0001:ffff:1:0:0
+0001:02123158:0001:0001:1:0:0
 Al-Manar TV
-p:Unknown
-0001:0212315d:1000:2000:1:0:0
-Yemen TV
-p:Unknown
-0002:0212315d:1000:2000:2:0:0
-Radio Sana'a
-p:Unknown
-0003:0212315d:1000:2000:2:0:0
-Sawt Al Shaab FM
-p:Unknown
-0001:02123160:1000:ffff:1:0:0
-Almasirah TV
 p:Unknown
 0001:02123187:0001:ffff:1:0:0
 Rojava TV

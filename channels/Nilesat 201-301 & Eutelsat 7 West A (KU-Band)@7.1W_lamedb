@@ -147,9 +147,6 @@ transponders
 0dc92f75:001a:02be
 	s 12149000:27500000:0:0:-71:2:0:0:0:2:2
 /
-0dc92f89:7594:077e
-	s 12169000:27500000:1:0:-71:2:0:1:0:2:2
-/
 0dc92f9c:01f4:077e
 	s 12188000:27500000:0:0:-71:2:0:1:0:2:2
 /
@@ -198,13 +195,13 @@ p:Unknown
 Top Zaman
 p:Unknown
 0008:0dc92a3f:0001:ffff:1:0:0
-Al Mayadeen TV
+Al Mayadeen Plus
 p:Unknown
 0009:0dc92a3f:0001:ffff:1:0:0
 El Khoulasa Cinema
 p:Unknown
 000a:0dc92a3f:0001:ffff:1:0:0
-AB Iraq TV
+Saher Allayaly
 p:Unknown
 000b:0dc92a3f:0001:ffff:1:0:0
 Libya Al-Ahrar TV
@@ -236,9 +233,6 @@ p:Unknown
 0024:0dc92a3f:0001:ffff:1:0:0
 TCTT
 p:Unknown
-0026:0dc92a3f:0001:ffff:1:0:0
-Nour El Shabeb
-p:Unknown
 0029:0dc92a3f:0001:ffff:1:0:0
 Al Kalema TV
 p:Unknown
@@ -252,7 +246,7 @@ p:Unknown
 Alsay3da
 p:Unknown
 0036:0dc92a3f:0001:ffff:1:0:0
-NourSat
+Noursat
 p:Unknown
 0038:0dc92a3f:0001:ffff:1:0:0
 Beit El Drama
@@ -265,6 +259,12 @@ Qatar TV The Holy Quran
 p:Unknown
 0004:0dc92a52:0001:0001:1:0:0
 Qatar TV
+p:Unknown
+0005:0dc92a52:0001:0001:1:0:0
+QBC
+p:Unknown
+0006:0dc92a52:0001:0001:1:0:0
+QBC
 p:Unknown
 000a:0dc92a52:0001:0001:2:0:0
 Sout al Khaleej 2
@@ -314,8 +314,8 @@ p:Unknown
 1f4c:0dc92a79:0012:006e:1:0:0
 El Mahrousah TV
 p:Unknown
-1f4f:0dc92a79:0012:006e:1:0:0
-Madh Elnabi
+1f4b:0dc92a79:0012:006e:1:0:0
+Ishish TV
 p:Unknown
 1f55:0dc92a79:0012:006e:1:0:0
 Nawader TV
@@ -353,6 +353,9 @@ p:Unknown
 0031:0dc92a8c:0014:006e:1:0:0
 Al Rabiaa TV
 p:Unknown
+0032:0dc92a8c:0014:006e:1:0:0
+Dijlah TV
+p:Unknown
 0033:0dc92a8c:0014:006e:1:0:0
 Alahad TV
 p:Unknown
@@ -364,6 +367,9 @@ Alahad Voice
 p:Unknown
 0035:0dc92a8c:0014:006e:2:0:0
 Radio Vaticana Europa
+p:Unknown
+0036:0dc92a8c:0014:006e:2:0:0
+Hawa Dijlah Radio
 p:Unknown
 07e5:0dc92aaa:0011:006e:1:0:0
 Echorouk TV News
@@ -385,6 +391,9 @@ El Hayat TV
 p:Unknown
 07ec:0dc92aaa:0011:006e:1:0:0
 El Heddaf TV
+p:Unknown
+07ed:0dc92aaa:0011:006e:1:0:0
+Sport Plus HD
 p:Unknown
 07ee:0dc92aaa:0011:006e:1:0:0
 El Djazaïr N1
@@ -409,9 +418,6 @@ p:Unknown
 p:Unknown
 006d:0dc92af0:4ee8:077e:1:0:0
 Al Anis TV
-p:Unknown
-006e:0dc92af0:4ee8:077e:1:0:0
-Chinguit TV
 p:Unknown
 0066:0dc92b96:4e84:077e:1:0:0
 Télé Maroc
@@ -500,6 +506,9 @@ p:Unknown
 006c:0dc92bd3:d28c:077e:1:0:0
 MBC Maser 2
 p:Unknown
+006d:0dc92bd3:d28c:077e:1:0:0
+MBC Maser
+p:Unknown
 0191:0dc92bfa:0010:006e:1:0:0
 Ajman TV
 p:Unknown
@@ -525,7 +534,7 @@ p:Unknown
 Karbala Documentary
 p:Unknown
 01c9:0dc92bfa:0010:006e:1:0:0
-Alquran
+Quran TV
 p:Unknown
 01cb:0dc92bfa:0010:006e:1:0:0
 Alshabab TV
@@ -581,26 +590,11 @@ p:Unknown
 01f4:0dc92c20:9e34:077e:1:0:0
 WedoTV Big Stories
 p:Unknown
-01f5:0dc92c20:9e34:077e:1:0:0
-One America News Network
-p:Unknown
 01f7:0dc92c20:9e34:077e:1:0:0
 Outdoor Channel International
 p:Unknown
-01f8:0dc92c20:9e34:077e:1:0:0
-World Poker Tour
-p:Unknown
-01f9:0dc92c20:9e34:077e:1:0:0
-Cricket Gold
-p:Unknown
-01fa:0dc92c20:9e34:077e:1:0:0
-Bare Knuckle Fighting Championship TV
-p:Unknown
 01fb:0dc92c20:9e34:077e:1:0:0
 World Fishing Network
-p:Unknown
-01fc:0dc92c20:9e34:077e:1:0:0
-The Grappling Network
 p:Unknown
 01fd:0dc92c20:9e34:077e:1:0:0
 Sports First
@@ -636,7 +630,7 @@ p:Unknown
 Sumer FM
 p:Unknown
 0014:0dc92c33:9c7c:077e:2:0:0
-Al Rasheed FM
+Radio Al Rasheed
 p:Unknown
 02c1:0dc92c46:9efc:077e:1:0:0
 AIC TV
@@ -690,7 +684,7 @@ p:Unknown
 Al-Etejah TV
 p:Unknown
 03fb:0dc92c5a:0320:0800:1:0:0
-Aryen TV
+Zagros 24
 p:Unknown
 03fd:0dc92c5a:0320:0800:1:0:0
 Zarok TV Sorani
@@ -698,8 +692,14 @@ p:Unknown
 0403:0dc92c5a:0320:0800:2:0:0
 Radio Samar
 p:Unknown
+0404:0dc92c5a:0320:0800:2:0:0
+Radio Salam
+p:Unknown
 0405:0dc92c5a:0320:0800:2:0:0
 TWR Middle East
+p:Unknown
+0407:0dc92c5a:0320:0800:2:0:0
+Radio Sama
 p:Unknown
 040b:0dc92c5a:0320:0800:2:0:0
 PraiseLive Global
@@ -719,9 +719,6 @@ p:Unknown
 0160:0dc92c6d:00c9:0800:1:0:0
 Shihab TV
 p:Unknown
-0161:0dc92c6d:00c9:0800:1:0:0
-Atfal & Mawaheb
-p:Unknown
 0164:0dc92c6d:00c9:0800:1:0:0
 LuaLua TV
 p:Unknown
@@ -736,6 +733,9 @@ Afaq TV
 p:Unknown
 0169:0dc92c6d:00c9:0800:1:0:0
 2M TV
+p:Unknown
+016a:0dc92c6d:00c9:0800:1:0:0
+Angel TV Arabic
 p:Unknown
 015e:0dc92c6d:00c9:0800:2:0:0
 Türkmeneli FM
@@ -836,6 +836,9 @@ p:Unknown
 04ba:0dc92ca6:a0f0:0396:1:0:0
 AIC TV
 p:Unknown
+04bb:0dc92ca6:a0f0:0396:1:0:0
+Yaman Kids TV
+p:Unknown
 04b3:0dc92ca6:a0f0:0396:2:0:0
 Radio Mariam Arabic
 p:Unknown
@@ -845,8 +848,8 @@ p:Unknown
 0067:0dc92cb9:0002:ffff:1:0:0
 Al Qamar TV
 p:Unknown
-0069:0dc92cb9:0002:ffff:1:0:0
-Dukan TV
+0068:0dc92cb9:0002:ffff:1:0:0
+France 24 Arabic
 p:Unknown
 006a:0dc92cb9:0002:ffff:1:0:0
 El Jumhuria TV
@@ -863,11 +866,11 @@ p:Unknown
 0070:0dc92cb9:0002:ffff:1:0:0
 Daystar TV
 p:Unknown
-0071:0dc92cb9:0002:ffff:1:0:0
-Manu Chat
-p:Unknown
 0072:0dc92cb9:0002:ffff:1:0:0
 Riyad Al Salihin
+p:Unknown
+0074:0dc92cb9:0002:ffff:1:0:0
+Prime TV
 p:Unknown
 0075:0dc92cb9:0002:ffff:1:0:0
 CGTN Global Biz
@@ -877,6 +880,9 @@ BN TV
 p:Unknown
 0066:0dc92cb9:0002:ffff:2:0:0
 Arta Radio
+p:Unknown
+0078:0dc92cb9:0002:ffff:2:0:0
+Monte Carlo Doualiya
 p:Unknown
 0001:0dc92cd3:9d08:077e:1:0:0
 Al Aoula Inter
@@ -996,7 +1002,7 @@ p:Unknown
 MBC Drama
 p:Unknown
 000c:0dc92d27:003c:0800:1:0:0
-Wanasah
+MBC Mood
 p:Unknown
 00cc:0dc92d53:0c21:006e:1:0:0
 Supreme Master TV
@@ -1033,6 +1039,9 @@ ME Sat
 p:Unknown
 00dd:0dc92d53:0c21:006e:2:0:0
 Radio Tchad
+p:Unknown
+00e8:0dc92d53:0c21:006e:2:0:0
+Alhouda
 p:Unknown
 012e:0dc92d79:0c23:006e:1:0:0
 TV Alittihad
@@ -1181,6 +1190,9 @@ p:OSN TV
 161f:0dc92dcf:0236:0800:1:0:0
 Nickelodeon Arabia
 p:OSN TV
+1620:0dc92dcf:0236:0800:1:0:0
+OSN TV Iqiyi
+p:OSN TV
 1621:0dc92dcf:0236:0800:1:0:0
 Discovery Channel Middle East
 p:OSN TV
@@ -1203,7 +1215,19 @@ p:OSN TV
 Nicktoons Arabia
 p:OSN TV
 1628:0dc92dcf:0236:0800:1:0:0
-OSN Popup
+OSN TV Pop up
+p:OSN TV
+1629:0dc92dcf:0236:0800:1:0:0
+Alfa Al Yawm
+p:OSN TV
+162a:0dc92dcf:0236:0800:1:0:0
+Alfa Al Safwa
+p:OSN TV
+162b:0dc92dcf:0236:0800:1:0:0
+Alfa Cinema 1
+p:OSN TV
+162c:0dc92dcf:0236:0800:1:0:0
+Alfa Cinema 2
 p:OSN TV
 0066:0dc92de3:0001:0800:1:0:0
 Al Qahera News
@@ -1242,10 +1266,10 @@ p:Unknown
 Al Kahera Wal Nas
 p:Unknown
 01f5:0dc92df6:0005:0800:1:0:0
-ERTU 1
+Qanaat 1
 p:Unknown
 01f6:0dc92df6:0005:0800:1:0:0
-ERTU 1
+Qanaat 1
 p:Unknown
 01fa:0dc92df6:0005:0800:1:0:0
 Nile Culture
@@ -1323,7 +1347,7 @@ p:Unknown
 Al-Nahar Drama
 p:Unknown
 070b:0dc92e09:0012:0800:1:0:0
-CBC
+5 Movies
 p:Unknown
 070c:0dc92e09:0012:0800:1:0:0
 CBC Sofra
@@ -1352,11 +1376,17 @@ p:Unknown
 044f:0dc92e2f:000b:0800:1:0:0
 Palestine TV
 p:Unknown
+0450:0dc92e2f:000b:0800:1:0:0
+Modern MTI
+p:Unknown
 0451:0dc92e2f:000b:0800:1:0:0
 Egyptian TV
 p:Unknown
 0452:0dc92e2f:000b:0800:1:0:0
 MBC Maser 2
+p:Unknown
+0453:0dc92e2f:000b:0800:1:0:0
+Mix Bel Araby
 p:Unknown
 0454:0dc92e2f:000b:0800:1:0:0
 Al Sabah TV
@@ -1381,6 +1411,9 @@ Voice of Palestine
 p:Unknown
 0259:0dc92e43:0006:0800:1:0:0
 Ten
+p:Unknown
+025a:0dc92e43:0006:0800:1:0:0
+Al-Janoub Al-Youm
 p:Unknown
 025b:0dc92e43:0006:0800:1:0:0
 Nile News
@@ -1439,23 +1472,11 @@ p:Unknown
 02a3:0dc92e43:0006:0800:2:0:0
 Radio Canal
 p:Unknown
-00c9:0dc92e56:0002:0800:1:0:0
-On Sport 2
-p:Unknown
 00ca:0dc92e56:0002:0800:1:0:0
 On E
 p:Unknown
-00cb:0dc92e56:0002:0800:1:0:0
-On Sport 1
-p:Unknown
-00cd:0dc92e56:0002:0800:1:0:0
-On Sport 2
-p:Unknown
 00ce:0dc92e56:0002:0800:1:0:0
 On E
-p:Unknown
-00cf:0dc92e56:0002:0800:1:0:0
-On Sport 1
 p:Unknown
 00d0:0dc92e56:0002:0800:1:0:0
 On Drama
@@ -1477,9 +1498,6 @@ Motorvision+
 p:OSN TV
 00ce:0dc92e69:0002:0800:1:0:0
 Blippi & Friends
-p:OSN TV
-00d0:0dc92e69:0002:0800:1:0:0
-PBA Rush
 p:OSN TV
 00d1:0dc92e69:0002:0800:1:0:0
 Myx Middle East
@@ -1517,6 +1535,9 @@ p:OSN TV
 00e1:0dc92e69:0002:0800:1:0:0
 History 2 Middle East
 p:OSN TV
+00e2:0dc92e69:0002:0800:1:0:0
+OSN TV Pop up 2
+p:OSN TV
 00d5:0dc92e69:0002:0800:2:0:0
 MOR Entertainment
 p:OSN TV
@@ -1544,14 +1565,14 @@ p:Unknown
 0648:0dc92e7c:0010:0800:1:0:0
 Al-Saeedah
 p:Unknown
+064b:0dc92e7c:0010:0800:1:0:0
+IFilm Arabic
+p:Unknown
 0650:0dc92e7c:0010:0800:1:0:0
 Nogoum FM TV
 p:Unknown
 0651:0dc92e7c:0010:0800:1:0:0
 Alghad TV
-p:Unknown
-0652:0dc92e7c:0010:0800:1:0:0
-Alfath Atfal
 p:Unknown
 0653:0dc92e7c:0010:0800:1:0:0
 Alalam Channel
@@ -1583,12 +1604,6 @@ p:Unknown
 0af2:0dc92ea2:001c:0800:1:0:0
 Press TV
 p:Unknown
-0afb:0dc92ea2:001c:0800:1:0:0
-Al Sabah TV
-p:Unknown
-0afc:0dc92ea2:001c:0800:1:0:0
-Mix Bel Araby
-p:Unknown
 0b03:0dc92ea2:001c:0800:1:0:0
 Baghdad TV
 p:Unknown
@@ -1610,17 +1625,20 @@ p:Unknown
 0b0b:0dc92ea2:001c:0800:1:0:0
 Syria TV
 p:Unknown
+0b15:0dc92ea2:001c:0800:2:0:0
+Radio Al-Thawra
+p:Unknown
+0b16:0dc92ea2:001c:0800:2:0:0
+Damascus Quran
+p:Unknown
 0b09:0dc92ea2:001c:0800:2:0:0
-Radio Damascus
+Damascus Radio
 p:Unknown
 0b17:0dc92ea2:001c:0800:2:0:0
-Radio Damascus
+Damascus Radio
 p:Unknown
 029a:0dc92eb6:0008:0800:1:0:0
 Jordan Amen
-p:Unknown
-029b:0dc92eb6:0008:0800:1:0:0
-Tunisia Shop
 p:Unknown
 029e:0dc92eb6:0008:0800:1:0:0
 Oyoun Al-Watan TV
@@ -1630,9 +1648,6 @@ Hadramout Channel
 p:Unknown
 0320:0dc92eb6:0008:0800:1:0:0
 Amman TV
-p:Unknown
-032e:0dc92eb6:0008:0800:1:0:0
-El-Burhan TV
 p:Unknown
 0338:0dc92eb6:0008:0800:1:0:0
 Al-Istiqama TV
@@ -1685,11 +1700,20 @@ p:Unknown
 0352:0dc92eb6:0008:0800:2:0:0
 Holy Quran Radio Ma'an
 p:Unknown
+0359:0dc92eb6:0008:0800:2:0:0
+Holy Quran Radio Irbid
+p:Unknown
+035a:0dc92eb6:0008:0800:2:0:0
+Holy Quran Radio Mafrak
+p:Unknown
 07d1:0dc92ec9:0014:0800:1:0:0
 On Sport
 p:Unknown
 07d2:0dc92ec9:0014:0800:1:0:0
 On Sport Max
+p:Unknown
+07d3:0dc92ec9:0014:0800:1:0:0
+On Sport Plus
 p:Unknown
 07d5:0dc92ec9:0014:0800:1:0:0
 Sky News Arabia
@@ -1727,6 +1751,21 @@ p:OSN TV
 0136:0dc92edc:0003:0800:1:0:0
 Moonbug
 p:OSN TV
+0137:0dc92edc:0003:0800:1:0:0
+Alfa Fann
+p:OSN TV
+0138:0dc92edc:0003:0800:1:0:0
+Alfa Music Now
+p:OSN TV
+0139:0dc92edc:0003:0800:2:0:0
+Tarabiya't
+p:OSN TV
+013b:0dc92edc:0003:0800:2:0:0
+Khalijya't
+p:OSN TV
+013c:0dc92edc:0003:0800:2:0:0
+Monawa't
+p:OSN TV
 0515:0dc92eef:000d:0800:1:0:0
 Al Kahera Wal Nas 2
 p:Unknown
@@ -1763,14 +1802,14 @@ p:Unknown
 0522:0dc92eef:000d:0800:1:0:0
 On Sport Max
 p:Unknown
+0292:0dc92f02:0007:0800:1:0:0
+Alaraby TV
+p:Unknown
 02bc:0dc92f02:0007:0800:1:0:0
 Beity TV
 p:Unknown
 02bd:0dc92f02:0007:0800:1:0:0
 Cima Channel
-p:Unknown
-02bf:0dc92f02:0007:0800:1:0:0
-Alnahrain TV
 p:Unknown
 02c2:0dc92f02:0007:0800:1:0:0
 Alaraby TV 2
@@ -1782,7 +1821,7 @@ p:Unknown
 North Africa TV
 p:Unknown
 02ca:0dc92f02:0007:0800:1:0:0
-Sport TV
+Jordan Sports Channel
 p:Unknown
 02e2:0dc92f02:0007:0800:1:0:0
 Iraq Now
@@ -1809,13 +1848,13 @@ p:Unknown
 Al Joumhouriyah TV
 p:Unknown
 089c:0dc92f16:0016:0800:1:0:0
-Al Masriyah
+Egyptian TV 2
 p:Unknown
 089d:0dc92f16:0016:0800:1:0:0
 Nile TV International
 p:Unknown
 089e:0dc92f16:0016:0800:1:0:0
-ERTU 2
+Qanaat 2
 p:Unknown
 089f:0dc92f16:0016:0800:1:0:0
 PNC Drama
@@ -1885,6 +1924,12 @@ Fatafeat
 p:OSN TV
 11a0:0dc92f29:002d:0800:1:0:0
 Bloomberg Originals
+p:OSN TV
+11a1:0dc92f29:002d:0800:1:0:0
+Alfa Series +2
+p:OSN TV
+11a2:0dc92f29:002d:0800:1:0:0
+Alfa Series
 p:OSN TV
 1325:0dc92f3c:0031:0800:1:0:0
 DMC
@@ -2003,68 +2048,23 @@ p:Unknown
 0a49:0dc92f75:001a:02be:2:0:0
 Khuzama Radio
 p:Unknown
-044d:0dc92f89:7594:077e:1:0:0
-KTV 1
-p:Unknown
-044e:0dc92f89:7594:077e:1:0:0
-KTV Al-Akhbar
-p:Unknown
-044f:0dc92f89:7594:077e:1:0:0
-KTV 2
-p:Unknown
-0450:0dc92f89:7594:077e:1:0:0
-KTV Sport
-p:Unknown
-0451:0dc92f89:7594:077e:1:0:0
-KTV Sport 2
-p:Unknown
-000b:0dc92f89:7594:077e:2:0:0
-Kuwait Radio One
-p:Unknown
-000c:0dc92f89:7594:077e:2:0:0
-Kuwait Radio Two
-p:Unknown
-000d:0dc92f89:7594:077e:2:0:0
-AlQuran Alkarem
-p:Unknown
-000e:0dc92f89:7594:077e:2:0:0
-Easy 92.5
-p:Unknown
-000f:0dc92f89:7594:077e:2:0:0
-Kuwait FM
-p:Unknown
-0010:0dc92f89:7594:077e:2:0:0
-Super Station
-p:Unknown
-0011:0dc92f89:7594:077e:2:0:0
-The Old Arabic Singing
-p:Unknown
-0012:0dc92f89:7594:077e:2:0:0
-Traditional Station
-p:Unknown
-0013:0dc92f89:7594:077e:2:0:0
-OFM
-p:Unknown
-0014:0dc92f89:7594:077e:2:0:0
-Kuwait Radio One
-p:Unknown
-0968:0dc92f9c:01f4:077e:1:0:0
-BeIn Sports Xtra 4
-p:BeIn
 096a:0dc92f9c:01f4:077e:1:0:0
 BeIn Sports 9
 p:BeIn
 096b:0dc92f9c:01f4:077e:1:0:0
 BeIn Sports News
 p:Unknown
-096c:0dc92f9c:01f4:077e:1:0:0
-BeIn Sports Xtra 1
-p:BeIn
 096d:0dc92f9c:01f4:077e:1:0:0
 BeIn Sports Xtra 2
 p:BeIn
 0973:0dc92f9c:01f4:077e:1:0:0
 BeIn Sports 5
+p:BeIn
+097c:0dc92f9c:01f4:077e:1:0:0
+BeIn Sports 7
+p:BeIn
+097f:0dc92f9c:01f4:077e:1:0:0
+BeIn Sports Xtra 4
 p:BeIn
 0c83:0dc92faf:0020:0800:1:0:0
 BBC News Arabic
@@ -2137,9 +2137,6 @@ BeIn Sports French 1
 p:BeIn
 0900:0dc92fd5:0190:077e:1:0:0
 BeIn Sports French 2
-p:BeIn
-0902:0dc92fd5:0190:077e:1:0:0
-BeIn Sports Xtra 7
 p:BeIn
 0a29:0dc92ffc:001a:02be:1:0:0
 Saudi TV
@@ -2219,9 +2216,6 @@ p:Unknown
 0900:0dc9300f:0017:0800:1:0:0
 Madrasetna 1
 p:Unknown
-0902:0dc9300f:0017:0800:1:0:0
-Al Wathaeqya
-p:Unknown
 0904:0dc9300f:0017:0800:1:0:0
 Alikhbaria Syria
 p:Unknown
@@ -2257,6 +2251,9 @@ Asharq Documentary
 p:Unknown
 0067:0dc93048:d098:077e:1:0:0
 Asharq Discovery
+p:Unknown
+0068:0dc93048:d098:077e:1:0:0
+Al Thaqafeya
 p:Unknown
 006b:0dc93048:d098:077e:1:0:0
 Thamanya 1

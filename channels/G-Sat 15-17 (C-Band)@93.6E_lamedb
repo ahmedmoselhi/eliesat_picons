@@ -1,0 +1,740 @@
+eDVB services /4/
+transponders
+03a80e7f:0001:1111
+	s 3711000:6250000:0:0:936:2:0:0:0:2:2
+/
+03a80e89:0001:1111
+	s 3721000:6250000:0:0:936:2:0:0:0:2:2
+/
+03a80e90:0001:ffff
+	s 3728000:4250000:0:0:936:2:0:0:0:2:2
+/
+03a80e96:0001:ffff
+	s 3734000:4250000:0:0:936:2:0:0:0:2:2
+/
+03a80e9c:0001:ffff
+	s 3740000:4250000:0:0:936:2:0:0:0:2:2
+/
+03a80ef6:0001:ffff
+	s 3830000:3330000:0:0:936:2:0:0:0:2:2
+/
+03a80f00:0064:0064
+	s 3840000:6250000:0:0:936:2:0:0:0:2:2
+/
+03a80f14:0001:ffff
+	s 3860000:4250000:0:0:936:2:0:0:0:2:2
+/
+03a80f21:0000:ffff
+	s 3873000:9600000:1:0:936:2:0:1:0:2:2
+/
+03a80f37:0001:0001
+	s 3895000:11500000:1:0:936:2:0:1:0:2:2
+/
+03a80f55:0001:0001
+	s 3925000:27500000:0:0:936:2:0:0:0:2:2
+/
+03a80f55:002c:0001
+	s 3925000:30000000:1:0:936:2:0:1:0:2:2
+/
+03a80f6d:0001:0001
+	s 3949000:2900000:0:0:936:2:0:0:0:2:2
+/
+03a80f71:0000:0000
+	s 3953000:2900000:0:0:936:2:0:1:0:2:2
+/
+03a80f75:0000:0000
+	s 3957000:2900000:0:0:936:2:0:0:0:2:2
+/
+03a80f79:0001:ffff
+	s 3961000:2900000:0:0:936:2:0:0:0:2:2
+/
+03a80f7d:0001:0001
+	s 3965000:2900000:0:0:936:2:0:0:0:2:2
+/
+03a80f81:0000:0001
+	s 3969000:2900000:0:0:936:2:0:1:0:2:2
+/
+03a80f83:0028:00a4
+	s 3971000:20000000:1:0:936:2:0:1:0:2:2
+/
+03a80f85:0000:0000
+	s 3973000:2900000:0:0:936:2:0:1:0:2:2
+/
+03a80f89:0001:ffff
+	s 3977000:2900000:0:0:936:2:0:0:0:2:2
+/
+03a80f8d:0000:0000
+	s 3981000:2900000:0:0:936:2:0:1:0:2:2
+/
+03a80f94:0000:0001
+	s 3988000:2900000:0:0:936:2:0:0:0:2:2
+/
+03a80f99:0001:ffff
+	s 3993000:2900000:0:0:936:2:0:0:0:2:2
+/
+03a80f9d:0000:0000
+	s 3997000:2900000:0:0:936:2:0:1:0:2:2
+/
+03a80fa0:0000:0000
+	s 4000000:2900000:0:0:936:2:0:0:0:2:2
+/
+03a80fa5:0029:00a4
+	s 4005000:30000000:1:0:936:2:0:1:0:2:2
+/
+03a80fa9:0001:ffff
+	s 4009000:2900000:0:0:936:2:0:1:0:2:2
+/
+03a80fbd:0002:0002
+	s 4029000:2900000:0:0:936:2:0:0:0:2:2
+/
+03a80fc2:0000:0000
+	s 4034000:4560000:0:0:936:2:0:1:0:2:2
+/
+03a80fc7:0000:0000
+	s 4039000:2900000:0:0:936:2:0:1:0:2:2
+/
+03a80fcd:0000:0000
+	s 4045000:6230000:0:0:936:2:0:0:0:2:2
+/
+03a80fcd:0032:087f
+	s 4045000:30000000:1:0:936:2:0:1:0:2:2
+/
+03a80fd4:0001:ffff
+	s 4052000:4250000:0:0:936:2:0:0:0:2:2
+/
+03a80fe5:0001:ffff
+	s 4069000:2900000:0:0:936:2:0:1:0:2:2
+/
+03a80fe9:0002:ffff
+	s 4073000:2900000:0:0:936:2:0:1:0:2:2
+/
+03a80fea:0000:ffff
+	s 4074000:12500000:1:0:936:2:0:1:0:2:2
+/
+03a80ff0:0001:ffff
+	s 4080000:7800000:0:0:936:2:0:1:0:2:2
+/
+03a80ffa:0001:00ab
+	s 4090000:6250000:0:0:936:2:0:0:0:2:2
+/
+03a80ffb:000e:ffff
+	s 4091000:10000000:1:0:936:2:0:1:0:2:2
+/
+03a81002:071a:0001
+	s 4098000:6250000:0:0:936:2:0:0:0:2:2
+/
+03a81014:0001:ffff
+	s 4116000:4250000:0:0:936:2:0:0:0:2:2
+/
+03a8101a:0001:ffff
+	s 4122000:4238000:0:0:936:2:0:1:0:2:2
+/
+03a8101d:002a:00a4
+	s 4125000:30000000:1:0:936:2:0:1:0:2:2
+/
+03a81036:0001:ffff
+	s 4150000:4000000:0:0:936:2:0:0:0:2:2
+/
+03a81040:0001:0001
+	s 4160000:8444000:0:0:936:2:0:1:0:2:2
+/
+03a81050:0002:000a
+	s 4176000:13600000:0:0:936:2:0:1:0:2:2
+/
+end
+services
+0001:03a80e7f:0001:1111:1:0:0
+DD Meghalaya
+p:Unknown
+0002:03a80e89:0001:1111:1:0:0
+DD Mizoram
+p:Unknown
+0001:03a80e90:0001:ffff:1:0:0
+DD Tripura
+p:Unknown
+0001:03a80e96:0001:ffff:1:0:0
+DD Arunprabha
+p:Unknown
+0001:03a80e9c:0001:ffff:1:0:0
+DD Nagaland
+p:Unknown
+0001:03a80ef6:0001:ffff:1:0:0
+DD Bihar
+p:Unknown
+0001:03a80f00:0064:0064:1:0:0
+DD Assam
+p:Unknown
+0001:03a80f14:0001:ffff:1:0:0
+DD Goa
+p:Unknown
+0001:03a80f21:0000:ffff:1:0:0
+Polimer
+p:Unknown
+0002:03a80f21:0000:ffff:1:0:0
+Polimer News
+p:Unknown
+0003:03a80f21:0000:ffff:1:0:0
+Jothi TV
+p:Unknown
+0004:03a80f21:0000:ffff:1:0:0
+Tamil Janam
+p:Unknown
+0191:03a80f37:0001:0001:1:0:0
+Eurosport India
+p:Unknown
+01f5:03a80f37:0001:0001:1:0:0
+Eurosport India
+p:Unknown
+0213:03a80f37:0001:0001:1:0:0
+Cartoon Network India
+p:Unknown
+0214:03a80f37:0001:0001:1:0:0
+CNN International Asia Pacific
+p:Unknown
+0001:03a80f55:0001:0001:1:0:0
+DD National
+p:Unknown
+0002:03a80f55:0001:0001:1:0:0
+DD News
+p:Unknown
+0003:03a80f55:0001:0001:1:0:0
+DD India
+p:Unknown
+0004:03a80f55:0001:0001:1:0:0
+DD Bharati
+p:Unknown
+0005:03a80f55:0001:0001:1:0:0
+DD Bangla
+p:Unknown
+0006:03a80f55:0001:0001:1:0:0
+DD Tamil
+p:Unknown
+0007:03a80f55:0001:0001:1:0:0
+DD Yadagiri
+p:Unknown
+0008:03a80f55:0001:0001:1:0:0
+DD Andaman and Nicobar
+p:Unknown
+0009:03a80f55:0001:0001:1:0:0
+DD Malayalam
+p:Unknown
+000a:03a80f55:0001:0001:1:0:0
+DD Urdu
+p:Unknown
+000c:03a80f55:0001:0001:2:0:0
+AIR Vividh Bharati
+p:Unknown
+000d:03a80f55:0001:0001:2:0:0
+AIR FM Rainbow Delhi
+p:Unknown
+000e:03a80f55:0001:0001:2:0:0
+AIR Hindi
+p:Unknown
+000f:03a80f55:0001:0001:2:0:0
+AIR Tamil
+p:Unknown
+0010:03a80f55:0001:0001:2:0:0
+AIR Bangla
+p:Unknown
+0011:03a80f55:0001:0001:2:0:0
+AIR Port Blair
+p:Unknown
+7545:03a80f55:002c:0001:1:0:0
+Zee Thirai
+p:Unknown
+7547:03a80f55:002c:0001:1:0:0
+Zee Keralam
+p:Unknown
+7548:03a80f55:002c:0001:1:0:0
+Unite8 Sports 1
+p:Unknown
+7549:03a80f55:002c:0001:1:0:0
+& Xplor
+p:Unknown
+754a:03a80f55:002c:0001:1:0:0
+Zee Power
+p:Unknown
+754b:03a80f55:002c:0001:1:0:0
+Zee Talkies
+p:Unknown
+754c:03a80f55:002c:0001:1:0:0
+Zee Tamil
+p:Unknown
+754d:03a80f55:002c:0001:1:0:0
+Zee Marathi
+p:Unknown
+754e:03a80f55:002c:0001:1:0:0
+Zee Cinemalu
+p:Unknown
+754f:03a80f55:002c:0001:1:0:0
+Zee Kannada
+p:Unknown
+0001:03a80f6d:0001:0001:1:0:0
+DD Bangla
+p:Unknown
+0008:03a80f71:0000:0000:1:0:0
+DD Punjabi
+p:Unknown
+0033:03a80f75:0000:0000:1:0:0
+DD Girnar
+p:Unknown
+0001:03a80f79:0001:ffff:1:0:0
+DD Chandana
+p:Unknown
+0006:03a80f7d:0001:0001:1:0:0
+DD Odia
+p:Unknown
+0009:03a80f81:0000:0001:1:0:0
+DD Punjabi
+p:Unknown
+0899:03a80f83:0028:00a4:1:0:0
+Jalsha Movies
+p:Unknown
+089a:03a80f83:0028:00a4:1:0:0
+Super Hungama
+p:Unknown
+089b:03a80f83:0028:00a4:1:0:0
+Jalsha Movies
+p:Unknown
+089c:03a80f83:0028:00a4:1:0:0
+Hungama TV
+p:Unknown
+089d:03a80f83:0028:00a4:1:0:0
+Colors Marathi
+p:Unknown
+089e:03a80f83:0028:00a4:1:0:0
+Colors Marathi
+p:Unknown
+089f:03a80f83:0028:00a4:1:0:0
+Colors Super
+p:Unknown
+08a0:03a80f83:0028:00a4:1:0:0
+Disney International HD
+p:Unknown
+08a1:03a80f83:0028:00a4:1:0:0
+Disney Channel India
+p:Unknown
+08a2:03a80f83:0028:00a4:1:0:0
+Disney Jr India
+p:Unknown
+08a3:03a80f83:0028:00a4:1:0:0
+Disney Channel India
+p:Unknown
+08a4:03a80f83:0028:00a4:1:0:0
+Colors Cineplex
+p:Unknown
+0033:03a80f85:0000:0000:1:0:0
+DD Girnar
+p:Unknown
+0001:03a80f89:0001:ffff:1:0:0
+DD Kashir
+p:Unknown
+0037:03a80f8d:0000:0000:1:0:0
+DD Odia
+p:Unknown
+0001:03a80f94:0000:0001:1:0:0
+DD Malayalam
+p:Unknown
+0001:03a80f99:0001:ffff:1:0:0
+DD Yadagiri
+p:Unknown
+0001:03a80f9d:0000:0000:1:0:0
+DD Himachal Pradesh
+p:Unknown
+000e:03a80fa0:0000:0000:1:0:0
+DD Rajasthan
+p:Unknown
+08a8:03a80fa5:0029:00a4:1:0:0
+National Geographic India
+p:Unknown
+08a9:03a80fa5:0029:00a4:1:0:0
+National Geographic India
+p:Unknown
+08aa:03a80fa5:0029:00a4:1:0:0
+National Geographic Wild India
+p:Unknown
+08ab:03a80fa5:0029:00a4:1:0:0
+National Geographic Wild India
+p:Unknown
+08ac:03a80fa5:0029:00a4:1:0:0
+Star Utsav Movies
+p:Unknown
+08ad:03a80fa5:0029:00a4:1:0:0
+Asianet Movies
+p:Unknown
+08ae:03a80fa5:0029:00a4:1:0:0
+Star Movies India
+p:Unknown
+08af:03a80fa5:0029:00a4:1:0:0
+Vijay Super
+p:Unknown
+08b0:03a80fa5:0029:00a4:1:0:0
+Star Kiran
+p:Unknown
+08b1:03a80fa5:0029:00a4:1:0:0
+Pravah Picture
+p:Unknown
+08b2:03a80fa5:0029:00a4:1:0:0
+Star Gold Romance
+p:Unknown
+08b3:03a80fa5:0029:00a4:1:0:0
+Star Gold India
+p:Unknown
+08b4:03a80fa5:0029:00a4:1:0:0
+Star Movies India
+p:Unknown
+08b5:03a80fa5:0029:00a4:1:0:0
+Star Bharat India
+p:Unknown
+08b6:03a80fa5:0029:00a4:1:0:0
+Colors Infinity
+p:Unknown
+08b7:03a80fa5:0029:00a4:1:0:0
+Colors Infinity
+p:Unknown
+08b8:03a80fa5:0029:00a4:1:0:0
+Vijay Super
+p:Unknown
+08b9:03a80fa5:0029:00a4:1:0:0
+Star Suvarna Plus
+p:Unknown
+08ba:03a80fa5:0029:00a4:1:0:0
+Star Movies Select
+p:Unknown
+0001:03a80fa9:0001:ffff:1:0:0
+DD Yadagiri
+p:Unknown
+000a:03a80fbd:0002:0002:1:0:0
+DD Sahyadri
+p:Unknown
+0004:03a80fc2:0000:0000:1:0:0
+DD Sahyadri
+p:Unknown
+0001:03a80fc7:0000:0000:1:0:0
+DD Tamil
+p:Unknown
+0001:03a80fcd:0000:0000:1:0:0
+DD Tamil
+p:Unknown
+0033:03a80fcd:0000:0000:1:0:0
+DD Puducherry
+p:Unknown
+0a8d:03a80fcd:0032:087f:1:0:0
+CNBC TV 18
+p:Unknown
+0a8e:03a80fcd:0032:087f:1:0:0
+CNBC Awaaz
+p:Unknown
+0a8f:03a80fcd:0032:087f:1:0:0
+CNBC Bajar
+p:Unknown
+0a90:03a80fcd:0032:087f:1:0:0
+CNBC TV 18 Prime
+p:Unknown
+0a91:03a80fcd:0032:087f:1:0:0
+News 18 Marathi
+p:Unknown
+0a92:03a80fcd:0032:087f:1:0:0
+News 18 Uttar Pradesh & Uttarakhand
+p:Unknown
+0a93:03a80fcd:0032:087f:1:0:0
+News 18 Punjab & Haryana & Himachal Pradesh
+p:Unknown
+0a94:03a80fcd:0032:087f:1:0:0
+News 18 Rajasthan
+p:Unknown
+0a95:03a80fcd:0032:087f:1:0:0
+News 18 Bihar & Jharkhand
+p:Unknown
+0a96:03a80fcd:0032:087f:1:0:0
+News 18 Madhya Pradesh & Chhattisgarh
+p:Unknown
+0a97:03a80fcd:0032:087f:1:0:0
+News 18 Jammu Kashmir Ladakh Himachal
+p:Unknown
+0a98:03a80fcd:0032:087f:1:0:0
+News 18 Bengali
+p:Unknown
+0a99:03a80fcd:0032:087f:1:0:0
+News 18 Gujarati
+p:Unknown
+0a9a:03a80fcd:0032:087f:1:0:0
+News 18 Kannada
+p:Unknown
+0a9b:03a80fcd:0032:087f:1:0:0
+News 18 Tamil Nadu
+p:Unknown
+0a9c:03a80fcd:0032:087f:1:0:0
+News 18 Malayalam
+p:Unknown
+0a9d:03a80fcd:0032:087f:1:0:0
+News 18 Assam & North-East
+p:Unknown
+0a9e:03a80fcd:0032:087f:1:0:0
+News 18 Odia
+p:Unknown
+0a9f:03a80fcd:0032:087f:1:0:0
+History TV 18
+p:Unknown
+0aa0:03a80fcd:0032:087f:1:0:0
+History TV 18
+p:Unknown
+0aa1:03a80fcd:0032:087f:1:0:0
+News 18 India
+p:Unknown
+0aa2:03a80fcd:0032:087f:1:0:0
+Firstpost
+p:Unknown
+0aa3:03a80fcd:0032:087f:1:0:0
+CNN News 18
+p:Unknown
+0aa4:03a80fcd:0032:087f:1:0:0
+News 18 India
+p:Unknown
+0aa5:03a80fcd:0032:087f:1:0:0
+News 18 International
+p:Unknown
+0001:03a80fd4:0001:ffff:1:0:0
+DD Saptagiri
+p:Unknown
+0047:03a80fe5:0001:ffff:1:0:0
+DD Bangla
+p:Unknown
+0001:03a80fe9:0002:ffff:1:0:0
+DD Chandana
+p:Unknown
+0001:03a80fea:0000:ffff:1:0:0
+India News Haryana
+p:Unknown
+0002:03a80fea:0000:ffff:1:0:0
+India News Rajasthan
+p:Unknown
+0003:03a80fea:0000:ffff:1:0:0
+India News
+p:Unknown
+0006:03a80fea:0000:ffff:1:0:0
+India News Uttar Pradesh
+p:Unknown
+0007:03a80fea:0000:ffff:1:0:0
+India News Madhya Pradesh/Chhattisgarh
+p:Unknown
+0008:03a80fea:0000:ffff:1:0:0
+News X
+p:Unknown
+000e:03a80fea:0000:ffff:1:0:0
+Bharat Update
+p:Unknown
+000f:03a80fea:0000:ffff:1:0:0
+Gulistan News
+p:Unknown
+0012:03a80fea:0000:ffff:1:0:0
+India News Punjab
+p:Unknown
+0013:03a80fea:0000:ffff:1:0:0
+India News Gujarat
+p:Unknown
+0015:03a80fea:0000:ffff:1:0:0
+India News Bangla
+p:Unknown
+0016:03a80fea:0000:ffff:1:0:0
+News X World
+p:Unknown
+0018:03a80fea:0000:ffff:1:0:0
+Janta TV
+p:Unknown
+001d:03a80fea:0000:ffff:1:0:0
+Asian News
+p:Unknown
+0005:03a80ff0:0001:ffff:1:0:0
+DD Sports
+p:Unknown
+0006:03a80ff0:0001:ffff:1:0:0
+DD Sports
+p:Unknown
+0007:03a80ff0:0001:ffff:1:0:0
+DD Kisan
+p:Unknown
+0008:03a80ff0:0001:ffff:1:0:0
+DD Kisan
+p:Unknown
+0009:03a80ff0:0001:ffff:1:0:0
+DD Urdu
+p:Unknown
+0011:03a80ffa:0001:00ab:1:0:0
+DD Madhya Pradesh
+p:Unknown
+0001:03a80ffb:000e:ffff:1:0:0
+CNA Asia
+p:Unknown
+0008:03a80ffb:000e:ffff:1:0:0
+DW English
+p:Unknown
+0009:03a80ffb:000e:ffff:1:0:0
+France 24 English
+p:Unknown
+000c:03a80ffb:000e:ffff:1:0:0
+TV5Monde Asie
+p:Unknown
+000f:03a80ffb:000e:ffff:1:0:0
+Arirang World
+p:Unknown
+001f:03a80ffb:000e:ffff:1:0:0
+EuroNews English
+p:Unknown
+0001:03a81002:071a:0001:1:0:0
+DD Uttar Pradesh
+p:Unknown
+0001:03a81014:0001:ffff:1:0:0
+DD Manipur
+p:Unknown
+0001:03a8101a:0001:ffff:1:0:0
+DD Sikkim
+p:Unknown
+08bb:03a8101d:002a:00a4:1:0:0
+Star Sports 3
+p:Unknown
+08bc:03a8101d:002a:00a4:1:0:0
+Star Sports Select 1
+p:Unknown
+08bd:03a8101d:002a:00a4:1:0:0
+Star Sports Select 1
+p:Unknown
+08be:03a8101d:002a:00a4:1:0:0
+Star Sports Select 2
+p:Unknown
+08bf:03a8101d:002a:00a4:1:0:0
+Star Sports 2 Kannada
+p:Unknown
+08c0:03a8101d:002a:00a4:1:0:0
+Star Sports Select 2
+p:Unknown
+08c1:03a8101d:002a:00a4:1:0:0
+Colors Gujarati
+p:Unknown
+08c2:03a8101d:002a:00a4:1:0:0
+Nickelodeon HD
+p:Unknown
+08c3:03a8101d:002a:00a4:1:0:0
+Star Gold Select
+p:Unknown
+08c4:03a8101d:002a:00a4:1:0:0
+Star Gold Thrills
+p:Unknown
+08c5:03a8101d:002a:00a4:1:0:0
+Star Vijay Takkar
+p:Unknown
+08c6:03a8101d:002a:00a4:1:0:0
+Star Gold 2
+p:Unknown
+08c7:03a8101d:002a:00a4:1:0:0
+Star Maa Movies
+p:Unknown
+08c8:03a8101d:002a:00a4:1:0:0
+Star Movies Select
+p:Unknown
+08c9:03a8101d:002a:00a4:1:0:0
+Star Gold Select
+p:Unknown
+08ca:03a8101d:002a:00a4:1:0:0
+Star Plus Southeast Asia
+p:Unknown
+08cb:03a8101d:002a:00a4:1:0:0
+Colors Bangla
+p:Unknown
+08cc:03a8101d:002a:00a4:1:0:0
+Asianet Movies
+p:Unknown
+0001:03a81036:0001:ffff:1:0:0
+RTA
+p:Unknown
+0002:03a81036:0001:ffff:2:0:0
+Afghanistan National Radio
+p:Unknown
+0001:03a81040:0001:0001:1:0:0
+News Capital Gujarat
+p:Unknown
+0002:03a81040:0001:0001:1:0:0
+India Ahead
+p:Unknown
+0003:03a81040:0001:0001:1:0:0
+Andy Haryana
+p:Unknown
+0004:03a81040:0001:0001:1:0:0
+Power TV
+p:Unknown
+0006:03a81040:0001:0001:1:0:0
+Rashtra TV
+p:Unknown
+0008:03a81040:0001:0001:1:0:0
+Grace TV
+p:Unknown
+0001:03a81050:0002:000a:1:0:0
+Ishwar Bhakti TV
+p:Unknown
+0002:03a81050:0002:000a:1:0:0
+Sadhna News Madhya Pradesh/Chhattisgarh
+p:Unknown
+0003:03a81050:0002:000a:1:0:0
+Living India News
+p:Unknown
+0004:03a81050:0002:000a:1:0:0
+Vip News
+p:Unknown
+0005:03a81050:0002:000a:1:0:0
+World Punjabi
+p:Unknown
+0006:03a81050:0002:000a:1:0:0
+Only Bharat
+p:Unknown
+0007:03a81050:0002:000a:1:0:0
+FM News
+p:Unknown
+0008:03a81050:0002:000a:1:0:0
+Har Khabar
+p:Unknown
+0009:03a81050:0002:000a:1:0:0
+Sadhna Plus News
+p:Unknown
+000a:03a81050:0002:000a:1:0:0
+Bhakti Sagar
+p:Unknown
+000b:03a81050:0002:000a:1:0:0
+BVG
+p:Unknown
+000c:03a81050:0002:000a:1:0:0
+Pratham News
+p:Unknown
+000d:03a81050:0002:000a:1:0:0
+Soham TV
+p:Unknown
+000e:03a81050:0002:000a:1:0:0
+Cee-10
+p:Unknown
+000f:03a81050:0002:000a:1:0:0
+News Hour
+p:Unknown
+0010:03a81050:0002:000a:1:0:0
+KTV Bangla
+p:Unknown
+0011:03a81050:0002:000a:1:0:0
+TV 24
+p:Unknown
+0012:03a81050:0002:000a:1:0:0
+Tele 24 Vision
+p:Unknown
+0013:03a81050:0002:000a:1:0:0
+Lokshahi Marathi
+p:Unknown
+0014:03a81050:0002:000a:1:0:0
+Onkar Only Truth TV
+p:Unknown
+0015:03a81050:0002:000a:1:0:0
+News TV India
+p:Unknown
+0016:03a81050:0002:000a:1:0:0
+Aryan TV National
+p:Unknown
+0017:03a81050:0002:000a:1:0:0
+Tribe Plus
+p:Unknown
+end

@@ -1,0 +1,179 @@
+eDVB services /4/
+transponders
+02fd2add:0006:0001
+	s 10973000:24500000:1:0:765:2:0:1:0:2:2
+/
+02fd2b02:0007:0001
+	s 11010000:30000000:1:0:765:2:0:1:0:2:2
+/
+02fd2b2c:0008:0001
+	s 11052000:30000000:1:0:765:2:0:1:0:2:2
+/
+02fd3106:0001:0001
+	s 12550000:8000000:1:0:765:2:0:1:0:2:2
+/
+02fd311f:000d:ffff
+	s 12575000:1600000:1:0:765:2:0:1:0:2:2
+/
+end
+services
+01fe:02fd2add:0006:0001:1:0:0
+MRTV
+p:SkyNet
+0208:02fd2add:0006:0001:1:0:0
+MWD
+p:SkyNet
+0212:02fd2add:0006:0001:1:0:0
+MRTV News
+p:Unknown
+021c:02fd2add:0006:0001:1:0:0
+Myanmar International TV
+p:Unknown
+0230:02fd2add:0006:0001:1:0:0
+SkyNet Info
+p:SkyNet
+023a:02fd2add:0006:0001:1:0:0
+SkyNet Up to Date
+p:SkyNet
+0258:02fd2add:0006:0001:1:0:0
+SkyNet Cartoon
+p:SkyNet
+026c:02fd2add:0006:0001:1:0:0
+Nick Jr Asia
+p:SkyNet
+0276:02fd2add:0006:0001:1:0:0
+Nickelodeon South East Asia
+p:SkyNet
+0280:02fd2add:0006:0001:1:0:0
+Animax Asia
+p:SkyNet
+028a:02fd2add:0006:0001:1:0:0
+DreamWorks TV Asia
+p:SkyNet
+0302:02fd2add:0006:0001:1:0:0
+AXN East Asia
+p:SkyNet
+030c:02fd2add:0006:0001:1:0:0
+SkyNet Music
+p:SkyNet
+032a:02fd2add:0006:0001:1:0:0
+SkyNet Lifeloom
+p:SkyNet
+0334:02fd2add:0006:0001:1:0:0
+SkyNet Heritage
+p:SkyNet
+035c:02fd2add:0006:0001:1:0:0
+NHK World Premium
+p:SkyNet
+0366:02fd2add:0006:0001:1:0:0
+CGTN Documentary
+p:SkyNet
+0370:02fd2add:0006:0001:1:0:0
+CCTV 4 Asia
+p:SkyNet
+02a8:02fd2b02:0007:0001:1:0:0
+SkyNet World Movies
+p:SkyNet
+02c6:02fd2b02:0007:0001:1:0:0
+Rock Action
+p:SkyNet
+02d0:02fd2b02:0007:0001:1:0:0
+Rock Entertainment
+p:SkyNet
+02f3:02fd2b02:0007:0001:1:0:0
+KTV
+p:SkyNet
+02f8:02fd2b02:0007:0001:1:0:0
+Colors Cineplex
+p:SkyNet
+033e:02fd2b02:0007:0001:1:0:0
+Love Nature
+p:SkyNet
+037a:02fd2b02:0007:0001:1:0:0
+SkyNet Sports 1
+p:SkyNet
+0384:02fd2b02:0007:0001:1:0:0
+SkyNet Sports 2
+p:SkyNet
+038e:02fd2b02:0007:0001:1:0:0
+SkyNet Sports 3
+p:SkyNet
+0398:02fd2b02:0007:0001:1:0:0
+SkyNet Sports X
+p:SkyNet
+03a2:02fd2b02:0007:0001:1:0:0
+Fight Sports
+p:SkyNet
+03c0:02fd2b02:0007:0001:1:0:0
+SkyNet HD Pay Per View 2
+p:SkyNet
+01f4:02fd2b2c:0008:0001:1:0:0
+SkyNet Buddha Channel
+p:Unknown
+0226:02fd2b2c:0008:0001:1:0:0
+MN TV
+p:SkyNet
+0244:02fd2b2c:0008:0001:1:0:0
+Channel 9
+p:SkyNet
+0262:02fd2b2c:0008:0001:1:0:0
+ZooMoo Asia
+p:SkyNet
+0294:02fd2b2c:0008:0001:1:0:0
+SkyNet Myanmar Movies
+p:SkyNet
+029e:02fd2b2c:0008:0001:1:0:0
+SkyNet Asian Movies
+p:SkyNet
+02b2:02fd2b2c:0008:0001:1:0:0
+SkyNet Action Movies
+p:SkyNet
+02bc:02fd2b2c:0008:0001:1:0:0
+SkyNet Movie Collection
+p:SkyNet
+02da:02fd2b2c:0008:0001:1:0:0
+SkyNet International Drama
+p:SkyNet
+02e4:02fd2b2c:0008:0001:1:0:0
+Sky Premier HD
+p:SkyNet
+02ee:02fd2b2c:0008:0001:1:0:0
+Sun TV
+p:SkyNet
+0348:02fd2b2c:0008:0001:1:0:0
+Global Trekker
+p:SkyNet
+0352:02fd2b2c:0008:0001:1:0:0
+History Asia
+p:SkyNet
+03ac:02fd2b2c:0008:0001:1:0:0
+Edge Sport
+p:SkyNet
+03b6:02fd2b2c:0008:0001:1:0:0
+Golf Channel Asia
+p:SkyNet
+03d9:02fd2b2c:0008:0001:2:0:0
+Shwe FM
+p:Unknown
+03de:02fd2b2c:0008:0001:2:0:0
+Shwe FM
+p:Unknown
+03e3:02fd2b2c:0008:0001:2:0:0
+Myanmar International Radio
+p:Unknown
+177a:02fd3106:0001:0001:1:0:0
+Beautiful Life TV
+p:Unknown
+178e:02fd3106:0001:0001:1:0:0
+Hwazan TV
+p:Unknown
+1798:02fd3106:0001:0001:1:0:0
+Wei Xin TV
+p:Unknown
+17a2:02fd3106:0001:0001:1:0:0
+World TV
+p:Unknown
+0082:02fd311f:000d:ffff:1:0:0
+Supreme Master TV
+p:Unknown
+end

@@ -1,0 +1,3881 @@
+eDVB services /4/
+transponders
+01682b61:0001:0001
+	s 11105000:3333000:1:0:360:2:0:1:0:2:2
+/
+01682bd5:0037:0001
+	s 11221000:30000000:0:0:360:2:0:1:0:2:2
+/
+01682bd5:0015:005b
+	s 11221000:30000000:1:0:360:2:0:1:0:2:2
+/
+01682bff:0016:005b
+	s 11263000:30000000:1:0:360:2:0:1:0:2:2
+/
+01682c28:0017:005b
+	s 11304000:30000000:1:0:360:2:0:1:0:2:2
+/
+01682c52:00f5:0001
+	s 11346000:30000000:0:0:360:2:0:1:0:2:2
+/
+01682c52:0018:005b
+	s 11346000:30000000:1:0:360:2:0:1:0:2:2
+/
+01682c7c:0019:005b
+	s 11388000:30000000:1:0:360:2:0:1:0:2:2
+/
+01682ca5:001a:005b
+	s 11429000:30000000:1:0:360:2:0:1:0:2:2
+/
+01682cc6:0001:0001
+	s 11462000:3220000:1:0:360:2:0:1:0:2:2
+/
+01682cd1:000c:ffff
+	s 11473000:1750000:1:0:360:2:0:1:0:2:2
+/
+01682cf4:0001:ffff
+	s 11508000:2800000:1:0:360:2:0:1:0:2:2
+/
+01682d16:0001:0539
+	s 11542000:6582000:1:0:360:2:0:1:0:2:2
+/
+01682d43:0001:0001
+	s 11587000:2170000:0:0:360:2:0:1:0:2:2
+/
+01682d49:0001:ffff
+	s 11593000:2500000:1:0:360:2:0:1:0:2:2
+/
+01682d4f:0001:0001
+	s 11599000:1750000:0:0:360:2:0:1:0:2:2
+/
+01682dcf:0ea1:036f
+	s 11727000:27500000:1:0:360:2:0:1:0:2:2
+/
+01682de3:0002:00fd
+	s 11747000:27500000:3:0:360:2:0:1:0:2:2
+/
+01682de3:0ea2:036f
+	s 11747000:27500000:0:0:360:2:0:1:0:2:2
+/
+01682df6:0003:00fd
+	s 11766000:27500000:2:0:360:2:0:1:0:2:2
+/
+01682e09:000d:0070
+	s 11785000:27500000:3:0:360:2:0:1:0:2:2
+/
+01682e2f:000e:0070
+	s 11823000:27500000:3:0:360:2:0:1:0:2:2
+/
+01682e43:0007:00fd
+	s 11843000:27500000:2:0:360:2:0:1:0:2:2
+/
+01682e56:0002:0070
+	s 11862000:27500000:3:0:360:2:0:1:0:2:2
+/
+01682e7c:0013:0070
+	s 11900000:27500000:3:0:360:2:0:1:0:2:2
+/
+01682ea2:0011:0070
+	s 11938000:27500000:3:0:360:2:0:1:0:2:2
+/
+01682ec9:0012:0070
+	s 11977000:27500000:3:0:360:2:0:1:0:2:2
+/
+01682edc:ffa1:036e
+	s 11996000:27500000:1:0:360:2:0:1:0:2:2
+/
+01682edc:000f:00fd
+	s 11996000:27500000:2:0:360:2:0:1:0:2:2
+/
+01682eef:0016:0070
+	s 12015000:27500000:3:0:360:2:0:1:0:2:2
+/
+01682f02:ffa2:036e
+	s 12034000:27500000:1:0:360:2:0:1:0:2:2
+/
+01682f02:0011:00fd
+	s 12034000:27500000:2:0:360:2:0:1:0:2:2
+/
+01682f29:ffa3:036e
+	s 12073000:27500000:1:0:360:2:0:1:0:2:2
+/
+01682f29:0013:00fd
+	s 12073000:27500000:2:0:360:2:0:1:0:2:2
+/
+01682f3c:ff98:036e
+	s 12092000:27500000:0:0:360:2:0:1:0:2:2
+/
+01682f4f:0015:00fd
+	s 12111000:27500000:2:0:360:2:0:1:0:2:2
+/
+01682f62:ff94:036e
+	s 12130000:27500000:0:0:360:2:0:1:0:2:2
+/
+01682f75:0017:00fd
+	s 12149000:27500000:2:0:360:2:0:1:0:2:2
+/
+01682f89:ff95:036e
+	s 12169000:27500000:0:0:360:2:0:1:0:2:2
+/
+01682f8e:0001:0001
+	s 12174000:4340000:2:0:360:2:0:0:0:2:2
+/
+01682f9e:0019:00fd
+	s 12190000:22500000:2:0:360:2:0:1:0:2:2
+/
+01682faf:ff91:036e
+	s 12207000:27500000:0:0:360:2:0:0:0:2:2
+/
+01682faf:0000:0000
+	s 12207000:27500000:3:0:360:2:0:1:0:2:2
+/
+01682fc2:001b:00fd
+	s 12226000:27500000:2:0:360:2:0:0:0:2:2
+/
+01682fe9:ff82:036e
+	s 12265000:27500000:1:0:360:2:0:1:0:2:2
+/
+01682fe9:000a:0070
+	s 12265000:27500000:2:0:360:2:0:0:0:2:2
+/
+01682ffc:ff96:036e
+	s 12284000:27500000:0:0:360:2:0:1:0:2:2
+/
+01682ffc:0008:0070
+	s 12284000:27500000:3:0:360:2:0:1:0:2:2
+/
+0168300f:ff8c:036e
+	s 12303000:27500000:1:0:360:2:0:1:0:2:2
+/
+0168300f:001f:00fd
+	s 12303000:27500000:2:0:360:2:0:1:0:2:2
+/
+01683022:0001:0070
+	s 12322000:27500000:3:0:360:2:0:1:0:2:2
+/
+01683035:ff99:036e
+	s 12341000:27500000:1:0:360:2:0:1:0:2:2
+/
+01683035:000b:0070
+	s 12341000:27500000:2:0:360:2:0:0:0:2:2
+/
+01683048:ff93:036e
+	s 12360000:27500000:0:0:360:2:0:1:0:2:2
+/
+01683048:0022:00fd
+	s 12360000:27500000:3:0:360:2:0:1:0:2:2
+/
+0168305c:ffa0:036e
+	s 12380000:27500000:1:0:360:2:0:1:0:2:2
+/
+0168305c:0000:0000
+	s 12380000:27500000:2:0:360:2:0:1:0:2:2
+/
+0168306f:ff92:036e
+	s 12399000:27500000:0:0:360:2:0:1:0:2:2
+/
+0168306f:000c:0070
+	s 12399000:27500000:3:0:360:2:0:1:0:2:2
+/
+01683082:0000:0000
+	s 12418000:27500000:1:0:360:2:0:1:0:2:2
+/
+01683082:0025:00fd
+	s 12418000:27500000:2:0:360:2:0:1:0:2:2
+/
+01683095:ffdf:036e
+	s 12437000:27500000:0:0:360:2:0:1:0:2:2
+/
+01683095:0004:0070
+	s 12437000:27500000:3:0:360:2:0:1:0:2:2
+/
+016830a8:0027:00fd
+	s 12456000:27500000:2:0:360:2:0:1:0:2:2
+/
+016830bc:ffdd:036e
+	s 12476000:27500000:0:0:360:2:0:1:0:2:2
+/
+016830bc:0028:00fd
+	s 12476000:27500000:3:0:360:2:0:1:0:2:2
+/
+01683161:0001:0001
+	s 12641000:1880000:0:0:360:2:0:1:0:2:2
+/
+end
+services
+0001:01682b61:0001:0001:1:0:0
+Al Rasheed TV
+p:Unknown
+03e9:01682bd5:0037:0001:1:0:0
+FX CIS
+p:Unknown
+03ea:01682bd5:0037:0001:1:0:0
+FX CIS
+p:Unknown
+03eb:01682bd5:0037:0001:1:0:0
+FX Life CIS
+p:Unknown
+03ec:01682bd5:0037:0001:1:0:0
+FX Life CIS
+p:Unknown
+03ed:01682bd5:0037:0001:1:0:0
+National Geographic CIS
+p:Unknown
+03ee:01682bd5:0037:0001:1:0:0
+National Geographic CIS
+p:Unknown
+03ef:01682bd5:0037:0001:1:0:0
+National Geographic Wild CIS
+p:Unknown
+03f0:01682bd5:0037:0001:1:0:0
+National Geographic Wild CIS
+p:Unknown
+12c3:01682bd5:0037:0001:1:0:0
+1 TV
+p:Unknown
+0835:01682bd5:0015:005b:1:0:0
+TVCine Action
+p:Zap
+0836:01682bd5:0015:005b:1:0:0
+TVCine Edition
+p:Zap
+0837:01682bd5:0015:005b:1:0:0
+TVCine Emotion
+p:Zap
+0838:01682bd5:0015:005b:1:0:0
+CCTV 4 Europe
+p:Zap
+0839:01682bd5:0015:005b:1:0:0
+Zap Novelas
+p:Zap
+083a:01682bd5:0015:005b:1:0:0
+FightBox HD
+p:Zap
+083b:01682bd5:0015:005b:1:0:0
+RTP Mundo
+p:Zap
+083c:01682bd5:0015:005b:1:0:0
+SIC Radical
+p:Zap
+083d:01682bd5:0015:005b:1:0:0
+Cartoon TV (2)
+p:Zap
+083e:01682bd5:0015:005b:1:0:0
+TV África
+p:Zap
+083f:01682bd5:0015:005b:1:0:0
+ESR 24x7
+p:Zap
+0840:01682bd5:0015:005b:1:0:0
+Canal 11
+p:Zap
+0841:01682bd5:0015:005b:1:0:0
+Panda Kids
+p:Zap
+0842:01682bd5:0015:005b:1:0:0
+Bloomberg TV Africa
+p:Zap
+0843:01682bd5:0015:005b:1:0:0
+BBC News Africa
+p:Zap
+0844:01682bd5:0015:005b:1:0:0
+Disney Jr Portugal
+p:Zap
+0845:01682bd5:0015:005b:1:0:0
+Trace Brasil
+p:Zap
+0846:01682bd5:0015:005b:1:0:0
+FashionBox HD
+p:Zap
+0847:01682bd5:0015:005b:1:0:0
+Fast & FunBox HD
+p:Zap
+0848:01682bd5:0015:005b:1:0:0
+FilmBox+ Festival Africa & Turkey & Middle East
+p:Zap
+0849:01682bd5:0015:005b:1:0:0
+STV Noticias
+p:Zap
+084b:01682bd5:0015:005b:1:0:0
+V+ TVI
+p:Zap
+084d:01682bd5:0015:005b:1:0:0
+TVCine Top
+p:Zap
+084f:01682bd5:0015:005b:1:0:0
+Stingray IConcerts
+p:Zap
+0899:01682bff:0016:005b:1:0:0
+Food Network EMEA
+p:Zap
+089a:01682bff:0016:005b:1:0:0
+Canal Panda
+p:Zap
+089b:01682bff:0016:005b:1:0:0
+Vin TV
+p:Zap
+089c:01682bff:0016:005b:1:0:0
+Afro Music Channel
+p:Zap
+089d:01682bff:0016:005b:1:0:0
+Globo On
+p:Zap
+089e:01682bff:0016:005b:1:0:0
+Baby TV Europe
+p:Zap
+089f:01682bff:0016:005b:1:0:0
+Dizi
+p:Zap
+08a0:01682bff:0016:005b:1:0:0
+DocuBox HD
+p:Zap
+08a2:01682bff:0016:005b:1:0:0
+Soico TV
+p:Zap
+08a3:01682bff:0016:005b:1:0:0
+Z Sports 1
+p:Zap
+08a4:01682bff:0016:005b:1:0:0
+TVI Internacional
+p:Zap
+08a6:01682bff:0016:005b:1:0:0
+ESPN Africa
+p:Zap
+08a7:01682bff:0016:005b:1:0:0
+Star Movies Portugal
+p:Zap
+08a8:01682bff:0016:005b:1:0:0
+Star Comedy Portugal
+p:Zap
+08aa:01682bff:0016:005b:1:0:0
+Aljazeera Channel
+p:Zap
+08ab:01682bff:0016:005b:1:0:0
+AMC Break Portugal
+p:Zap
+08ac:01682bff:0016:005b:1:0:0
+História Portugal
+p:Zap
+08ad:01682bff:0016:005b:1:0:0
+Big Brother Brasil 1
+p:Zap
+08ae:01682bff:0016:005b:1:0:0
+Big Brother Brasil 2
+p:Zap
+08af:01682bff:0016:005b:1:0:0
+Tropicana
+p:Zap
+08b0:01682bff:0016:005b:1:0:0
+Black Music TV
+p:Zap
+08b1:01682bff:0016:005b:1:0:0
+TVE Internacional Europa
+p:Zap
+08b2:01682bff:0016:005b:1:0:0
+Luxe TV
+p:Zap
+08b4:01682bff:0016:005b:1:0:0
+Fight Sports
+p:Zap
+08b6:01682bff:0016:005b:1:0:0
+NBA TV Africa
+p:Zap
+08b8:01682bff:0016:005b:1:0:0
+Odisseia
+p:Zap
+09c5:01682c28:0017:005b:1:0:0
+Discovery Channel Africa
+p:Zap
+09c6:01682c28:0017:005b:1:0:0
+Histoire TV
+p:Zap
+09c7:01682c28:0017:005b:1:0:0
+LCI
+p:Zap
+09c8:01682c28:0017:005b:1:0:0
+Globo África
+p:Zap
+09ca:01682c28:0017:005b:1:0:0
+France 2
+p:Zap
+09cb:01682c28:0017:005b:1:0:0
+France 3
+p:Zap
+09cc:01682c28:0017:005b:1:0:0
+France 5
+p:Zap
+09ce:01682c28:0017:005b:1:0:0
+Motorvision+
+p:Zap
+09cf:01682c28:0017:005b:1:0:0
+A Bola TV
+p:Zap
+09d1:01682c28:0017:005b:1:0:0
+SIC K
+p:Zap
+09d2:01682c28:0017:005b:1:0:0
+STV Noticias
+p:Zap
+09d3:01682c28:0017:005b:1:0:0
+EuroNews Português
+p:Zap
+09d5:01682c28:0017:005b:1:0:0
+Sport TV África
+p:Zap
+09d6:01682c28:0017:005b:1:0:0
+Canal Blast
+p:Zap
+09d7:01682c28:0017:005b:1:0:0
+Star Channel Portugal
+p:Zap
+09d8:01682c28:0017:005b:1:0:0
+Benfica TV
+p:Zap
+09d9:01682c28:0017:005b:1:0:0
+Be Kuduro
+p:Zap
+09da:01682c28:0017:005b:1:0:0
+Globo On
+p:Zap
+09db:01682c28:0017:005b:1:0:0
+CM TV
+p:Zap
+09dc:01682c28:0017:005b:1:0:0
+Colors Cineplex
+p:Zap
+09ec:01682c28:0017:005b:2:0:0
+Zap Rock
+p:Zap
+09ed:01682c28:0017:005b:2:0:0
+Zap Trance
+p:Zap
+09ee:01682c28:0017:005b:2:0:0
+Zap Reggae
+p:Zap
+09ef:01682c28:0017:005b:2:0:0
+Zap 80's
+p:Zap
+09f0:01682c28:0017:005b:2:0:0
+Zap 90's
+p:Zap
+09f1:01682c28:0017:005b:2:0:0
+Zap Dance Clubbin
+p:Zap
+09f2:01682c28:0017:005b:2:0:0
+Zap Hip Hop
+p:Zap
+09f3:01682c28:0017:005b:2:0:0
+Zap Pop
+p:Zap
+09f4:01682c28:0017:005b:2:0:0
+Zap Greatest Hits
+p:Zap
+09f5:01682c28:0017:005b:2:0:0
+Zap Afro Beat
+p:Zap
+09f6:01682c28:0017:005b:2:0:0
+Zap Blues
+p:Zap
+09f7:01682c28:0017:005b:2:0:0
+Zap Jazz
+p:Zap
+09f8:01682c28:0017:005b:2:0:0
+Zap Easy Listening
+p:Zap
+09f9:01682c28:0017:005b:2:0:0
+Zap The Chill Lounge
+p:Zap
+09fa:01682c28:0017:005b:2:0:0
+Zap Classic Music
+p:Zap
+0065:01682c52:00f5:0001:1:0:0
+Baby TV Europe
+p:Unknown
+0067:01682c52:00f5:0001:1:0:0
+FX Greece
+p:Unknown
+0068:01682c52:00f5:0001:1:0:0
+FX Life Greece
+p:Unknown
+0069:01682c52:00f5:0001:1:0:0
+National Geographic Ellada
+p:Unknown
+006a:01682c52:00f5:0001:1:0:0
+Disney Jr Romania & Bulgaria
+p:Unknown
+006b:01682c52:00f5:0001:1:0:0
+Disney Channel Middle East
+p:Unknown
+0072:01682c52:00f5:0001:1:0:0
+Star Movies Slovenija
+p:Unknown
+0073:01682c52:00f5:0001:1:0:0
+Star Channel Adria
+p:Unknown
+0074:01682c52:00f5:0001:1:0:0
+Star Life Adria
+p:Unknown
+0075:01682c52:00f5:0001:1:0:0
+Star Crime Adria
+p:Unknown
+0076:01682c52:00f5:0001:1:0:0
+National Geographic Adria
+p:Unknown
+0077:01682c52:00f5:0001:1:0:0
+24 Kitchen Adria
+p:Unknown
+0078:01682c52:00f5:0001:1:0:0
+God Stands TV English
+p:Unknown
+08fd:01682c52:0018:005b:1:0:0
+SIC Mulher África
+p:Zap
+08fe:01682c52:0018:005b:1:0:0
+SBT Internacional America
+p:Zap
+08ff:01682c52:0018:005b:1:0:0
+24 Kitchen Portugal
+p:Zap
+0900:01682c52:0018:005b:1:0:0
+Trace Kitoko
+p:Zap
+0901:01682c52:0018:005b:1:0:0
+Nickelodeon Portugal
+p:Zap
+0902:01682c52:0018:005b:1:0:0
+RTP África
+p:Zap
+0903:01682c52:0018:005b:1:0:0
+RTP Notícias
+p:Zap
+0904:01682c52:0018:005b:1:0:0
+CNN Portugal
+p:Zap
+0905:01682c52:0018:005b:1:0:0
+Colors
+p:Zap
+0906:01682c52:0018:005b:1:0:0
+Kix Africa
+p:Zap
+0907:01682c52:0018:005b:1:0:0
+TVCine Power
+p:Zap
+0908:01682c52:0018:005b:1:0:0
+My Music Channel
+p:Zap
+0909:01682c52:0018:005b:1:0:0
+MCM Top
+p:Zap
+090a:01682c52:0018:005b:1:0:0
+TV Muniga
+p:Zap
+090b:01682c52:0018:005b:1:0:0
+Africanews English
+p:Zap
+090d:01682c52:0018:005b:1:0:0
+Cubavisión Internacional
+p:Zap
+090e:01682c52:0018:005b:1:0:0
+Sporting TV
+p:Zap
+090f:01682c52:0018:005b:1:0:0
+Z Sports LaLiga
+p:Zap
+0910:01682c52:0018:005b:1:0:0
+Star Life Portugal
+p:Zap
+0911:01682c52:0018:005b:1:0:0
+France 24 Français
+p:Zap
+0912:01682c52:0018:005b:1:0:0
+Zap Programaçao
+p:Zap
+0913:01682c52:0018:005b:1:0:0
+360 Tune Box
+p:Zap
+0914:01682c52:0018:005b:1:0:0
+Sport TV África
+p:Zap
+0961:01682c7c:0019:005b:1:0:0
+RTNC
+p:Zap
+0962:01682c7c:0019:005b:1:0:0
+AXN Movies
+p:Zap
+0963:01682c7c:0019:005b:1:0:0
+TLN Network
+p:Zap
+0965:01682c7c:0019:005b:1:0:0
+Canal Hollywood Portugal
+p:Zap
+0966:01682c7c:0019:005b:1:0:0
+Travel Channel Europe
+p:Zap
+0967:01682c7c:0019:005b:1:0:0
+Tiji
+p:Zap
+0968:01682c7c:0019:005b:1:0:0
+Digital Congo TV
+p:Zap
+0969:01682c7c:0019:005b:1:0:0
+Zap Novelas
+p:Zap
+096a:01682c7c:0019:005b:1:0:0
+Télé 50
+p:Zap
+096b:01682c7c:0019:005b:1:0:0
+Disney Channel Portugal
+p:Zap
+096c:01682c7c:0019:005b:1:0:0
+National Geographic Wild South Africa
+p:Zap
+096d:01682c7c:0019:005b:1:0:0
+Rai Italia Africa
+p:Zap
+096e:01682c7c:0019:005b:1:0:0
+Aljazeera English
+p:Zap
+096f:01682c7c:0019:005b:1:0:0
+AXN Dublado
+p:Zap
+0970:01682c7c:0019:005b:1:0:0
+Star Crime Portugal
+p:Zap
+0971:01682c7c:0019:005b:1:0:0
+Porto Canal
+p:Zap
+0972:01682c7c:0019:005b:1:0:0
+ESPN 2 Africa
+p:Zap
+0973:01682c7c:0019:005b:1:0:0
++Hits Africa
+p:Zap
+0974:01682c7c:0019:005b:1:0:0
+Canal Blast
+p:Zap
+0975:01682c7c:0019:005b:1:0:0
+National Geographic Portugal
+p:Zap
+0976:01682c7c:0019:005b:1:0:0
+Bom Som Channel
+p:Zap
+0977:01682c7c:0019:005b:1:0:0
+AXN Portugal
+p:Zap
+0978:01682c7c:0019:005b:1:0:0
+Z Sports 2
+p:Zap
+097a:01682c7c:0019:005b:1:0:0
+W-Sport
+p:Zap
+044d:01682ca5:001a:005b:1:0:0
+Canal Programação
+p:Unknown
+044e:01682ca5:001a:005b:1:0:0
+TPA 1
+p:Zap
+044f:01682ca5:001a:005b:1:0:0
+TPA 2
+p:Zap
+0450:01682ca5:001a:005b:1:0:0
+TV Zimbo
+p:Zap
+0452:01682ca5:001a:005b:1:0:0
+Gloom Channel
+p:Zap
+0453:01682ca5:001a:005b:1:0:0
+TV Zimbo
+p:Zap
+0454:01682ca5:001a:005b:1:0:0
+Girassol TV
+p:Zap
+0455:01682ca5:001a:005b:1:0:0
+TVM
+p:Zap
+0456:01682ca5:001a:005b:1:0:0
+Kanuca TV
+p:Zap
+0457:01682ca5:001a:005b:1:0:0
+Mega TV
+p:Zap
+0458:01682ca5:001a:005b:1:0:0
+TV Sucesso
+p:Zap
+045f:01682ca5:001a:005b:1:0:0
+TV Parlamento
+p:Zap
+0460:01682ca5:001a:005b:1:0:0
+TVCine Action
+p:Zap
+0461:01682ca5:001a:005b:1:0:0
+TVCine Power
+p:Zap
+0462:01682ca5:001a:005b:1:0:0
+TVM Internacional
+p:Zap
+0463:01682ca5:001a:005b:1:0:0
+Zap Viva
+p:Zap
+0464:01682ca5:001a:005b:1:0:0
+Zap Viva
+p:Zap
+0465:01682ca5:001a:005b:1:0:0
+TVCine Emotion
+p:Zap
+0466:01682ca5:001a:005b:1:0:0
+TPA 1
+p:Zap
+0467:01682ca5:001a:005b:1:0:0
+TVCine Top
+p:Zap
+0468:01682ca5:001a:005b:1:0:0
+TVCine Edition
+p:Zap
+0469:01682ca5:001a:005b:1:0:0
+TPA 2
+p:Zap
+046a:01682ca5:001a:005b:1:0:0
+Girassol TV
+p:Zap
+046c:01682ca5:001a:005b:1:0:0
+TPA Notícias
+p:Zap
+0472:01682ca5:001a:005b:1:0:0
+TVM Telescola
+p:Zap
+0476:01682ca5:001a:005b:1:0:0
+TPA Notícias
+p:Zap
+047a:01682ca5:001a:005b:1:0:0
+Arena X
+p:Zap
+047e:01682ca5:001a:005b:1:0:0
+TVM
+p:Zap
+0459:01682ca5:001a:005b:2:0:0
+Rádio Mais
+p:Zap
+045a:01682ca5:001a:005b:2:0:0
+Rádio Cazenga
+p:Zap
+045b:01682ca5:001a:005b:2:0:0
+Rádio Luanda
+p:Zap
+045c:01682ca5:001a:005b:2:0:0
+Rádio Ecclesia
+p:Zap
+045d:01682ca5:001a:005b:2:0:0
+Rádio Cultura Angola
+p:Zap
+045e:01682ca5:001a:005b:2:0:0
+Rádio MFM
+p:Zap
+046b:01682ca5:001a:005b:2:0:0
+Girassol FM
+p:Zap
+046d:01682ca5:001a:005b:2:0:0
+Luanda Antena Comercial
+p:Zap
+046e:01682ca5:001a:005b:2:0:0
+Rádio 5
+p:Zap
+046f:01682ca5:001a:005b:2:0:0
+Canal A
+p:Zap
+0470:01682ca5:001a:005b:2:0:0
+Rádio Viana
+p:Zap
+0471:01682ca5:001a:005b:2:0:0
+Rádio Escola
+p:Zap
+0473:01682ca5:001a:005b:2:0:0
+Rádio Indico
+p:Zap
+0474:01682ca5:001a:005b:2:0:0
+Super FM
+p:Zap
+0475:01682ca5:001a:005b:2:0:0
+Antena Nacional
+p:Zap
+0477:01682ca5:001a:005b:2:0:0
+Ngola Yetu
+p:Zap
+0479:01682ca5:001a:005b:2:0:0
+Rádio X
+p:Zap
+0478:01682ca5:001a:005b:2:0:0
+AfriRádio
+p:Zap
+03e8:01682cc6:0001:0001:1:0:0
+Rûdaw
+p:Unknown
+0001:01682cd1:000c:ffff:1:0:0
+Nûçe TV
+p:Unknown
+0001:01682cf4:0001:ffff:1:0:0
+Iraq Alhadath
+p:Unknown
+0001:01682d16:0001:0539:1:0:0
+Karbala TV
+p:Unknown
+0002:01682d16:0001:0539:1:0:0
+Quran TV
+p:Unknown
+0005:01682d16:0001:0539:1:0:0
+Karbala Documentary
+p:Unknown
+0004:01682d16:0001:0539:2:0:0
+Holy Rawda Al-Husseiniya Radio
+p:Unknown
+0101:01682d43:0001:0001:1:0:0
+Anbar TV Channel
+p:Unknown
+0001:01682d49:0001:ffff:1:0:0
+Iraq 24
+p:Unknown
+0001:01682d4f:0001:0001:1:0:0
+Alyaum TV
+p:Unknown
+0002:01682dcf:0ea1:036f:1:0:0
+Limelight
+p:Unknown
+0015:01682dcf:0ea1:036f:1:0:0
+EMCI TV Afrique
+p:Unknown
+0016:01682dcf:0ea1:036f:1:0:0
+Dieu TV
+p:Unknown
+07d2:01682de3:0002:00fd:1:0:0
+V Gostyakh u Skazki
+p:Trikolor Centr
+07d4:01682de3:0002:00fd:1:0:0
+English Class
+p:Trikolor Centr
+07d6:01682de3:0002:00fd:1:0:0
+Subbota!
+p:Trikolor Centr
+07d8:01682de3:0002:00fd:1:0:0
+Dorama
+p:Trikolor Centr
+07d9:01682de3:0002:00fd:1:0:0
+Anekdot TV
+p:Trikolor Centr
+07da:01682de3:0002:00fd:1:0:0
+Bridge Shlyager
+p:Trikolor Centr
+07db:01682de3:0002:00fd:1:0:0
+Zal Suda
+p:Trikolor Centr
+07dc:01682de3:0002:00fd:1:0:0
+Lavstori
+p:Trikolor Centr
+07dd:01682de3:0002:00fd:1:0:0
+Khokkey TV
+p:Trikolor Centr
+07de:01682de3:0002:00fd:1:0:0
+TV Sport
+p:Trikolor Centr
+07df:01682de3:0002:00fd:1:0:0
+Myach
+p:Trikolor Centr
+07e1:01682de3:0002:00fd:1:0:0
+Start Air
+p:Trikolor Centr
+07e2:01682de3:0002:00fd:1:0:0
+Start World
+p:Trikolor Centr
+07e3:01682de3:0002:00fd:1:0:0
+Kriminalnoe
+p:Trikolor Centr
+07e4:01682de3:0002:00fd:1:0:0
+Kinozal Zhizn v derevne
+p:Trikolor Centr
+0002:01682de3:0ea2:036f:1:0:0
+JW Broadcasting
+p:Unknown
+0003:01682de3:0ea2:036f:1:0:0
+JW Broadcasting
+p:Unknown
+0008:01682de3:0ea2:036f:1:0:0
+Impact TV
+p:Unknown
+0009:01682de3:0ea2:036f:1:0:0
+Sen TV
+p:Unknown
+000b:01682de3:0ea2:036f:1:0:0
+Canal 2 International
+p:Unknown
+000a:01682de3:0ea2:036f:2:0:0
+Zik FM
+p:Unknown
+0bb9:01682df6:0003:00fd:1:0:0
+Russkij Extrem HD Rex
+p:Trikolor Centr
+0bba:01682df6:0003:00fd:1:0:0
+Shokiruyuschee
+p:Trikolor Centr
+0bbb:01682df6:0003:00fd:1:0:0
+Komediynoe
+p:Trikolor Centr
+0bbc:01682df6:0003:00fd:1:0:0
+Food Time
+p:Trikolor Centr
+0bbe:01682df6:0003:00fd:1:0:0
+Den Pobedy
+p:Trikolor Centr
+0bbf:01682df6:0003:00fd:1:0:0
+Lyubimoe
+p:Trikolor Centr
+0bc0:01682df6:0003:00fd:1:0:0
+Travel + Adventure
+p:Trikolor Centr
+0bc1:01682df6:0003:00fd:1:0:0
+Sovetskaya Kinoklassika
+p:Trikolor Centr
+0bc2:01682df6:0003:00fd:1:0:0
+Fashion & Lifestyle
+p:Trikolor Centr
+0bc3:01682df6:0003:00fd:1:0:0
+Classic Music
+p:Trikolor Centr
+0515:01682e09:000d:0070:1:0:0
+Match! Arena
+p:NTV Plus
+0516:01682e09:000d:0070:1:0:0
+Match! Boets
+p:NTV Plus
+0517:01682e09:000d:0070:1:0:0
+Match! Igra
+p:NTV Plus
+0518:01682e09:000d:0070:1:0:0
+Match! Strana
+p:NTV Plus
+0519:01682e09:000d:0070:1:0:0
+Match! Futbol 1
+p:NTV Plus
+051a:01682e09:000d:0070:1:0:0
+Match! Futbol 2
+p:NTV Plus
+051b:01682e09:000d:0070:1:0:0
+Match! Futbol 3
+p:NTV Plus
+051c:01682e09:000d:0070:1:0:0
+TV Bolt
+p:NTV Plus
+051d:01682e09:000d:0070:1:0:0
+Kids TV
+p:NTV Plus
+051e:01682e09:000d:0070:1:0:0
+NTV Pravo
+p:NTV Plus
+0520:01682e09:000d:0070:1:0:0
+Star Cinema
+p:NTV Plus
+0521:01682e09:000d:0070:1:0:0
+Star Family
+p:NTV Plus
+0522:01682e09:000d:0070:1:0:0
+Match Premier
+p:NTV Plus
+0523:01682e09:000d:0070:1:0:0
+NTV Serial
+p:NTV Plus
+0524:01682e09:000d:0070:1:0:0
+Udar
+p:NTV Plus
+0525:01682e09:000d:0070:1:0:0
+RBK TV
+p:NTV Plus
+0526:01682e09:000d:0070:1:0:0
+KHL
+p:NTV Plus
+0528:01682e09:000d:0070:1:0:0
+Boks TV
+p:NTV Plus
+052a:01682e09:000d:0070:1:0:0
+NTV Stil
+p:NTV Plus
+052b:01682e09:000d:0070:1:0:0
+Telekanal Voleybol
+p:NTV Plus
+052c:01682e09:000d:0070:1:0:0
+Fon Music
+p:NTV Plus
+052d:01682e09:000d:0070:1:0:0
+MMA-TV.com
+p:NTV Plus
+052e:01682e09:000d:0070:1:0:0
+Mir Basketbola
+p:NTV Plus
+052f:01682e09:000d:0070:1:0:0
+The Explorers
+p:NTV Plus
+0530:01682e09:000d:0070:1:0:0
+Avto 24
+p:NTV Plus
+0531:01682e09:000d:0070:1:0:0
+Exxxotica
+p:NTV Plus
+0532:01682e09:000d:0070:1:0:0
+Radost Moya
+p:NTV Plus
+0533:01682e09:000d:0070:1:0:0
+NTV Hit
+p:NTV Plus
+0534:01682e09:000d:0070:1:0:0
+F
+p:NTV Plus
+0579:01682e2f:000e:0070:1:0:0
+Match! Futbol 2
+p:NTV Plus
+057a:01682e2f:000e:0070:1:0:0
+Match! Futbol 3
+p:NTV Plus
+057b:01682e2f:000e:0070:1:0:0
+Match Premier
+p:NTV Plus
+057e:01682e2f:000e:0070:1:0:0
+Detski Mir
+p:NTV Plus
+057f:01682e2f:000e:0070:1:0:0
+Match! Boets
+p:NTV Plus
+3719:01682e2f:000e:0070:1:0:0
+Match! Futbol 1
+p:NTV Plus
+1b59:01682e43:0007:00fd:1:0:0
+Nash Kinopokaz
+p:Trikolor Centr
+1b5a:01682e43:0007:00fd:1:0:0
+Blokbaster
+p:Trikolor Centr
+1b5b:01682e43:0007:00fd:1:0:0
+Nashe Muzhskoe
+p:Trikolor Centr
+1b5c:01682e43:0007:00fd:1:0:0
+Hit
+p:Trikolor Centr
+1b5d:01682e43:0007:00fd:1:0:0
+Pro Lyubov
+p:Trikolor Centr
+1b5e:01682e43:0007:00fd:1:0:0
+Kamedi
+p:Trikolor Centr
+1b5f:01682e43:0007:00fd:1:0:0
+Bolshoy Efir
+p:Trikolor Centr
+1b60:01682e43:0007:00fd:1:0:0
+Bridge Classic
+p:Trikolor Centr
+1b61:01682e43:0007:00fd:1:0:0
+RGVK Dagestan
+p:Trikolor Centr
+1b62:01682e43:0007:00fd:1:0:0
+Arkhyz 24
+p:Trikolor Centr
+1b63:01682e43:0007:00fd:1:0:0
+Magas
+p:Trikolor Centr
+1b66:01682e43:0007:00fd:1:0:0
+Kinozal Aviakatastrofy
+p:Trikolor Centr
+6155:01682e43:0007:00fd:1:0:0
+Telekanal O!
+p:Trikolor Centr
+6156:01682e43:0007:00fd:1:0:0
+Poehali!
+p:Trikolor Centr
+6915:01682e43:0007:00fd:1:0:0
+Ekran 1 Kinozal
+p:Trikolor Centr
+6916:01682e43:0007:00fd:1:0:0
+Ekran 2 Kinozal
+p:Trikolor Centr
+6917:01682e43:0007:00fd:1:0:0
+Ekran 3 Kinozal
+p:Trikolor Centr
+6918:01682e43:0007:00fd:1:0:0
+Ekran 4 Kinozal
+p:Trikolor Centr
+6919:01682e43:0007:00fd:1:0:0
+Ekran 5 Kinozal
+p:Trikolor Centr
+691a:01682e43:0007:00fd:1:0:0
+Ekran 6 Kinozal
+p:Trikolor Centr
+691b:01682e43:0007:00fd:1:0:0
+Ekran 7 Kinozal
+p:Trikolor Centr
+691c:01682e43:0007:00fd:1:0:0
+Ekran 8 Kinozal
+p:Trikolor Centr
+00c9:01682e56:0002:0070:1:0:0
+Dom Kino Premium
+p:NTV Plus
+00ca:01682e56:0002:0070:1:0:0
+Big Planet
+p:NTV Plus
+00cb:01682e56:0002:0070:1:0:0
+Amedia Premium
+p:NTV Plus
+00cc:01682e56:0002:0070:1:0:0
+Mir Seriala
+p:NTV Plus
+00cd:01682e56:0002:0070:1:0:0
+Lubimoe Kino
+p:NTV Plus
+00ce:01682e56:0002:0070:1:0:0
+Bridge Deluxe
+p:NTV Plus
+00cf:01682e56:0002:0070:1:0:0
+Bollywood TV Rossiya
+p:NTV Plus
+00d0:01682e56:0002:0070:1:0:0
+V Gostyakh u Skazki
+p:NTV Plus
+4a9d:01682e7c:0013:0070:1:0:0
+Da Vinci
+p:NTV Plus
+4a9e:01682e7c:0013:0070:1:0:0
+Viju TV 1000
+p:NTV Plus
+4a9f:01682e7c:0013:0070:1:0:0
+Viju TV 1000 Action
+p:NTV Plus
+4aa0:01682e7c:0013:0070:1:0:0
+Viju TV 1000 Russkoe
+p:NTV Plus
+4aa1:01682e7c:0013:0070:1:0:0
+Viju Explore
+p:NTV Plus
+4aa2:01682e7c:0013:0070:1:0:0
+Viju History
+p:NTV Plus
+4aa3:01682e7c:0013:0070:1:0:0
+Viju Nature
+p:NTV Plus
+4aa4:01682e7c:0013:0070:1:0:0
+Viju+ Sport
+p:NTV Plus
+4aa5:01682e7c:0013:0070:1:0:0
+Extreme Sports Channel
+p:NTV Plus
+4aa6:01682e7c:0013:0070:1:0:0
+Tochka Otryva
+p:NTV Plus
+4aa7:01682e7c:0013:0070:1:0:0
+Flix Snip
+p:NTV Plus
+4aa8:01682e7c:0013:0070:1:0:0
+Domashnie Zhivotnye
+p:NTV Plus
+4aa9:01682e7c:0013:0070:1:0:0
+Usadba
+p:NTV Plus
+4aaa:01682e7c:0013:0070:1:0:0
+Amedia 1
+p:NTV Plus
+4aab:01682e7c:0013:0070:1:0:0
+Amedia 2
+p:NTV Plus
+4aac:01682e7c:0013:0070:1:0:0
+TV Brics
+p:NTV Plus
+4aad:01682e7c:0013:0070:1:0:0
+Armenia TV Satellite
+p:NTV Plus
+4aae:01682e7c:0013:0070:1:0:0
+Big Planet
+p:NTV Plus
+4aaf:01682e7c:0013:0070:1:0:0
+Kinoliving
+p:NTV Plus
+4ab0:01682e7c:0013:0070:1:0:0
+Amedia Hit
+p:NTV Plus
+4ab1:01682e7c:0013:0070:1:0:0
+Zhenskiy Zhurnal
+p:NTV Plus
+4ab2:01682e7c:0013:0070:1:0:0
+Russkiy Illusion
+p:NTV Plus
+4ab3:01682e7c:0013:0070:1:0:0
+V Gostyakh u Skazki
+p:NTV Plus
+4ab4:01682e7c:0013:0070:1:0:0
+Zhivi!
+p:NTV Plus
+4ab5:01682e7c:0013:0070:1:0:0
+Brazzers TV Europe
+p:NTV Plus
+4ab6:01682e7c:0013:0070:1:0:0
+SFT Fight Club
+p:NTV Plus
+4ab8:01682e7c:0013:0070:1:0:0
+Dorama
+p:NTV Plus
+4ab9:01682e7c:0013:0070:1:0:0
+Amedia Premium
+p:NTV Plus
+4aba:01682e7c:0013:0070:1:0:0
+Illusion +
+p:NTV Plus
+4abb:01682e7c:0013:0070:1:0:0
+Start Air
+p:NTV Plus
+4abc:01682e7c:0013:0070:1:0:0
+Start World
+p:NTV Plus
+42ce:01682ea2:0011:0070:1:0:0
+Viju+ Comedy
+p:NTV Plus
+42cf:01682ea2:0011:0070:1:0:0
+Viju+ Megahit
+p:NTV Plus
+42d0:01682ea2:0011:0070:1:0:0
+Viju+ Premiere
+p:NTV Plus
+42d1:01682ea2:0011:0070:1:0:0
+Viju+ Planet
+p:NTV Plus
+42d3:01682ea2:0011:0070:1:0:0
+Curiosity Stream
+p:NTV Plus
+42d4:01682ea2:0011:0070:1:0:0
+Hollywood HD
+p:NTV Plus
+0709:01682ec9:0012:0070:1:0:0
+Bridge Classic
+p:NTV Plus
+070a:01682ec9:0012:0070:1:0:0
+Bridge Rock
+p:NTV Plus
+070b:01682ec9:0012:0070:1:0:0
+FashionTV Russia
+p:NTV Plus
+070c:01682ec9:0012:0070:1:0:0
+Trace Sport Stars
+p:NTV Plus
+070d:01682ec9:0012:0070:1:0:0
+Centralnoe TV
+p:NTV Plus
+070f:01682ec9:0012:0070:1:0:0
+Soyuzny
+p:NTV Plus
+0710:01682ec9:0012:0070:1:0:0
+Okhota i Rybalka
+p:NTV Plus
+0711:01682ec9:0012:0070:1:0:0
+MCM Top Russia
+p:NTV Plus
+0712:01682ec9:0012:0070:1:0:0
+Red Lips
+p:NTV Plus
+0713:01682ec9:0012:0070:1:0:0
+Tayny Galaktiki
+p:NTV Plus
+0714:01682ec9:0012:0070:1:0:0
+Ru TV
+p:NTV Plus
+0715:01682ec9:0012:0070:1:0:0
+Evrokino
+p:NTV Plus
+0716:01682ec9:0012:0070:1:0:0
+Travel + Adventure
+p:NTV Plus
+0717:01682ec9:0012:0070:1:0:0
+Baby Time
+p:NTV Plus
+0718:01682ec9:0012:0070:1:0:0
+Family Jam
+p:NTV Plus
+071a:01682ec9:0012:0070:1:0:0
+Unikum
+p:NTV Plus
+071b:01682ec9:0012:0070:1:0:0
+Gulli Girl
+p:NTV Plus
+071c:01682ec9:0012:0070:1:0:0
+Classic Music
+p:NTV Plus
+071d:01682ec9:0012:0070:1:0:0
+Bridge
+p:NTV Plus
+071e:01682ec9:0012:0070:1:0:0
+Bridge Russkiy Hit
+p:NTV Plus
+071f:01682ec9:0012:0070:1:0:0
+Mir 24
+p:NTV Plus
+0721:01682ec9:0012:0070:1:0:0
+Sankt Peterburg
+p:NTV Plus
+0722:01682ec9:0012:0070:1:0:0
+Moya Stikhiya
+p:NTV Plus
+0723:01682ec9:0012:0070:1:0:0
+KinoJam 1
+p:NTV Plus
+0724:01682ec9:0012:0070:1:0:0
+Epic
+p:NTV Plus
+0725:01682ec9:0012:0070:1:0:0
+Kinohit
+p:NTV Plus
+0726:01682ec9:0012:0070:1:0:0
+Prodvizhenie Moskva
+p:NTV Plus
+0727:01682ec9:0012:0070:1:0:0
+Tiji Russia
+p:NTV Plus
+0728:01682ec9:0012:0070:1:0:0
+Duck TV SD
+p:NTV Plus
+a08d:01682edc:ffa1:036e:1:0:0
+Clouds TV
+p:DSTV Africa
+a08e:01682edc:ffa1:036e:1:0:0
+Fana TV
+p:DSTV Africa
+a08f:01682edc:ffa1:036e:1:0:0
+ZBC TV
+p:DSTV Africa
+a090:01682edc:ffa1:036e:1:0:0
+Base Pulse
+p:DSTV Africa
+a091:01682edc:ffa1:036e:1:0:0
+Maisha Magic Poa
+p:DSTV Africa
+a093:01682edc:ffa1:036e:1:0:0
+TV E
+p:DSTV Africa
+a094:01682edc:ffa1:036e:1:0:0
+ITV
+p:DSTV Africa
+a095:01682edc:ffa1:036e:1:0:0
+EATV 5
+p:DSTV Africa
+a096:01682edc:ffa1:036e:1:0:0
+Star TV
+p:DSTV Africa
+a097:01682edc:ffa1:036e:1:0:0
+Channel Ten
+p:DSTV Africa
+a098:01682edc:ffa1:036e:1:0:0
+Upendo TV
+p:DSTV Africa
+a099:01682edc:ffa1:036e:1:0:0
+National Geographic South Africa
+p:DSTV Africa
+a09a:01682edc:ffa1:036e:1:0:0
+SuperSport Cricket Africa
+p:DSTV Africa
+a09b:01682edc:ffa1:036e:1:0:0
+Weru TV
+p:DSTV Africa
+a09c:01682edc:ffa1:036e:1:0:0
+TV Imaan
+p:DSTV Africa
+a09e:01682edc:ffa1:036e:1:0:0
+Africa Magic Yoruba
+p:DSTV Africa
+a09f:01682edc:ffa1:036e:1:0:0
+Africa Magic Hausa
+p:DSTV Africa
+a0a0:01682edc:ffa1:036e:1:0:0
+Citizen TV
+p:DSTV Africa
+a0a1:01682edc:ffa1:036e:1:0:0
+Zee TV Africa
+p:DSTV Africa
+a0a2:01682edc:ffa1:036e:1:0:0
+NTA Parliament
+p:DSTV Africa
+a0a3:01682edc:ffa1:036e:1:0:0
+EBS
+p:DSTV Africa
+a0a4:01682edc:ffa1:036e:1:0:0
+Y254
+p:DSTV Africa
+a0a5:01682edc:ffa1:036e:1:0:0
+Pop Central
+p:DSTV Africa
+a0a6:01682edc:ffa1:036e:1:0:0
+Wasafi TV
+p:DSTV Africa
+a0a7:01682edc:ffa1:036e:1:0:0
+Disney Channel Africa
+p:DSTV Africa
+a0a8:01682edc:ffa1:036e:1:0:0
+Mindset Learn
+p:DSTV Africa
+a0a9:01682edc:ffa1:036e:1:0:0
+TBN Africa
+p:DSTV Africa
+a0bf:01682edc:ffa1:036e:2:0:0
+Wasafi FM
+p:DSTV Africa
+a0c0:01682edc:ffa1:036e:2:0:0
+Peace FM
+p:DSTV Africa
+a0c1:01682edc:ffa1:036e:2:0:0
+YFM Accra
+p:DSTV Africa
+a0c2:01682edc:ffa1:036e:2:0:0
+Joy FM
+p:DSTV Africa
+a0c3:01682edc:ffa1:036e:2:0:0
+Ethio FM 107.8
+p:DSTV Africa
+a0c4:01682edc:ffa1:036e:2:0:0
+Next Radio
+p:DSTV Africa
+a0c5:01682edc:ffa1:036e:2:0:0
+Ahadu Radio
+p:DSTV Africa
+3ac1:01682edc:000f:00fd:1:0:0
+TeleMag
+p:Unknown
+3ac2:01682edc:000f:00fd:1:0:0
+Epic
+p:Trikolor Centr
+3ac3:01682edc:000f:00fd:1:0:0
+Nano TV
+p:Trikolor Centr
+3ac4:01682edc:000f:00fd:1:0:0
+Kinozal Sovetskie Filmy
+p:Trikolor Centr
+3ac5:01682edc:000f:00fd:1:0:0
+Kion Hit
+p:Trikolor Centr
+3ac6:01682edc:000f:00fd:1:0:0
+Detective Jam
+p:Trikolor Centr
+3ac7:01682edc:000f:00fd:1:0:0
+Dom Kino
+p:Trikolor Centr
+3ac8:01682edc:000f:00fd:1:0:0
+Bollywood TV Rossiya
+p:Trikolor Centr
+3ac9:01682edc:000f:00fd:1:0:0
+Dom Kino
+p:Trikolor Centr
+3aca:01682edc:000f:00fd:1:0:0
+Telekanal Voleybol
+p:Trikolor Centr
+3acb:01682edc:000f:00fd:1:0:0
+Radost Moya
+p:Trikolor Centr
+3acc:01682edc:000f:00fd:1:0:0
+Solntse
+p:Trikolor Centr
+3acd:01682edc:000f:00fd:1:0:0
+Detski Mir
+p:Trikolor Centr
+3ad0:01682edc:000f:00fd:1:0:0
+Unikum
+p:Trikolor Centr
+3ad1:01682edc:000f:00fd:1:0:0
+Tiji Russia
+p:Trikolor Centr
+3ad2:01682edc:000f:00fd:1:0:0
+Gulli Girl
+p:Trikolor Centr
+3ad3:01682edc:000f:00fd:1:0:0
+Kinozal Zhenskiy doktor
+p:Trikolor Centr
+3ad4:01682edc:000f:00fd:1:0:0
+Kinozal Semya
+p:Trikolor Centr
+3ad5:01682edc:000f:00fd:1:0:0
+Kinozal Sosedi
+p:Trikolor Centr
+3ad6:01682edc:000f:00fd:1:0:0
+Kinozal Doktor I
+p:Trikolor Centr
+3ad7:01682edc:000f:00fd:1:0:0
+Luxury
+p:Trikolor Centr
+3ad8:01682edc:000f:00fd:1:0:0
+TipTop
+p:Trikolor Centr
+3ad9:01682edc:000f:00fd:1:0:0
+NTV Serial
+p:Trikolor Centr
+3adb:01682edc:000f:00fd:1:0:0
+NTV Stil
+p:Trikolor Centr
+3add:01682edc:000f:00fd:1:0:0
+NTV Pravo
+p:Trikolor Centr
+3a9a:01682edc:000f:00fd:2:0:0
+Hit FM
+p:Trikolor Centr
+3a9b:01682edc:000f:00fd:2:0:0
+Chuvash Radio
+p:Trikolor Centr
+3a9c:01682edc:000f:00fd:2:0:0
+Russkoe Radio
+p:Trikolor Centr
+3a9d:01682edc:000f:00fd:2:0:0
+Russkiy Hit
+p:Trikolor Centr
+3a9e:01682edc:000f:00fd:2:0:0
+Radio Vanya
+p:Trikolor Centr
+3aa2:01682edc:000f:00fd:2:0:0
+DFM
+p:Trikolor Centr
+3aa3:01682edc:000f:00fd:2:0:0
+Maximum
+p:Trikolor Centr
+3aa5:01682edc:000f:00fd:2:0:0
+Radio 1
+p:Trikolor Centr
+3aa6:01682edc:000f:00fd:2:0:0
+Radio Rodnyh Dorog
+p:Trikolor Centr
+3aa7:01682edc:000f:00fd:2:0:0
+Piter FM
+p:Trikolor Centr
+3aac:01682edc:000f:00fd:2:0:0
+Radio Radonezh
+p:Trikolor Centr
+3aae:01682edc:000f:00fd:2:0:0
+Novoe Radio
+p:Trikolor Centr
+3aaf:01682edc:000f:00fd:2:0:0
+Studio 21
+p:Trikolor Centr
+3ab1:01682edc:000f:00fd:2:0:0
+Dorognoe FM
+p:Trikolor Centr
+3ab2:01682edc:000f:00fd:2:0:0
+Retro FM Rossiya
+p:Trikolor Centr
+3ab3:01682edc:000f:00fd:2:0:0
+Europa Plus
+p:Trikolor Centr
+3ab4:01682edc:000f:00fd:2:0:0
+Radio Dlya Dvoih
+p:Trikolor Centr
+3ab6:01682edc:000f:00fd:2:0:0
+Modnoe Radio
+p:Trikolor Centr
+3ab7:01682edc:000f:00fd:2:0:0
+Radio Mir
+p:Trikolor Centr
+3abd:01682edc:000f:00fd:2:0:0
+Love Radio
+p:Trikolor Centr
+0899:01682eef:0016:0070:1:0:0
+Match! Arena
+p:NTV Plus
+089a:01682eef:0016:0070:1:0:0
+Match! Igra
+p:NTV Plus
+089b:01682eef:0016:0070:1:0:0
+Match! Strana
+p:NTV Plus
+089c:01682eef:0016:0070:1:0:0
+Match!
+p:NTV Plus
+089d:01682eef:0016:0070:1:0:0
+KHL Prime
+p:NTV Plus
+089e:01682eef:0016:0070:1:0:0
+Tochka.RF
+p:NTV Plus
+089f:01682eef:0016:0070:1:0:0
+TNT
+p:NTV Plus
+08a0:01682eef:0016:0070:1:0:0
+Kinopremyera
+p:NTV Plus
+a411:01682f02:ffa2:036e:1:0:0
+Sanyuka TV
+p:DSTV Africa
+a412:01682f02:ffa2:036e:1:0:0
+JKD
+p:DSTV Africa
+a413:01682f02:ffa2:036e:1:0:0
+Soico TV
+p:DSTV Africa
+a414:01682f02:ffa2:036e:1:0:0
+Tayari West
+p:DSTV Africa
+a415:01682f02:ffa2:036e:1:0:0
+Onua TV
+p:DSTV Africa
+a416:01682f02:ffa2:036e:1:0:0
+Sporty TV Kenya
+p:DSTV Africa
+a417:01682f02:ffa2:036e:1:0:0
+Tozali TV
+p:DSTV Africa
+a418:01682f02:ffa2:036e:1:0:0
+KC2
+p:DSTV Africa
+a419:01682f02:ffa2:036e:1:0:0
+Fufa TV
+p:DSTV Africa
+a41a:01682f02:ffa2:036e:1:0:0
+Afia TV
+p:DSTV Africa
+a41c:01682f02:ffa2:036e:1:0:0
+GH Police TV
+p:DSTV Africa
+a41d:01682f02:ffa2:036e:1:0:0
+TV 10
+p:DSTV Africa
+a41e:01682f02:ffa2:036e:1:0:0
+Akili TV
+p:DSTV Africa
+a41f:01682f02:ffa2:036e:1:0:0
+TPA Notícias
+p:DSTV Africa
+a421:01682f02:ffa2:036e:1:0:0
+Ramogi TV
+p:DSTV Africa
+a422:01682f02:ffa2:036e:1:0:0
+Eco TV
+p:DSTV Africa
+a423:01682f02:ffa2:036e:1:0:0
+TVM Internacional
+p:DSTV Africa
+a424:01682f02:ffa2:036e:1:0:0
+Aso TV
+p:DSTV Africa
+a425:01682f02:ffa2:036e:1:0:0
+Smart 24 TV
+p:DSTV Africa
+a426:01682f02:ffa2:036e:1:0:0
+NHK World Japan
+p:DSTV Africa
+a427:01682f02:ffa2:036e:1:0:0
+NBS Sport
+p:DSTV Africa
+a428:01682f02:ffa2:036e:1:0:0
+EuroNews English
+p:DSTV Africa
+a42a:01682f02:ffa2:036e:1:0:0
+EuroNews Français
+p:DSTV Africa
+a42b:01682f02:ffa2:036e:1:0:0
+Rai Italia Africa
+p:DSTV Africa
+a42c:01682f02:ffa2:036e:1:0:0
+EuroNews Deutsch
+p:DSTV Africa
+a42d:01682f02:ffa2:036e:1:0:0
+CGTN Français
+p:DSTV Africa
+a42e:01682f02:ffa2:036e:1:0:0
+NDTV 24x7
+p:DSTV Africa
+a42f:01682f02:ffa2:036e:1:0:0
+AYV Entertainment
+p:DSTV Africa
+a430:01682f02:ffa2:036e:1:0:0
+Tigrai TV
+p:DSTV Africa
+a442:01682f02:ffa2:036e:2:0:0
+Radio Rwanda
+p:DSTV Africa
+a443:01682f02:ffa2:036e:2:0:0
+Radio 10
+p:DSTV Africa
+4269:01682f02:0011:00fd:1:0:0
+Premialnoe
+p:Trikolor Centr
+426a:01682f02:0011:00fd:1:0:0
+Ostrosyuzhetnoye
+p:Trikolor Centr
+426e:01682f02:0011:00fd:1:0:0
+Blue Hustler Europe
+p:Trikolor Centr
+426f:01682f02:0011:00fd:1:0:0
+Dushevnoe
+p:Trikolor Centr
+4270:01682f02:0011:00fd:1:0:0
+Nashe
+p:Trikolor Centr
+4272:01682f02:0011:00fd:1:0:0
+Kinozal Uzhasy
+p:Trikolor Centr
+4274:01682f02:0011:00fd:1:0:0
+Kinozal Boeviki
+p:Trikolor Centr
+4275:01682f02:0011:00fd:1:0:0
+Dom Kino Premium
+p:Trikolor Centr
+4276:01682f02:0011:00fd:1:0:0
+Chizhik
+p:Trikolor Centr
+4277:01682f02:0011:00fd:1:0:0
+Kino TV
+p:Trikolor Centr
+a7f9:01682f29:ffa3:036e:1:0:0
+Abol Maaddii
+p:DSTV Africa
+a7fa:01682f29:ffa3:036e:1:0:0
+Maningue Kool
+p:DSTV Africa
+a7fb:01682f29:ffa3:036e:1:0:0
+ETV Entertainment
+p:DSTV Africa
+a7fc:01682f29:ffa3:036e:1:0:0
+Tiwa N Tiwa TV
+p:DSTV Africa
+a7fd:01682f29:ffa3:036e:1:0:0
+Abbay TV
+p:DSTV Africa
+a7fe:01682f29:ffa3:036e:1:0:0
+NBC Ethiopia
+p:DSTV Africa
+a7ff:01682f29:ffa3:036e:1:0:0
+Advocate Broadcasting Network
+p:DSTV Africa
+a800:01682f29:ffa3:036e:1:0:0
+The Wedding Channel
+p:DSTV Africa
+a801:01682f29:ffa3:036e:1:0:0
+Ethiopia Orthodox TV
+p:DSTV Africa
+a802:01682f29:ffa3:036e:1:0:0
+Marsil TV
+p:DSTV Africa
+a803:01682f29:ffa3:036e:1:0:0
+Nesiha TV
+p:DSTV Africa
+a804:01682f29:ffa3:036e:1:0:0
+Global TV
+p:DSTV Africa
+a805:01682f29:ffa3:036e:1:0:0
+RTP Notícias
+p:DSTV Africa
+a806:01682f29:ffa3:036e:1:0:0
+Islam Channel
+p:DSTV Africa
+a807:01682f29:ffa3:036e:1:0:0
+Family TV
+p:DSTV Africa
+a808:01682f29:ffa3:036e:1:0:0
+Adom TV
+p:DSTV Africa
+a809:01682f29:ffa3:036e:1:0:0
+Soundcity Africa
+p:DSTV Africa
+a80a:01682f29:ffa3:036e:1:0:0
+Joy Prime
+p:DSTV Africa
+a80b:01682f29:ffa3:036e:1:0:0
+Sunna TV
+p:DSTV Africa
+a80c:01682f29:ffa3:036e:1:0:0
+ETV News
+p:DSTV Africa
+a80d:01682f29:ffa3:036e:1:0:0
+MITV
+p:DSTV Africa
+a80e:01682f29:ffa3:036e:1:0:0
+Amico TV
+p:DSTV Africa
+a80f:01682f29:ffa3:036e:1:0:0
+NTA International
+p:DSTV Africa
+a810:01682f29:ffa3:036e:1:0:0
+TV Parlamento
+p:DSTV Africa
+a811:01682f29:ffa3:036e:1:0:0
+Limpopo TV
+p:DSTV Africa
+a812:01682f29:ffa3:036e:1:0:0
+EWTN Africa - Asia
+p:DSTV Africa
+a813:01682f29:ffa3:036e:1:0:0
+RTP Mundo
+p:DSTV Africa
+a814:01682f29:ffa3:036e:1:0:0
+Lumen Christi Catholic TV
+p:DSTV Africa
+a815:01682f29:ffa3:036e:1:0:0
+Canal + Magic
+p:DSTV Africa
+a816:01682f29:ffa3:036e:1:0:0
+NBS TV
+p:DSTV Africa
+4a39:01682f29:0013:00fd:1:0:0
+Family Jam
+p:Trikolor Centr
+4a3a:01682f29:0013:00fd:1:0:0
+Telecafé
+p:Trikolor Centr
+4a3b:01682f29:0013:00fd:1:0:0
+Oruzhie
+p:Trikolor Centr
+4a3c:01682f29:0013:00fd:1:0:0
+Muzika Pervogo
+p:Trikolor Centr
+4a3d:01682f29:0013:00fd:1:0:0
+Shalun
+p:Trikolor Centr
+4a3f:01682f29:0013:00fd:1:0:0
+Playboy TV Europe
+p:Trikolor Centr
+4a40:01682f29:0013:00fd:1:0:0
+Brazzers TV Europe
+p:Trikolor Centr
+4a41:01682f29:0013:00fd:1:0:0
+Zhara TV
+p:Trikolor Centr
+4a42:01682f29:0013:00fd:1:0:0
+TV Guberniya
+p:Trikolor Centr
+4a43:01682f29:0013:00fd:1:0:0
+Kinozal Banditskiy Peterburg
+p:Trikolor Centr
+4a44:01682f29:0013:00fd:1:0:0
+Kinozal Komissar Reks
+p:Trikolor Centr
+4a45:01682f29:0013:00fd:1:0:0
+Moy Mir
+p:Trikolor Centr
+4a46:01682f29:0013:00fd:1:0:0
+Feniks plus Kino
+p:Trikolor Centr
+4a47:01682f29:0013:00fd:1:0:0
+Babes TV
+p:Trikolor Centr
+4a48:01682f29:0013:00fd:1:0:0
+Trikolor Mix
+p:Trikolor Centr
+4a4b:01682f29:0013:00fd:1:0:0
+Kinozal Zhenskaya dusha
+p:Trikolor Centr
+4a4d:01682f29:0013:00fd:1:0:0
+Kinozal Sherlok Kholms i Doktor Vatson
+p:Trikolor Centr
+4a4e:01682f29:0013:00fd:1:0:0
+Kinozal Grand Otel
+p:Trikolor Centr
+4a4f:01682f29:0013:00fd:1:0:0
+Kinozal Mentovskiye voyny
+p:Trikolor Centr
+4a50:01682f29:0013:00fd:1:0:0
+Kinozal Melodramy
+p:Trikolor Centr
+4a51:01682f29:0013:00fd:1:0:0
+Kinozal Soldaty
+p:Trikolor Centr
+4a52:01682f29:0013:00fd:1:0:0
+Kinozal Nekrasivaya podruzhka
+p:Trikolor Centr
+4a53:01682f29:0013:00fd:1:0:0
+Kinozal Kot Basik
+p:Trikolor Centr
+4a54:01682f29:0013:00fd:1:0:0
+Kinozal Chinim stroim
+p:Trikolor Centr
+4a55:01682f29:0013:00fd:1:0:0
+Znanie
+p:Unknown
+4a56:01682f29:0013:00fd:1:0:0
+Kinozal Sovetskiye multfilmy
+p:Trikolor Centr
+4a57:01682f29:0013:00fd:1:0:0
+Kinozal Smeshariki
+p:Trikolor Centr
+4a58:01682f29:0013:00fd:1:0:0
+Kinozal Komedii
+p:Trikolor Centr
+0c81:01682f3c:ff98:036e:1:0:0
+TLC Africa
+p:DSTV Africa
+0c82:01682f3c:ff98:036e:1:0:0
+Discovery Family Africa
+p:DSTV Africa
+0c83:01682f3c:ff98:036e:1:0:0
+Investigation Discovery Africa
+p:DSTV Africa
+0c84:01682f3c:ff98:036e:1:0:0
+TV Zimbo
+p:DSTV Africa
+0c85:01682f3c:ff98:036e:1:0:0
+ESPN 2 Africa
+p:DSTV Africa
+0c86:01682f3c:ff98:036e:1:0:0
+Kix Africa
+p:DSTV Africa
+0c87:01682f3c:ff98:036e:1:0:0
+Cartoon Network Africa
+p:DSTV Africa
+0c88:01682f3c:ff98:036e:1:0:0
+Zee World
+p:DSTV Africa
+0c8a:01682f3c:ff98:036e:1:0:0
+Nickelodeon Africa
+p:DSTV Africa
+0c8b:01682f3c:ff98:036e:1:0:0
+Novelas+
+p:DSTV Africa
+0c8d:01682f3c:ff98:036e:1:0:0
+Citizen TV
+p:DSTV Africa
+0845:01682f4f:0015:00fd:1:0:0
+Multilandia
+p:Trikolor Centr
+0846:01682f4f:0015:00fd:1:0:0
+Eda
+p:Trikolor Centr
+5209:01682f4f:0015:00fd:1:0:0
+Juvelirochka
+p:Trikolor Centr
+520a:01682f4f:0015:00fd:1:0:0
+Svoyo TV
+p:Trikolor Centr
+520b:01682f4f:0015:00fd:1:0:0
+TNT 4
+p:Trikolor Centr
+520c:01682f4f:0015:00fd:1:0:0
+Telekanal 2x2
+p:Trikolor Centr
+520d:01682f4f:0015:00fd:1:0:0
+Zhar Ptitsa
+p:Trikolor Centr
+520e:01682f4f:0015:00fd:1:0:0
+Shopping Live
+p:Trikolor Centr
+520f:01682f4f:0015:00fd:1:0:0
+Trash
+p:Trikolor Centr
+5210:01682f4f:0015:00fd:1:0:0
+Den Pobedy
+p:Trikolor Centr
+5211:01682f4f:0015:00fd:1:0:0
+Shokiruyuschee
+p:Trikolor Centr
+5212:01682f4f:0015:00fd:1:0:0
+Sovetskaya Kinoklassika
+p:Trikolor Centr
+5213:01682f4f:0015:00fd:1:0:0
+Romantichnoe
+p:Trikolor Centr
+5214:01682f4f:0015:00fd:1:0:0
+Lyubimoe +3
+p:Trikolor Centr
+5215:01682f4f:0015:00fd:1:0:0
+Scream
+p:Trikolor Centr
+5217:01682f4f:0015:00fd:1:0:0
+U
+p:Trikolor Centr
+5218:01682f4f:0015:00fd:1:0:0
+Centralnoe TV
+p:Trikolor Centr
+5219:01682f4f:0015:00fd:1:0:0
+Bober
+p:Trikolor Centr
+521a:01682f4f:0015:00fd:1:0:0
+Shayan TV
+p:Trikolor Centr
+521b:01682f4f:0015:00fd:1:0:0
+Vremya
+p:Trikolor Centr
+521c:01682f4f:0015:00fd:1:0:0
+Bridge Hits
+p:Trikolor Centr
+521d:01682f4f:0015:00fd:1:0:0
+Europa Plus TV
+p:Trikolor Centr
+521f:01682f4f:0015:00fd:1:0:0
+Lapki Live
+p:Trikolor Centr
+5221:01682f4f:0015:00fd:1:0:0
+Juvelirochka
+p:Trikolor Centr
+5222:01682f4f:0015:00fd:1:0:0
+KinoJam 1
+p:Trikolor Centr
+5223:01682f4f:0015:00fd:1:0:0
+KinoJam 2
+p:Trikolor Centr
+5224:01682f4f:0015:00fd:1:0:0
+Volga 24
+p:Trikolor Centr
+0af1:01682f62:ff94:036e:1:0:0
+CNBC Africa
+p:DSTV Africa
+0af2:01682f62:ff94:036e:1:0:0
+TBC 1
+p:DSTV Africa
+0af3:01682f62:ff94:036e:1:0:0
+Maisha Magic East
+p:DSTV Africa
+0af4:01682f62:ff94:036e:1:0:0
+Zambezi Magic
+p:DSTV Africa
+0af5:01682f62:ff94:036e:1:0:0
+WildEarth
+p:DSTV Africa
+0af6:01682f62:ff94:036e:1:0:0
+SuperSport Events
+p:DSTV Africa
+0af7:01682f62:ff94:036e:1:0:0
+SuperSport Máximo 360
+p:DSTV Africa
+0af8:01682f62:ff94:036e:1:0:0
+NTA News 24
+p:DSTV Africa
+0af9:01682f62:ff94:036e:1:0:0
+Top TV
+p:DSTV Africa
+0afa:01682f62:ff94:036e:1:0:0
+Strong Live
+p:DSTV Africa
+0afb:01682f62:ff94:036e:1:0:0
+NTA 2 Lagos
+p:DSTV Africa
+0afc:01682f62:ff94:036e:1:0:0
+Media Mais TV
+p:DSTV Africa
+0afd:01682f62:ff94:036e:1:0:0
+SuperSport Rugby Africa
+p:DSTV Africa
+0afe:01682f62:ff94:036e:1:0:0
+BBC News Africa
+p:DSTV Africa
+0b00:01682f62:ff94:036e:1:0:0
+SuperSport Golf Africa
+p:DSTV Africa
+0b01:01682f62:ff94:036e:1:0:0
+OneZed
+p:DSTV Africa
+0b02:01682f62:ff94:036e:1:0:0
+MTV Africa
+p:DSTV Africa
+0b03:01682f62:ff94:036e:1:0:0
+Ogun State TV
+p:DSTV Africa
+0b04:01682f62:ff94:036e:1:0:0
+SABC News
+p:DSTV Africa
+0b05:01682f62:ff94:036e:1:0:0
+Africa Magic Igbo
+p:DSTV Africa
+0b06:01682f62:ff94:036e:1:0:0
+Mega TV
+p:DSTV Africa
+0b07:01682f62:ff94:036e:1:0:0
+Faith Africa
+p:DSTV Africa
+0b08:01682f62:ff94:036e:1:0:0
+TV Miramar
+p:DSTV Africa
+0b09:01682f62:ff94:036e:1:0:0
+TNT Africa
+p:DSTV Africa
+0b0b:01682f62:ff94:036e:1:0:0
+Africanews English
+p:DSTV Africa
+0b23:01682f62:ff94:036e:2:0:0
+Rádio MFM
+p:DSTV Africa
+0b24:01682f62:ff94:036e:2:0:0
+Rádio Mais
+p:DSTV Africa
+0b25:01682f62:ff94:036e:2:0:0
+Radio One
+p:DSTV Africa
+0b26:01682f62:ff94:036e:2:0:0
+Girassol FM
+p:DSTV Africa
+0b27:01682f62:ff94:036e:2:0:0
+Luanda Antena Comercial
+p:DSTV Africa
+0b28:01682f62:ff94:036e:2:0:0
+BBC World Service English
+p:DSTV Africa
+0b29:01682f62:ff94:036e:2:0:0
+BBC World Service en Français
+p:DSTV Africa
+0b2a:01682f62:ff94:036e:2:0:0
+BBC World Service Africa
+p:DSTV Africa
+0b2b:01682f62:ff94:036e:2:0:0
+Cii Radio
+p:DSTV Africa
+0b2c:01682f62:ff94:036e:2:0:0
+TransAfrica Radio
+p:DSTV Africa
+0b2d:01682f62:ff94:036e:2:0:0
+VoA Southern Africa
+p:DSTV Africa
+0b2e:01682f62:ff94:036e:2:0:0
+WRN English North America and Africa and Asia
+p:DSTV Africa
+0b2f:01682f62:ff94:036e:2:0:0
+Fana FM
+p:DSTV Africa
+0b30:01682f62:ff94:036e:2:0:0
+Sheger FM
+p:DSTV Africa
+0b31:01682f62:ff94:036e:2:0:0
+Starr FM
+p:DSTV Africa
+0b32:01682f62:ff94:036e:2:0:0
+Adom FM
+p:DSTV Africa
+0b33:01682f62:ff94:036e:2:0:0
+Kasapa FM
+p:DSTV Africa
+0b34:01682f62:ff94:036e:2:0:0
+Magic FM
+p:DSTV Africa
+0b35:01682f62:ff94:036e:2:0:0
+LM Radio
+p:DSTV Africa
+59d9:01682f75:0017:00fd:1:0:0
+MMA-TV.com
+p:Trikolor Centr
+59da:01682f75:0017:00fd:1:0:0
+Pobeda
+p:Trikolor Centr
+59db:01682f75:0017:00fd:1:0:0
+Ru TV
+p:Trikolor Centr
+59de:01682f75:0017:00fd:1:0:0
+Bonus
+p:Trikolor Centr
+59e1:01682f75:0017:00fd:1:0:0
+Torre Ricca
+p:Trikolor Centr
+59e2:01682f75:0017:00fd:1:0:0
+Kinozal Smekh da i tolko!
+p:Trikolor Centr
+59e3:01682f75:0017:00fd:1:0:0
+Kinozal Zhenskiy detektiv
+p:Trikolor Centr
+59e4:01682f75:0017:00fd:1:0:0
+Kinozal Ulitsy razbitykh fonarey
+p:Trikolor Centr
+59e5:01682f75:0017:00fd:1:0:0
+Kinozal Likvidatsiya
+p:Trikolor Centr
+59e6:01682f75:0017:00fd:1:0:0
+Kinozal Dvoe v lodke
+p:Trikolor Centr
+59e8:01682f75:0017:00fd:1:0:0
+Kinozal Astrakhanskiy klev
+p:Trikolor Centr
+59ea:01682f75:0017:00fd:1:0:0
+Uvelir Treyd
+p:Trikolor Centr
+59eb:01682f75:0017:00fd:1:0:0
+Kinozal Prostokvashino
+p:Trikolor Centr
+59ec:01682f75:0017:00fd:1:0:0
+Kinozal Balabol
+p:Trikolor Centr
+59f6:01682f75:0017:00fd:1:0:0
+Ostrosyuzhetnoye
+p:Trikolor Centr
+5a00:01682f75:0017:00fd:1:0:0
+Nashe +3
+p:Trikolor Centr
+5a14:01682f75:0017:00fd:1:0:0
+Travel + Adventure
+p:Trikolor Centr
+5a1e:01682f75:0017:00fd:1:0:0
+Ryzhiy
+p:Trikolor Centr
+5a28:01682f75:0017:00fd:1:0:0
+Kinopokaz
+p:Trikolor Centr
+5a32:01682f75:0017:00fd:1:0:0
+Zagorodny
+p:Trikolor Centr
+5a3c:01682f75:0017:00fd:1:0:0
+Teleputeshestviya
+p:Trikolor Centr
+5a46:01682f75:0017:00fd:1:0:0
+Rybolov
+p:Trikolor Centr
+5a50:01682f75:0017:00fd:1:0:0
+Tonus
+p:Trikolor Centr
+5a5a:01682f75:0017:00fd:1:0:0
+Zoo TV
+p:Trikolor Centr
+5a8c:01682f75:0017:00fd:1:0:0
+Vmeste RF
+p:Trikolor Centr
+5adc:01682f75:0017:00fd:1:0:0
+Bridge Russkiy Hit
+p:Trikolor Centr
+5ae6:01682f75:0017:00fd:1:0:0
+Premialnoe
+p:Trikolor Centr
+5af0:01682f75:0017:00fd:1:0:0
+Bridge
+p:Trikolor Centr
+5b40:01682f75:0017:00fd:1:0:0
+Shanson TV
+p:Trikolor Centr
+5b5e:01682f75:0017:00fd:1:0:0
+Dushevnoe
+p:Trikolor Centr
+0b55:01682f89:ff95:036e:1:0:0
+Africa Magic Showcase
+p:DSTV Africa
+0b56:01682f89:ff95:036e:1:0:0
+Maningue Magic
+p:DSTV Africa
+0b57:01682f89:ff95:036e:1:0:0
+SuperSport Premier League
+p:DSTV Africa
+0b58:01682f89:ff95:036e:1:0:0
+SuperSport LaLiga
+p:DSTV Africa
+0b59:01682f89:ff95:036e:1:0:0
+SuperSport Máximo 1
+p:DSTV Africa
+0b5a:01682f89:ff95:036e:1:0:0
+SuperSport Máximo 2
+p:DSTV Africa
+0b5b:01682f89:ff95:036e:1:0:0
+Big Brother Naija
+p:DSTV Africa
+0b5e:01682f89:ff95:036e:1:0:0
+SuperSport Blitz Africa
+p:DSTV Africa
+0b62:01682f89:ff95:036e:1:0:0
+SuperSport Variety 1 Africa
+p:DSTV Africa
+0b63:01682f89:ff95:036e:1:0:0
+SuperSport Máximo 3
+p:DSTV Africa
+0b65:01682f89:ff95:036e:1:0:0
+M-Net West
+p:DSTV Africa
+0001:01682f8e:0001:0001:1:0:0
+TNV Tatarstan
+p:Unknown
+61ac:01682f9e:0019:00fd:1:0:0
+Romantichnoe
+p:Trikolor Centr
+61ae:01682f9e:0019:00fd:1:0:0
+Sapfir
+p:Trikolor Centr
+61af:01682f9e:0019:00fd:1:0:0
+Kineko
+p:Trikolor Centr
+61b0:01682f9e:0019:00fd:1:0:0
+Bolshoy Efir
+p:Trikolor Centr
+61b1:01682f9e:0019:00fd:1:0:0
+Russkij Extrem Ultra Rex
+p:Trikolor Centr
+0028:01682f9e:0019:00fd:2:0:0
+Radio 1
+p:Unknown
+61a9:01682faf:ff91:036e:1:0:0
+Pearl Magic Prime
+p:DSTV Africa
+61aa:01682faf:ff91:036e:1:0:0
+Plus TV Africa
+p:DSTV Africa
+61ac:01682faf:ff91:036e:1:0:0
+Rwanda TV
+p:DSTV Africa
+61ad:01682faf:ff91:036e:1:0:0
+OnMax
+p:DSTV Africa
+61ae:01682faf:ff91:036e:1:0:0
+TVC News
+p:DSTV Africa
+61b0:01682faf:ff91:036e:1:0:0
+KBC Channel 1
+p:DSTV Africa
+61b1:01682faf:ff91:036e:1:0:0
+Tanzania Safari Channel
+p:DSTV Africa
+61b2:01682faf:ff91:036e:1:0:0
+Wap TV
+p:DSTV Africa
+61b3:01682faf:ff91:036e:1:0:0
+Zee Alem
+p:DSTV Africa
+61b4:01682faf:ff91:036e:1:0:0
+Disney Jr South Africa
+p:DSTV Africa
+61b5:01682faf:ff91:036e:1:0:0
+Kameme TV
+p:DSTV Africa
+620d:01682faf:ff91:036e:2:0:0
+East FM
+p:DSTV Africa
+620e:01682faf:ff91:036e:2:0:0
+Nation FM
+p:DSTV Africa
+620f:01682faf:ff91:036e:2:0:0
+KBC English Service
+p:DSTV Africa
+6210:01682faf:ff91:036e:2:0:0
+KBC Radio Taifa
+p:DSTV Africa
+6211:01682faf:ff91:036e:2:0:0
+Coro FM
+p:DSTV Africa
+6212:01682faf:ff91:036e:2:0:0
+KBC Eastern Service
+p:DSTV Africa
+6213:01682faf:ff91:036e:2:0:0
+Nosim FM
+p:DSTV Africa
+6214:01682faf:ff91:036e:2:0:0
+Mwatu FM
+p:DSTV Africa
+6215:01682faf:ff91:036e:2:0:0
+Radio Maisha
+p:DSTV Africa
+6216:01682faf:ff91:036e:2:0:0
+Rádio 5
+p:DSTV Africa
+6217:01682faf:ff91:036e:2:0:0
+Ngola Yetu
+p:DSTV Africa
+6218:01682faf:ff91:036e:2:0:0
+Canal A
+p:DSTV Africa
+623f:01682faf:ff91:036e:2:0:0
+DMX Symphonic
+p:DSTV Africa
+6240:01682faf:ff91:036e:2:0:0
+DMX Chamber Music
+p:DSTV Africa
+6241:01682faf:ff91:036e:2:0:0
+DMX Arias & Overtures
+p:DSTV Africa
+6242:01682faf:ff91:036e:2:0:0
+DMX Light Classical
+p:DSTV Africa
+6243:01682faf:ff91:036e:2:0:0
+DMX Beautiful Instrumentals
+p:DSTV Africa
+6244:01682faf:ff91:036e:2:0:0
+DMX Contemporary Instrumentals
+p:DSTV Africa
+6245:01682faf:ff91:036e:2:0:0
+DMX The Light
+p:DSTV Africa
+6246:01682faf:ff91:036e:2:0:0
+DMX Classic Rock
+p:DSTV Africa
+6247:01682faf:ff91:036e:2:0:0
+DMX House Party
+p:DSTV Africa
+6248:01682faf:ff91:036e:2:0:0
+DMX Dance
+p:DSTV Africa
+6249:01682faf:ff91:036e:2:0:0
+DMX Y2K Hits
+p:DSTV Africa
+624a:01682faf:ff91:036e:2:0:0
+DMX Campus Rock
+p:DSTV Africa
+624b:01682faf:ff91:036e:2:0:0
+DMX Hard Rock
+p:DSTV Africa
+624c:01682faf:ff91:036e:2:0:0
+DMX Alternative Rock
+p:DSTV Africa
+624d:01682faf:ff91:036e:2:0:0
+DMX Today's Hits
+p:DSTV Africa
+624e:01682faf:ff91:036e:2:0:0
+DMX Power Hits
+p:DSTV Africa
+624f:01682faf:ff91:036e:2:0:0
+DMX Urban Beat
+p:DSTV Africa
+6250:01682faf:ff91:036e:2:0:0
+DMX Golden Oldies
+p:DSTV Africa
+6251:01682faf:ff91:036e:2:0:0
+DMX 90's Hits
+p:DSTV Africa
+6252:01682faf:ff91:036e:2:0:0
+DMX 70's Hits
+p:DSTV Africa
+6253:01682faf:ff91:036e:2:0:0
+DMX 80's Hits
+p:DSTV Africa
+6254:01682faf:ff91:036e:2:0:0
+DMX Classic R&B
+p:DSTV Africa
+6255:01682faf:ff91:036e:2:0:0
+DMX Love Songs
+p:DSTV Africa
+6256:01682faf:ff91:036e:2:0:0
+DMX Soft Hits
+p:DSTV Africa
+6257:01682faf:ff91:036e:2:0:0
+DMX Familiar Favourites
+p:DSTV Africa
+6258:01682faf:ff91:036e:2:0:0
+DMX Adult Contemporary
+p:DSTV Africa
+6259:01682faf:ff91:036e:2:0:0
+DMX Urban Adult Contemporary
+p:DSTV Africa
+625a:01682faf:ff91:036e:2:0:0
+DMX Smooth Jazz
+p:DSTV Africa
+625b:01682faf:ff91:036e:2:0:0
+DMX Classic Jazz
+p:DSTV Africa
+625c:01682faf:ff91:036e:2:0:0
+DMX Groove Lounge
+p:DSTV Africa
+625d:01682faf:ff91:036e:2:0:0
+DMX Cityscapes
+p:DSTV Africa
+625e:01682faf:ff91:036e:2:0:0
+DMX Blues
+p:DSTV Africa
+625f:01682faf:ff91:036e:2:0:0
+DMX African Rhythms
+p:DSTV Africa
+6260:01682faf:ff91:036e:2:0:0
+DMX Trots Afrikaans
+p:DSTV Africa
+6261:01682faf:ff91:036e:2:0:0
+DMX Reggae
+p:DSTV Africa
+6262:01682faf:ff91:036e:2:0:0
+DMX Traditional Country
+p:DSTV Africa
+6263:01682faf:ff91:036e:2:0:0
+DMX Gospel
+p:DSTV Africa
+6264:01682faf:ff91:036e:2:0:0
+DMX Italian Contemporary
+p:DSTV Africa
+6265:01682faf:ff91:036e:2:0:0
+DMX Metro Blend
+p:DSTV Africa
+6266:01682faf:ff91:036e:2:0:0
+DMX French Contemporary
+p:DSTV Africa
+6267:01682faf:ff91:036e:2:0:0
+DMX Modern Country
+p:DSTV Africa
+0385:01682faf:0000:0000:1:0:0
+Perviy kanal
+p:NTV Plus
+0386:01682faf:0000:0000:1:0:0
+Rossiya 1
+p:NTV Plus
+0387:01682faf:0000:0000:1:0:0
+NTV
+p:NTV Plus
+0388:01682faf:0000:0000:1:0:0
+REN TV
+p:NTV Plus
+0389:01682faf:0000:0000:1:0:0
+STS
+p:NTV Plus
+6978:01682fc2:001b:00fd:1:0:0
+Trikolor Infokanal 36
+p:Unknown
+697b:01682fc2:001b:00fd:1:0:0
+Trikolor Infokanal 36
+p:Unknown
+697e:01682fc2:001b:00fd:1:0:0
+Komediynoe
+p:Trikolor Centr
+6991:01682fc2:001b:00fd:1:0:0
+Leomax 24
+p:Trikolor Centr
+69e1:01682fc2:001b:00fd:1:0:0
+Promo TV
+p:Unknown
+03e9:01682fe9:ff82:036e:1:0:0
+Discovery Channel Africa
+p:DSTV Africa
+03ea:01682fe9:ff82:036e:1:0:0
+My Channel Africa
+p:DSTV Africa
+03eb:01682fe9:ff82:036e:1:0:0
+TVCine Top
+p:DSTV Africa
+03ec:01682fe9:ff82:036e:1:0:0
+AXN Dublado
+p:DSTV Africa
+03ed:01682fe9:ff82:036e:1:0:0
+Studio Universal Africa
+p:DSTV Africa
+03ee:01682fe9:ff82:036e:1:0:0
+Cine Mundo
+p:DSTV Africa
+03ef:01682fe9:ff82:036e:1:0:0
+Banda TV
+p:DSTV Africa
+03f0:01682fe9:ff82:036e:1:0:0
+DSTV Pipoca
+p:DSTV Africa
+03f1:01682fe9:ff82:036e:1:0:0
+Sporty TV
+p:DSTV Africa
+03f2:01682fe9:ff82:036e:1:0:0
+Novelas+
+p:DSTV Africa
+03e9:01682fe9:000a:0070:1:0:0
+Rossiya 1
+p:NTV Plus
+03ea:01682fe9:000a:0070:1:0:0
+Match!
+p:NTV Plus
+03eb:01682fe9:000a:0070:1:0:0
+5 Kanal
+p:NTV Plus
+03ec:01682fe9:000a:0070:1:0:0
+REN TV
+p:NTV Plus
+03ed:01682fe9:000a:0070:1:0:0
+Rossiya K
+p:NTV Plus
+03ee:01682fe9:000a:0070:1:0:0
+Rossiya 24
+p:NTV Plus
+03ef:01682fe9:000a:0070:1:0:0
+Telekanal Spas
+p:NTV Plus
+03f0:01682fe9:000a:0070:1:0:0
+TV 3
+p:NTV Plus
+03f1:01682fe9:000a:0070:1:0:0
+Pyatnitsa!
+p:NTV Plus
+03f2:01682fe9:000a:0070:1:0:0
+Mir
+p:NTV Plus
+03f3:01682fe9:000a:0070:1:0:0
+5 Kanal +2
+p:NTV Plus
+03f5:01682fe9:000a:0070:1:0:0
+Telekanal Zvezda
+p:NTV Plus
+03f6:01682fe9:000a:0070:1:0:0
+RT DE
+p:NTV Plus
+03f7:01682fe9:000a:0070:1:0:0
+Rossiya 1 +2
+p:NTV Plus
+03f8:01682fe9:000a:0070:1:0:0
+Zvezda Plus
+p:NTV Plus
+03f9:01682fe9:000a:0070:1:0:0
+GTRK Groznyj
+p:NTV Plus
+03fa:01682fe9:000a:0070:1:0:0
+Izvestia TV
+p:NTV Plus
+0425:01682fe9:000a:0070:2:0:0
+Militseyskaya Volna
+p:Unknown
+0426:01682fe9:000a:0070:2:0:0
+Radio Vanya
+p:Unknown
+0427:01682fe9:000a:0070:2:0:0
+Russkoe Radio
+p:Unknown
+0428:01682fe9:000a:0070:2:0:0
+DFM
+p:Unknown
+0429:01682fe9:000a:0070:2:0:0
+Hit FM
+p:Unknown
+042a:01682fe9:000a:0070:2:0:0
+Love Radio
+p:Unknown
+042b:01682fe9:000a:0070:2:0:0
+Maximum
+p:Unknown
+0bb9:01682ffc:ff96:036e:1:0:0
+M-Net Movies 1 West Africa
+p:DSTV Africa
+0bba:01682ffc:ff96:036e:1:0:0
+M-Net Movies 3
+p:DSTV Africa
+0bbb:01682ffc:ff96:036e:1:0:0
+SuperSport Tennis Africa
+p:DSTV Africa
+0bbc:01682ffc:ff96:036e:1:0:0
+M-Net East
+p:DSTV Africa
+0bbe:01682ffc:ff96:036e:1:0:0
+SuperSport Football Plus
+p:DSTV Africa
+0bbf:01682ffc:ff96:036e:1:0:0
+M-Net Movies 2
+p:DSTV Africa
+0bc0:01682ffc:ff96:036e:1:0:0
+SuperSport Events
+p:DSTV Africa
+0bc3:01682ffc:ff96:036e:1:0:0
+M-Net Movies 4
+p:DSTV Africa
+0bc4:01682ffc:ff96:036e:1:0:0
+M-Net Movies 1 East Africa
+p:DSTV Africa
+0bc5:01682ffc:ff96:036e:1:0:0
+SuperSport Premier League Africa
+p:DSTV Africa
+0321:01682ffc:0008:0070:1:0:0
+Kino TV
+p:NTV Plus
+0322:01682ffc:0008:0070:1:0:0
+Russkaya Komediya
+p:NTV Plus
+0323:01682ffc:0008:0070:1:0:0
+Moskva 24
+p:NTV Plus
+0324:01682ffc:0008:0070:1:0:0
+NST
+p:NTV Plus
+0325:01682ffc:0008:0070:1:0:0
+Poehali!
+p:NTV Plus
+0326:01682ffc:0008:0070:1:0:0
+Sapfir
+p:NTV Plus
+0327:01682ffc:0008:0070:1:0:0
+Telekanal 360°
+p:NTV Plus
+0328:01682ffc:0008:0070:1:0:0
+Telekanal O!
+p:NTV Plus
+0329:01682ffc:0008:0070:1:0:0
+U
+p:NTV Plus
+032a:01682ffc:0008:0070:1:0:0
+Magnat
+p:Unknown
+032b:01682ffc:0008:0070:1:0:0
+8 Kanal
+p:Unknown
+032c:01682ffc:0008:0070:1:0:0
+Solntse
+p:NTV Plus
+032d:01682ffc:0008:0070:1:0:0
+Terra
+p:NTV Plus
+032e:01682ffc:0008:0070:1:0:0
+TV Centr Ural
+p:NTV Plus
+032f:01682ffc:0008:0070:1:0:0
+Pobeda
+p:NTV Plus
+0330:01682ffc:0008:0070:1:0:0
+TNT +2
+p:NTV Plus
+0331:01682ffc:0008:0070:1:0:0
+Leomax 24
+p:Unknown
+0332:01682ffc:0008:0070:1:0:0
+Bober
+p:NTV Plus
+0333:01682ffc:0008:0070:1:0:0
+Vremya
+p:NTV Plus
+0334:01682ffc:0008:0070:1:0:0
+Dom Kino
+p:NTV Plus
+0335:01682ffc:0008:0070:1:0:0
+Karusel +2
+p:NTV Plus
+0336:01682ffc:0008:0070:1:0:0
+Che!
+p:NTV Plus
+0337:01682ffc:0008:0070:1:0:0
+Muzika Pervogo
+p:NTV Plus
+0338:01682ffc:0008:0070:1:0:0
+Telecafé
+p:NTV Plus
+0339:01682ffc:0008:0070:1:0:0
+.Red
+p:NTV Plus
+033a:01682ffc:0008:0070:1:0:0
+Shopping Live
+p:Unknown
+033b:01682ffc:0008:0070:1:0:0
+.Black
+p:NTV Plus
+033c:01682ffc:0008:0070:1:0:0
+.Sci-fi
+p:NTV Plus
+033d:01682ffc:0008:0070:1:0:0
+Start
+p:NTV Plus
+033e:01682ffc:0008:0070:1:0:0
+Shot TV
+p:NTV Plus
+033f:01682ffc:0008:0070:1:0:0
+Hollywood HD
+p:NTV Plus
+0340:01682ffc:0008:0070:1:0:0
+Kineko
+p:NTV Plus
+4e21:0168300f:ff8c:036e:1:0:0
+ZNBC TV 1
+p:DSTV Africa
+4e22:0168300f:ff8c:036e:1:0:0
+DreamWorks TV MENA
+p:DSTV Africa
+4e23:0168300f:ff8c:036e:1:0:0
+TV Sucesso
+p:DSTV Africa
+4e24:0168300f:ff8c:036e:1:0:0
+Trace Brasil
+p:DSTV Africa
+4e25:0168300f:ff8c:036e:1:0:0
+CGTN
+p:DSTV Africa
+4e26:0168300f:ff8c:036e:1:0:0
+ZNBC TV 2
+p:DSTV Africa
+4e27:0168300f:ff8c:036e:1:0:0
+Arise News
+p:DSTV Africa
+4e28:0168300f:ff8c:036e:1:0:0
+Rok 2
+p:DSTV Africa
+4e29:0168300f:ff8c:036e:1:0:0
+Kessben TV
+p:DSTV Africa
+4e2a:0168300f:ff8c:036e:1:0:0
+Trace Gospel English Speaking Africa
+p:DSTV Africa
+4e2b:0168300f:ff8c:036e:1:0:0
+Bloomberg TV Africa
+p:DSTV Africa
+4e2c:0168300f:ff8c:036e:1:0:0
+SSBC TV
+p:DSTV Africa
+4e2e:0168300f:ff8c:036e:1:0:0
+BBC Lifestyle Africa
+p:DSTV Africa
+4e2f:0168300f:ff8c:036e:1:0:0
+Cartoonito Africa
+p:DSTV Africa
+4e30:0168300f:ff8c:036e:1:0:0
+Nick Jr Africa
+p:DSTV Africa
+4e31:0168300f:ff8c:036e:1:0:0
+Aljazeera English
+p:DSTV Africa
+4e32:0168300f:ff8c:036e:1:0:0
+Daystar TV
+p:DSTV Africa
+4e33:0168300f:ff8c:036e:1:0:0
+Telemundo Africa
+p:DSTV Africa
+4e34:0168300f:ff8c:036e:1:0:0
+Curiosity Channel
+p:DSTV Africa
+4e36:0168300f:ff8c:036e:1:0:0
+Canal + Cinéma Centre
+p:DSTV Africa
+4e37:0168300f:ff8c:036e:1:0:0
+Trace Naija
+p:DSTV Africa
+4e38:0168300f:ff8c:036e:1:0:0
+JimJam Europe
+p:DSTV Africa
+4e39:0168300f:ff8c:036e:1:0:0
+InfoSport +
+p:DSTV Africa
+4e3a:0168300f:ff8c:036e:1:0:0
+Hip TV
+p:DSTV Africa
+4e3b:0168300f:ff8c:036e:1:0:0
+WION
+p:DSTV Africa
+4e3c:0168300f:ff8c:036e:1:0:0
+EuroNews Português
+p:DSTV Africa
+4e3d:0168300f:ff8c:036e:1:0:0
+RTP África
+p:DSTV Africa
+4e3e:0168300f:ff8c:036e:1:0:0
+Canal + Sport 2
+p:DSTV Africa
+4e3f:0168300f:ff8c:036e:1:0:0
+Nickelodeon Portugal
+p:DSTV Africa
+0003:0168300f:001f:00fd:1:0:0
+Soyuz
+p:Unknown
+7919:0168300f:001f:00fd:1:0:0
+Russkiy Roman
+p:Trikolor Centr
+791a:0168300f:001f:00fd:1:0:0
+Mult
+p:Trikolor Centr
+791b:0168300f:001f:00fd:1:0:0
+Telekanal 360°
+p:Trikolor Centr
+791c:0168300f:001f:00fd:1:0:0
+Sankt Peterburg
+p:Trikolor Centr
+791d:0168300f:001f:00fd:1:0:0
+Russkiy Bestseller
+p:Trikolor Centr
+791e:0168300f:001f:00fd:1:0:0
+Mult i muzyka
+p:Trikolor Centr
+791f:0168300f:001f:00fd:1:0:0
+Istoriya Telekanal
+p:Trikolor Centr
+7920:0168300f:001f:00fd:1:0:0
+Lavstori
+p:Trikolor Centr
+7921:0168300f:001f:00fd:1:0:0
+Nauka
+p:Trikolor Centr
+7922:0168300f:001f:00fd:1:0:0
+Cinéma
+p:Trikolor Centr
+7923:0168300f:001f:00fd:1:0:0
+Sarafan
+p:Trikolor Centr
+7924:0168300f:001f:00fd:1:0:0
+Che!
+p:Trikolor Centr
+7925:0168300f:001f:00fd:1:0:0
+STS Love
+p:Trikolor Centr
+7926:0168300f:001f:00fd:1:0:0
+Zhivaya Planeta
+p:Trikolor Centr
+7927:0168300f:001f:00fd:1:0:0
+Moskva 24
+p:Trikolor Centr
+7928:0168300f:001f:00fd:1:0:0
+Russkaya Komediya
+p:Trikolor Centr
+7929:0168300f:001f:00fd:1:0:0
+Mama
+p:Trikolor Centr
+792a:0168300f:001f:00fd:1:0:0
+STS Kids
+p:Trikolor Centr
+792b:0168300f:001f:00fd:1:0:0
+KinoMult
+p:Trikolor Centr
+792c:0168300f:001f:00fd:1:0:0
+NST
+p:Trikolor Centr
+792d:0168300f:001f:00fd:1:0:0
+GTRK Groznyj
+p:Trikolor Centr
+792e:0168300f:001f:00fd:1:0:0
+Mosfilm
+p:Trikolor Centr
+792f:0168300f:001f:00fd:1:0:0
+Russkiy Detektiv
+p:Trikolor Centr
+7930:0168300f:001f:00fd:1:0:0
+Moya Planeta
+p:Trikolor Centr
+7934:0168300f:001f:00fd:1:0:0
+Ani
+p:Trikolor Centr
+7935:0168300f:001f:00fd:1:0:0
+Techno 24
+p:Trikolor Centr
+793e:0168300f:001f:00fd:1:0:0
+Telekanal Doktor
+p:Trikolor Centr
+793f:0168300f:001f:00fd:1:0:0
+Volgograd 24
+p:Trikolor Centr
+0004:0168300f:001f:00fd:2:0:0
+Radio Voskresenie
+p:Unknown
+7931:0168300f:001f:00fd:2:0:0
+Radio Monte Carlo
+p:Trikolor Centr
+7932:0168300f:001f:00fd:2:0:0
+Marusya FM
+p:Trikolor Centr
+7933:0168300f:001f:00fd:2:0:0
+Vostok FM
+p:Trikolor Centr
+7937:0168300f:001f:00fd:2:0:0
+Radio Komsomolskaya Pravda
+p:Trikolor Centr
+7939:0168300f:001f:00fd:2:0:0
+Radio Orfey
+p:Trikolor Centr
+793a:0168300f:001f:00fd:2:0:0
+Grad Petrov
+p:Trikolor Centr
+793c:0168300f:001f:00fd:2:0:0
+Radio 7
+p:Trikolor Centr
+0065:01683022:0001:0070:1:0:0
+365 dnei TV
+p:NTV Plus
+0066:01683022:0001:0070:1:0:0
+Auto Plus
+p:NTV Plus
+0067:01683022:0001:0070:1:0:0
+Europa Plus TV
+p:NTV Plus
+0068:01683022:0001:0070:1:0:0
+Indijskoe Kino
+p:NTV Plus
+0069:01683022:0001:0070:1:0:0
+Kinomiks
+p:NTV Plus
+006a:01683022:0001:0070:1:0:0
+Kinosvidanie
+p:NTV Plus
+006b:01683022:0001:0070:1:0:0
+Kinohit
+p:NTV Plus
+006c:01683022:0001:0070:1:0:0
+Kinokomedija
+p:NTV Plus
+006d:01683022:0001:0070:1:0:0
+Kto est kto
+p:NTV Plus
+006e:01683022:0001:0070:1:0:0
+Kuhnya TV
+p:NTV Plus
+006f:01683022:0001:0070:1:0:0
+Muzyka Live
+p:NTV Plus
+0070:01683022:0001:0070:1:0:0
+Match! Planeta
+p:NTV Plus
+0071:01683022:0001:0070:1:0:0
+Kinoserija
+p:NTV Plus
+0072:01683022:0001:0070:1:0:0
+Muzhskoe Kino
+p:NTV Plus
+0073:01683022:0001:0070:1:0:0
+Rodnoe Kino
+p:NTV Plus
+0074:01683022:0001:0070:1:0:0
+Nashe Novoe Kino
+p:NTV Plus
+0075:01683022:0001:0070:1:0:0
+Nostalgia
+p:NTV Plus
+0076:01683022:0001:0070:1:0:0
+Kinouzhas
+p:NTV Plus
+0077:01683022:0001:0070:1:0:0
+Kinosemja
+p:NTV Plus
+0078:01683022:0001:0070:1:0:0
+Russkaya Noch
+p:NTV Plus
+007a:01683022:0001:0070:1:0:0
+SuperGeroi
+p:NTV Plus
+007b:01683022:0001:0070:1:0:0
+Zhara TV
+p:NTV Plus
+007c:01683022:0001:0070:1:0:0
+KVN
+p:NTV Plus
+007d:01683022:0001:0070:1:0:0
+Telekanal Dikij
+p:NTV Plus
+007e:01683022:0001:0070:1:0:0
+Blue Hustler Europe
+p:NTV Plus
+007f:01683022:0001:0070:1:0:0
+Indiya
+p:NTV Plus
+0080:01683022:0001:0070:1:0:0
+Saga TV
+p:NTV Plus
+0ce5:01683035:ff99:036e:1:0:0
+SuperSport Africa 2
+p:DSTV Africa
+0ce6:01683035:ff99:036e:1:0:0
+SuperSport Grandstand Africa
+p:DSTV Africa
+0ce7:01683035:ff99:036e:1:0:0
+SuperSport Action Africa
+p:DSTV Africa
+0ce8:01683035:ff99:036e:1:0:0
+SuperSport Motorsport Africa
+p:DSTV Africa
+0ce9:01683035:ff99:036e:1:0:0
+Newzroom Afrika
+p:DSTV Africa
+0cea:01683035:ff99:036e:1:0:0
+SuperSport WWE
+p:DSTV Africa
+0ceb:01683035:ff99:036e:1:0:0
+Maisha Magic Plus
+p:DSTV Africa
+0cec:01683035:ff99:036e:1:0:0
+SuperSport Football Africa
+p:DSTV Africa
+0ced:01683035:ff99:036e:1:0:0
+Kwenda Magic
+p:DSTV Africa
+0cee:01683035:ff99:036e:1:0:0
+SuperSport LaLiga Africa
+p:DSTV Africa
+0cfc:01683035:ff99:036e:1:0:0
+Girassol TV
+p:DSTV Africa
+044d:01683035:000b:0070:1:0:0
+Perviy kanal
+p:NTV Plus
+044e:01683035:000b:0070:1:0:0
+Domashniy
+p:NTV Plus
+044f:01683035:000b:0070:1:0:0
+Muz TV
+p:NTV Plus
+0450:01683035:000b:0070:1:0:0
+NTV
+p:NTV Plus
+0451:01683035:000b:0070:1:0:0
+STS
+p:NTV Plus
+0452:01683035:000b:0070:1:0:0
+Perviy kanal +2
+p:NTV Plus
+0453:01683035:000b:0070:1:0:0
+OTR
+p:NTV Plus
+0454:01683035:000b:0070:1:0:0
+NTV +2
+p:NTV Plus
+0455:01683035:000b:0070:1:0:0
+Patriot Telekanal
+p:NTV Plus
+0456:01683035:000b:0070:1:0:0
+TV Centr Moskva
+p:NTV Plus
+0457:01683035:000b:0070:1:0:0
+RT Doc
+p:NTV Plus
+0458:01683035:000b:0070:1:0:0
+Lapki Live
+p:NTV Plus
+0459:01683035:000b:0070:1:0:0
+Karusel
+p:NTV Plus
+045a:01683035:000b:0070:1:0:0
+TNT
+p:NTV Plus
+045b:01683035:000b:0070:1:0:0
+RT News
+p:NTV Plus
+045c:01683035:000b:0070:1:0:0
+Telekanal Zvezda +2
+p:NTV Plus
+045d:01683035:000b:0070:1:0:0
+REN TV +2
+p:NTV Plus
+0489:01683035:000b:0070:2:0:0
+Vesti FM
+p:Unknown
+048a:01683035:000b:0070:2:0:0
+Radio Mayak
+p:Unknown
+048b:01683035:000b:0070:2:0:0
+Radio Rossii
+p:Unknown
+048c:01683035:000b:0070:2:0:0
+Radio Komsomolskaya Pravda
+p:Unknown
+048d:01683035:000b:0070:2:0:0
+Avtoradio Moskva
+p:Unknown
+048e:01683035:000b:0070:2:0:0
+Business FM
+p:Unknown
+048f:01683035:000b:0070:2:0:0
+Detskoe Radio Moskva
+p:Unknown
+0490:01683035:000b:0070:2:0:0
+Radio Mir
+p:Unknown
+0491:01683035:000b:0070:2:0:0
+Radio Romantika
+p:Unknown
+0492:01683035:000b:0070:2:0:0
+Humor FM
+p:Unknown
+0493:01683035:000b:0070:2:0:0
+Comedy Radio
+p:Unknown
+0494:01683035:000b:0070:2:0:0
+Radio Enerdzhi
+p:Unknown
+0495:01683035:000b:0070:2:0:0
+Relax FM
+p:Unknown
+0a8d:01683048:ff93:036e:1:0:0
+Inooro TV
+p:DSTV Africa
+0a8e:01683048:ff93:036e:1:0:0
+Spark TV
+p:DSTV Africa
+0a8f:01683048:ff93:036e:1:0:0
+Trybe TV
+p:DSTV Africa
+0a90:01683048:ff93:036e:1:0:0
+TV 47
+p:DSTV Africa
+0a92:01683048:ff93:036e:1:0:0
+OBN
+p:DSTV Africa
+0a93:01683048:ff93:036e:1:0:0
+JimJam Europe
+p:DSTV Africa
+0a94:01683048:ff93:036e:1:0:0
+Arewa 24
+p:DSTV Africa
+0a95:01683048:ff93:036e:1:0:0
+TV West
+p:DSTV Africa
+0a96:01683048:ff93:036e:1:0:0
+Kass TV
+p:DSTV Africa
+0a97:01683048:ff93:036e:1:0:0
+Televista
+p:DSTV Africa
+0a98:01683048:ff93:036e:1:0:0
+BBS TV
+p:DSTV Africa
+0a99:01683048:ff93:036e:1:0:0
+Pent TV
+p:DSTV Africa
+0a9a:01683048:ff93:036e:1:0:0
+Cartoonito Portugal
+p:DSTV Africa
+0a9b:01683048:ff93:036e:1:0:0
+Disney Jr Portugal
+p:DSTV Africa
+0a9c:01683048:ff93:036e:1:0:0
+Vin TV
+p:DSTV Africa
+0a9d:01683048:ff93:036e:1:0:0
+Star Movies Portugal
+p:DSTV Africa
+0a9e:01683048:ff93:036e:1:0:0
+Trace Toca
+p:DSTV Africa
+0a9f:01683048:ff93:036e:1:0:0
+Record News
+p:DSTV Africa
+0aa1:01683048:ff93:036e:1:0:0
+TLN Network
+p:DSTV Africa
+0aa2:01683048:ff93:036e:1:0:0
+Afro Music Channel
+p:DSTV Africa
+0aa3:01683048:ff93:036e:1:0:0
+Food Network EMEA
+p:DSTV Africa
+0aa4:01683048:ff93:036e:1:0:0
+Canal + Sport 3
+p:DSTV Africa
+0aa5:01683048:ff93:036e:1:0:0
+France 2
+p:DSTV Africa
+0aa6:01683048:ff93:036e:1:0:0
+Nollywood TV
+p:DSTV Africa
+0aa7:01683048:ff93:036e:1:0:0
+Canal + Sport 1
+p:DSTV Africa
+0aa8:01683048:ff93:036e:1:0:0
+Passion Bollywood
+p:DSTV Africa
+0aa9:01683048:ff93:036e:1:0:0
+Novelas+
+p:DSTV Africa
+84d0:01683048:0022:00fd:1:0:0
+Insight TV
+p:Trikolor Centr
+84d1:01683048:0022:00fd:1:0:0
+Kino UHD
+p:Trikolor Centr
+84d6:01683048:0022:00fd:1:0:0
+Nash Kinopokaz
+p:Trikolor Centr
+84d7:01683048:0022:00fd:1:0:0
+Kamedi
+p:Trikolor Centr
+84d8:01683048:0022:00fd:1:0:0
+Nashe Muzhskoe
+p:Trikolor Centr
+84d9:01683048:0022:00fd:1:0:0
+Pro Lyubov
+p:Trikolor Centr
+84da:01683048:0022:00fd:1:0:0
+Teleputeshestviya
+p:Trikolor Centr
+9c41:0168305c:ffa0:036e:1:0:0
+SuperSport Football Plus Africa
+p:DSTV Africa
+9c42:0168305c:ffa0:036e:1:0:0
+SuperSport Máximo 360
+p:DSTV Africa
+9c43:0168305c:ffa0:036e:1:0:0
+CNN International Europe
+p:DSTV Africa
+9c44:0168305c:ffa0:036e:1:0:0
+Movie Room
+p:DSTV Africa
+9c45:0168305c:ffa0:036e:1:0:0
+Akwaaba Magic
+p:DSTV Africa
+9c46:0168305c:ffa0:036e:1:0:0
+Pearl Magic Prime
+p:DSTV Africa
+9c47:0168305c:ffa0:036e:1:0:0
+Abol TV
+p:DSTV Africa
+9c48:0168305c:ffa0:036e:1:0:0
+Africa Magic Epic
+p:DSTV Africa
+9c49:0168305c:ffa0:036e:1:0:0
+Africa Magic Family
+p:DSTV Africa
+9c4a:0168305c:ffa0:036e:1:0:0
+Maisha Magic Bongo
+p:DSTV Africa
+9c4c:0168305c:ffa0:036e:1:0:0
+SuperSport Africa
+p:DSTV Africa
+88b9:0168305c:0000:0000:1:0:0
+Match!
+p:Trikolor Centr
+88ba:0168305c:0000:0000:1:0:0
+5 Kanal
+p:Trikolor Centr
+88bb:0168305c:0000:0000:1:0:0
+Rossiya K
+p:Trikolor Centr
+88bc:0168305c:0000:0000:1:0:0
+Karusel
+p:Trikolor Centr
+88be:0168305c:0000:0000:1:0:0
+STS
+p:Trikolor Centr
+88bf:0168305c:0000:0000:1:0:0
+Domashniy
+p:Trikolor Centr
+88c0:0168305c:0000:0000:1:0:0
+TV 3
+p:Trikolor Centr
+88c2:0168305c:0000:0000:1:0:0
+Pyatnitsa!
+p:Trikolor Centr
+88c3:0168305c:0000:0000:1:0:0
+TNT
+p:Trikolor Centr
+88c5:0168305c:0000:0000:1:0:0
+Mir
+p:Trikolor Centr
+88c6:0168305c:0000:0000:1:0:0
+TNT
+p:Trikolor Centr
+88c7:0168305c:0000:0000:1:0:0
+Muz TV
+p:Trikolor Centr
+88c9:0168305c:0000:0000:1:0:0
+NTV Hit
+p:Trikolor Centr
+88cb:0168305c:0000:0000:1:0:0
+Soloviev Live
+p:Trikolor Centr
+88d2:0168305c:0000:0000:1:0:0
+5 Kanal +2
+p:Trikolor Centr
+88d3:0168305c:0000:0000:1:0:0
+Rossiya K +2
+p:Trikolor Centr
+88d4:0168305c:0000:0000:1:0:0
+Karusel +2
+p:Trikolor Centr
+88d5:0168305c:0000:0000:1:0:0
+STS +2
+p:Trikolor Centr
+88d6:0168305c:0000:0000:1:0:0
+TNT +2
+p:Trikolor Centr
+6591:0168306f:ff92:036e:1:0:0
+SBN International
+p:DSTV Africa
+6592:0168306f:ff92:036e:1:0:0
+Dominion TV
+p:DSTV Africa
+6593:0168306f:ff92:036e:1:0:0
+Channel One TV
+p:DSTV Africa
+6594:0168306f:ff92:036e:1:0:0
+Baba TV
+p:DSTV Africa
+6595:0168306f:ff92:036e:1:0:0
+Salt TV
+p:DSTV Africa
+6596:0168306f:ff92:036e:1:0:0
+Bukedde 2
+p:DSTV Africa
+6597:0168306f:ff92:036e:1:0:0
+ARTS TV
+p:DSTV Africa
+6598:0168306f:ff92:036e:1:0:0
+Nahoo TV
+p:DSTV Africa
+6599:0168306f:ff92:036e:1:0:0
+Fana Plus
+p:DSTV Africa
+659a:0168306f:ff92:036e:1:0:0
+Trace Muzika
+p:DSTV Africa
+659b:0168306f:ff92:036e:1:0:0
+Asham TV
+p:DSTV Africa
+659c:0168306f:ff92:036e:1:0:0
+Balageru TV
+p:DSTV Africa
+659d:0168306f:ff92:036e:1:0:0
+Addis Media Network
+p:DSTV Africa
+659f:0168306f:ff92:036e:1:0:0
+Star Channel Portugal
+p:DSTV Africa
+65a0:0168306f:ff92:036e:1:0:0
+Star Comedy Portugal
+p:DSTV Africa
+65a1:0168306f:ff92:036e:1:0:0
+TVM
+p:DSTV Africa
+65a2:0168306f:ff92:036e:1:0:0
+TVCine Edition
+p:DSTV Africa
+65a3:0168306f:ff92:036e:1:0:0
+TVCine Emotion
+p:DSTV Africa
+65a4:0168306f:ff92:036e:1:0:0
+TVCine Action
+p:DSTV Africa
+65a5:0168306f:ff92:036e:1:0:0
+Tua TV
+p:DSTV Africa
+65a6:0168306f:ff92:036e:1:0:0
+Disney Channel Portugal
+p:DSTV Africa
+65a7:0168306f:ff92:036e:1:0:0
+Spice
+p:DSTV Africa
+65a8:0168306f:ff92:036e:1:0:0
+Bravo Africa
+p:DSTV Africa
+65a9:0168306f:ff92:036e:1:0:0
+Canal + Première Centre
+p:DSTV Africa
+65aa:0168306f:ff92:036e:1:0:0
+TV5Monde Afrique
+p:DSTV Africa
+65ab:0168306f:ff92:036e:1:0:0
+History Africa
+p:DSTV Africa
+65ac:0168306f:ff92:036e:1:0:0
+Best Brasil
+p:DSTV Africa
+65ad:0168306f:ff92:036e:1:0:0
+BBC Brit Africa
+p:DSTV Africa
+65ae:0168306f:ff92:036e:1:0:0
+Zee Cinema Africa
+p:DSTV Africa
+65af:0168306f:ff92:036e:1:0:0
+Star Life Portugal
+p:DSTV Africa
+65c3:0168306f:ff92:036e:2:0:0
+Citi FM
+p:DSTV Africa
+04b1:0168306f:000c:0070:1:0:0
+STS Kids
+p:NTV Plus
+04b2:0168306f:000c:0070:1:0:0
+Terra
+p:NTV Plus
+04b3:0168306f:000c:0070:1:0:0
+OTR
+p:NTV Plus
+04b4:0168306f:000c:0070:1:0:0
+Start Triumph
+p:NTV Plus
+04b5:0168306f:000c:0070:1:0:0
+Moya Stikhiya
+p:NTV Plus
+04b6:0168306f:000c:0070:1:0:0
+Sapfir
+p:NTV Plus
+04b7:0168306f:000c:0070:1:0:0
+Kineko
+p:NTV Plus
+04b8:0168306f:000c:0070:1:0:0
+RTG HD
+p:NTV Plus
+06a5:01683082:0000:0000:1:0:0
+DSTV Africa Dish on TV Guide
+p:Unknown
+9089:01683082:0025:00fd:1:0:0
+V mire zhivotnykh
+p:Trikolor Centr
+908a:01683082:0025:00fd:1:0:0
+Ohotnik i Rybolov
+p:Trikolor Centr
+908b:01683082:0025:00fd:1:0:0
+Kapitan Fantastika
+p:Trikolor Centr
+908c:01683082:0025:00fd:1:0:0
+Priklyucheniya
+p:Trikolor Centr
+908d:01683082:0025:00fd:1:0:0
+Pervyy Kosmicheskiy
+p:Trikolor Centr
+908e:01683082:0025:00fd:1:0:0
+Arsenal
+p:Trikolor Centr
+908f:01683082:0025:00fd:1:0:0
+Match!
+p:Trikolor Centr
+9092:01683082:0025:00fd:1:0:0
+Mosfilm
+p:Trikolor Centr
+9093:01683082:0025:00fd:1:0:0
+Telekanal FAN
+p:Trikolor Centr
+9094:01683082:0025:00fd:1:0:0
+Exxxotica
+p:Trikolor Centr
+9095:01683082:0025:00fd:1:0:0
+Start
+p:Trikolor Centr
+55f1:01683095:ffdf:036e:1:0:0
+Wazobia Max TV Lagos
+p:DSTV Africa
+55f2:01683095:ffdf:036e:1:0:0
+KTN Home
+p:DSTV Africa
+55f3:01683095:ffdf:036e:1:0:0
+NTV
+p:DSTV Africa
+55f4:01683095:ffdf:036e:1:0:0
+NTV Uganda
+p:DSTV Africa
+55f5:01683095:ffdf:036e:1:0:0
+UBC TV
+p:DSTV Africa
+55f6:01683095:ffdf:036e:1:0:0
+Panda Kids
+p:DSTV Africa
+55f7:01683095:ffdf:036e:1:0:0
+K24
+p:Unknown
+55f8:01683095:ffdf:036e:1:0:0
+Channel 44
+p:DSTV Africa
+55f9:01683095:ffdf:036e:1:0:0
+Bukedde 1
+p:DSTV Africa
+55fb:01683095:ffdf:036e:1:0:0
+Channels TV
+p:DSTV Africa
+55fc:01683095:ffdf:036e:1:0:0
+Silverbird TV
+p:DSTV Africa
+55fd:01683095:ffdf:036e:1:0:0
+Moonbug
+p:DSTV Africa
+55fe:01683095:ffdf:036e:1:0:0
+United TV
+p:DSTV Africa
+55ff:01683095:ffdf:036e:1:0:0
+Moonbug
+p:DSTV Africa
+5601:01683095:ffdf:036e:1:0:0
+Sony Max UK
+p:DSTV Africa
+5602:01683095:ffdf:036e:1:0:0
+Cartoon Network Northern Europe +1
+p:DSTV Africa
+5603:01683095:ffdf:036e:1:0:0
+Nicktoons Africa
+p:DSTV Africa
+5604:01683095:ffdf:036e:1:0:0
+CBeebies Africa
+p:DSTV Africa
+5605:01683095:ffdf:036e:1:0:0
+Lagos TV
+p:DSTV Africa
+5606:01683095:ffdf:036e:1:0:0
+Dove TV
+p:DSTV Africa
+5607:01683095:ffdf:036e:1:0:0
+Trace Mziki
+p:DSTV Africa
+5608:01683095:ffdf:036e:1:0:0
+Star Channel Portugal
+p:DSTV Africa
+5609:01683095:ffdf:036e:1:0:0
+AIT International
+p:DSTV Africa
+560a:01683095:ffdf:036e:1:0:0
+Joy News
+p:DSTV Africa
+560b:01683095:ffdf:036e:1:0:0
+TV 3
+p:DSTV Africa
+560c:01683095:ffdf:036e:1:0:0
+SET Asia
+p:DSTV Africa
+5687:01683095:ffdf:036e:2:0:0
+Radio Okapi
+p:Unknown
+5688:01683095:ffdf:036e:2:0:0
+Radio France Internationale
+p:DSTV Africa
+0191:01683095:0004:0070:1:0:0
+Telekanal FAN
+p:NTV Plus
+0192:01683095:0004:0070:1:0:0
+STS Love
+p:NTV Plus
+0193:01683095:0004:0070:1:0:0
+KinoMult
+p:NTV Plus
+0194:01683095:0004:0070:1:0:0
+Mosfilm
+p:NTV Plus
+0195:01683095:0004:0070:1:0:0
+Mama
+p:NTV Plus
+0196:01683095:0004:0070:1:0:0
+Istoriya Telekanal
+p:NTV Plus
+0197:01683095:0004:0070:1:0:0
+Mult
+p:NTV Plus
+0198:01683095:0004:0070:1:0:0
+Moya Planeta
+p:NTV Plus
+0199:01683095:0004:0070:1:0:0
+Russkiy Detektiv
+p:NTV Plus
+019a:01683095:0004:0070:1:0:0
+My
+p:NTV Plus
+019b:01683095:0004:0070:1:0:0
+Ani
+p:NTV Plus
+019c:01683095:0004:0070:1:0:0
+Nauka
+p:NTV Plus
+019d:01683095:0004:0070:1:0:0
+Telekanal 2x2
+p:Unknown
+019e:01683095:0004:0070:1:0:0
+Appetitnyy
+p:NTV Plus
+019f:01683095:0004:0070:1:0:0
+Subbota!
+p:Unknown
+01a0:01683095:0004:0070:1:0:0
+TNT 4
+p:Unknown
+01a1:01683095:0004:0070:1:0:0
+Moskva Doverie
+p:NTV Plus
+01a2:01683095:0004:0070:1:0:0
+Juvelirochka
+p:Unknown
+01a3:01683095:0004:0070:1:0:0
+Sarafan
+p:NTV Plus
+01a4:01683095:0004:0070:1:0:0
+Mult i muzyka
+p:NTV Plus
+01a5:01683095:0004:0070:1:0:0
+Russkiy Bestseller
+p:NTV Plus
+01a6:01683095:0004:0070:1:0:0
+Telekanal Doktor
+p:NTV Plus
+01a7:01683095:0004:0070:1:0:0
+Moy Mir
+p:Unknown
+01a8:01683095:0004:0070:1:0:0
+Russkiy Roman
+p:NTV Plus
+01a9:01683095:0004:0070:1:0:0
+Cartoon Classics
+p:NTV Plus
+01aa:01683095:0004:0070:1:0:0
+Blue Hustler Europe
+p:NTV Plus
+01ab:01683095:0004:0070:1:0:0
+Playboy TV Europe
+p:NTV Plus
+01ac:01683095:0004:0070:1:0:0
+Multilandia
+p:NTV Plus
+01ad:01683095:0004:0070:1:0:0
+Barely Legal TV
+p:NTV Plus
+01ae:01683095:0004:0070:1:0:0
+Vesna Telekanal
+p:NTV Plus
+01af:01683095:0004:0070:1:0:0
+Dialogi o rybalke
+p:NTV Plus
+01b0:01683095:0004:0070:1:0:0
+Babes TV
+p:NTV Plus
+9859:016830a8:0027:00fd:1:0:0
+Perviy kanal
+p:Trikolor Centr
+985a:016830a8:0027:00fd:1:0:0
+Rossiya 1
+p:Trikolor Centr
+985c:016830a8:0027:00fd:1:0:0
+NTV
+p:Trikolor Centr
+985f:016830a8:0027:00fd:1:0:0
+Rossiya 24
+p:Trikolor Centr
+9861:016830a8:0027:00fd:1:0:0
+OTR
+p:Trikolor Centr
+9862:016830a8:0027:00fd:1:0:0
+TV Centr Moskva
+p:Trikolor Centr
+9863:016830a8:0027:00fd:1:0:0
+REN TV
+p:Trikolor Centr
+9864:016830a8:0027:00fd:1:0:0
+Telekanal Spas
+p:Trikolor Centr
+9869:016830a8:0027:00fd:1:0:0
+Telekanal Zvezda
+p:Trikolor Centr
+9872:016830a8:0027:00fd:1:0:0
+Perviy kanal
+p:Trikolor Centr
+9873:016830a8:0027:00fd:1:0:0
+Rossiya 1
+p:Trikolor Centr
+9874:016830a8:0027:00fd:1:0:0
+NTV
+p:Trikolor Centr
+9875:016830a8:0027:00fd:1:0:0
+Perviy kanal +2
+p:Trikolor Centr
+9876:016830a8:0027:00fd:1:0:0
+Rossiya 1 +2
+p:Trikolor Centr
+9877:016830a8:0027:00fd:1:0:0
+NTV +2
+p:Trikolor Centr
+987b:016830a8:0027:00fd:1:0:0
+RT News
+p:Trikolor Centr
+987c:016830a8:0027:00fd:1:0:0
+RT Doc
+p:Trikolor Centr
+987d:016830a8:0027:00fd:1:0:0
+Izvestia TV
+p:Trikolor Centr
+99f9:016830a8:0027:00fd:2:0:0
+Radio Kultura
+p:Trikolor Centr
+9a04:016830a8:0027:00fd:2:0:0
+Radio Rossii
+p:Trikolor Centr
+9a05:016830a8:0027:00fd:2:0:0
+Vesti FM
+p:Trikolor Centr
+9a07:016830a8:0027:00fd:2:0:0
+Radio Mayak
+p:Trikolor Centr
+9a0e:016830a8:0027:00fd:2:0:0
+Radio Zvezda
+p:Trikolor Centr
+02bd:016830bc:ffdd:036e:1:0:0
+Rede Mundial Africa
+p:DSTV Africa
+02be:016830bc:ffdd:036e:1:0:0
+Piwi +
+p:DSTV Africa
+02bf:016830bc:ffdd:036e:1:0:0
+CCTV Entertainment
+p:DSTV Africa
+02c0:016830bc:ffdd:036e:1:0:0
+Metro TV
+p:DSTV Africa
+02c1:016830bc:ffdd:036e:1:0:0
+Ghana TV
+p:DSTV Africa
+02c2:016830bc:ffdd:036e:1:0:0
+Afro Music Pop
+p:DSTV Africa
+02c3:016830bc:ffdd:036e:1:0:0
+Mambo Moto TV
+p:DSTV Africa
+02c4:016830bc:ffdd:036e:1:0:0
+Canal + Action Centre
+p:DSTV Africa
+02c5:016830bc:ffdd:036e:1:0:0
+France 24 Français
+p:DSTV Africa
+02c6:016830bc:ffdd:036e:1:0:0
+Sky News International
+p:DSTV Africa
+02c7:016830bc:ffdd:036e:1:0:0
+News Central TV
+p:DSTV Africa
+02c8:016830bc:ffdd:036e:1:0:0
+A+
+p:DSTV Africa
+02c9:016830bc:ffdd:036e:1:0:0
+Planète +
+p:DSTV Africa
+02ca:016830bc:ffdd:036e:1:0:0
+Rok
+p:DSTV Africa
+02cb:016830bc:ffdd:036e:1:0:0
+Universal TV Africa
+p:DSTV Africa
+02cc:016830bc:ffdd:036e:1:0:0
+TPA 1
+p:DSTV Africa
+02cd:016830bc:ffdd:036e:1:0:0
+TPA 2
+p:DSTV Africa
+02ce:016830bc:ffdd:036e:1:0:0
+Canal Panda
+p:DSTV Africa
+02cf:016830bc:ffdd:036e:1:0:0
+Comedy Central Africa
+p:DSTV Africa
+02d0:016830bc:ffdd:036e:1:0:0
+Trace Jama
+p:DSTV Africa
+02d1:016830bc:ffdd:036e:1:0:0
+National Geographic Wild South Africa
+p:DSTV Africa
+02d2:016830bc:ffdd:036e:1:0:0
+MTV Portugal
+p:DSTV Africa
+02d4:016830bc:ffdd:036e:1:0:0
+Real Time Africa
+p:DSTV Africa
+02d5:016830bc:ffdd:036e:1:0:0
+Telemundo Africa
+p:DSTV Africa
+02d6:016830bc:ffdd:036e:1:0:0
+Gloom Channel
+p:DSTV Africa
+02d7:016830bc:ffdd:036e:1:0:0
+Star Mundo
+p:DSTV Africa
+02d8:016830bc:ffdd:036e:1:0:0
+AXN Movies
+p:DSTV Africa
+02d9:016830bc:ffdd:036e:1:0:0
+ESPN Africa
+p:DSTV Africa
+02da:016830bc:ffdd:036e:1:0:0
+StarLife
+p:DSTV Africa
+02ef:016830bc:ffdd:036e:2:0:0
+Rhythm
+p:DSTV Africa
+02f0:016830bc:ffdd:036e:2:0:0
+Ray Power FM
+p:DSTV Africa
+02f1:016830bc:ffdd:036e:2:0:0
+Star FM 101.5
+p:DSTV Africa
+9c41:016830bc:0028:00fd:1:0:0
+Eromania 4K
+p:Trikolor Centr
+9c42:016830bc:0028:00fd:1:0:0
+Soyuzny
+p:Trikolor Centr
+9c43:016830bc:0028:00fd:1:0:0
+Kinopokaz
+p:Trikolor Centr
+9c44:016830bc:0028:00fd:1:0:0
+Hit
+p:Trikolor Centr
+9c45:016830bc:0028:00fd:1:0:0
+Blokbaster
+p:Trikolor Centr
+9c46:016830bc:0028:00fd:1:0:0
+Ya Perviy
+p:Trikolor Centr
+9c48:016830bc:0028:00fd:1:0:0
+Sever
+p:Trikolor Centr
+9c4a:016830bc:0028:00fd:1:0:0
+RBK TV
+p:Trikolor Centr
+9c4c:016830bc:0028:00fd:1:0:0
+Kinozal Istoricheskiy
+p:Trikolor Centr
+9c50:016830bc:0028:00fd:1:0:0
+Osetiya-Iryston
+p:Trikolor Centr
+9c54:016830bc:0028:00fd:1:0:0
+TNV Planeta
+p:Trikolor Centr
+9c55:016830bc:0028:00fd:1:0:0
+Bashkirskoe Sputnikovoe TV
+p:Trikolor Centr
+9c56:016830bc:0028:00fd:1:0:0
+Don 24
+p:Trikolor Centr
+9c58:016830bc:0028:00fd:1:0:0
+Mir 24
+p:Trikolor Centr
+9c59:016830bc:0028:00fd:1:0:0
+Mir Belogorya TV
+p:Trikolor Centr
+9c5b:016830bc:0028:00fd:1:0:0
+Chuvash En
+p:Trikolor Centr
+9c5d:016830bc:0028:00fd:1:0:0
+Kuban 24
+p:Trikolor Centr
+9c5e:016830bc:0028:00fd:1:0:0
+Kriminalnoe
+p:Trikolor Centr
+0001:01683161:0001:0001:1:0:0
+Dijlah TV
+p:Unknown
+end

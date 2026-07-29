@@ -1,25 +1,427 @@
 {
-    "upd": 0,
-    "ver": 535,
-    "chk": 586,
-    "t1": 0,
+    "upd": 6108,
+    "ver": 2035,
+    "chk": 15750,
+    "t1": 6108,
     "dup": 0,
     "skip": 0,
     "unm": [],
     "audits": [
-        "audit_Hellas Sat 3-4 (KU-Band)@39.0E.csv"
+        "audit_Hispasat 30W-5-30W-6 (KU-Band)@30.0W.csv",
+        "audit_SES 4 (C-Band)@22.1W.csv",
+        "audit_SES 4 (KU-Band)@22.0W.csv",
+        "audit_Eutelsat 8 West B (C-Band)@8.1W.csv",
+        "audit_Eutelsat 8 West B (KU-Band)@8.0W.csv",
+        "audit_Nilesat 201-301 & Eutelsat 7 West A (KU-Band)@7.1W.csv",
+        "audit_Thor 5-6-7 & Intelsat 10-02 (C-Band)@0.9W.csv",
+        "audit_Thor 5-6-7 & Intelsat 10-02 (KU-Band)@0.8W.csv",
+        "audit_BulgariaSat 1 (KU-Band)@1.9E.csv",
+        "audit_Eutelsat 3B & Rascom QAF 1R (KU-Band)@3.0E.csv",
+        "audit_Eutelsat 3B & Rascom QAF 1R (C-Band)@3.1E.csv",
+        "audit_Astra 4A & SES 5 (KU-Band)@4.9E.csv",
+        "audit_Astra 4A & SES 5 (C-Band)@5.0E.csv",
+        "audit_Eutelsat 7B-7C (KU-Band)@7.0E.csv",
+        "audit_Eutelsat 9B & Ka-Sat 9A (KU-Band)@9.0E.csv",
+        "audit_Eutelsat 10B (KU-Band)@10.0E.csv",
+        "audit_Eutelsat 10B (C-Band)@10.1E.csv",
+        "audit_Hotbird 13F-13G (KU-Band)@13.0E.csv",
+        "audit_Eutelsat 16A (KU-Band)@16.0E.csv",
+        "audit_Astra 1N-1P (KU-Band)@19.2E.csv",
+        "audit_Astra 3C (KU-Band)@23.5E.csv",
+        "audit_Badr 7-8 & Es'hail 2 (KU-Band)@26.0E.csv",
+        "audit_Badr 7-8 & Es'hail 2 (C-Band)@26.1E.csv",
+        "audit_Arabsat 5A-6A (KU-Band)@30.5E.csv",
+        "audit_Eutelsat 36D & Express AMU1 (KU-Band)@36.0E.csv",
+        "audit_Hellas Sat 3-4 (KU-Band)@39.0E.csv",
+        "audit_Express AM7 (KU-Band)@40.0E.csv",
+        "audit_Express AM7 (C-Band)@40.1E.csv",
+        "audit_T\u00fcrksat 3A-4A-5B-6A (KU-Band)@42.0E.csv",
+        "audit_Azerspace 1 (KU-Band)@46.0E.csv",
+        "audit_Azerspace 1 (C-Band)@46.1E.csv",
+        "audit_Al Yah 1 (KU-Band)@52.5E.csv",
+        "audit_Express AM6 (KU-Band)@53.0E.csv",
+        "audit_G-Sat 16 & Yamal 402 (KU-Band)@54.9E.csv",
+        "audit_NSS 12 (KU-Band)@57.0E.csv",
+        "audit_NSS 12 (C-Band)@57.1E.csv",
+        "audit_Eutelsat 70B (KU-Band)@70.5E.csv",
+        "audit_Apstar 7 (KU-Band)@76.5E.csv",
+        "audit_Apstar 7 (C-Band)@76.6E.csv",
+        "audit_Express 80 (KU-Band)@80.0E.csv",
+        "audit_Yamal 401 (KU-Band)@90.0E.csv",
+        "audit_Yamal 401 (C-Band)@90.1E.csv",
+        "audit_G-Sat 15-17 (KU-Band)@93.5E.csv",
+        "audit_G-Sat 15-17 (C-Band)@93.6E.csv",
+        "audit_SES 7-9 & Merah Putih (KU-Band)@108.1E.csv",
+        "audit_SES 7-9 & Merah Putih (C-Band)@108.19999999999999E.csv"
     ],
     "unmatched_reports": [
-        "missed_Hellas Sat 3-4 (KU-Band)@39.0E.txt"
+        "missed_Hispasat 30W-5-30W-6 (KU-Band)@30.0W.txt",
+        "missed_SES 4 (C-Band)@22.1W.txt",
+        "missed_SES 4 (KU-Band)@22.0W.txt",
+        "missed_Eutelsat 8 West B (C-Band)@8.1W.txt",
+        "missed_Eutelsat 8 West B (KU-Band)@8.0W.txt",
+        "missed_Nilesat 201-301 & Eutelsat 7 West A (KU-Band)@7.1W.txt",
+        "missed_Thor 5-6-7 & Intelsat 10-02 (C-Band)@0.9W.txt",
+        "missed_Thor 5-6-7 & Intelsat 10-02 (KU-Band)@0.8W.txt",
+        "missed_Eutelsat 3B & Rascom QAF 1R (KU-Band)@3.0E.txt",
+        "missed_Eutelsat 3B & Rascom QAF 1R (C-Band)@3.1E.txt",
+        "missed_Astra 4A & SES 5 (KU-Band)@4.9E.txt",
+        "missed_Astra 4A & SES 5 (C-Band)@5.0E.txt",
+        "missed_Eutelsat 7B-7C (KU-Band)@7.0E.txt",
+        "missed_Eutelsat 9B & Ka-Sat 9A (KU-Band)@9.0E.txt",
+        "missed_Eutelsat 10B (KU-Band)@10.0E.txt",
+        "missed_Eutelsat 10B (C-Band)@10.1E.txt",
+        "missed_Hotbird 13F-13G (KU-Band)@13.0E.txt",
+        "missed_Eutelsat 16A (KU-Band)@16.0E.txt",
+        "missed_Astra 1N-1P (KU-Band)@19.2E.txt",
+        "missed_Astra 3C (KU-Band)@23.5E.txt",
+        "missed_Badr 7-8 & Es'hail 2 (KU-Band)@26.0E.txt",
+        "missed_Arabsat 5A-6A (KU-Band)@30.5E.txt",
+        "missed_Eutelsat 36D & Express AMU1 (KU-Band)@36.0E.txt",
+        "missed_Hellas Sat 3-4 (KU-Band)@39.0E.txt",
+        "missed_Express AM7 (KU-Band)@40.0E.txt",
+        "missed_Express AM7 (C-Band)@40.1E.txt",
+        "missed_T\u00fcrksat 3A-4A-5B-6A (KU-Band)@42.0E.txt",
+        "missed_Azerspace 1 (KU-Band)@46.0E.txt",
+        "missed_Azerspace 1 (C-Band)@46.1E.txt",
+        "missed_Express AM6 (KU-Band)@53.0E.txt",
+        "missed_G-Sat 16 & Yamal 402 (KU-Band)@54.9E.txt",
+        "missed_NSS 12 (KU-Band)@57.0E.txt",
+        "missed_NSS 12 (C-Band)@57.1E.txt",
+        "missed_Eutelsat 70B (KU-Band)@70.5E.txt",
+        "missed_Apstar 7 (KU-Band)@76.5E.txt",
+        "missed_Apstar 7 (C-Band)@76.6E.txt",
+        "missed_Express 80 (KU-Band)@80.0E.txt",
+        "missed_Yamal 401 (KU-Band)@90.0E.txt",
+        "missed_Yamal 401 (C-Band)@90.1E.txt",
+        "missed_G-Sat 15-17 (KU-Band)@93.5E.txt",
+        "missed_G-Sat 15-17 (C-Band)@93.6E.txt",
+        "missed_SES 7-9 & Merah Putih (KU-Band)@108.1E.txt",
+        "missed_SES 7-9 & Merah Putih (C-Band)@108.19999999999999E.txt"
     ],
-    "processed_csvs": 1,
-    "total_time": 0.04372453689575195,
+    "processed_csvs": 46,
+    "total_time": 0.49094104766845703,
     "sat_data": {
-        "Hellas Sat 3-4 (KU-Band)@39.0E": {
+        "Hispasat 30W-5-30W-6 (KU-Band)@30.0W": {
+            "upd": 82,
+            "ver": 23,
+            "chk": 236,
+            "unm": 131,
+            "dup": 0
+        },
+        "SES 4 (C-Band)@22.1W": {
+            "upd": 6,
+            "ver": 0,
+            "chk": 9,
+            "unm": 3,
+            "dup": 0
+        },
+        "SES 4 (KU-Band)@22.0W": {
+            "upd": 32,
+            "ver": 31,
+            "chk": 497,
+            "unm": 434,
+            "dup": 0
+        },
+        "Eutelsat 8 West B (C-Band)@8.1W": {
+            "upd": 40,
+            "ver": 10,
+            "chk": 60,
+            "unm": 10,
+            "dup": 0
+        },
+        "Eutelsat 8 West B (KU-Band)@8.0W": {
+            "upd": 36,
+            "ver": 287,
+            "chk": 423,
+            "unm": 100,
+            "dup": 0
+        },
+        "Nilesat 201-301 & Eutelsat 7 West A (KU-Band)@7.1W": {
+            "upd": 565,
+            "ver": 10,
+            "chk": 705,
+            "unm": 130,
+            "dup": 0
+        },
+        "Thor 5-6-7 & Intelsat 10-02 (C-Band)@0.9W": {
             "upd": 0,
-            "ver": 535,
-            "chk": 586,
-            "unm": 51,
+            "ver": 0,
+            "chk": 4,
+            "unm": 4,
+            "dup": 0
+        },
+        "Thor 5-6-7 & Intelsat 10-02 (KU-Band)@0.8W": {
+            "upd": 188,
+            "ver": 70,
+            "chk": 844,
+            "unm": 586,
+            "dup": 0
+        },
+        "BulgariaSat 1 (KU-Band)@1.9E": {
+            "upd": 141,
+            "ver": 31,
+            "chk": 172,
+            "unm": 0,
+            "dup": 0
+        },
+        "Eutelsat 3B & Rascom QAF 1R (KU-Band)@3.0E": {
+            "upd": 27,
+            "ver": 0,
+            "chk": 36,
+            "unm": 9,
+            "dup": 0
+        },
+        "Eutelsat 3B & Rascom QAF 1R (C-Band)@3.1E": {
+            "upd": 38,
+            "ver": 8,
+            "chk": 224,
+            "unm": 178,
+            "dup": 0
+        },
+        "Astra 4A & SES 5 (KU-Band)@4.9E": {
+            "upd": 69,
+            "ver": 30,
+            "chk": 717,
+            "unm": 618,
+            "dup": 0
+        },
+        "Astra 4A & SES 5 (C-Band)@5.0E": {
+            "upd": 16,
+            "ver": 2,
+            "chk": 30,
+            "unm": 12,
+            "dup": 0
+        },
+        "Eutelsat 7B-7C (KU-Band)@7.0E": {
+            "upd": 21,
+            "ver": 11,
+            "chk": 481,
+            "unm": 449,
+            "dup": 0
+        },
+        "Eutelsat 9B & Ka-Sat 9A (KU-Band)@9.0E": {
+            "upd": 2,
+            "ver": 218,
+            "chk": 342,
+            "unm": 122,
+            "dup": 0
+        },
+        "Eutelsat 10B (KU-Band)@10.0E": {
+            "upd": 47,
+            "ver": 0,
+            "chk": 49,
+            "unm": 2,
+            "dup": 0
+        },
+        "Eutelsat 10B (C-Band)@10.1E": {
+            "upd": 84,
+            "ver": 5,
+            "chk": 91,
+            "unm": 2,
+            "dup": 0
+        },
+        "Hotbird 13F-13G (KU-Band)@13.0E": {
+            "upd": 790,
+            "ver": 171,
+            "chk": 1216,
+            "unm": 255,
+            "dup": 0
+        },
+        "Eutelsat 16A (KU-Band)@16.0E": {
+            "upd": 598,
+            "ver": 177,
+            "chk": 893,
+            "unm": 118,
+            "dup": 0
+        },
+        "Astra 1N-1P (KU-Band)@19.2E": {
+            "upd": 520,
+            "ver": 81,
+            "chk": 806,
+            "unm": 205,
+            "dup": 0
+        },
+        "Astra 3C (KU-Band)@23.5E": {
+            "upd": 209,
+            "ver": 54,
+            "chk": 623,
+            "unm": 360,
+            "dup": 0
+        },
+        "Badr 7-8 & Es'hail 2 (KU-Band)@26.0E": {
+            "upd": 320,
+            "ver": 11,
+            "chk": 747,
+            "unm": 416,
+            "dup": 0
+        },
+        "Badr 7-8 & Es'hail 2 (C-Band)@26.1E": {
+            "upd": 18,
+            "ver": 0,
+            "chk": 18,
+            "unm": 0,
+            "dup": 0
+        },
+        "Arabsat 5A-6A (KU-Band)@30.5E": {
+            "upd": 29,
+            "ver": 4,
+            "chk": 35,
+            "unm": 2,
+            "dup": 0
+        },
+        "Eutelsat 36D & Express AMU1 (KU-Band)@36.0E": {
+            "upd": 99,
+            "ver": 12,
+            "chk": 1225,
+            "unm": 1114,
+            "dup": 0
+        },
+        "Hellas Sat 3-4 (KU-Band)@39.0E": {
+            "upd": 23,
+            "ver": 549,
+            "chk": 590,
+            "unm": 18,
+            "dup": 0
+        },
+        "Express AM7 (KU-Band)@40.0E": {
+            "upd": 39,
+            "ver": 1,
+            "chk": 42,
+            "unm": 2,
+            "dup": 0
+        },
+        "Express AM7 (C-Band)@40.1E": {
+            "upd": 0,
+            "ver": 0,
+            "chk": 173,
+            "unm": 173,
+            "dup": 0
+        },
+        "T\u00fcrksat 3A-4A-5B-6A (KU-Band)@42.0E": {
+            "upd": 554,
+            "ver": 23,
+            "chk": 668,
+            "unm": 91,
+            "dup": 0
+        },
+        "Azerspace 1 (KU-Band)@46.0E": {
+            "upd": 61,
+            "ver": 10,
+            "chk": 73,
+            "unm": 2,
+            "dup": 0
+        },
+        "Azerspace 1 (C-Band)@46.1E": {
+            "upd": 10,
+            "ver": 1,
+            "chk": 117,
+            "unm": 106,
+            "dup": 0
+        },
+        "Al Yah 1 (KU-Band)@52.5E": {
+            "upd": 185,
+            "ver": 47,
+            "chk": 232,
+            "unm": 0,
+            "dup": 0
+        },
+        "Express AM6 (KU-Band)@53.0E": {
+            "upd": 30,
+            "ver": 9,
+            "chk": 88,
+            "unm": 49,
+            "dup": 0
+        },
+        "G-Sat 16 & Yamal 402 (KU-Band)@54.9E": {
+            "upd": 78,
+            "ver": 9,
+            "chk": 211,
+            "unm": 124,
+            "dup": 0
+        },
+        "NSS 12 (KU-Band)@57.0E": {
+            "upd": 80,
+            "ver": 21,
+            "chk": 138,
+            "unm": 37,
+            "dup": 0
+        },
+        "NSS 12 (C-Band)@57.1E": {
+            "upd": 67,
+            "ver": 2,
+            "chk": 93,
+            "unm": 24,
+            "dup": 0
+        },
+        "Eutelsat 70B (KU-Band)@70.5E": {
+            "upd": 31,
+            "ver": 10,
+            "chk": 46,
+            "unm": 5,
+            "dup": 0
+        },
+        "Apstar 7 (KU-Band)@76.5E": {
+            "upd": 0,
+            "ver": 0,
+            "chk": 53,
+            "unm": 53,
+            "dup": 0
+        },
+        "Apstar 7 (C-Band)@76.6E": {
+            "upd": 47,
+            "ver": 11,
+            "chk": 82,
+            "unm": 24,
+            "dup": 0
+        },
+        "Express 80 (KU-Band)@80.0E": {
+            "upd": 289,
+            "ver": 36,
+            "chk": 326,
+            "unm": 1,
+            "dup": 0
+        },
+        "Yamal 401 (KU-Band)@90.0E": {
+            "upd": 49,
+            "ver": 7,
+            "chk": 105,
+            "unm": 49,
+            "dup": 0
+        },
+        "Yamal 401 (C-Band)@90.1E": {
+            "upd": 0,
+            "ver": 0,
+            "chk": 99,
+            "unm": 99,
+            "dup": 0
+        },
+        "G-Sat 15-17 (KU-Band)@93.5E": {
+            "upd": 206,
+            "ver": 33,
+            "chk": 537,
+            "unm": 298,
+            "dup": 0
+        },
+        "G-Sat 15-17 (C-Band)@93.6E": {
+            "upd": 113,
+            "ver": 20,
+            "chk": 198,
+            "unm": 65,
+            "dup": 0
+        },
+        "SES 7-9 & Merah Putih (KU-Band)@108.1E": {
+            "upd": 269,
+            "ver": 0,
+            "chk": 1056,
+            "unm": 787,
+            "dup": 0
+        },
+        "SES 7-9 & Merah Putih (C-Band)@108.19999999999999E": {
+            "upd": 0,
+            "ver": 0,
+            "chk": 340,
+            "unm": 340,
             "dup": 0
         }
     }

@@ -1,0 +1,323 @@
+eDVB services /4/
+transponders
+023b0ebf:0005:0013
+	s 3775000:9583000:2:0:571:2:0:1:0:2:2
+/
+023b0ed6:0003:0011
+	s 3798000:19167000:3:0:571:2:0:1:0:2:2
+/
+023b0ee5:0001:0001
+	s 3813000:2400000:3:0:571:2:0:1:0:2:2
+/
+023b0ee8:0001:0001
+	s 3816000:2400000:3:0:571:2:0:1:0:2:2
+/
+023b0ef9:1000:2000
+	s 3833000:2400000:2:0:571:2:0:1:0:2:2
+/
+023b0f00:1000:2000
+	s 3840000:2400000:2:0:571:2:0:1:0:2:2
+/
+023b0f0f:0000:0000
+	s 3855000:4440000:2:0:571:2:0:1:0:2:2
+/
+023b0f12:0001:0001
+	s 3858000:9075000:3:0:571:2:0:1:0:2:2
+/
+023b0f5c:0001:ffff
+	s 3932000:3920000:2:0:571:2:0:1:0:2:2
+/
+023b0f65:0001:ffff
+	s 3941000:3585000:2:0:571:2:0:1:0:2:2
+/
+023b0fc0:0000:0000
+	s 4032000:4167000:3:0:571:2:0:1:0:2:2
+/
+023b0fff:0065:0012
+	s 4095000:11000000:2:0:571:2:0:1:0:2:2
+/
+023b0fff:0002:0001
+	s 4095000:30000000:3:0:571:2:0:1:0:2:2
+/
+end
+services
+2071:023b0ebf:0005:0013:1:0:0
+Sky Sports Main Event UK
+p:Unknown
+2072:023b0ebf:0005:0013:1:0:0
+TNT Sports 1 UK
+p:Unknown
+2073:023b0ebf:0005:0013:1:0:0
+BFBS Sport
+p:Unknown
+2074:023b0ebf:0005:0013:1:0:0
+Sky News UK
+p:Unknown
+2077:023b0ebf:0005:0013:1:0:0
+BBC One Delay
+p:Unknown
+2078:023b0ebf:0005:0013:1:0:0
+BBC Two Delay
+p:Unknown
+2079:023b0ebf:0005:0013:1:0:0
+ITV 1 Delay
+p:Unknown
+207a:023b0ebf:0005:0013:1:0:0
+BFBS Extra Delay
+p:Unknown
+207d:023b0ebf:0005:0013:1:0:0
+BFBS Extra 2
+p:Unknown
+207e:023b0ebf:0005:0013:1:0:0
+Kantipur TV
+p:Unknown
+2081:023b0ebf:0005:0013:2:0:0
+BFBS Ops
+p:Unknown
+2084:023b0ebf:0005:0013:2:0:0
+BFBS Radio 2
+p:Unknown
+2086:023b0ebf:0005:0013:2:0:0
+BFBS Best of British
+p:Unknown
+2087:023b0ebf:0005:0013:2:0:0
+BFBS UK National
+p:Unknown
+2089:023b0ebf:0005:0013:2:0:0
+BFBS Germany
+p:Unknown
+208b:023b0ebf:0005:0013:2:0:0
+BFBS Ops
+p:Unknown
+208c:023b0ebf:0005:0013:2:0:0
+BFBS Beats
+p:Unknown
+208d:023b0ebf:0005:0013:2:0:0
+BFBS Gurkha Network
+p:Unknown
+208e:023b0ebf:0005:0013:2:0:0
+BFBS Edge
+p:Unknown
+208f:023b0ebf:0005:0013:2:0:0
+BFBS Rewind
+p:Unknown
+2091:023b0ebf:0005:0013:2:0:0
+BFBS Samishran
+p:Unknown
+2092:023b0ebf:0005:0013:2:0:0
+BFBS Gurkha Network
+p:Unknown
+1fa5:023b0ed6:0003:0011:1:0:0
+BBC One
+p:Unknown
+1fa6:023b0ed6:0003:0011:1:0:0
+CBBC
+p:Unknown
+1fa7:023b0ed6:0003:0011:1:0:0
+ITV 1 London
+p:Unknown
+1fa8:023b0ed6:0003:0011:1:0:0
+BFBS Extra
+p:Unknown
+1fa9:023b0ed6:0003:0011:1:0:0
+Sky Sports Main Event UK
+p:Unknown
+1faa:023b0ed6:0003:0011:1:0:0
+TNT Sports 1 UK
+p:Unknown
+1fab:023b0ed6:0003:0011:1:0:0
+BFBS Sport
+p:Unknown
+1fac:023b0ed6:0003:0011:1:0:0
+Sky News UK
+p:Unknown
+1fad:023b0ed6:0003:0011:1:0:0
+Channel 4 London
+p:Unknown
+1fae:023b0ed6:0003:0011:1:0:0
+5
+p:Unknown
+1fb5:023b0ed6:0003:0011:1:0:0
+BFBS Extra 2
+p:Unknown
+1fb6:023b0ed6:0003:0011:1:0:0
+Kantipur TV
+p:Unknown
+1fb9:023b0ed6:0003:0011:2:0:0
+BFBS Ops
+p:Unknown
+1fbb:023b0ed6:0003:0011:2:0:0
+BFBS UK Bases
+p:Unknown
+1fbc:023b0ed6:0003:0011:2:0:0
+BFBS Radio 2
+p:Unknown
+1fbe:023b0ed6:0003:0011:2:0:0
+BFBS Best of British
+p:Unknown
+1fbf:023b0ed6:0003:0011:2:0:0
+BFBS UK National
+p:Unknown
+1fc4:023b0ed6:0003:0011:2:0:0
+BFBS Beats
+p:Unknown
+1fc5:023b0ed6:0003:0011:2:0:0
+BFBS Gurkha Network
+p:Unknown
+1fc6:023b0ed6:0003:0011:2:0:0
+BFBS Edge
+p:Unknown
+1fc7:023b0ed6:0003:0011:2:0:0
+BFBS Rewind
+p:Unknown
+1fc9:023b0ed6:0003:0011:2:0:0
+BFBS Samishran
+p:Unknown
+1fca:023b0ed6:0003:0011:2:0:0
+BFBS Falklands
+p:Unknown
+0001:023b0ee5:0001:0001:1:0:0
+Benishangul Gumuz Media
+p:Unknown
+0001:023b0ee8:0001:0001:1:0:0
+NBC Ethiopia
+p:Unknown
+0001:023b0ef9:1000:2000:1:0:0
+Harari TV
+p:Unknown
+0001:023b0f00:1000:2000:1:0:0
+Dire TV
+p:Unknown
+0001:023b0f0f:0000:0000:1:0:0
+Fana Plus
+p:Unknown
+0001:023b0f12:0001:0001:1:0:0
+Addis Media Network
+p:Unknown
+0002:023b0f12:0001:0001:1:0:0
+Addis Media Network Plus
+p:Unknown
+0005:023b0f12:0001:0001:2:0:0
+Addis FM 96.3
+p:Unknown
+0001:023b0f5c:0001:ffff:1:0:0
+Amico TV
+p:Unknown
+0001:023b0f65:0001:ffff:1:0:0
+Fana TV
+p:Unknown
+0001:023b0fc0:0000:0000:1:0:0
+OBN Horn of Africa
+p:Unknown
+012e:023b0fff:0065:0012:1:0:0
+AFN Prime Atlantic
+p:Unknown
+012f:023b0fff:0065:0012:1:0:0
+AFN News
+p:Unknown
+0130:023b0fff:0065:0012:1:0:0
+AFN Sports
+p:Unknown
+0131:023b0fff:0065:0012:1:0:0
+AFN Sports 2
+p:Unknown
+0140:023b0fff:0065:0012:2:0:0
+AFN The Eagle Atlantic
+p:Unknown
+0065:023b0fff:0002:0001:1:0:0
+MTN Special Events
+p:Unknown
+0066:023b0fff:0002:0001:1:0:0
+MS Now International
+p:Unknown
+0067:023b0fff:0002:0001:1:0:0
+Fox News Channel
+p:Unknown
+0068:023b0fff:0002:0001:1:0:0
+Bloomberg TV US
+p:Unknown
+006a:023b0fff:0002:0001:1:0:0
+BBC News
+p:Unknown
+006b:023b0fff:0002:0001:1:0:0
+Prime Journey
+p:Unknown
+006d:023b0fff:0002:0001:1:0:0
+Sport 24
+p:Unknown
+006e:023b0fff:0002:0001:1:0:0
+Prime One
+p:Unknown
+006f:023b0fff:0002:0001:1:0:0
+Sport 24 Extra
+p:Unknown
+0070:023b0fff:0002:0001:1:0:0
+RTL Deutschland
+p:Unknown
+0071:023b0fff:0002:0001:1:0:0
+News24 Australia
+p:Unknown
+0073:023b0fff:0002:0001:1:0:0
+TFC Middle East
+p:Unknown
+0074:023b0fff:0002:0001:1:0:0
+Prime Favorites
+p:Unknown
+0075:023b0fff:0002:0001:1:0:0
+BBC HD
+p:Unknown
+0076:023b0fff:0002:0001:1:0:0
+TVE Internacional Europa
+p:Unknown
+0077:023b0fff:0002:0001:1:0:0
+Canal 24 Horas
+p:Unknown
+0078:023b0fff:0002:0001:1:0:0
+Australian Comedy & Drama Channel
+p:Unknown
+0079:023b0fff:0002:0001:1:0:0
+ABC News
+p:Unknown
+007b:023b0fff:0002:0001:1:0:0
+CNN International South Asia
+p:Unknown
+007c:023b0fff:0002:0001:1:0:0
+Food Network East
+p:Unknown
+007d:023b0fff:0002:0001:1:0:0
+HGTV East
+p:Unknown
+007e:023b0fff:0002:0001:1:0:0
+Travel Channel East
+p:Unknown
+007f:023b0fff:0002:0001:1:0:0
+BBC Earth Middle East
+p:Unknown
+0081:023b0fff:0002:0001:1:0:0
+BBC Lifestyle Asia
+p:Unknown
+0083:023b0fff:0002:0001:1:0:0
+France 24 Français
+p:Unknown
+0084:023b0fff:0002:0001:1:0:0
+Mediaset Italia
+p:Unknown
+008c:023b0fff:0002:0001:1:0:0
+Hunan TV
+p:Unknown
+008f:023b0fff:0002:0001:1:0:0
+China Movie
+p:Unknown
+0090:023b0fff:0002:0001:1:0:0
+CCTV Entertainment
+p:Unknown
+0091:023b0fff:0002:0001:1:0:0
+CCTV 4 America
+p:Unknown
+00a1:023b0fff:0002:0001:1:0:0
+National Geographic UK
+p:Unknown
+00c8:023b0fff:0002:0001:1:0:0
+MTN Special Events 2
+p:Unknown
+end

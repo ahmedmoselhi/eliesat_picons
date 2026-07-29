@@ -1,0 +1,560 @@
+eDVB services /4/
+transponders
+00132f29:001a:0003
+	s 12073000:30000000:0:0:19:2:0:1:0:2:2
+/
+00132f3c:0019:0003
+	s 12092000:30000000:1:0:19:2:0:1:0:2:2
+/
+00132f4f:000c:0003
+	s 12111000:30000000:0:0:19:2:0:1:0:2:2
+/
+00132f89:0018:0003
+	s 12169000:30000000:1:0:19:2:0:1:0:2:2
+/
+00132faf:0015:0003
+	s 12207000:30000000:1:0:19:2:0:1:0:2:2
+/
+00132fc2:0008:0003
+	s 12226000:30000000:0:0:19:2:0:1:0:2:2
+/
+0013300f:0010:0003
+	s 12303000:30000000:0:0:19:2:0:1:0:2:2
+/
+00133022:0013:0003
+	s 12322000:30000000:1:0:19:2:0:1:0:2:2
+/
+00133035:000f:0003
+	s 12341000:30000000:0:0:19:2:0:1:0:2:2
+/
+00133048:000e:0003
+	s 12360000:30000000:1:0:19:2:0:1:0:2:2
+/
+0013305c:0017:0003
+	s 12380000:30000000:0:0:19:2:0:1:0:2:2
+/
+00133082:0012:0003
+	s 12418000:30000000:0:0:19:2:0:1:0:2:2
+/
+001330a8:000a:0002
+	s 12456000:30000000:0:0:19:2:0:1:0:2:2
+/
+end
+services
+0258:00132f29:001a:0003:1:0:0
+BG+
+p:Neosat
+025b:00132f29:001a:0003:1:0:0
+VNT
+p:Unknown
+025c:00132f29:001a:0003:1:0:0
+Dizi
+p:Neosat
+025e:00132f29:001a:0003:1:0:0
+Ambience TV
+p:Unknown
+0261:00132f29:001a:0003:1:0:0
+Fast & FunBox HD
+p:Neosat
+0265:00132f29:001a:0003:1:0:0
+Investigation Discovery Europe
+p:Neosat
+0267:00132f29:001a:0003:1:0:0
+Auto Motor und Sport
+p:Neosat
+026a:00132f29:001a:0003:2:0:0
+Radio N-Joy
+p:Unknown
+026b:00132f29:001a:0003:2:0:0
+Radio Z-Rock
+p:Unknown
+026c:00132f29:001a:0003:2:0:0
+Radio Veselina
+p:Unknown
+0244:00132f3c:0019:0003:1:0:0
+The Fishing & Hunting Channel
+p:Neosat
+0246:00132f3c:0019:0003:1:0:0
+FilmBox+ Festival Worldwide
+p:Neosat
+0248:00132f3c:0019:0003:1:0:0
+Dom Kino Premium International
+p:Neosat
+0249:00132f3c:0019:0003:1:0:0
+Rock & Roll
+p:Neosat
+024a:00132f3c:0019:0003:1:0:0
+360 Tune Box
+p:Neosat
+024c:00132f3c:0019:0003:1:0:0
+Jukebox
+p:Neosat
+0250:00132f3c:0019:0003:1:0:0
+FashionBox HD
+p:Neosat
+0252:00132f3c:0019:0003:1:0:0
+FightBox HD
+p:Neosat
+0253:00132f3c:0019:0003:1:0:0
+Fight Network
+p:Neosat
+0255:00132f3c:0019:0003:2:0:0
+Radio Veronika
+p:Unknown
+0256:00132f3c:0019:0003:2:0:0
+The Voice Bulgaria
+p:Unknown
+0257:00132f3c:0019:0003:2:0:0
+Magic FM
+p:Unknown
+0046:00132f4f:000c:0003:1:0:0
+Viasat History East
+p:Neosat
+0047:00132f4f:000c:0003:1:0:0
+Viasat Nature East
+p:Neosat
+0048:00132f4f:000c:0003:1:0:0
+Viasat Explore East
+p:Neosat
+004b:00132f4f:000c:0003:1:0:0
+Travel Channel Europe
+p:Neosat
+004c:00132f4f:000c:0003:1:0:0
+FilmBox+ Emotion Bulgaria
+p:Neosat
+004d:00132f4f:000c:0003:1:0:0
+DocuBox HD
+p:Neosat
+004e:00132f4f:000c:0003:1:0:0
+Animal Planet Europe
+p:Neosat
+004f:00132f4f:000c:0003:1:0:0
+EuroNews English
+p:Neosat
+021c:00132f89:0018:0003:1:0:0
+TVR International
+p:Unknown
+021d:00132f89:0018:0003:1:0:0
+Duck TV SD
+p:Neosat
+021e:00132f89:0018:0003:1:0:0
+Chasse & Pêche
+p:Neosat
+021f:00132f89:0018:0003:1:0:0
+Wness TV
+p:Neosat
+0220:00132f89:0018:0003:1:0:0
+Gametoon
+p:Neosat
+0221:00132f89:0018:0003:1:0:0
+7/8 TV
+p:Neosat
+0222:00132f89:0018:0003:1:0:0
+Viasat Epic Drama
+p:Unknown
+0224:00132f89:0018:0003:1:0:0
+Deluxe Music
+p:Neosat
+0226:00132f89:0018:0003:1:0:0
+Vox Deutschland
+p:Neosat
+0227:00132f89:0018:0003:1:0:0
+ProSieben Deutschland
+p:Neosat
+0229:00132f89:0018:0003:1:0:0
+Kids Stars
+p:Neosat
+022a:00132f89:0018:0003:1:0:0
+Kanal 0
+p:Unknown
+022c:00132f89:0018:0003:1:0:0
+Toggo Deutschland
+p:Neosat
+022d:00132f89:0018:0003:1:0:0
+Toggo Plus
+p:Neosat
+022e:00132f89:0018:0003:1:0:0
+RTL Deutschland
+p:Neosat
+022f:00132f89:0018:0003:1:0:0
+RiC International
+p:Neosat
+0230:00132f89:0018:0003:1:0:0
+JimJam Europe
+p:Neosat
+0231:00132f89:0018:0003:1:0:0
+This is Bulgaria HD
+p:Neosat
+0232:00132f89:0018:0003:1:0:0
+Fon Music
+p:Neosat
+0236:00132f89:0018:0003:2:0:0
+Radio 1
+p:Unknown
+0237:00132f89:0018:0003:2:0:0
+BG Radio
+p:Unknown
+0238:00132f89:0018:0003:2:0:0
+Eparkhiiski Glas
+p:Unknown
+0239:00132f89:0018:0003:2:0:0
+BNR Horizont
+p:Unknown
+023a:00132f89:0018:0003:2:0:0
+Darik Radio
+p:Unknown
+0104:00132faf:0015:0003:1:0:0
+Evrokom
+p:Unknown
+0105:00132faf:0015:0003:1:0:0
+Sky News International
+p:Neosat
+0107:00132faf:0015:0003:1:0:0
+Fen Folk
+p:Unknown
+0109:00132faf:0015:0003:1:0:0
+Travel TV
+p:Neosat
+010a:00132faf:0015:0003:1:0:0
+FilmBox+ One Central Europe
+p:Neosat
+010d:00132faf:0015:0003:1:0:0
+BNT 4
+p:Unknown
+010e:00132faf:0015:0003:1:0:0
+Kitchen TV
+p:Neosat
+0110:00132faf:0015:0003:1:0:0
+Nick Jr Bulgaria
+p:Neosat
+0113:00132faf:0015:0003:1:0:0
+Max One
+p:Neosat
+0116:00132faf:0015:0003:1:0:0
+Tiankov Folk
+p:Neosat
+0155:00132fc2:0008:0003:1:0:0
+SuperOne HD
+p:Neosat
+0156:00132fc2:0008:0003:1:0:0
+Playboy TV Europe
+p:Neosat
+0159:00132fc2:0008:0003:1:0:0
+Hustler HD Europe
+p:Neosat
+015a:00132fc2:0008:0003:1:0:0
+Evil Angel TV
+p:Neosat
+015b:00132fc2:0008:0003:1:0:0
+Private TV
+p:Neosat
+015c:00132fc2:0008:0003:1:0:0
+Erox HD
+p:Neosat
+015d:00132fc2:0008:0003:1:0:0
+Eroxxx HD
+p:Neosat
+0161:00132fc2:0008:0003:1:0:0
+Hustler TV Europe
+p:Neosat
+0164:00132fc2:0008:0003:1:0:0
+Fantazzy TV
+p:Neosat
+0165:00132fc2:0008:0003:1:0:0
+Barely Legal TV
+p:Neosat
+00a0:0013300f:0010:0003:1:0:0
+Max Sport 4
+p:Neosat
+00a1:0013300f:0010:0003:1:0:0
+HGTV Pan Regional
+p:Neosat
+00a3:0013300f:0010:0003:1:0:0
+Max Sport 3
+p:Neosat
+00a4:0013300f:0010:0003:1:0:0
+TV 1
+p:Unknown
+00a6:0013300f:0010:0003:1:0:0
+Max Sport 1
+p:Neosat
+00a7:0013300f:0010:0003:1:0:0
+Bulgaria 24
+p:Unknown
+00a8:0013300f:0010:0003:1:0:0
+Bulgaria On Air
+p:Neosat
+00aa:0013300f:0010:0003:1:0:0
+Rodina
+p:Unknown
+00ab:0013300f:0010:0003:1:0:0
+Dizi
+p:Neosat
+00dd:00133022:0013:0003:1:0:0
+Max Sport 2
+p:Neosat
+00de:00133022:0013:0003:1:0:0
+BTV Comedy
+p:Neosat
+00df:00133022:0013:0003:1:0:0
+BTV Story
+p:Neosat
+00e3:00133022:0013:0003:1:0:0
+CNBC Europe
+p:Neosat
+00e6:00133022:0013:0003:1:0:0
+VTK
+p:Unknown
+00e7:00133022:0013:0003:1:0:0
+Planeta Folk
+p:Unknown
+00e8:00133022:0013:0003:1:0:0
+Ring
+p:Neosat
+00e9:00133022:0013:0003:1:0:0
+BTV Cinema
+p:Neosat
+00ea:00133022:0013:0003:1:0:0
+Hit Mix Music
+p:Neosat
+0089:00133035:000f:0003:1:0:0
+BTV
+p:Neosat
+008a:00133035:000f:0003:1:0:0
+BNT 1
+p:Neosat
+008c:00133035:000f:0003:1:0:0
+Discovery Channel Bulgaria
+p:Neosat
+008d:00133035:000f:0003:1:0:0
+BNT 2
+p:Neosat
+008f:00133035:000f:0003:1:0:0
+BNT 3
+p:Neosat
+0091:00133035:000f:0003:1:0:0
+Balkanika Music TV
+p:Unknown
+0092:00133035:000f:0003:1:0:0
+BTV Action
+p:Neosat
+0065:00133048:000e:0003:1:0:0
+City TV
+p:Neosat
+0066:00133048:000e:0003:1:0:0
+Da Vinci
+p:Neosat
+0067:00133048:000e:0003:1:0:0
+Folklor TV
+p:Neosat
+0068:00133048:000e:0003:1:0:0
+France 24 English
+p:Neosat
+006b:00133048:000e:0003:1:0:0
+Plovdivska Pravoslavna TV
+p:Neosat
+006d:00133048:000e:0003:1:0:0
+CNN International Europe
+p:Neosat
+006e:00133048:000e:0003:1:0:0
+DSTV
+p:Neosat
+006f:00133048:000e:0003:1:0:0
+France 24 Français
+p:Neosat
+0070:00133048:000e:0003:1:0:0
+Motorvision+
+p:Neosat
+0071:00133048:000e:0003:1:0:0
+AXN Bulgaria
+p:Neosat
+0073:00133048:000e:0003:1:0:0
+Nastoyashcheye Vremya
+p:Unknown
+0074:00133048:000e:0003:1:0:0
+BG Music Channel
+p:Neosat
+0075:00133048:000e:0003:1:0:0
+TV Tourism
+p:Neosat
+0078:00133048:000e:0003:1:0:0
+The World
+p:Neosat
+0079:00133048:000e:0003:1:0:0
+Viasat Kino Balkan
+p:Neosat
+007b:00133048:000e:0003:1:0:0
+EuroNews Bulgaria
+p:Neosat
+007f:00133048:000e:0003:1:0:0
+Okhota i Rybalka
+p:Neosat
+0080:00133048:000e:0003:1:0:0
+TV5Monde Europe
+p:Neosat
+01f4:0013305c:0017:0003:1:0:0
+AXN White
+p:Neosat
+01f5:0013305c:0017:0003:1:0:0
+AXN Black
+p:Neosat
+01f6:0013305c:0017:0003:1:0:0
+Viasat Kino Balkan
+p:Neosat
+01f8:0013305c:0017:0003:1:0:0
+TV Shumen
+p:Unknown
+01f9:0013305c:0017:0003:1:0:0
+MMA-TV.com
+p:Neosat
+01fb:0013305c:0017:0003:1:0:0
+NHK World Japan
+p:Neosat
+01fd:0013305c:0017:0003:1:0:0
+English Club TV
+p:Neosat
+01ff:0013305c:0017:0003:1:0:0
+Classical Harmony
+p:Neosat
+0200:0013305c:0017:0003:1:0:0
+Karusel International
+p:Neosat
+0202:0013305c:0017:0003:1:0:0
+Arirang World
+p:Neosat
+0203:0013305c:0017:0003:1:0:0
+Nick Jr Europe
+p:Neosat
+0205:0013305c:0017:0003:1:0:0
+MTV Germany
+p:Neosat
+020a:0013305c:0017:0003:1:0:0
+ERT Cosmos
+p:Unknown
+020b:0013305c:0017:0003:1:0:0
+RIK Sat
+p:Neosat
+020c:0013305c:0017:0003:1:0:0
+Canal 24 Horas
+p:Neosat
+020d:0013305c:0017:0003:1:0:0
+MTV Germany
+p:Neosat
+020e:0013305c:0017:0003:1:0:0
+Fix & Foxi
+p:Neosat
+0212:0013305c:0017:0003:1:0:0
+TRT World
+p:Unknown
+0215:0013305c:0017:0003:1:0:0
+Freedom
+p:Unknown
+0216:0013305c:0017:0003:1:0:0
+Kanal 3
+p:Unknown
+0217:0013305c:0017:0003:1:0:0
+CodeHealth
+p:Neosat
+0218:0013305c:0017:0003:1:0:0
+Show Turk
+p:Neosat
+021a:0013305c:0017:0003:2:0:0
+Radio Vega+
+p:Unknown
+021b:0013305c:0017:0003:2:0:0
+Radio Ultra
+p:Unknown
+00cc:00133082:0012:0003:1:0:0
+Planeta
+p:Neosat
+00cd:00133082:0012:0003:1:0:0
+Fen TV
+p:Neosat
+00d1:00133082:0012:0003:1:0:0
+FilmBox+ Love & Crime Adria
+p:Neosat
+00d2:00133082:0012:0003:1:0:0
+Eurosport 1
+p:Neosat
+00d3:00133082:0012:0003:1:0:0
+Eurosport 2 North-East
+p:Neosat
+00d4:00133082:0012:0003:1:0:0
+Cinemania
+p:Neosat
+00d5:00133082:0012:0003:1:0:0
+Nostalgia
+p:Neosat
+00d6:00133082:0012:0003:1:0:0
+Bloomberg TV Bulgaria
+p:Neosat
+00d7:00133082:0012:0003:1:0:0
+CodeFashion
+p:Neosat
+00cf:001330a8:000a:0002:1:0:0
+DW English
+p:Unknown
+01a5:001330a8:000a:0002:1:0:0
+Sat. 1 Deutschland
+p:Neosat
+01a8:001330a8:000a:0002:1:0:0
+AMC Central Europe
+p:Neosat
+01aa:001330a8:000a:0002:1:0:0
+Telekanal STB
+p:Unknown
+01ab:001330a8:000a:0002:1:0:0
+XY Max
+p:Neosat
+01ac:001330a8:000a:0002:1:0:0
+K CN 2
+p:Neosat
+01ad:001330a8:000a:0002:1:0:0
+TV Duga +
+p:Unknown
+01ae:001330a8:000a:0002:1:0:0
+TGCom 24
+p:Neosat
+01b1:001330a8:000a:0002:1:0:0
+Tiankov Orient Folk
+p:Neosat
+01b2:001330a8:000a:0002:1:0:0
+DM Sat
+p:Neosat
+01b5:001330a8:000a:0002:1:0:0
+TVE Internacional Europa
+p:Neosat
+01b7:001330a8:000a:0002:1:0:0
+TLC Balkan
+p:Neosat
+01b8:001330a8:000a:0002:1:0:0
+RTP Mundo
+p:Unknown
+01b9:001330a8:000a:0002:1:0:0
+Passion XXX
+p:Neosat
+01bb:001330a8:000a:0002:1:0:0
+Agro TV
+p:Neosat
+01bc:001330a8:000a:0002:1:0:0
+Bulgarska Khristiyanska TV
+p:Neosat
+01bd:001330a8:000a:0002:1:0:0
+SKAT
+p:Neosat
+01be:001330a8:000a:0002:1:0:0
+XY Plus
+p:Neosat
+01bf:001330a8:000a:0002:1:0:0
+Passion XXX 2
+p:Neosat
+01c0:001330a8:000a:0002:1:0:0
+XY Mix
+p:Neosat
+01c1:001330a8:000a:0002:1:0:0
+Aljazeera English
+p:Neosat
+01c2:001330a8:000a:0002:1:0:0
+K CN 3
+p:Neosat
+end

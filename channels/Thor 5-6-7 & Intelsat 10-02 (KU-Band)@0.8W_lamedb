@@ -1,0 +1,2720 @@
+eDVB services /4/
+transponders
+0e0829dc:0047:0046
+	s 10716000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e0829fb:0046:0046
+	s 10747000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e0829fb:0044:0046
+	s 10747000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082a1a:0043:0046
+	s 10778000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e082a1a:0042:0046
+	s 10778000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082a39:003e:0046
+	s 10809000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e082a39:0041:0046
+	s 10809000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082a59:003f:0046
+	s 10841000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082a78:0048:0046
+	s 10872000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082a97:0045:0046
+	s 10903000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e082a97:0030:0046
+	s 10903000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082ab6:000a:0046
+	s 10934000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e082ab6:000e:0046
+	s 10934000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082ace:0000:0000
+	s 10958000:1000000:0:0:-8:2:0:0:0:2:2
+/
+0e082b22:0001:0001
+	s 11042000:4100000:1:0:-8:2:0:1:0:2:2
+/
+0e082b6e:0001:0000
+	s 11118000:1000000:0:0:-8:2:0:1:0:2:2
+/
+0e082bd0:001b:0046
+	s 11216000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e082bdd:0004:0046
+	s 11229000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082bef:0001:0046
+	s 11247000:24500000:1:0:-8:2:0:0:0:2:2
+/
+0e082bfd:0021:0046
+	s 11261000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082c0e:0003:0046
+	s 11278000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e082c2d:0002:0046
+	s 11309000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e082c3d:0019:0046
+	s 11325000:25000000:0:0:-8:2:0:1:0:2:2
+/
+0e082c4d:002b:0046
+	s 11341000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e082c6c:0023:0046
+	s 11372000:25000000:1:0:-8:2:0:1:0:2:2
+/
+0e082c7d:0022:0046
+	s 11389000:24500000:0:0:-8:2:0:0:0:2:2
+/
+0e082dcf:02bd:0600
+	s 11727000:28000000:1:0:-8:2:0:0:0:2:2
+/
+0e082de3:0af7:00bb
+	s 11747000:30000000:0:0:-8:2:0:1:0:2:2
+/
+0e082e09:0005:0001
+	s 11785000:28000000:0:0:-8:2:0:0:0:2:2
+/
+0e082e2f:000d:0001
+	s 11823000:30000000:0:0:-8:2:0:1:0:2:2
+/
+0e082e43:0045:0046
+	s 11843000:30000000:1:0:-8:2:0:1:0:2:2
+/
+0e082e56:0007:0001
+	s 11862000:28000000:0:0:-8:2:0:0:0:2:2
+/
+0e082e7c:000c:0001
+	s 11900000:28000000:0:0:-8:2:0:0:0:2:2
+/
+0e082e8f:02c7:0600
+	s 11919000:28000000:1:0:-8:2:0:0:0:2:2
+/
+0e082ea2:02c3:0600
+	s 11938000:28000000:0:0:-8:2:0:0:0:2:2
+/
+0e082eb6:02c8:0600
+	s 11958000:28000000:1:0:-8:2:0:0:0:2:2
+/
+0e082ec9:0af2:00bb
+	s 11977000:30000000:0:0:-8:2:0:1:0:2:2
+/
+0e082edc:02c0:0600
+	s 11996000:28000000:1:0:-8:2:0:0:0:2:2
+/
+0e082f02:02c1:0600
+	s 12034000:30000000:1:0:-8:2:0:1:0:2:2
+/
+0e082f16:0af1:00bb
+	s 12054000:30000000:0:0:-8:2:0:1:0:2:2
+/
+0e082f3c:0007:0001
+	s 12092000:28000000:0:0:-8:2:0:0:0:2:2
+/
+0e082f4f:02cb:0600
+	s 12111000:30000000:1:0:-8:2:0:1:0:2:2
+/
+0e082f62:0003:0001
+	s 12130000:28000000:0:0:-8:2:0:0:0:2:2
+/
+0e082f75:02cc:0600
+	s 12149000:30000000:1:0:-8:2:0:1:0:2:2
+/
+0e082f9c:0004:0001
+	s 12188000:28000000:1:0:-8:2:0:0:0:2:2
+/
+0e082fc2:001b:02c0
+	s 12226000:27500000:1:0:-8:2:0:0:0:2:2
+/
+0e082fd5:0af4:00bb
+	s 12245000:30000000:0:0:-8:2:0:1:0:2:2
+/
+0e082fe9:02c5:0600
+	s 12265000:28000000:1:0:-8:2:0:0:0:2:2
+/
+0e083048:0046:0046
+	s 12360000:30000000:0:0:-8:2:0:1:0:2:2
+/
+0e08305c:0af6:00bb
+	s 12380000:30000000:1:0:-8:2:0:1:0:2:2
+/
+0e08306f:0043:0046
+	s 12399000:30000000:0:0:-8:2:0:1:0:2:2
+/
+0e083082:0014:0046
+	s 12418000:28000000:1:0:-8:2:0:0:0:2:2
+/
+0e083095:003e:0046
+	s 12437000:30000000:0:0:-8:2:0:1:0:2:2
+/
+0e0830a8:0af9:00bb
+	s 12456000:30000000:1:0:-8:2:0:1:0:2:2
+/
+0e0830bc:0050:0046
+	s 12476000:30000000:0:0:-8:2:0:1:0:2:2
+/
+0e0830ef:0af8:00bb
+	s 12527000:28800000:0:0:-8:2:0:1:0:2:2
+/
+0e08313f:0afb:00bb
+	s 12607000:28800000:1:0:-8:2:0:1:0:2:2
+/
+0e083163:0519:0002
+	s 12643000:28800000:1:0:-8:2:0:1:0:2:2
+/
+0e08318f:0001:0001
+	s 12687000:27500000:0:0:-8:2:0:0:0:2:2
+/
+0e08318f:000c:000a
+	s 12687000:28800000:1:0:-8:2:0:1:0:2:2
+/
+0e0831b3:0002:0001
+	s 12723000:27500000:0:0:-8:2:0:0:0:2:2
+/
+end
+services
+1c67:0e0829dc:0047:0046:1:0:0
+TV 2 Sport
+p:Allente Danmark
+1c7a:0e0829dc:0047:0046:1:0:0
+TV 2 Echo
+p:Allente Danmark
+1c9f:0e0829dc:0047:0046:1:0:0
+TV 2 Kosmopol
+p:Allente Sverige
+1cf7:0e0829dc:0047:0046:1:0:0
+TV 2 Fri
+p:Allente Danmark
+1ee5:0e0829dc:0047:0046:1:0:0
+TV 2 Sport X
+p:Allente Danmark
+1ef5:0e0829dc:0047:0046:1:0:0
+TV 2 Charlie
+p:Allente Danmark
+1ef6:0e0829dc:0047:0046:1:0:0
+TV 2 News
+p:Allente Danmark
+040f:0e0829fb:0046:0046:1:0:0
+NRK1
+p:Allente Sverige
+0410:0e0829fb:0046:0046:1:0:0
+NRK2
+p:Allente Sverige
+0411:0e0829fb:0046:0046:1:0:0
+NRK Super TV
+p:Allente Sverige
+1eb0:0e0829fb:0046:0046:1:0:0
+NRK1 Nordnytt
+p:Allente Norge
+1eb1:0e0829fb:0046:0046:1:0:0
+NRK1 Nordland
+p:Allente Norge
+1eb2:0e0829fb:0046:0046:1:0:0
+NRK1 Midtnytt
+p:Allente Norge
+1eb3:0e0829fb:0046:0046:1:0:0
+NRK1 Møre og Romsdal
+p:Allente Norge
+1eb4:0e0829fb:0046:0046:1:0:0
+NRK1 Vestlandrevyen
+p:Allente Norge
+1eb5:0e0829fb:0046:0046:1:0:0
+NRK1 Rogaland
+p:Allente Norge
+1eb6:0e0829fb:0046:0046:1:0:0
+NRK1 Sørlandet
+p:Allente Norge
+1eb7:0e0829fb:0046:0046:1:0:0
+NRK1 Vestfold og Telemark
+p:Allente Norge
+1eb8:0e0829fb:0046:0046:1:0:0
+NRK1 Innlandet
+p:Allente Norge
+1eba:0e0829fb:0046:0046:1:0:0
+NRK Tegnspråk
+p:Allente Norge
+1ebb:0e0829fb:0046:0046:2:0:0
+NRK P1 Stor-Oslo
+p:Unknown
+1ebc:0e0829fb:0046:0046:2:0:0
+NRK P1 Troms
+p:Unknown
+1ebd:0e0829fb:0046:0046:2:0:0
+NRK P1 Finnmark
+p:Unknown
+1ebe:0e0829fb:0046:0046:2:0:0
+NRK P1 Nordland
+p:Unknown
+1ebf:0e0829fb:0046:0046:2:0:0
+NRK P1 Trøndelag
+p:Unknown
+1ec0:0e0829fb:0046:0046:2:0:0
+NRK P1 Møre og Romsdal
+p:Unknown
+1ec1:0e0829fb:0046:0046:2:0:0
+NRK P1 Sogn og Fjordane
+p:Unknown
+1ec2:0e0829fb:0046:0046:2:0:0
+NRK P1 Hordaland
+p:Unknown
+1ec3:0e0829fb:0046:0046:2:0:0
+NRK P1 Rogaland
+p:Unknown
+1ec4:0e0829fb:0046:0046:2:0:0
+NRK P1 Sørlandet
+p:Unknown
+1ec5:0e0829fb:0046:0046:2:0:0
+NRK P1 Telemark
+p:Unknown
+1ec6:0e0829fb:0046:0046:2:0:0
+NRK P1 Vestfold
+p:Unknown
+1ec7:0e0829fb:0046:0046:2:0:0
+NRK P1 Buskerud
+p:Unknown
+1ec8:0e0829fb:0046:0046:2:0:0
+NRK P1 Innlandet
+p:Unknown
+1ec9:0e0829fb:0046:0046:2:0:0
+NRK P1 Østfold
+p:Unknown
+1eca:0e0829fb:0046:0046:2:0:0
+NRK P2
+p:Unknown
+1ecb:0e0829fb:0046:0046:2:0:0
+NRK P3
+p:Unknown
+1ecc:0e0829fb:0046:0046:2:0:0
+NRK Klassisk
+p:Unknown
+1ecd:0e0829fb:0046:0046:2:0:0
+NRK Sámi Rádio
+p:Unknown
+1ece:0e0829fb:0046:0046:2:0:0
+NRK mP3
+p:Unknown
+1ecf:0e0829fb:0046:0046:2:0:0
+NRK Nyheter
+p:Unknown
+1ed0:0e0829fb:0046:0046:2:0:0
+NRK P3 Musikk
+p:Unknown
+1ed1:0e0829fb:0046:0046:2:0:0
+NRK Været til sjøs
+p:Unknown
+1ed2:0e0829fb:0046:0046:2:0:0
+NRK Radio Super
+p:Unknown
+1ed3:0e0829fb:0046:0046:2:0:0
+NRK P1+
+p:Unknown
+1ed4:0e0829fb:0046:0046:2:0:0
+NRK Jazz
+p:Unknown
+1ed5:0e0829fb:0046:0046:2:0:0
+NRK Sport
+p:Unknown
+1ed6:0e0829fb:0046:0046:2:0:0
+NRK Folkemusikk
+p:Unknown
+040a:0e0829fb:0044:0046:1:0:0
+TV 2 Sport Premium
+p:Allente Norge
+040b:0e0829fb:0044:0046:1:0:0
+TV 2 Sport Premium 2
+p:Allente Norge
+1904:0e0829fb:0044:0046:1:0:0
+TV 2 Sport 1
+p:Allente Norge
+1b99:0e0829fb:0044:0046:1:0:0
+TV 2 Zebra
+p:Allente Norge
+1b9d:0e0829fb:0044:0046:1:0:0
+TV 2 Livsstil
+p:Allente Norge
+1ba1:0e0829fb:0044:0046:1:0:0
+TV 2 Direkte
+p:Allente Norge
+1ba6:0e0829fb:0044:0046:1:0:0
+TV 2 Sport 2
+p:Allente Norge
+1bec:0e0829fb:0044:0046:1:0:0
+TV 2 Nyheter
+p:Allente Norge
+0425:0e082a1a:0043:0046:1:0:0
+Rex
+p:Allente Norge
+0b6c:0e082a1a:0043:0046:1:0:0
+Kanal 5
+p:Allente Danmark
+1007:0e082a1a:0043:0046:1:0:0
+TV Norge
+p:Allente Norge
+12c7:0e082a1a:0043:0046:1:0:0
+6'eren
+p:Allente Danmark
+1a91:0e082a1a:0043:0046:1:0:0
+Kanal 5
+p:Allente Sverige
+1bf8:0e082a1a:0043:0046:1:0:0
+Kanal 9
+p:Allente Sverige
+1c64:0e082a1a:0042:0046:1:0:0
+TV 4 Motor
+p:Allente Sverige
+1c66:0e082a1a:0042:0046:1:0:0
+TV 4 Sportkanalen
+p:Allente Sverige
+1cf6:0e082a1a:0042:0046:1:0:0
+TV 4 Sport Live 1
+p:Allente Sverige
+1cfa:0e082a1a:0042:0046:1:0:0
+Horse & Country TV Sverige
+p:Allente Sverige
+1d12:0e082a1a:0042:0046:1:0:0
+TV 4 Sport Live 2
+p:Allente Sverige
+1d13:0e082a1a:0042:0046:1:0:0
+TV 4 Sport Live 3
+p:Allente Sverige
+1d14:0e082a1a:0042:0046:1:0:0
+TV 4 Sport Live 4
+p:Allente Sverige
+1b86:0e082a39:003e:0046:1:0:0
+TV 6 Sverige
+p:Allente Sverige
+1d02:0e082a39:003e:0046:1:0:0
+V Sport +
+p:Allente Norge
+1d03:0e082a39:003e:0046:1:0:0
+V Sport 2
+p:Allente Norge
+1d17:0e082a39:003e:0046:1:0:0
+V Sport 3
+p:Allente Norge
+1d56:0e082a39:003e:0046:1:0:0
+Moonbug
+p:Allente Sverige
+1d6f:0e082a39:003e:0046:1:0:0
+Viaplay Sport
+p:Allente Sverige
+1d73:0e082a39:003e:0046:1:0:0
+V Sport 1 Sverige
+p:Allente Sverige
+1dad:0e082a39:003e:0046:1:0:0
+TV 3 Norge
+p:Allente Norge
+1e02:0e082a39:003e:0046:1:0:0
+V Sport Football
+p:Allente Sverige
+1c04:0e082a39:0041:0046:1:0:0
+Mezzo Live
+p:Allente Sverige
+1d09:0e082a39:0041:0046:1:0:0
+V Sport Premier League
+p:Allente Norge
+1d0a:0e082a39:0041:0046:1:0:0
+V Sport Premier League 1
+p:Allente Norge
+1d0b:0e082a39:0041:0046:1:0:0
+V Sport Premier League 2
+p:Allente Norge
+1d0c:0e082a39:0041:0046:1:0:0
+V Sport Premier League 3
+p:Allente Norge
+1d0d:0e082a39:0041:0046:1:0:0
+V Sport Premier League 4
+p:Allente Norge
+1ea0:0e082a39:0041:0046:1:0:0
+V Sport 1 Norge
+p:Allente Norge
+1f32:0e082a39:0041:0046:1:0:0
+V Sport Vinter
+p:Allente Sverige
+125e:0e082a59:003f:0046:1:0:0
+TV 2 Midtvest
+p:Allente Danmark
+125f:0e082a59:003f:0046:1:0:0
+TV 2 Østjylland
+p:Allente Danmark
+1260:0e082a59:003f:0046:1:0:0
+TV 2 Syd
+p:Allente Danmark
+1261:0e082a59:003f:0046:1:0:0
+TV 2 Fyn
+p:Allente Danmark
+1262:0e082a59:003f:0046:1:0:0
+TV 2 Øst
+p:Allente Danmark
+1263:0e082a59:003f:0046:1:0:0
+TV 2 Bornholm
+p:Allente Danmark
+1325:0e082a59:003f:0046:1:0:0
+MTV Max
+p:Allente Suomi
+1bf7:0e082a59:003f:0046:1:0:0
+TV 4 Hockey
+p:Allente Sverige
+1cfd:0e082a59:003f:0046:1:0:0
+TV 4 Fotboll
+p:Allente Sverige
+1d4e:0e082a59:003f:0046:1:0:0
+ATG Live
+p:Allente Sverige
+1d3a:0e082a78:0048:0046:1:0:0
+SkyShowtime 1
+p:Allente Sverige
+1d43:0e082a78:0048:0046:1:0:0
+SkyShowtime 2
+p:Allente Sverige
+1d45:0e082a78:0048:0046:1:0:0
+BBC Nordic
+p:Allente Danmark
+1d47:0e082a78:0048:0046:1:0:0
+BBC Nordic Norway
+p:Allente Norge
+1d53:0e082a78:0048:0046:1:0:0
+Viasat Explore
+p:Allente Sverige
+1d54:0e082a78:0048:0046:1:0:0
+Viasat History
+p:Allente Sverige
+1d55:0e082a78:0048:0046:1:0:0
+Viasat Nature
+p:Allente Sverige
+1d5a:0e082a78:0048:0046:1:0:0
+BBC Nordic Sweden
+p:Allente Sverige
+114d:0e082a97:0045:0046:1:0:0
+V Sport Motor
+p:Allente Sverige
+115e:0e082a97:0045:0046:1:0:0
+TV 3 Sverige
+p:Allente Sverige
+1b75:0e082a97:0045:0046:1:0:0
+TV 8 Sverige
+p:Allente Sverige
+1b77:0e082a97:0045:0046:1:0:0
+TV 10
+p:Allente Sverige
+1cd8:0e082a97:0045:0046:1:0:0
+V Sport Premium
+p:Allente Sverige
+1d08:0e082a97:0045:0046:1:0:0
+TV 3+ Norge
+p:Allente Norge
+1e4e:0e082a97:0045:0046:1:0:0
+V Sport Extra
+p:Allente Sverige
+1c1c:0e082a97:0030:0046:1:0:0
+Eurosport 1 Danmark
+p:Allente Danmark
+1c25:0e082a97:0030:0046:1:0:0
+Eurosport 1 Finland
+p:Allente Suomi
+1c51:0e082a97:0030:0046:1:0:0
+Eurosport 2 Danmark
+p:Allente Danmark
+1c69:0e082a97:0030:0046:1:0:0
+Eurosport 1 Norge
+p:Allente Norge
+1c6b:0e082a97:0030:0046:1:0:0
+Eurosport 1 Sverige
+p:Allente Sverige
+1c6c:0e082a97:0030:0046:1:0:0
+Eurosport Norge
+p:Allente Norge
+1c6d:0e082a97:0030:0046:1:0:0
+Eurosport 2 Sverige
+p:Allente Sverige
+1c7c:0e082a97:0030:0046:1:0:0
+TV 5
+p:Allente Suomi
+1c55:0e082ab6:000a:0046:1:0:0
+DW English
+p:Allente Sverige
+1c57:0e082ab6:000a:0046:1:0:0
+CNBC Europe
+p:Allente Sverige
+1c5e:0e082ab6:000a:0046:1:0:0
+Bloomberg TV Europe
+p:Allente Sverige
+1c7d:0e082ab6:000a:0046:1:0:0
+National Geographic Danmark
+p:Allente Danmark
+1c80:0e082ab6:000a:0046:1:0:0
+National Geographic Norge
+p:Allente Norge
+1c82:0e082ab6:000a:0046:1:0:0
+National Geographic Scandinavia
+p:Allente Sverige
+1c93:0e082ab6:000a:0046:1:0:0
+DK 4
+p:Allente Danmark
+1c94:0e082ab6:000a:0046:1:0:0
+Sport Live
+p:Allente Danmark
+1c96:0e082ab6:000a:0046:1:0:0
+DR 2
+p:Allente Sverige
+1c98:0e082ab6:000a:0046:1:0:0
+DR Ramasjang
+p:Allente Sverige
+1e83:0e082ab6:000a:0046:1:0:0
+DR 1
+p:Allente Sverige
+057c:0e082ab6:000e:0046:1:0:0
+TV 4 Tennis
+p:Allente Sverige
+057d:0e082ab6:000e:0046:1:0:0
+TV 4
+p:Allente Sverige
+0584:0e082ab6:000e:0046:1:0:0
+MTV Viihde
+p:Allente Suomi
+0cea:0e082ab6:000e:0046:1:0:0
+MTV Aitio
+p:Allente Suomi
+1af7:0e082ab6:000e:0046:1:0:0
+Hits
+p:Allente Sverige
+1cde:0e082ab6:000e:0046:1:0:0
+Stars
+p:Allente Sverige
+1cdf:0e082ab6:000e:0046:1:0:0
+SF-kanalen
+p:Allente Sverige
+1d52:0e082ab6:000e:0046:1:0:0
+MTV Sub
+p:Allente Suomi
+0002:0e082ace:0000:0000:2:0:0
+New Testament Baptist Radio
+p:Unknown
+0001:0e082b22:0001:0001:1:0:0
+România TV
+p:Unknown
+0002:0e082b22:0001:0001:1:0:0
+România TV
+p:Unknown
+0105:0e082b6e:0001:0000:2:0:0
+New Life Radio
+p:Unknown
+1ce0:0e082bd0:001b:0046:1:0:0
+SVT 1 Dalarna
+p:Allente Sverige
+1ceb:0e082bd0:001b:0046:1:0:0
+SVT 1 Värmland
+p:Allente Sverige
+1cef:0e082bd0:001b:0046:1:0:0
+SVT 1 Örebro
+p:Allente Sverige
+1cf0:0e082bd0:001b:0046:1:0:0
+SVT 1 Väst
+p:Allente Sverige
+1d0e:0e082bd0:001b:0046:1:0:0
+SVT 1 Öst
+p:Allente Sverige
+1d0f:0e082bd0:001b:0046:1:0:0
+SVT 1 Småland
+p:Allente Sverige
+1d10:0e082bd0:001b:0046:1:0:0
+SVT 1 Skåne
+p:Allente Sverige
+1d18:0e082bd0:001b:0046:1:0:0
+SVT 1 Gävleborg
+p:Allente Sverige
+1d19:0e082bd0:001b:0046:1:0:0
+SVT 1 Jämtland
+p:Allente Sverige
+1d1b:0e082bd0:001b:0046:1:0:0
+SVT 1 Jönköping
+p:Allente Sverige
+1d7f:0e082bd0:001b:0046:1:0:0
+SVT 1
+p:Allente Sverige
+1d80:0e082bd0:001b:0046:1:0:0
+SVT 2
+p:Allente Sverige
+1d81:0e082bd0:001b:0046:1:0:0
+SVT Barn
+p:Allente Sverige
+1d82:0e082bd0:001b:0046:1:0:0
+Kunskapskanalen
+p:Allente Sverige
+1d83:0e082bd0:001b:0046:1:0:0
+SVT 1 Norrbotten
+p:Allente Sverige
+1d84:0e082bd0:001b:0046:1:0:0
+SVT 1 Västerbotten
+p:Allente Sverige
+1d85:0e082bd0:001b:0046:1:0:0
+SVT 1 Västernorrland
+p:Allente Sverige
+1c43:0e082bdd:0004:0046:1:0:0
+FEM
+p:Allente Norge
+1c4f:0e082bdd:0004:0046:1:0:0
+Vox
+p:Allente Norge
+1cb4:0e082bdd:0004:0046:1:0:0
+Kanal 4
+p:Allente Danmark
+1d30:0e082bdd:0004:0046:1:0:0
+Kanal 11
+p:Allente Sverige
+1eef:0e082bdd:0004:0046:1:0:0
+Canal 9
+p:Allente Danmark
+1f2e:0e082bdd:0004:0046:1:0:0
+See
+p:Allente Danmark
+1b59:0e082bef:0001:0046:1:0:0
+Rikstoto Direkte
+p:Allente Norge
+1b87:0e082bef:0001:0046:1:0:0
+TV 4 Guld
+p:Allente Sverige
+1b88:0e082bef:0001:0046:1:0:0
+TV 4 Fakta
+p:Allente Sverige
+1b89:0e082bef:0001:0046:1:0:0
+TV 4 Film
+p:Allente Sverige
+1c12:0e082bef:0001:0046:1:0:0
+MTV Urheilu 2
+p:Allente Suomi
+1d1f:0e082bef:0001:0046:1:0:0
+TV 12
+p:Allente Sverige
+1c2b:0e082bfd:0021:0046:1:0:0
+Investigation Discovery Europe
+p:Allente Sverige
+1c3a:0e082bfd:0021:0046:1:0:0
+Discovery Channel Sverige
+p:Allente Sverige
+1c3b:0e082bfd:0021:0046:1:0:0
+Discovery Channel Norge
+p:Allente Norge
+1c3c:0e082bfd:0021:0046:1:0:0
+Discovery Channel Danmark
+p:Allente Danmark
+1c3d:0e082bfd:0021:0046:1:0:0
+Discovery Channel Finland
+p:Allente Suomi
+1c3e:0e082bfd:0021:0046:1:0:0
+TLC Sverige
+p:Allente Sverige
+1c3f:0e082bfd:0021:0046:1:0:0
+TLC Norge
+p:Allente Norge
+1c40:0e082bfd:0021:0046:1:0:0
+TLC Danmark
+p:Allente Danmark
+1d24:0e082bfd:0021:0046:1:0:0
+Investigation Discovery Europe
+p:Allente Danmark
+1f25:0e082bfd:0021:0046:1:0:0
+Investigation Discovery Europe
+p:Allente Norge
+1c01:0e082c0e:0003:0046:1:0:0
+VG TV
+p:Allente Norge
+1d2f:0e082c0e:0003:0046:1:0:0
+SBN International
+p:Unknown
+1d31:0e082c0e:0003:0046:1:0:0
+Heim TV
+p:Allente Norge
+1d77:0e082c0e:0003:0046:1:0:0
+Viaplay 3 Urheilu
+p:Allente Suomi
+1da1:0e082c0e:0003:0046:1:0:0
+Viaplay TV
+p:Allente Suomi
+1da8:0e082c0e:0003:0046:1:0:0
+Viaplay 2 Urheilu
+p:Allente Suomi
+1da9:0e082c0e:0003:0046:1:0:0
+Viaplay 1 Urheilu
+p:Allente Suomi
+1ee8:0e082c0e:0003:0046:1:0:0
+BBC News Europe
+p:Allente Sverige
+06b9:0e082c0e:0003:0046:2:0:0
+DR P2
+p:Unknown
+06ba:0e082c0e:0003:0046:2:0:0
+DR P4 København
+p:Unknown
+06bb:0e082c0e:0003:0046:2:0:0
+DR P1
+p:Unknown
+06ca:0e082c0e:0003:0046:2:0:0
+Bandit Classic Rock
+p:Unknown
+06cb:0e082c0e:0003:0046:2:0:0
+Svenska Favoriter
+p:Unknown
+06cc:0e082c0e:0003:0046:2:0:0
+Viasat Classic
+p:Unknown
+06cd:0e082c0e:0003:0046:2:0:0
+Power Hit Radio
+p:Unknown
+06ce:0e082c0e:0003:0046:2:0:0
+Power Club
+p:Unknown
+06d0:0e082c0e:0003:0046:2:0:0
+Star FM
+p:Unknown
+06d2:0e082c0e:0003:0046:2:0:0
+Bandit Rock 106-3
+p:Unknown
+06d7:0e082c0e:0003:0046:2:0:0
+Lugna Favoriter
+p:Unknown
+06fb:0e082c0e:0003:0046:2:0:0
+Rix FM
+p:Unknown
+1d32:0e082c0e:0003:0046:2:0:0
+DR P3
+p:Unknown
+0a2c:0e082c2d:0002:0046:1:0:0
+TV 3 Puls
+p:Allente Danmark
+0fd5:0e082c2d:0002:0046:1:0:0
+V Film Premiere
+p:Allente Sverige
+1150:0e082c2d:0002:0046:1:0:0
+V Sport Golf
+p:Allente Sverige
+1e5b:0e082c2d:0002:0046:1:0:0
+V Sport Live 1
+p:Allente Sverige
+1e5c:0e082c2d:0002:0046:1:0:0
+V Sport Live 2
+p:Allente Sverige
+1e5d:0e082c2d:0002:0046:1:0:0
+V Sport Live 3
+p:Allente Sverige
+1e5e:0e082c2d:0002:0046:1:0:0
+V Sport Live 4
+p:Allente Sverige
+1e5f:0e082c2d:0002:0046:1:0:0
+V Sport Live 5
+p:Allente Sverige
+1eaf:0e082c2d:0002:0046:1:0:0
+TV 3+ Danmark
+p:Allente Danmark
+1f15:0e082c2d:0002:0046:1:0:0
+TV 3 Danmark
+p:Allente Danmark
+1f16:0e082c2d:0002:0046:1:0:0
+TV 3 Sport
+p:Allente Danmark
+1b85:0e082c3d:0019:0046:1:0:0
+Sjuan
+p:Allente Sverige
+1c79:0e082c3d:0019:0046:1:0:0
+Freedom
+p:Unknown
+1cf8:0e082c3d:0019:0046:1:0:0
+Love Nature
+p:Allente Sverige
+1d6e:0e082c3d:0019:0046:1:0:0
+Viaplay Sport News
+p:Allente Danmark
+1ea9:0e082c3d:0019:0046:1:0:0
+Nicktoons Scandinavia
+p:Allente Sverige
+1ee3:0e082c3d:0019:0046:1:0:0
+CNN International Europe
+p:Allente Sverige
+1eec:0e082c3d:0019:0046:1:0:0
+Cartoon Network Northern Europe
+p:Allente Sverige
+1eee:0e082c3d:0019:0046:1:0:0
+Nickelodeon Sverige
+p:Allente Sverige
+1ef3:0e082c3d:0019:0046:1:0:0
+MTV Nordic
+p:Allente Sverige
+1f1c:0e082c3d:0019:0046:1:0:0
+Nick Jr Scandinavia
+p:Allente Sverige
+1167:0e082c4d:002b:0046:1:0:0
+V Classics
+p:Allente Sverige
+1168:0e082c4d:002b:0046:1:0:0
+V Crime
+p:Allente Sverige
+1b5a:0e082c4d:002b:0046:1:0:0
+TV 2 Nord
+p:Allente Danmark
+1b5b:0e082c4d:002b:0046:1:0:0
+Köket
+p:Allente Sverige
+0281:0e082c4d:002b:0046:2:0:0
+P4 Lyden av Norge
+p:Unknown
+1775:0e082c4d:002b:0046:2:0:0
+P5 Hits
+p:Unknown
+1776:0e082c4d:002b:0046:2:0:0
+P6 Rock
+p:Unknown
+1777:0e082c4d:002b:0046:2:0:0
+P7 Klem
+p:Unknown
+1778:0e082c4d:002b:0046:2:0:0
+P8 Pop
+p:Unknown
+1779:0e082c4d:002b:0046:2:0:0
+P9 Retro
+p:Unknown
+177a:0e082c4d:002b:0046:2:0:0
+P10 Country
+p:Unknown
+177b:0e082c4d:002b:0046:2:0:0
+P12 Hitmix
+p:Unknown
+17df:0e082c4d:002b:0046:2:0:0
+P11 Dance
+p:Unknown
+1d44:0e082c6c:0023:0046:1:0:0
+TV 6 Norge
+p:Allente Norge
+1eae:0e082c6c:0023:0046:1:0:0
+V Film Family
+p:Allente Sverige
+1f01:0e082c6c:0023:0046:1:0:0
+TV 3 Max
+p:Allente Danmark
+1f0b:0e082c6c:0023:0046:1:0:0
+V Film Action
+p:Allente Sverige
+1f0d:0e082c6c:0023:0046:1:0:0
+V Series
+p:Allente Sverige
+1f0e:0e082c6c:0023:0046:1:0:0
+V Film Hits
+p:Allente Sverige
+1f34:0e082c6c:0023:0046:1:0:0
+V Sport Ultra HD
+p:Allente Sverige
+0070:0e082c7d:0022:0046:1:0:0
+SverigeKanalen
+p:Unknown
+1c63:0e082c7d:0022:0046:1:0:0
+Kanal 10 Sverige
+p:Unknown
+1d1d:0e082c7d:0022:0046:1:0:0
+TV Visjon Norge
+p:Unknown
+1d7a:0e082c7d:0022:0046:1:0:0
+Kanal 10 Norge
+p:Unknown
+1e64:0e082c7d:0022:0046:1:0:0
+TV Vision Sverige
+p:Unknown
+1e6c:0e082c7d:0022:0046:1:0:0
+Bedehuskanalen
+p:Unknown
+05f7:0e082c7d:0022:0046:2:0:0
+Radio Norge
+p:Unknown
+1786:0e082c7d:0022:0046:2:0:0
+Radio Rock
+p:Unknown
+178c:0e082c7d:0022:0046:2:0:0
+Radio Vinyl
+p:Unknown
+1790:0e082c7d:0022:0046:2:0:0
+Radio Topp 40
+p:Unknown
+7596:0e082dcf:02bd:0600:1:0:0
+Hír TV
+p:Canal+ Magyarország
+7597:0e082dcf:02bd:0600:1:0:0
+JimJam Hungary
+p:One
+7599:0e082dcf:02bd:0600:1:0:0
+M1
+p:Unknown
+759a:0e082dcf:02bd:0600:1:0:0
+M2
+p:Unknown
+759c:0e082dcf:02bd:0600:1:0:0
+Viasat Kino Balkan
+p:Digi România
+759e:0e082dcf:02bd:0600:1:0:0
+History România
+p:Digi România
+759f:0e082dcf:02bd:0600:1:0:0
+Spektrum
+p:Unknown
+75a0:0e082dcf:02bd:0600:1:0:0
+TV Paprika
+p:Digi România
+75a2:0e082dcf:02bd:0600:1:0:0
+Kanal D2
+p:Digi România
+75a3:0e082dcf:02bd:0600:1:0:0
+Viasat 3
+p:Canal+ Magyarország
+75a4:0e082dcf:02bd:0600:1:0:0
+Viasat 6
+p:One
+75b0:0e082dcf:02bd:0600:1:0:0
+Spíler TV 2
+p:Canal+ Magyarország
+75b9:0e082dcf:02bd:0600:1:0:0
+Viasat Nature East
+p:Digi România
+75ba:0e082dcf:02bd:0600:1:0:0
+FilmBox+ Comedy
+p:Focus Sat
+75bb:0e082dcf:02bd:0600:1:0:0
+Film Café Hungary
+p:One
+75bc:0e082dcf:02bd:0600:1:0:0
+Film + Hungary
+p:Digi România
+75be:0e082dcf:02bd:0600:1:0:0
+Film + Hungary
+p:Digi România
+1b63:0e082de3:0af7:00bb:1:0:0
+Nova Sport 5
+p:Magio TV
+1b64:0e082de3:0af7:00bb:1:0:0
+Disney Jr Romania & Bulgaria
+p:Magio TV
+1b65:0e082de3:0af7:00bb:1:0:0
+Cinemax Central Europe
+p:Magio TV
+1b66:0e082de3:0af7:00bb:1:0:0
+Cinemax 2 Central Europe
+p:Magio TV
+1b67:0e082de3:0af7:00bb:1:0:0
+Nickelodeon Europe
+p:Unknown
+1b69:0e082de3:0af7:00bb:1:0:0
+Film Europe
+p:Magio TV
+1b6a:0e082de3:0af7:00bb:1:0:0
+Crime + Investigation UK
+p:Magio TV
+1b6b:0e082de3:0af7:00bb:1:0:0
+TA 3
+p:Magio TV
+1b6c:0e082de3:0af7:00bb:1:0:0
+Viasat History East
+p:Magio TV
+1b6d:0e082de3:0af7:00bb:1:0:0
+Spektrum
+p:Magio TV
+1b6e:0e082de3:0af7:00bb:1:0:0
+Nova Action
+p:Telly
+1b6f:0e082de3:0af7:00bb:1:0:0
+Nova Krimi
+p:Telly
+1b70:0e082de3:0af7:00bb:1:0:0
+Nova Fun
+p:Telly
+1b71:0e082de3:0af7:00bb:1:0:0
+Men TV
+p:Magio TV
+1b72:0e082de3:0af7:00bb:1:0:0
+Dusk
+p:Magio TV
+1b73:0e082de3:0af7:00bb:1:0:0
+Prima Love SK
+p:Magio TV
+1b74:0e082de3:0af7:00bb:1:0:0
+STVR Sport
+p:Magio TV
+056e:0e082e09:0005:0001:1:0:0
+Minimax Hungary
+p:One
+0618:0e082e09:0005:0001:1:0:0
+M1
+p:One
+0a14:0e082e09:0005:0001:1:0:0
+Investigation Discovery Hungary
+p:One
+0a1e:0e082e09:0005:0001:1:0:0
+Eurosport 2
+p:One
+0a28:0e082e09:0005:0001:1:0:0
+Viasat Explore East
+p:One
+0a32:0e082e09:0005:0001:1:0:0
+Sport 1 Hungary
+p:One
+0a3c:0e082e09:0005:0001:1:0:0
+Sport 2 Hungary
+p:One
+0a46:0e082e09:0005:0001:1:0:0
+HBO 2 Central Europe
+p:One
+0a64:0e082e09:0005:0001:1:0:0
+HBO Hungary
+p:One
+0a6e:0e082e09:0005:0001:1:0:0
+Spektrum
+p:One
+0a8c:0e082e09:0005:0001:1:0:0
+M2
+p:One
+0b77:0e082e09:0005:0001:1:0:0
+Spektrum Home
+p:One
+0c4e:0e082e09:0005:0001:1:0:0
+FashionTV Europe
+p:One
+0d20:0e082e09:0005:0001:1:0:0
+Duna TV
+p:One
+1004:0e082e09:0005:0001:1:0:0
+Discovery Channel Hungary
+p:One
+0e60:0e082e09:0005:0001:2:0:0
+Petöfi Rádió
+p:Unknown
+0e6a:0e082e09:0005:0001:2:0:0
+Kossuth Rádió
+p:Unknown
+0e74:0e082e09:0005:0001:2:0:0
+Bartók Rádió
+p:Unknown
+0fbe:0e082e2f:000d:0001:1:0:0
+TV 2
+p:Digi România
+0fc8:0e082e2f:000d:0001:1:0:0
+M1
+p:Digi România
+0fe6:0e082e2f:000d:0001:1:0:0
+Digi Sport 1
+p:Digi România
+0ff0:0e082e2f:000d:0001:1:0:0
+Digi Sport 2
+p:Digi România
+0ffa:0e082e2f:000d:0001:1:0:0
+Pro TV
+p:Digi România
+13ec:0e082e2f:000d:0001:1:0:0
+TVR Info
+p:Unknown
+13f6:0e082e2f:000d:0001:1:0:0
+TVR Cultural
+p:Unknown
+114d:0e082e43:0045:0046:1:0:0
+V Sport Motor
+p:Allente Sverige
+115e:0e082e43:0045:0046:1:0:0
+TV 3 Sverige
+p:Allente Sverige
+1b75:0e082e43:0045:0046:1:0:0
+TV 8 Sverige
+p:Allente Sverige
+1b77:0e082e43:0045:0046:1:0:0
+TV 10
+p:Allente Sverige
+1cd8:0e082e43:0045:0046:1:0:0
+V Sport Premium
+p:Allente Sverige
+1d08:0e082e43:0045:0046:1:0:0
+TV 3+ Norge
+p:Allente Norge
+1e4e:0e082e43:0045:0046:1:0:0
+V Sport Extra
+p:Allente Sverige
+03ec:0e082e56:0007:0001:1:0:0
+B1
+p:Digi România
+03f5:0e082e56:0007:0001:1:0:0
+Digi Sport 1
+p:Digi România
+03f6:0e082e56:0007:0001:1:0:0
+Digi 24
+p:Digi România
+040a:0e082e56:0007:0001:1:0:0
+Hora TV
+p:Digi România
+0492:0e082e56:0007:0001:1:0:0
+Pro Cinema
+p:Digi România
+0582:0e082e56:0007:0001:1:0:0
+Acasa
+p:Digi România
+058c:0e082e56:0007:0001:1:0:0
+Acasa Gold
+p:Digi România
+05a0:0e082e56:0007:0001:1:0:0
+Cartoon Network Central & Eastern Europe
+p:Digi România
+0b50:0e082e56:0007:0001:1:0:0
+România TV
+p:Digi România
+0b54:0e082e56:0007:0001:1:0:0
+Pro TV
+p:Digi România
+0b86:0e082e56:0007:0001:1:0:0
+Kanal D Romania
+p:Digi România
+0b87:0e082e56:0007:0001:1:0:0
+Diva Romania
+p:Digi România
+0c1c:0e082e56:0007:0001:1:0:0
+SuperOne HD
+p:Digi România
+0c26:0e082e56:0007:0001:1:0:0
+Pro TV International
+p:Digi România
+1770:0e082e56:0007:0001:1:0:0
+Film Now
+p:Digi România
+177a:0e082e56:0007:0001:1:0:0
+Digi Animal World
+p:Digi România
+04e2:0e082e56:0007:0001:2:0:0
+Radio Vocea Sperantei
+p:Unknown
+09d8:0e082e56:0007:0001:2:0:0
+Kiss FM
+p:Unknown
+0401:0e082e7c:000c:0001:1:0:0
+Music Channel Romania
+p:Unknown
+0596:0e082e7c:000c:0001:1:0:0
+The Fishing & Hunting Channel
+p:Digi România
+05aa:0e082e7c:000c:0001:1:0:0
+Warner TV Romania
+p:Digi România
+0b22:0e082e7c:000c:0001:1:0:0
+Sláger TV
+p:Digi România
+0c30:0e082e7c:000c:0001:1:0:0
+Realitatea Plus
+p:Digi România
+0d34:0e082e7c:000c:0001:1:0:0
+Taraf TV
+p:Digi România
+0d48:0e082e7c:000c:0001:1:0:0
+Agro TV
+p:Digi România
+0d70:0e082e7c:000c:0001:1:0:0
+HBO Romania
+p:Digi România
+0d7a:0e082e7c:000c:0001:1:0:0
+Disney Jr Romania & Bulgaria
+p:Digi România
+0d84:0e082e7c:000c:0001:1:0:0
+Prima Sport 1
+p:Digi România
+0d8e:0e082e7c:000c:0001:1:0:0
+Trinitas TV
+p:Digi România
+0db6:0e082e7c:000c:0001:1:0:0
+National TV
+p:Digi România
+0dc0:0e082e7c:000c:0001:1:0:0
+Etno TV
+p:Digi România
+0dde:0e082e7c:000c:0001:1:0:0
+TVR 2
+p:Digi România
+0de8:0e082e7c:000c:0001:1:0:0
+Pro Arena
+p:Digi România
+100e:0e082e7c:000c:0001:1:0:0
+HGTV Pan Regional
+p:Digi România
+029e:0e082e7c:000c:0001:2:0:0
+Digi FM
+p:Unknown
+09ce:0e082e7c:000c:0001:2:0:0
+Digi FM
+p:Unknown
+09e2:0e082e7c:000c:0001:2:0:0
+Pro FM
+p:Unknown
+0d02:0e082e7c:000c:0001:2:0:0
+Virgin Radio Romania
+p:Unknown
+0e1a:0e082e7c:000c:0001:2:0:0
+Europa FM Moldova
+p:Unknown
+0e24:0e082e7c:000c:0001:2:0:0
+Europa FM Muntenia
+p:Unknown
+0e2e:0e082e7c:000c:0001:2:0:0
+Europa FM Oltenia
+p:Unknown
+0e38:0e082e7c:000c:0001:2:0:0
+Europa FM Banat
+p:Unknown
+0e42:0e082e7c:000c:0001:2:0:0
+Europa FM Dobrogea
+p:Unknown
+0e88:0e082e7c:000c:0001:2:0:0
+Europa FM Ardeal
+p:Unknown
+1022:0e082e7c:000c:0001:2:0:0
+Digi 24 FM
+p:Unknown
+102c:0e082e7c:000c:0001:2:0:0
+Dance FM
+p:Unknown
+797e:0e082e8f:02c7:0600:1:0:0
+Cartoon Network Central & Eastern Europe
+p:One
+797f:0e082e8f:02c7:0600:1:0:0
+TV 2 Séf
+p:One
+7980:0e082e8f:02c7:0600:1:0:0
+National Geographic Hungary & Czechia
+p:Unknown
+7981:0e082e8f:02c7:0600:1:0:0
+AMC Magyarország
+p:Canal+ Magyarország
+7982:0e082e8f:02c7:0600:1:0:0
+Viasat History East
+p:Focus Sat
+7983:0e082e8f:02c7:0600:1:0:0
+AMC Cesko
+p:Focus Sat
+7984:0e082e8f:02c7:0600:1:0:0
+AXN Romania
+p:Digi România
+7987:0e082e8f:02c7:0600:1:0:0
+AXN White
+p:Digi România
+7988:0e082e8f:02c7:0600:1:0:0
+AXN Black
+p:Digi România
+7989:0e082e8f:02c7:0600:1:0:0
+TV 4
+p:Digi România
+798a:0e082e8f:02c7:0600:1:0:0
+Dizi
+p:Allente Norge
+798b:0e082e8f:02c7:0600:1:0:0
+Disney Channel Romania
+p:Digi România
+798c:0e082e8f:02c7:0600:1:0:0
+M5
+p:Digi România
+798d:0e082e8f:02c7:0600:1:0:0
+TV 2 Comedy
+p:One
+798e:0e082e8f:02c7:0600:1:0:0
+Zenebutik
+p:One
+798f:0e082e8f:02c7:0600:1:0:0
+AXN Czech Republic
+p:Unknown
+7991:0e082e8f:02c7:0600:1:0:0
+Disney Channel Romania
+p:Digi România
+7993:0e082e8f:02c7:0600:1:0:0
+Zenebutik
+p:Canal+ Magyarország
+7995:0e082e8f:02c7:0600:1:0:0
+TV 4
+p:Unknown
+7996:0e082e8f:02c7:0600:1:0:0
+AMC Magyarország
+p:Canal+ Magyarország
+7998:0e082e8f:02c7:0600:1:0:0
+TV 2 Kids
+p:One
+79a1:0e082e8f:02c7:0600:1:0:0
+M5
+p:Unknown
+79a2:0e082e8f:02c7:0600:1:0:0
+TV 2 Séf
+p:Magio TV
+79a3:0e082e8f:02c7:0600:1:0:0
+AXN Romania
+p:Unknown
+79a4:0e082e8f:02c7:0600:1:0:0
+AXN White
+p:Unknown
+79a5:0e082e8f:02c7:0600:1:0:0
+AXN Black
+p:Unknown
+79a6:0e082e8f:02c7:0600:1:0:0
+Duna World
+p:Digi România
+79a7:0e082e8f:02c7:0600:1:0:0
+FilmBox+ Love & Crime Hungary
+p:Focus Sat
+79a9:0e082e8f:02c7:0600:1:0:0
+Duna World
+p:Magio TV
+77ed:0e082ea2:02c3:0600:1:0:0
+National Geographic România
+p:Canal+ Magyarország
+77ee:0e082ea2:02c3:0600:1:0:0
+Metropola TV
+p:Unknown
+77ef:0e082ea2:02c3:0600:1:0:0
+Disney Channel Hungary & Czechia
+p:Canal+ Magyarország
+77f1:0e082ea2:02c3:0600:1:0:0
+HBO 2 Central Europe
+p:Canal+ Magyarország
+77f3:0e082ea2:02c3:0600:1:0:0
+Life TV
+p:Canal+ Magyarország
+77f4:0e082ea2:02c3:0600:1:0:0
+Story 4
+p:Canal+ Magyarország
+77f5:0e082ea2:02c3:0600:1:0:0
+Cinemax Central Europe
+p:Canal+ Magyarország
+77f6:0e082ea2:02c3:0600:1:0:0
+Cartoonito Central & Eastern Europe
+p:Canal+ Magyarország
+77f7:0e082ea2:02c3:0600:1:0:0
+National Geographic Wild Hungary
+p:Canal+ Magyarország
+77f8:0e082ea2:02c3:0600:1:0:0
+Spektrum
+p:Canal+ Magyarország
+77f9:0e082ea2:02c3:0600:1:0:0
+Duck TV SD
+p:Canal+ Magyarország
+77fa:0e082ea2:02c3:0600:1:0:0
+FilmBox+ One Central Europe
+p:Canal+ Magyarország
+77fb:0e082ea2:02c3:0600:1:0:0
+FilmBox+ Hits Romania
+p:Canal+ Magyarország
+77fc:0e082ea2:02c3:0600:1:0:0
+Duck TV SD
+p:Canal+ Magyarország
+77fd:0e082ea2:02c3:0600:1:0:0
+Spektrum
+p:Canal+ Magyarország
+7801:0e082ea2:02c3:0600:1:0:0
+Disney Channel Hungary & Czechia
+p:Canal+ Magyarország
+7804:0e082ea2:02c3:0600:1:0:0
+Cartoonito Central & Eastern Europe
+p:Canal+ Magyarország
+7805:0e082ea2:02c3:0600:1:0:0
+Story 4
+p:Canal+ Magyarország
+780e:0e082ea2:02c3:0600:1:0:0
+History România
+p:Canal+ Magyarország
+780f:0e082ea2:02c3:0600:1:0:0
+History Europe
+p:Canal+ Magyarország
+7810:0e082ea2:02c3:0600:1:0:0
+Crime + Investigation UK
+p:Canal+ Magyarország
+7811:0e082ea2:02c3:0600:1:0:0
+History România
+p:Canal+ Magyarország
+7812:0e082ea2:02c3:0600:1:0:0
+BBC Earth Türkiye
+p:Canal+ Magyarország
+7813:0e082ea2:02c3:0600:1:0:0
+BBC Earth Türkiye
+p:Canal+ Magyarország
+79e2:0e082eb6:02c8:0600:1:0:0
+Canal + Action Magyarország
+p:Unknown
+79e3:0e082eb6:02c8:0600:1:0:0
+CNN International Europe
+p:Focus Sat
+79e4:0e082eb6:02c8:0600:1:0:0
+National Geographic Wild Romania
+p:Digi România
+79e5:0e082eb6:02c8:0600:1:0:0
+JimJam Romania
+p:Focus Sat
+79e7:0e082eb6:02c8:0600:1:0:0
+CNN International Europe
+p:Focus Sat
+79e8:0e082eb6:02c8:0600:1:0:0
+Canal + Action Magyarország
+p:Unknown
+79ec:0e082eb6:02c8:0600:1:0:0
+RTL Ketto
+p:Digi România
+79ed:0e082eb6:02c8:0600:1:0:0
+RTL Három
+p:Digi România
+79ee:0e082eb6:02c8:0600:1:0:0
+Sorozat +
+p:Digi România
+79ef:0e082eb6:02c8:0600:1:0:0
+Muzsika TV
+p:One
+79f2:0e082eb6:02c8:0600:1:0:0
+RTL Három
+p:Magio TV
+79f3:0e082eb6:02c8:0600:1:0:0
+RTL Gold
+p:One
+79f4:0e082eb6:02c8:0600:1:0:0
+Sorozat +
+p:Magio TV
+79f5:0e082eb6:02c8:0600:1:0:0
+Muzsika TV
+p:Magio TV
+79f6:0e082eb6:02c8:0600:1:0:0
+RTL Ketto
+p:Magio TV
+79fa:0e082eb6:02c8:0600:1:0:0
+TV Paprika Romania
+p:Focus Sat
+79fb:0e082eb6:02c8:0600:1:0:0
+TV Paprika Romania
+p:Focus Sat
+79fc:0e082eb6:02c8:0600:1:0:0
+Viasat History East
+p:Unknown
+79fd:0e082eb6:02c8:0600:1:0:0
+Viasat History East
+p:Unknown
+79fe:0e082eb6:02c8:0600:1:0:0
+National Geographic Wild Romania
+p:Digi România
+79ff:0e082eb6:02c8:0600:1:0:0
+BBC Earth Türkiye
+p:Focus Sat
+7a00:0e082eb6:02c8:0600:1:0:0
+BBC Earth Türkiye
+p:Focus Sat
+7a03:0e082eb6:02c8:0600:1:0:0
+RTL Gold
+p:Magio TV
+7a06:0e082eb6:02c8:0600:1:0:0
+ATV Extra
+p:Canal+ Magyarország
+7a07:0e082eb6:02c8:0600:1:0:0
+Film + Czechia
+p:Unknown
+7a08:0e082eb6:02c8:0600:1:0:0
+Minimax Hungary
+p:Canal+ Magyarország
+7a09:0e082eb6:02c8:0600:1:0:0
+ATV
+p:Canal+ Magyarország
+7a0a:0e082eb6:02c8:0600:1:0:0
+ATV
+p:Magio TV
+7a0b:0e082eb6:02c8:0600:1:0:0
+Film + Czechia
+p:Magio TV
+7a0c:0e082eb6:02c8:0600:1:0:0
+ATV Extra
+p:Unknown
+7a0d:0e082eb6:02c8:0600:1:0:0
+BBC Earth Hungary
+p:Canal+ Magyarország
+7a0e:0e082eb6:02c8:0600:1:0:0
+BBC Earth Hungary
+p:Unknown
+07db:0e082ec9:0af2:00bb:1:0:0
+CT 2
+p:Magio TV
+07dc:0e082ec9:0af2:00bb:1:0:0
+Premier Sport 2
+p:Magio TV
+07dd:0e082ec9:0af2:00bb:1:0:0
+Viasat Epic Drama
+p:Digi România
+07de:0e082ec9:0af2:00bb:1:0:0
+Nova Sport 4
+p:Magio TV
+07df:0e082ec9:0af2:00bb:1:0:0
+Eurosport 1
+p:Focus Sat
+07e0:0e082ec9:0af2:00bb:1:0:0
+Eurosport 2 North-East
+p:Focus Sat
+07e1:0e082ec9:0af2:00bb:1:0:0
+HBO Czechia
+p:Magio TV
+07e2:0e082ec9:0af2:00bb:1:0:0
+National Geographic Hungary & Czechia
+p:Focus Sat
+07e3:0e082ec9:0af2:00bb:1:0:0
+FilmBox+ Hits Czechia
+p:Magio TV
+07e4:0e082ec9:0af2:00bb:1:0:0
+Markíza Klasik
+p:Magio TV
+07e5:0e082ec9:0af2:00bb:1:0:0
+FightBox HD
+p:Focus Sat
+07e6:0e082ec9:0af2:00bb:1:0:0
+DocuBox HD
+p:Focus Sat
+07e7:0e082ec9:0af2:00bb:1:0:0
+Eroxxx HD
+p:Focus Sat
+07e8:0e082ec9:0af2:00bb:1:0:0
+CT Décku
+p:Telly
+07e9:0e082ec9:0af2:00bb:1:0:0
+DV TV Extra Slovakia
+p:Magio TV
+76c1:0e082edc:02c0:0600:1:0:0
+Antena 3 CNN
+p:Focus Sat
+76c2:0e082edc:02c0:0600:1:0:0
+TVR 1
+p:Focus Sat
+76c3:0e082edc:02c0:0600:1:0:0
+Kölyökklub
+p:Focus Sat
+76c4:0e082edc:02c0:0600:1:0:0
+National 24 Plus
+p:Focus Sat
+76c5:0e082edc:02c0:0600:1:0:0
+RTL Otthon
+p:Focus Sat
+76c6:0e082edc:02c0:0600:1:0:0
+E! Europe
+p:Focus Sat
+76c7:0e082edc:02c0:0600:1:0:0
+Chefi.ro
+p:Focus Sat
+76c8:0e082edc:02c0:0600:1:0:0
+AMC Romania
+p:Focus Sat
+76ca:0e082edc:02c0:0600:1:0:0
+Favorit TV
+p:Focus Sat
+76cb:0e082edc:02c0:0600:1:0:0
+Film Café Romania
+p:Focus Sat
+76cc:0e082edc:02c0:0600:1:0:0
+Antena 1
+p:Focus Sat
+76cd:0e082edc:02c0:0600:1:0:0
+Minimax Romania
+p:Focus Sat
+76ce:0e082edc:02c0:0600:1:0:0
+Happy Channel
+p:Focus Sat
+76cf:0e082edc:02c0:0600:1:0:0
+Film Mánia
+p:Focus Sat
+76d2:0e082edc:02c0:0600:1:0:0
+Antena Stars
+p:Focus Sat
+76d3:0e082edc:02c0:0600:1:0:0
+TVR 3
+p:Focus Sat
+76dc:0e082edc:02c0:0600:1:0:0
+TVR Sport
+p:Focus Sat
+76df:0e082edc:02c0:0600:1:0:0
+Film Mánia
+p:Focus Sat
+76e0:0e082edc:02c0:0600:1:0:0
+Kölyökklub
+p:Focus Sat
+76e2:0e082edc:02c0:0600:1:0:0
+RTL Otthon
+p:Focus Sat
+76e3:0e082edc:02c0:0600:1:0:0
+RTL Magyarország
+p:Focus Sat
+7725:0e082f02:02c1:0600:1:0:0
+National Geographic Wild Romania
+p:Canal+ Magyarország
+7726:0e082f02:02c1:0600:1:0:0
+M2
+p:Canal+ Magyarország
+7727:0e082f02:02c1:0600:1:0:0
+Sport 1 Hungary
+p:Canal+ Magyarország
+7728:0e082f02:02c1:0600:1:0:0
+RTL Magyarország
+p:Canal+ Magyarország
+772b:0e082f02:02c1:0600:1:0:0
+FilmBox+ Hits Hungary
+p:Canal+ Magyarország
+772f:0e082f02:02c1:0600:1:0:0
+TV 2
+p:Canal+ Magyarország
+7733:0e082f02:02c1:0600:1:0:0
+RTL Ketto
+p:Canal+ Magyarország
+7734:0e082f02:02c1:0600:1:0:0
+Love Nature
+p:Canal+ Magyarország
+7735:0e082f02:02c1:0600:1:0:0
+RTL Három
+p:Canal+ Magyarország
+7736:0e082f02:02c1:0600:1:0:0
+HBO Romania
+p:Canal+ Magyarország
+773a:0e082f02:02c1:0600:1:0:0
+M5
+p:Canal+ Magyarország
+773b:0e082f02:02c1:0600:1:0:0
+FilmBox+ Emotion Czechia & Hungary
+p:Canal+ Magyarország
+773d:0e082f02:02c1:0600:1:0:0
+M2
+p:Canal+ Magyarország
+773e:0e082f02:02c1:0600:1:0:0
+TVR 1
+p:Canal+ Magyarország
+773f:0e082f02:02c1:0600:1:0:0
+TV 2
+p:Canal+ Magyarország
+7740:0e082f02:02c1:0600:1:0:0
+Love Nature
+p:Canal+ Magyarország
+7741:0e082f02:02c1:0600:1:0:0
+National Geographic Wild Europe
+p:Canal+ Magyarország
+03f3:0e082f16:0af1:00bb:1:0:0
+STVR 1
+p:Magio TV
+03f4:0e082f16:0af1:00bb:1:0:0
+STVR 2
+p:Magio TV
+03f5:0e082f16:0af1:00bb:1:0:0
+Markíza
+p:Magio TV
+03f6:0e082f16:0af1:00bb:1:0:0
+STVR 24
+p:Magio TV
+03f7:0e082f16:0af1:00bb:1:0:0
+TV Joj
+p:Magio TV
+03f8:0e082f16:0af1:00bb:1:0:0
+Joj Plus
+p:Magio TV
+03f9:0e082f16:0af1:00bb:1:0:0
+Dajto
+p:Magio TV
+03fa:0e082f16:0af1:00bb:1:0:0
+Prima
+p:Telly
+03fc:0e082f16:0af1:00bb:1:0:0
+CT 1
+p:Magio TV
+03ff:0e082f16:0af1:00bb:1:0:0
+Slágr 1
+p:Magio TV
+0400:0e082f16:0af1:00bb:1:0:0
+TV Nova
+p:Telly
+03ec:0e082f3c:0007:0001:1:0:0
+B1
+p:Digi România
+03f5:0e082f3c:0007:0001:1:0:0
+Digi Sport 1
+p:Digi România
+03f6:0e082f3c:0007:0001:1:0:0
+Digi 24
+p:Digi România
+040a:0e082f3c:0007:0001:1:0:0
+Hora TV
+p:Digi România
+0492:0e082f3c:0007:0001:1:0:0
+Pro Cinema
+p:Digi România
+0582:0e082f3c:0007:0001:1:0:0
+Acasa
+p:Digi România
+058c:0e082f3c:0007:0001:1:0:0
+Acasa Gold
+p:Digi România
+05a0:0e082f3c:0007:0001:1:0:0
+Cartoon Network Central & Eastern Europe
+p:Digi România
+0b50:0e082f3c:0007:0001:1:0:0
+România TV
+p:Digi România
+0b54:0e082f3c:0007:0001:1:0:0
+Pro TV
+p:Digi România
+0b86:0e082f3c:0007:0001:1:0:0
+Kanal D Romania
+p:Digi România
+0b87:0e082f3c:0007:0001:1:0:0
+Diva Romania
+p:Digi România
+0c1c:0e082f3c:0007:0001:1:0:0
+SuperOne HD
+p:Digi România
+0c26:0e082f3c:0007:0001:1:0:0
+Pro TV International
+p:Digi România
+1770:0e082f3c:0007:0001:1:0:0
+Film Now
+p:Digi România
+177a:0e082f3c:0007:0001:1:0:0
+Digi Animal World
+p:Digi România
+04e2:0e082f3c:0007:0001:2:0:0
+Radio Vocea Sperantei
+p:Unknown
+09d8:0e082f3c:0007:0001:2:0:0
+Kiss FM
+p:Unknown
+7a46:0e082f4f:02cb:0600:1:0:0
+TV Osem
+p:Unknown
+7a47:0e082f4f:02cb:0600:1:0:0
+Lala TV
+p:Unknown
+7a48:0e082f4f:02cb:0600:1:0:0
+CS Film
+p:Unknown
+7a49:0e082f4f:02cb:0600:1:0:0
+Markíza International
+p:Unknown
+7a4a:0e082f4f:02cb:0600:1:0:0
+TA 3
+p:Unknown
+7a4b:0e082f4f:02cb:0600:1:0:0
+Prima Cool
+p:Unknown
+7a4c:0e082f4f:02cb:0600:1:0:0
+Prima Love
+p:Unknown
+7a4d:0e082f4f:02cb:0600:1:0:0
+CNN Prima News
+p:Unknown
+7a4f:0e082f4f:02cb:0600:1:0:0
+Film + Hungary
+p:One
+7a50:0e082f4f:02cb:0600:1:0:0
+Vixen
+p:Unknown
+7a52:0e082f4f:02cb:0600:1:0:0
+Senzi
+p:Unknown
+7a53:0e082f4f:02cb:0600:1:0:0
+Slágr 1
+p:Unknown
+7a54:0e082f4f:02cb:0600:1:0:0
+TV Lux
+p:Unknown
+7a55:0e082f4f:02cb:0600:1:0:0
+FilmBox+ Love & Crime Hungary
+p:Focus Sat
+7a57:0e082f4f:02cb:0600:1:0:0
+Canal + Action Magyarország
+p:Canal+ Magyarország
+7a58:0e082f4f:02cb:0600:1:0:0
+DocuBox HD
+p:Focus Sat
+7a59:0e082f4f:02cb:0600:1:0:0
+Eroxxx HD
+p:Focus Sat
+7a5a:0e082f4f:02cb:0600:1:0:0
+FightBox HD
+p:Focus Sat
+7a5b:0e082f4f:02cb:0600:1:0:0
+JimJam Europe
+p:Digi România
+7a5d:0e082f4f:02cb:0600:1:0:0
+Senzi
+p:Magio TV
+7a5e:0e082f4f:02cb:0600:1:0:0
+FilmBox+ Love & Crime Hungary
+p:Magio TV
+7a5f:0e082f4f:02cb:0600:1:0:0
+JimJam Europe
+p:Magio TV
+7a61:0e082f4f:02cb:0600:1:0:0
+Mezzo
+p:Canal+ Magyarország
+7a63:0e082f4f:02cb:0600:1:0:0
+National Geographic Hungary & Czechia
+p:Focus Sat
+7a64:0e082f4f:02cb:0600:1:0:0
+Sport 1 Czechia
+p:Magio TV
+7a65:0e082f4f:02cb:0600:1:0:0
+Sport 2 Hungary
+p:One
+7a66:0e082f4f:02cb:0600:1:0:0
+Antena 1
+p:Digi România
+0407:0e082f62:0003:0001:1:0:0
+Max 4
+p:One
+041a:0e082f62:0003:0001:1:0:0
+FilmBox+ Emotion Czechia & Hungary
+p:One
+0424:0e082f62:0003:0001:1:0:0
+Animal Planet Europe
+p:Unknown
+049c:0e082f62:0003:0001:1:0:0
+Match 4
+p:Unknown
+04a3:0e082f62:0003:0001:1:0:0
+Eurosport 1
+p:Unknown
+04a6:0e082f62:0003:0001:1:0:0
+Hír TV
+p:Digi România
+0564:0e082f62:0003:0001:1:0:0
+TV 2
+p:Digi România
+05e6:0e082f62:0003:0001:1:0:0
+RTL Magyarország
+p:Digi România
+05f0:0e082f62:0003:0001:1:0:0
+Dikh TV
+p:Unknown
+05fa:0e082f62:0003:0001:1:0:0
+Cool TV
+p:Digi România
+0622:0e082f62:0003:0001:1:0:0
+Viasat Nature East
+p:Digi România
+0a96:0e082f62:0003:0001:1:0:0
+Galaxy 4
+p:Unknown
+0cee:0e082f62:0003:0001:1:0:0
+Film 4
+p:Digi România
+0d16:0e082f62:0003:0001:1:0:0
+Spíler TV 1
+p:Canal+ Magyarország
+7aa9:0e082f75:02cc:0600:1:0:0
+Sport 2 Czechia
+p:Telly
+7aac:0e082f75:02cc:0600:1:0:0
+Story 4 Czechia
+p:Unknown
+7aad:0e082f75:02cc:0600:1:0:0
+Joj Sport
+p:Unknown
+7aaf:0e082f75:02cc:0600:1:0:0
+Bloomberg TV Europe
+p:Focus Sat
+7ab1:0e082f75:02cc:0600:1:0:0
+Arena 4
+p:Focus Sat
+7ab3:0e082f75:02cc:0600:1:0:0
+Prima Krimi
+p:Unknown
+7ab5:0e082f75:02cc:0600:1:0:0
+FilmBox+ One Central Europe
+p:Magio TV
+7ab6:0e082f75:02cc:0600:1:0:0
+TV Paprika Czech Republic
+p:Unknown
+7ab7:0e082f75:02cc:0600:1:0:0
+Sport 1 Czechia
+p:Magio TV
+7ab8:0e082f75:02cc:0600:1:0:0
+Duna TV
+p:Magio TV
+7ab9:0e082f75:02cc:0600:1:0:0
+M4 Sport
+p:Magio TV
+7aba:0e082f75:02cc:0600:1:0:0
+Kölyökklub
+p:One
+7abb:0e082f75:02cc:0600:1:0:0
+RTL Otthon
+p:One
+7abe:0e082f75:02cc:0600:1:0:0
+Sport 2 Czechia
+p:Magio TV
+7abf:0e082f75:02cc:0600:1:0:0
+Joj Sport
+p:Magio TV
+7ac0:0e082f75:02cc:0600:1:0:0
+Kanal D Romania
+p:Unknown
+7ac1:0e082f75:02cc:0600:1:0:0
+Spektrum Home Czech
+p:Telly
+7ac2:0e082f75:02cc:0600:1:0:0
+Minimax Czechia
+p:Telly
+7ac3:0e082f75:02cc:0600:1:0:0
+Spektrum Home Czech
+p:Magio TV
+7ac4:0e082f75:02cc:0600:1:0:0
+Minimax Czechia
+p:Magio TV
+7ac5:0e082f75:02cc:0600:1:0:0
+M4 Sport
+p:Magio TV
+7ac6:0e082f75:02cc:0600:1:0:0
+M5
+p:Digi România
+0497:0e082f9c:0004:0001:1:0:0
+Viasat History East
+p:One
+04c4:0e082f9c:0004:0001:1:0:0
+HBO 3 Central Europe
+p:One
+04ce:0e082f9c:0004:0001:1:0:0
+M4 Sport
+p:One
+0555:0e082f9c:0004:0001:1:0:0
+Super TV 2
+p:One
+05c8:0e082f9c:0004:0001:1:0:0
+Match 4
+p:One
+05d2:0e082f9c:0004:0001:1:0:0
+Sport 2 Hungary
+p:One
+05e8:0e082f9c:0004:0001:1:0:0
+ATV
+p:One
+0a82:0e082f9c:0004:0001:1:0:0
+Ozone TV
+p:One
+0cc6:0e082f9c:0004:0001:1:0:0
+Magyar Mozi TV
+p:One
+0dac:0e082f9c:0004:0001:1:0:0
+Mozi +
+p:One
+45f4:0e082f9c:0004:0001:1:0:0
+Moziverzum
+p:One
+45f5:0e082f9c:0004:0001:1:0:0
+Jocky TV
+p:One
+45fa:0e082f9c:0004:0001:1:0:0
+Izaura TV
+p:One
+01f5:0e082fc2:001b:02c0:1:0:0
+Nickelodeon Europe
+p:Focus Sat
+01f6:0e082fc2:001b:02c0:1:0:0
+Comedy Central România
+p:Digi România
+01f8:0e082fc2:001b:02c0:1:0:0
+Nicktoons Adria
+p:Unknown
+01f9:0e082fc2:001b:02c0:1:0:0
+Nickelodeon Europe
+p:Focus Sat
+01fa:0e082fc2:001b:02c0:1:0:0
+MTV Global
+p:Focus Sat
+0200:0e082fc2:001b:02c0:1:0:0
+Nick Jr Europe
+p:Unknown
+0203:0e082fc2:001b:02c0:1:0:0
+Nickelodeon Europe
+p:Unknown
+020a:0e082fc2:001b:02c0:1:0:0
+Nick Jr Europe
+p:Unknown
+020b:0e082fc2:001b:02c0:1:0:0
+Nick Jr Europe
+p:Unknown
+020c:0e082fc2:001b:02c0:1:0:0
+Nick Jr Europe
+p:Unknown
+020d:0e082fc2:001b:02c0:1:0:0
+Nickelodeon Europe
+p:Unknown
+020e:0e082fc2:001b:02c0:1:0:0
+Nickelodeon Europe
+p:Magio TV
+020f:0e082fc2:001b:02c0:1:0:0
+Nickelodeon Europe
+p:Unknown
+0210:0e082fc2:001b:02c0:1:0:0
+Nick Jr Europe
+p:Unknown
+0211:0e082fc2:001b:02c0:1:0:0
+Nick Jr Europe
+p:Magio TV
+0212:0e082fc2:001b:02c0:1:0:0
+Nick Jr Europe
+p:Unknown
+0213:0e082fc2:001b:02c0:1:0:0
+Nicktoons Adria
+p:Unknown
+0214:0e082fc2:001b:02c0:1:0:0
+Nicktoons Adria
+p:Magio TV
+0215:0e082fc2:001b:02c0:1:0:0
+Nicktoons Adria
+p:Unknown
+0fab:0e082fd5:0af4:00bb:1:0:0
+Warner TV Czech
+p:Unknown
+0fac:0e082fd5:0af4:00bb:1:0:0
+Prima Krimi
+p:Telly
+0fad:0e082fd5:0af4:00bb:1:0:0
+Markíza Krimi
+p:Magio TV
+0fae:0e082fd5:0af4:00bb:1:0:0
+Krimi Barrandov
+p:Magio TV
+0faf:0e082fd5:0af4:00bb:1:0:0
+Kino Barrandov
+p:Magio TV
+0fb0:0e082fd5:0af4:00bb:1:0:0
+HBO 2 Central Europe
+p:Magio TV
+0fb1:0e082fd5:0af4:00bb:1:0:0
+Folklorika
+p:Magio TV
+0fb2:0e082fd5:0af4:00bb:1:0:0
+Joj Svet
+p:Magio TV
+0fb3:0e082fd5:0af4:00bb:1:0:0
+DV TV Extra
+p:Unknown
+0fb4:0e082fd5:0af4:00bb:1:0:0
+Premier Sport 1
+p:Magio TV
+0fb5:0e082fd5:0af4:00bb:1:0:0
+HBO 3 Central Europe
+p:Magio TV
+0fb6:0e082fd5:0af4:00bb:1:0:0
+Viasat Explore East
+p:Magio TV
+0fb7:0e082fd5:0af4:00bb:1:0:0
+Kanal 1
+p:Magio TV
+0fb8:0e082fd5:0af4:00bb:1:0:0
+CT 24
+p:Magio TV
+0fb9:0e082fd5:0af4:00bb:1:0:0
+Strike TV
+p:Magio TV
+0fba:0e082fd5:0af4:00bb:1:0:0
+Nova Sport 3
+p:Magio TV
+0fbb:0e082fd5:0af4:00bb:1:0:0
+Food Network EMEA
+p:Magio TV
+0fbc:0e082fd5:0af4:00bb:1:0:0
+Premier Sport 3
+p:Magio TV
+0fbd:0e082fd5:0af4:00bb:1:0:0
+CNN Prima News
+p:Magio TV
+0fc1:0e082fd5:0af4:00bb:1:0:0
+TLC Pan Regional
+p:Magio TV
+78b5:0e082fe9:02c5:0600:1:0:0
+Sorozatklub
+p:One
+78b6:0e082fe9:02c5:0600:1:0:0
+Moziklub
+p:One
+78ba:0e082fe9:02c5:0600:1:0:0
+Fem 3
+p:One
+78bb:0e082fe9:02c5:0600:1:0:0
+Super TV 2
+p:Canal+ Magyarország
+78bc:0e082fe9:02c5:0600:1:0:0
+National Geographic România
+p:Digi România
+78bd:0e082fe9:02c5:0600:1:0:0
+Private TV
+p:Focus Sat
+78be:0e082fe9:02c5:0600:1:0:0
+Pro TV
+p:Focus Sat
+78bf:0e082fe9:02c5:0600:1:0:0
+FilmBox+ One Central Europe
+p:Canal+ Magyarország
+78c0:0e082fe9:02c5:0600:1:0:0
+Prime
+p:Canal+ Magyarország
+78c1:0e082fe9:02c5:0600:1:0:0
+Viasat 2
+p:One
+78c2:0e082fe9:02c5:0600:1:0:0
+Cinemax 2 Central Europe
+p:Focus Sat
+78c3:0e082fe9:02c5:0600:1:0:0
+Blue Hustler Europe
+p:Focus Sat
+78c4:0e082fe9:02c5:0600:1:0:0
+Duna TV
+p:Unknown
+78c5:0e082fe9:02c5:0600:1:0:0
+Viasat 2
+p:Unknown
+78c6:0e082fe9:02c5:0600:1:0:0
+Viasat Film
+p:One
+78c8:0e082fe9:02c5:0600:1:0:0
+Hustler TV Europe
+p:Focus Sat
+78c9:0e082fe9:02c5:0600:1:0:0
+Viasat Explore East
+p:Digi România
+78ca:0e082fe9:02c5:0600:1:0:0
+Viasat Explore East
+p:Digi România
+78cc:0e082fe9:02c5:0600:1:0:0
+Viasat Film
+p:Unknown
+78cd:0e082fe9:02c5:0600:1:0:0
+AXN Central Europe
+p:Canal+ Magyarország
+78cf:0e082fe9:02c5:0600:1:0:0
+TLC Pan Regional
+p:One
+78d2:0e082fe9:02c5:0600:1:0:0
+FilmBox+ One Central Europe
+p:Canal+ Magyarország
+78d4:0e082fe9:02c5:0600:1:0:0
+AXN Central Europe
+p:Magio TV
+78d5:0e082fe9:02c5:0600:1:0:0
+Arena 4
+p:Focus Sat
+78d6:0e082fe9:02c5:0600:1:0:0
+Sorozatklub
+p:Unknown
+78d7:0e082fe9:02c5:0600:1:0:0
+Arena 4
+p:Focus Sat
+78d8:0e082fe9:02c5:0600:1:0:0
+Moziklub
+p:Unknown
+78d9:0e082fe9:02c5:0600:1:0:0
+Fem 3
+p:Magio TV
+78db:0e082fe9:02c5:0600:1:0:0
+Super TV 2
+p:Magio TV
+78dc:0e082fe9:02c5:0600:1:0:0
+National Geographic România
+p:Digi România
+78dd:0e082fe9:02c5:0600:1:0:0
+Cool TV
+p:Canal+ Magyarország
+78de:0e082fe9:02c5:0600:1:0:0
+Cool TV
+p:Magio TV
+040f:0e083048:0046:0046:1:0:0
+NRK1
+p:Allente Sverige
+0410:0e083048:0046:0046:1:0:0
+NRK2
+p:Allente Sverige
+0411:0e083048:0046:0046:1:0:0
+NRK Super TV
+p:Allente Sverige
+1eb0:0e083048:0046:0046:1:0:0
+NRK1 Nordnytt
+p:Allente Norge
+1eb1:0e083048:0046:0046:1:0:0
+NRK1 Nordland
+p:Allente Norge
+1eb2:0e083048:0046:0046:1:0:0
+NRK1 Midtnytt
+p:Allente Norge
+1eb3:0e083048:0046:0046:1:0:0
+NRK1 Møre og Romsdal
+p:Allente Norge
+1eb4:0e083048:0046:0046:1:0:0
+NRK1 Vestlandrevyen
+p:Allente Norge
+1eb5:0e083048:0046:0046:1:0:0
+NRK1 Rogaland
+p:Allente Norge
+1eb6:0e083048:0046:0046:1:0:0
+NRK1 Sørlandet
+p:Allente Norge
+1eb7:0e083048:0046:0046:1:0:0
+NRK1 Vestfold og Telemark
+p:Allente Norge
+1eb8:0e083048:0046:0046:1:0:0
+NRK1 Innlandet
+p:Allente Norge
+1eba:0e083048:0046:0046:1:0:0
+NRK Tegnspråk
+p:Allente Norge
+1ebb:0e083048:0046:0046:2:0:0
+NRK P1 Stor-Oslo
+p:Unknown
+1ebc:0e083048:0046:0046:2:0:0
+NRK P1 Troms
+p:Unknown
+1ebd:0e083048:0046:0046:2:0:0
+NRK P1 Finnmark
+p:Unknown
+1ebe:0e083048:0046:0046:2:0:0
+NRK P1 Nordland
+p:Unknown
+1ebf:0e083048:0046:0046:2:0:0
+NRK P1 Trøndelag
+p:Unknown
+1ec0:0e083048:0046:0046:2:0:0
+NRK P1 Møre og Romsdal
+p:Unknown
+1ec1:0e083048:0046:0046:2:0:0
+NRK P1 Sogn og Fjordane
+p:Unknown
+1ec2:0e083048:0046:0046:2:0:0
+NRK P1 Hordaland
+p:Unknown
+1ec3:0e083048:0046:0046:2:0:0
+NRK P1 Rogaland
+p:Unknown
+1ec4:0e083048:0046:0046:2:0:0
+NRK P1 Sørlandet
+p:Unknown
+1ec5:0e083048:0046:0046:2:0:0
+NRK P1 Telemark
+p:Unknown
+1ec6:0e083048:0046:0046:2:0:0
+NRK P1 Vestfold
+p:Unknown
+1ec7:0e083048:0046:0046:2:0:0
+NRK P1 Buskerud
+p:Unknown
+1ec8:0e083048:0046:0046:2:0:0
+NRK P1 Innlandet
+p:Unknown
+1ec9:0e083048:0046:0046:2:0:0
+NRK P1 Østfold
+p:Unknown
+1eca:0e083048:0046:0046:2:0:0
+NRK P2
+p:Unknown
+1ecb:0e083048:0046:0046:2:0:0
+NRK P3
+p:Unknown
+1ecc:0e083048:0046:0046:2:0:0
+NRK Klassisk
+p:Unknown
+1ecd:0e083048:0046:0046:2:0:0
+NRK Sámi Rádio
+p:Unknown
+1ece:0e083048:0046:0046:2:0:0
+NRK mP3
+p:Unknown
+1ecf:0e083048:0046:0046:2:0:0
+NRK Nyheter
+p:Unknown
+1ed0:0e083048:0046:0046:2:0:0
+NRK P3 Musikk
+p:Unknown
+1ed1:0e083048:0046:0046:2:0:0
+NRK Været til sjøs
+p:Unknown
+1ed2:0e083048:0046:0046:2:0:0
+NRK Radio Super
+p:Unknown
+1ed3:0e083048:0046:0046:2:0:0
+NRK P1+
+p:Unknown
+1ed4:0e083048:0046:0046:2:0:0
+NRK Jazz
+p:Unknown
+1ed5:0e083048:0046:0046:2:0:0
+NRK Sport
+p:Unknown
+1ed6:0e083048:0046:0046:2:0:0
+NRK Folkemusikk
+p:Unknown
+177b:0e08305c:0af6:00bb:1:0:0
+Cartoon Network Central & Eastern Europe
+p:Magio TV
+177c:0e08305c:0af6:00bb:1:0:0
+Viasat Nature East
+p:Digi România
+177d:0e08305c:0af6:00bb:1:0:0
+Prima Show
+p:Telly
+177e:0e08305c:0af6:00bb:1:0:0
+AMC Cesko
+p:Focus Sat
+177f:0e08305c:0af6:00bb:1:0:0
+TV Lux
+p:Magio TV
+1780:0e08305c:0af6:00bb:1:0:0
+Joj 24
+p:Magio TV
+1781:0e08305c:0af6:00bb:1:0:0
+Joj Family
+p:Telly
+1782:0e08305c:0af6:00bb:1:0:0
+Nova Sport 2
+p:Magio TV
+1783:0e08305c:0af6:00bb:1:0:0
+Prima Krimi SK
+p:Magio TV
+1784:0e08305c:0af6:00bb:1:0:0
+Golf Channel Czechia
+p:Magio TV
+1785:0e08305c:0af6:00bb:1:0:0
+Prima SK
+p:Magio TV
+1786:0e08305c:0af6:00bb:1:0:0
+Nova Lady
+p:Telly
+1787:0e08305c:0af6:00bb:1:0:0
+Doma
+p:Magio TV
+1788:0e08305c:0af6:00bb:1:0:0
+Joj Krimi
+p:Magio TV
+1789:0e08305c:0af6:00bb:1:0:0
+Joj Cinema
+p:Magio TV
+178c:0e08305c:0af6:00bb:1:0:0
+Nova International
+p:Magio TV
+178e:0e08305c:0af6:00bb:1:0:0
+Discovery Channel Central Europe
+p:Magio TV
+178f:0e08305c:0af6:00bb:1:0:0
+Prima Zoom
+p:Telly
+0425:0e08306f:0043:0046:1:0:0
+Rex
+p:Allente Norge
+0b6c:0e08306f:0043:0046:1:0:0
+Kanal 5
+p:Allente Danmark
+1007:0e08306f:0043:0046:1:0:0
+TV Norge
+p:Allente Norge
+12c7:0e08306f:0043:0046:1:0:0
+6'eren
+p:Allente Danmark
+1a91:0e08306f:0043:0046:1:0:0
+Kanal 5
+p:Allente Sverige
+1bf8:0e08306f:0043:0046:1:0:0
+Kanal 9
+p:Allente Sverige
+0002:0e083082:0014:0046:1:0:0
+God TV Scandinavia
+p:Unknown
+0207:0e083082:0014:0046:1:0:0
+CGTN
+p:Unknown
+07ed:0e083082:0014:0046:1:0:0
+CGTN Documentary
+p:Unknown
+0b60:0e083082:0014:0046:1:0:0
+Aljazeera English
+p:Unknown
+1d5d:0e083082:0014:0046:2:0:0
+Best FM
+p:Unknown
+1b86:0e083095:003e:0046:1:0:0
+TV 6 Sverige
+p:Allente Sverige
+1d02:0e083095:003e:0046:1:0:0
+V Sport +
+p:Allente Norge
+1d03:0e083095:003e:0046:1:0:0
+V Sport 2
+p:Allente Norge
+1d17:0e083095:003e:0046:1:0:0
+V Sport 3
+p:Allente Norge
+1d56:0e083095:003e:0046:1:0:0
+Moonbug
+p:Allente Sverige
+1d6f:0e083095:003e:0046:1:0:0
+Viaplay Sport
+p:Allente Sverige
+1d73:0e083095:003e:0046:1:0:0
+V Sport 1 Sverige
+p:Allente Sverige
+1dad:0e083095:003e:0046:1:0:0
+TV 3 Norge
+p:Allente Norge
+1e02:0e083095:003e:0046:1:0:0
+V Sport Football
+p:Allente Sverige
+2333:0e0830a8:0af9:00bb:1:0:0
+Arena Sport 1
+p:Magio TV
+2334:0e0830a8:0af9:00bb:1:0:0
+CT Sport
+p:Telly
+2335:0e0830a8:0af9:00bb:1:0:0
+Animal Planet Europe
+p:Magio TV
+2336:0e0830a8:0af9:00bb:1:0:0
+Nova Cinema
+p:Telly
+2337:0e0830a8:0af9:00bb:1:0:0
+Prima Max
+p:Telly
+2338:0e0830a8:0af9:00bb:1:0:0
+Prima Cool
+p:Telly
+2339:0e0830a8:0af9:00bb:1:0:0
+Nova Sport 5
+p:Magio TV
+233a:0e0830a8:0af9:00bb:1:0:0
+Joj Sport 2
+p:Magio TV
+233b:0e0830a8:0af9:00bb:1:0:0
+Prima Star
+p:Telly
+233c:0e0830a8:0af9:00bb:1:0:0
+Nova Sport 1
+p:Magio TV
+233d:0e0830a8:0af9:00bb:1:0:0
+TV Seznam
+p:Magio TV
+233e:0e0830a8:0af9:00bb:1:0:0
+Travel Channel Europe
+p:Magio TV
+233f:0e0830a8:0af9:00bb:1:0:0
+Investigation Discovery Hungary
+p:Magio TV
+2340:0e0830a8:0af9:00bb:1:0:0
+Prima Love
+p:Telly
+2342:0e0830a8:0af9:00bb:1:0:0
+Rik
+p:Magio TV
+2343:0e0830a8:0af9:00bb:1:0:0
+Jojko
+p:Magio TV
+2344:0e0830a8:0af9:00bb:1:0:0
+HGTV Pan Regional
+p:Telly
+1cc4:0e0830bc:0050:0046:1:0:0
+Liv
+p:Allente Suomi
+1d06:0e0830bc:0050:0046:1:0:0
+YLE TV 1
+p:Allente Sverige
+1d37:0e0830bc:0050:0046:1:0:0
+MTV 3
+p:Allente Suomi
+1d4b:0e0830bc:0050:0046:1:0:0
+YLE TV 2
+p:Allente Sverige
+1d4f:0e0830bc:0050:0046:1:0:0
+YLE Teema Fem
+p:Allente Sverige
+1d50:0e0830bc:0050:0046:1:0:0
+MTV Juniori
+p:Allente Suomi
+1d51:0e0830bc:0050:0046:1:0:0
+MTV Urheilu 1
+p:Allente Suomi
+1d58:0e0830bc:0050:0046:1:0:0
+Nelonen
+p:Allente Suomi
+1d59:0e0830bc:0050:0046:1:0:0
+Jim
+p:Allente Suomi
+1f4b:0e0830ef:0af8:00bb:1:0:0
+Film + Czechia
+p:Magio TV
+1f4c:0e0830ef:0af8:00bb:1:0:0
+Prima Cool SK
+p:Magio TV
+1f4d:0e0830ef:0af8:00bb:1:0:0
+Spektrum
+p:Magio TV
+1f4e:0e0830ef:0af8:00bb:1:0:0
+AMC Cesko
+p:Magio TV
+1f4f:0e0830ef:0af8:00bb:1:0:0
+Nova Sport 6
+p:Magio TV
+2b03:0e08313f:0afb:00bb:1:0:0
+Auto Motor und Sport
+p:Magio TV
+2b04:0e08313f:0afb:00bb:1:0:0
+Travelxp HD Europe
+p:Magio TV
+2b05:0e08313f:0afb:00bb:1:0:0
+CNN International Europe
+p:Magio TV
+2b06:0e08313f:0afb:00bb:1:0:0
+Canal + Sport Slovakia
+p:Magio TV
+2b07:0e08313f:0afb:00bb:1:0:0
+TV Barrandov
+p:Magio TV
+2b08:0e08313f:0afb:00bb:1:0:0
+FilmBox+ Emotion Czechia & Hungary
+p:Magio TV
+2b09:0e08313f:0afb:00bb:1:0:0
+FilmBox+ Comedy
+p:Magio TV
+2b0a:0e08313f:0afb:00bb:1:0:0
+Digi Infokanal
+p:Magio TV
+2b0b:0e08313f:0afb:00bb:1:0:0
+Canal + Action Slovakia
+p:Magio TV
+2b0c:0e08313f:0afb:00bb:1:0:0
+Lala TV
+p:Magio TV
+2b0d:0e08313f:0afb:00bb:1:0:0
+CS Film
+p:Magio TV
+2b0e:0e08313f:0afb:00bb:1:0:0
+Ócko
+p:Magio TV
+03fd:0e083163:0519:0002:1:0:0
+TV5Monde Afrique
+p:Unknown
+0407:0e083163:0519:0002:1:0:0
+Tivi5Monde
+p:Unknown
+0411:0e083163:0519:0002:1:0:0
+TV5Monde Europe
+p:Unknown
+0412:0e083163:0519:0002:1:0:0
+TV5Monde Europe
+p:Unknown
+0413:0e083163:0519:0002:1:0:0
+TV5Monde France Belgique Suisse Monaco
+p:Unknown
+0414:0e083163:0519:0002:1:0:0
+TV5Monde Maghreb-Orient
+p:Unknown
+0415:0e083163:0519:0002:1:0:0
+TV5Monde Pacifique
+p:Unknown
+0416:0e083163:0519:0002:1:0:0
+TV5Monde Style
+p:Unknown
+03e9:0e08318f:0001:0001:1:0:0
+TVR 1
+p:Digi România
+03ee:0e08318f:0001:0001:1:0:0
+Prima TV
+p:Digi România
+03ef:0e08318f:0001:0001:1:0:0
+E! Europe
+p:Digi România
+03f0:0e08318f:0001:0001:1:0:0
+Mezzo
+p:Digi România
+03f1:0e08318f:0001:0001:1:0:0
+Digi Sport 4
+p:Digi România
+03f2:0e08318f:0001:0001:1:0:0
+Digi Sport 2
+p:Digi România
+03f3:0e08318f:0001:0001:1:0:0
+U TV
+p:Unknown
+03f9:0e08318f:0001:0001:1:0:0
+Food Network EMEA
+p:Digi România
+03fb:0e08318f:0001:0001:1:0:0
+Kiss TV
+p:Digi România
+03fc:0e08318f:0001:0001:1:0:0
+HBO 3 Central Europe
+p:Digi România
+03fe:0e08318f:0001:0001:1:0:0
+Digi Sport 3
+p:Digi România
+044c:0e08318f:0001:0001:1:0:0
+Cinemax Central Europe
+p:Digi România
+0456:0e08318f:0001:0001:1:0:0
+Da Vinci Hungary
+p:Digi România
+0d2a:0e08318f:0001:0001:1:0:0
+Eurosport 2 Romania
+p:Digi România
+0a78:0e08318f:0001:0001:2:0:0
+Mária Rádió Erdély
+p:Unknown
+0d98:0e08318f:0001:0001:2:0:0
+Rádió GaGa
+p:Unknown
+0e56:0e08318f:0001:0001:2:0:0
+Radio Maria Romania
+p:Unknown
+006f:0e08318f:000c:000a:1:0:0
+History Europe
+p:Magio TV
+0070:0e08318f:000c:000a:1:0:0
+History 2 Europe
+p:Allente Norge
+03eb:0e0831b3:0002:0001:1:0:0
+Eurosport 1 Romania
+p:Digi România
+03f4:0e0831b3:0002:0001:1:0:0
+CineMaraton
+p:Digi România
+03ff:0e0831b3:0002:0001:1:0:0
+Cinemax Central Europe
+p:Digi România
+0400:0e0831b3:0002:0001:1:0:0
+Pro TV International
+p:Digi România
+0403:0e0831b3:0002:0001:1:0:0
+H!t Music Channel Romania
+p:Unknown
+0404:0e0831b3:0002:0001:1:0:0
+Discovery Channel Romania
+p:Digi România
+0405:0e0831b3:0002:0001:1:0:0
+TLC România
+p:Digi România
+0406:0e0831b3:0002:0001:1:0:0
+Da Vinci Hungary
+p:Digi România
+0408:0e0831b3:0002:0001:1:0:0
+Digi World Romania
+p:Digi România
+0409:0e0831b3:0002:0001:1:0:0
+SuperOne HD
+p:Digi România
+054e:0e0831b3:0002:0001:1:0:0
+Digi Life Romania
+p:Digi România
+062c:0e0831b3:0002:0001:1:0:0
+Prima Sport 2
+p:Digi România
+0d52:0e0831b3:0002:0001:1:0:0
+HGTV Pan Regional
+p:Digi România
+09d4:0e0831b3:0002:0001:2:0:0
+Vibe FM
+p:Unknown
+0a5a:0e0831b3:0002:0001:2:0:0
+Sport Total FM
+p:Unknown
+0da2:0e0831b3:0002:0001:2:0:0
+Virgin Radio Romania
+p:Unknown
+end

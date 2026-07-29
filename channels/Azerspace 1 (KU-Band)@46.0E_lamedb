@@ -3,6 +3,9 @@ transponders
 01cc2b10:0001:0000
 	s 11024000:12700000:1:0:460:2:0:1:0:2:2
 /
+01cc2b40:0001:0001
+	s 11072000:2500000:0:0:460:2:0:1:0:2:2
+/
 01cc2b57:0000:0000
 	s 11095000:30000000:0:0:460:2:0:1:0:2:2
 /
@@ -28,6 +31,9 @@ Start TV
 p:Unknown
 0005:01cc2b10:0001:0000:2:0:0
 Kepez FM
+p:Unknown
+0015:01cc2b40:0001:0001:1:0:0
+Wasat TV
 p:Unknown
 0001:01cc2b57:0000:0000:1:0:0
 1 TV
@@ -116,12 +122,6 @@ p:Unknown
 000a:01cc2b7f:0001:ffff:1:0:0
 Misli TV
 p:Unknown
-000d:01cc2b7f:0001:ffff:1:0:0
-Iran International
-p:Unknown
-000e:01cc2b7f:0001:ffff:1:0:0
-Pars TV
-p:Unknown
 000f:01cc2b7f:0001:ffff:1:0:0
 Omid-e-Iran
 p:Unknown
@@ -162,7 +162,7 @@ p:Unknown
 Azad TV
 p:Unknown
 0006:01cc2ba7:0001:0001:1:0:0
-Xezer Xeber
+Xezer TV
 p:Unknown
 0007:01cc2ba7:0001:0001:1:0:0
 CBC

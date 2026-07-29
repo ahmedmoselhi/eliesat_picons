@@ -1,0 +1,179 @@
+eDVB services /4/
+transponders
+02c12b1b:0000:0000
+	s 11035000:4000000:0:0:705:2:0:1:0:2:2
+/
+02c12b2a:0002:0001
+	s 11050000:17670000:0:0:705:2:0:1:0:2:2
+/
+02c12b59:0000:ffff
+	s 11097000:23627000:0:0:705:2:0:1:0:2:2
+/
+02c130db:0000:0000
+	s 12507000:2222000:1:0:705:2:0:1:0:2:2
+/
+02c130ec:0000:0000
+	s 12524000:1600000:1:0:705:2:0:1:0:2:2
+/
+02c13119:0001:ffff
+	s 12569000:1500000:1:0:705:2:0:1:0:2:2
+/
+02c1311b:0000:0000
+	s 12571000:1500000:1:0:705:2:0:1:0:2:2
+/
+02c1311d:0000:0000
+	s 12573000:1500000:1:0:705:2:0:1:0:2:2
+/
+02c1311f:0001:ffff
+	s 12575000:1500000:1:0:705:2:0:1:0:2:2
+/
+02c13121:0001:0001
+	s 12577000:1500000:1:0:705:2:0:1:0:2:2
+/
+02c13123:0000:0000
+	s 12579000:1600000:1:0:705:2:0:1:0:2:2
+/
+02c1318a:0001:0001
+	s 12682000:16046000:1:0:705:2:0:1:0:2:2
+/
+end
+services
+0001:02c12b1b:0000:0000:1:0:0
+I News
+p:Unknown
+0002:02c12b1b:0000:0000:1:0:0
+Al-Mawqef TV
+p:Unknown
+0001:02c12b2a:0002:0001:1:0:0
+1TV
+p:Unknown
+0002:02c12b2a:0002:0001:1:0:0
+1TV News Channel
+p:Unknown
+0004:02c12b2a:0002:0001:1:0:0
+Armenia TV Satellite
+p:Unknown
+0005:02c12b2a:0002:0001:1:0:0
+Shant TV
+p:Unknown
+0006:02c12b2a:0002:0001:1:0:0
+ATV
+p:Unknown
+0007:02c12b2a:0002:0001:1:0:0
+Fast Sports
+p:Unknown
+0008:02c12b2a:0002:0001:1:0:0
+Kentron TV
+p:Unknown
+000e:02c12b2a:0002:0001:1:0:0
+Rossiya RTR
+p:Unknown
+000a:02c12b2a:0002:0001:2:0:0
+Public Radio of Armenia
+p:Unknown
+000b:02c12b2a:0002:0001:2:0:0
+Yerevan FM
+p:Unknown
+000c:02c12b2a:0002:0001:2:0:0
+Radio Arevik
+p:Unknown
+0001:02c12b59:0000:ffff:1:0:0
+UTRK
+p:Unknown
+0002:02c12b59:0000:ffff:1:0:0
+Ala Too 24
+p:Unknown
+0003:02c12b59:0000:ffff:1:0:0
+Sport
+p:Unknown
+0004:02c12b59:0000:ffff:1:0:0
+Madaniyat
+p:Unknown
+0005:02c12b59:0000:ffff:1:0:0
+Muzika
+p:Unknown
+0006:02c12b59:0000:ffff:1:0:0
+Balastan
+p:Unknown
+0007:02c12b59:0000:ffff:1:0:0
+El TR
+p:Unknown
+0008:02c12b59:0000:ffff:1:0:0
+El TR Ilim Bilim
+p:Unknown
+000a:02c12b59:0000:ffff:1:0:0
+Mir +4
+p:Unknown
+0015:02c12b59:0000:ffff:2:0:0
+Radyo Manas Radiosy
+p:Unknown
+0017:02c12b59:0000:ffff:2:0:0
+Radio OK
+p:Unknown
+0018:02c12b59:0000:ffff:2:0:0
+Radio Parlament
+p:Unknown
+0019:02c12b59:0000:ffff:2:0:0
+Tumar FM
+p:Unknown
+001a:02c12b59:0000:ffff:2:0:0
+Love Radio Kyrgyzstan
+p:Unknown
+0064:02c12b59:0000:ffff:2:0:0
+El FM
+p:Unknown
+0231:02c12b59:0000:ffff:2:0:0
+Europa Plus Kirgizstan
+p:Unknown
+0232:02c12b59:0000:ffff:2:0:0
+Sanjyra Radiosu
+p:Unknown
+0233:02c12b59:0000:ffff:2:0:0
+Suiunchu FM
+p:Unknown
+0234:02c12b59:0000:ffff:2:0:0
+Retro FM Kirgizstan
+p:Unknown
+02bd:02c12b59:0000:ffff:2:0:0
+Min Kiyal FM
+p:Unknown
+02be:02c12b59:0000:ffff:2:0:0
+Kyrgyz Radiosu
+p:Unknown
+02bf:02c12b59:0000:ffff:2:0:0
+Birinchi Radio
+p:Unknown
+02c0:02c12b59:0000:ffff:2:0:0
+Radio Mir Bishkek
+p:Unknown
+0804:02c12b59:0000:ffff:2:0:0
+Sanjyra Radiosu
+p:Unknown
+0001:02c130db:0000:0000:1:0:0
+Al Ayyam TV
+p:Unknown
+0001:02c130ec:0000:0000:1:0:0
+Alanwar TV 2
+p:Unknown
+0001:02c13119:0001:ffff:1:0:0
+Al Eshraq TV
+p:Unknown
+0001:02c1311b:0000:0000:1:0:0
+Bayyinat TV
+p:Unknown
+0002:02c1311d:0000:0000:1:0:0
+Al-Naeem TV
+p:Unknown
+00cb:02c1311f:0001:ffff:1:0:0
+Thaqalayn TV
+p:Unknown
+0001:02c13121:0001:0001:1:0:0
+Thaqalayn TV
+p:Unknown
+0001:02c13123:0000:0000:1:0:0
+Al Nujaba TV
+p:Unknown
+0001:02c1318a:0001:0001:1:0:0
+MTA 7 Asia
+p:Unknown
+end

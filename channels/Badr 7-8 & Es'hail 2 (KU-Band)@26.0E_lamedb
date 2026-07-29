@@ -27,9 +27,6 @@ transponders
 01042a8a:0fd2:00e0
 	s 10890000:27500000:0:0:260:2:0:1:0:2:2
 /
-01042a8a:7594:077e
-	s 10890000:27500000:1:0:260:2:0:1:0:2:2
-/
 01042acb:0000:0000
 	s 10955000:789000:0:0:260:2:0:1:0:2:2
 /
@@ -65,6 +62,12 @@ transponders
 /
 01042ca6:0fc8:00e0
 	s 11430000:27500000:1:0:260:2:0:1:0:2:2
+/
+01042d05:0001:ffff
+	s 11525000:4166000:1:0:260:2:0:1:0:2:2
+/
+01042d07:0001:0000
+	s 11527000:789000:0:0:260:2:0:1:0:2:2
 /
 01042de3:012d:02be
 	s 11747000:27500000:1:0:260:2:0:0:0:2:2
@@ -123,11 +126,17 @@ transponders
 01042f89:0003:0001
 	s 12169000:27500000:1:0:260:2:0:1:0:2:2
 /
+01042faf:0001:02be
+	s 12207000:27500000:1:0:260:2:0:1:0:2:2
+/
 01042fc2:0202:02be
 	s 12226000:27500000:0:0:260:2:0:1:0:2:2
 /
 01042fd5:022b:02be
 	s 12245000:27500000:1:0:260:2:0:1:0:2:2
+/
+01042fe9:0002:0001
+	s 12265000:30000000:0:0:260:2:0:1:0:2:2
 /
 01042fe9:2025:02be
 	s 12265000:27500000:0:0:260:2:0:0:0:2:2
@@ -135,7 +144,7 @@ transponders
 01042ffc:146e:02be
 	s 12284000:27500000:1:0:260:2:0:0:0:2:2
 /
-0104300f:01f4:0e26
+0104300f:0191:0e26
 	s 12303000:32000000:0:0:260:2:0:1:0:2:2
 /
 0104300f:146f:02be
@@ -147,7 +156,7 @@ transponders
 01043048:0002:02be
 	s 12360000:27500000:1:0:260:2:0:0:0:2:2
 /
-0104305c:0820:00e0
+0104305c:1fc7:02be
 	s 12380000:27500000:0:0:260:2:0:1:0:2:2
 /
 0104306f:17f8:02be
@@ -165,8 +174,8 @@ transponders
 010430eb:7594:077e
 	s 12523000:27500000:0:0:260:2:0:1:0:2:2
 /
-010430eb:0002:02be
-	s 12523000:27500000:1:0:260:2:0:0:0:2:2
+010430eb:0002:ffff
+	s 12523000:30000000:1:0:260:2:0:1:0:2:2
 /
 01043113:001a:0088
 	s 12563000:27500000:1:0:260:2:0:1:0:2:2
@@ -228,13 +237,13 @@ p:Unknown
 Qatar TV 2
 p:Unknown
 0003:01042a12:0002:0001:1:0:0
-Al Kass One
-p:Unknown
-0004:01042a12:0002:0001:1:0:0
-Al Kass Two
+Qatar TV The Holy Quran
 p:Unknown
 0005:01042a12:0002:0001:1:0:0
-Al Kass Four
+QBC
+p:Unknown
+0006:01042a12:0002:0001:1:0:0
+QBC
 p:Unknown
 000a:01042a12:0002:0001:2:0:0
 Sout al Khaleej 2
@@ -281,14 +290,8 @@ p:BeIn
 20d4:01042a3a:1f68:00e0:1:0:0
 BeIn Sports 5
 p:BeIn
-20d8:01042a3a:1f68:00e0:1:0:0
-BeIn Sports Xtra 8
-p:BeIn
-2199:01042a3a:1f7c:00e0:1:0:0
-BeIn Sports 6
-p:BeIn
-219a:01042a3a:1f7c:00e0:1:0:0
-BeIn Sports 4
+20d9:01042a3a:1f68:00e0:1:0:0
+BeIn Sports Xtra 1
 p:BeIn
 219b:01042a3a:1f7c:00e0:1:0:0
 BeIn Sports 8
@@ -299,11 +302,11 @@ p:BeIn
 219f:01042a3a:1f7c:00e0:1:0:0
 BeIn Sports News
 p:Unknown
-21a3:01042a3a:1f7c:00e0:1:0:0
+21a6:01042a3a:1f7c:00e0:1:0:0
 BeIn Sports Xtra 4
 p:BeIn
-4fb7:01042a62:07f8:00e0:1:0:0
-BeIn Sports Xtra 1
+21a8:01042a3a:1f7c:00e0:1:0:0
+BeIn Movies 1 Premiere
 p:BeIn
 4fb8:01042a62:07f8:00e0:1:0:0
 BeIn Sports Xtra 2
@@ -317,9 +320,6 @@ p:BeIn
 4fcc:01042a62:07f8:00e0:1:0:0
 BeIn Sports Xtra 6
 p:BeIn
-4fcd:01042a62:07f8:00e0:1:0:0
-BeIn Sports Xtra 9
-p:BeIn
 2261:01042a62:0438:00e0:1:0:0
 BeIn Sports 7
 p:BeIn
@@ -331,12 +331,6 @@ BeIn Sports English 1
 p:BeIn
 2264:01042a62:0438:00e0:1:0:0
 BeIn Sports French 2
-p:BeIn
-2268:01042a62:0438:00e0:1:0:0
-BeIn Sports Xtra 7
-p:BeIn
-2269:01042a62:0438:00e0:1:0:0
-BeIn Movies 1 Premiere
 p:BeIn
 9e35:01042a8a:0fd2:00e0:1:0:0
 National Geographic Middle East
@@ -353,51 +347,12 @@ p:BeIn
 9e41:01042a8a:0fd2:00e0:1:0:0
 BBC Earth Middle East
 p:BeIn
-044d:01042a8a:7594:077e:1:0:0
-KTV 1
-p:Unknown
-044e:01042a8a:7594:077e:1:0:0
-KTV Al-Akhbar
-p:Unknown
-044f:01042a8a:7594:077e:1:0:0
-KTV 2
-p:Unknown
-0450:01042a8a:7594:077e:1:0:0
-KTV Sport
-p:Unknown
-0451:01042a8a:7594:077e:1:0:0
-KTV Sport 2
-p:Unknown
-000b:01042a8a:7594:077e:2:0:0
-Kuwait Radio One
-p:Unknown
-000c:01042a8a:7594:077e:2:0:0
-Kuwait Radio Two
-p:Unknown
-000d:01042a8a:7594:077e:2:0:0
-AlQuran Alkarem
-p:Unknown
-000e:01042a8a:7594:077e:2:0:0
-Easy 92.5
-p:Unknown
-000f:01042a8a:7594:077e:2:0:0
-Kuwait FM
-p:Unknown
-0010:01042a8a:7594:077e:2:0:0
-Super Station
-p:Unknown
-0011:01042a8a:7594:077e:2:0:0
-The Old Arabic Singing
-p:Unknown
-0012:01042a8a:7594:077e:2:0:0
-Traditional Station
-p:Unknown
-0013:01042a8a:7594:077e:2:0:0
-OFM
-p:Unknown
-0014:01042a8a:7594:077e:2:0:0
-Kuwait Radio One
-p:Unknown
+9e42:01042a8a:0fd2:00e0:1:0:0
+BeIn Movies 2 Action
+p:BeIn
+9e43:01042a8a:0fd2:00e0:1:0:0
+BeIn Movies 4 Family
+p:BeIn
 03e8:01042acb:0000:0000:2:0:0
 MFM Radio Casablanca
 p:Unknown
@@ -473,17 +428,14 @@ p:Unknown
 0a49:01042bde:001a:02be:2:0:0
 Khuzama Radio
 p:Unknown
-0001:01042bde:1cea:0001:1:0:0
-SSBC TV
-p:Unknown
-000b:01042bde:1cea:0001:1:0:0
-Atfal & Mawaheb
-p:Unknown
 000c:01042bde:1cea:0001:1:0:0
 Oman TV
 p:Unknown
-0708:01042bde:1cea:0001:1:0:0
+0710:01042bde:1cea:0001:1:0:0
 Space Toon Arabic
+p:Unknown
+173e:01042bde:1cea:0001:1:0:0
+Al-Waqie TV
 p:Unknown
 0001:01042c06:1bc0:02be:1:0:0
 MBC
@@ -513,7 +465,7 @@ p:Unknown
 MBC
 p:Unknown
 000b:01042c06:1bc0:02be:1:0:0
-Wanasah
+MBC Mood
 p:Unknown
 0034:01042c06:1bc0:02be:2:0:0
 MBC FM
@@ -671,20 +623,23 @@ p:BeIn
 21ff:01042c7e:1f86:00e0:1:0:0
 BeIn Box Office 2
 p:BeIn
-2200:01042c7e:1f86:00e0:1:0:0
-BeIn Movies 2 Action
-p:BeIn
 2201:01042c7e:1f86:00e0:1:0:0
 BeIn Series 2
 p:BeIn
-2202:01042c7e:1f86:00e0:1:0:0
-BeIn Movies 4 Family
+2204:01042c7e:1f86:00e0:1:0:0
+BeIn Sports 6
+p:BeIn
+2205:01042c7e:1f86:00e0:1:0:0
+BeIn Sports 4
 p:BeIn
 51a5:01042ca6:082a:00e0:1:0:0
 Alikhbaria Syria
 p:Unknown
 51a6:01042ca6:082a:00e0:1:0:0
 Alsouriya TV
+p:Unknown
+51a7:01042ca6:082a:00e0:2:0:0
+Damascus Radio
 p:Unknown
 9dd1:01042ca6:0fc8:00e0:1:0:0
 Cartoonito Middle East
@@ -704,6 +659,24 @@ p:BeIn
 9ddb:01042ca6:0fc8:00e0:1:0:0
 BeIn Gourmet
 p:BeIn
+0001:01042d05:0001:ffff:1:0:0
+Alikhbaria Syria
+p:Unknown
+0002:01042d05:0001:ffff:2:0:0
+Damascus Radio
+p:Unknown
+03e8:01042d07:0001:0000:2:0:0
+MFM Radio Casablanca
+p:Unknown
+07d0:01042d07:0001:0000:2:0:0
+MFM Radio Agadir
+p:Unknown
+0bb8:01042d07:0001:0000:2:0:0
+MFM Radio Marrakech
+p:Unknown
+0fa0:01042d07:0001:0000:2:0:0
+MFM Radio Fes
+p:Unknown
 0002:01042de3:012d:02be:1:0:0
 Atfal & Mawaheb
 p:Unknown
@@ -875,6 +848,12 @@ p:Unknown
 007f:01042e69:0065:0e26:1:0:0
 Sahar Azeri
 p:Unknown
+00a8:01042e69:0065:0e26:1:0:0
+Abadan TV
+p:Unknown
+00b1:01042e69:0065:0e26:1:0:0
+Hamoon TV
+p:Unknown
 00c0:01042e69:0065:0e26:1:0:0
 Khorasan Jonoobi TV
 p:Unknown
@@ -944,6 +923,9 @@ p:Unknown
 0106:01042e69:0065:0e26:2:0:0
 Radio Ziarat
 p:Unknown
+015f:01042e69:0065:0e26:2:0:0
+Radio Iran
+p:Unknown
 01d4:01042e69:0065:0e26:2:0:0
 Radio Abadan
 p:Unknown
@@ -962,6 +944,9 @@ p:Unknown
 0067:01042e8f:13f7:02be:1:0:0
 Asharq Discovery
 p:Unknown
+0068:01042e8f:13f7:02be:1:0:0
+Al Thaqafeya
+p:Unknown
 006b:01042e8f:13f7:02be:1:0:0
 Thamanya 1
 p:Unknown
@@ -973,6 +958,9 @@ Thamanya 3
 p:Unknown
 0007:01042ea2:01f6:02be:1:0:0
 Alarabiya
+p:Unknown
+0015:01042ea2:01f6:02be:1:0:0
+ERI TV 1
 p:Unknown
 023a:01042ea2:01f6:02be:1:0:0
 Makkah TV
@@ -1130,9 +1118,6 @@ p:Unknown
 0003:01042eef:1fb4:02be:1:0:0
 Thamanya 3
 p:Unknown
-0004:01042eef:1fb4:02be:1:0:0
-Thamanya 4
-p:Unknown
 070a:01042f16:01fa:02be:1:0:0
 Jordan TV
 p:Unknown
@@ -1144,6 +1129,9 @@ Hadhramaut TV
 p:Unknown
 070d:01042f16:01fa:02be:1:0:0
 Yemen TV
+p:Unknown
+070e:01042f16:01fa:02be:1:0:0
+Saba TV
 p:Unknown
 0729:01042f16:01fa:02be:1:0:0
 RTD 4
@@ -1238,7 +1226,7 @@ p:Unknown
 0008:01042f62:01fc:02be:1:0:0
 Dubai Racing 2
 p:Unknown
-0015:01042f62:01fc:02be:2:0:0
+000b:01042f62:01fc:02be:2:0:0
 Noor Dubai Radio
 p:Unknown
 000d:01042f62:01fc:02be:2:0:0
@@ -1319,6 +1307,12 @@ p:Unknown
 0004:01042f89:0003:0001:1:0:0
 Qatar TV
 p:Unknown
+0005:01042f89:0003:0001:1:0:0
+QBC
+p:Unknown
+0006:01042f89:0003:0001:1:0:0
+QBC
+p:Unknown
 000a:01042f89:0003:0001:2:0:0
 Sout al Khaleej 2
 p:Unknown
@@ -1351,6 +1345,36 @@ Holy Quran Radio 106 FM
 p:Unknown
 001b:01042f89:0003:0001:2:0:0
 Hola Qatar Radio
+p:Unknown
+0015:01042faf:0001:02be:1:0:0
+MTV
+p:Unknown
+0016:01042faf:0001:02be:1:0:0
+One TV
+p:Unknown
+0017:01042faf:0001:02be:1:0:0
+LBC International
+p:Unknown
+0018:01042faf:0001:02be:1:0:0
+Al Jadeed
+p:Unknown
+0019:01042faf:0001:02be:1:0:0
+Red TV
+p:Unknown
+001a:01042faf:0001:02be:1:0:0
+OTV
+p:Unknown
+001b:01042faf:0001:02be:1:0:0
+NBN
+p:Unknown
+001c:01042faf:0001:02be:1:0:0
+Arabica TV
+p:Unknown
+001d:01042faf:0001:02be:1:0:0
+Aghani Aghani TV
+p:Unknown
+001e:01042faf:0001:02be:1:0:0
+Télé Liban
 p:Unknown
 0001:01042fc2:0202:02be:1:0:0
 Bahrain TV
@@ -1400,20 +1424,20 @@ p:Unknown
 0005:01042fd5:022b:02be:1:0:0
 Al Kass Four
 p:Unknown
+0082:01042fe9:0002:0001:1:0:0
+Iran International
+p:Unknown
+0088:01042fe9:0002:0001:1:0:0
+Iran International
+p:Unknown
 02c1:01042fe9:2025:02be:1:0:0
 Call TV
 p:Unknown
 02c2:01042fe9:2025:02be:1:0:0
-Omega TV UK
-p:Unknown
-02cb:01042fe9:2025:02be:1:0:0
-Lion 1 TV
+Gye No Di TV
 p:Unknown
 02cc:01042fe9:2025:02be:1:0:0
 Worldwide Word TV
-p:Unknown
-02cd:01042fe9:2025:02be:1:0:0
-Cape TV
 p:Unknown
 02ce:01042fe9:2025:02be:1:0:0
 NAB TV
@@ -1430,11 +1454,8 @@ p:Unknown
 02d6:01042fe9:2025:02be:1:0:0
 Nasara TV
 p:Unknown
-02dd:01042fe9:2025:02be:1:0:0
-Nobyah TV
-p:Unknown
-02de:01042fe9:2025:02be:1:0:0
-Islamic Library Channel
+02db:01042fe9:2025:02be:1:0:0
+Action TV
 p:Unknown
 02e1:01042fe9:2025:02be:1:0:0
 Agbeve TV
@@ -1445,17 +1466,14 @@ p:Unknown
 02e3:01042fe9:2025:02be:1:0:0
 Neesim TV
 p:Unknown
+02e4:01042fe9:2025:02be:1:0:0
+King of Kings TV
+p:Unknown
 02e5:01042fe9:2025:02be:1:0:0
 Hero TV
 p:Unknown
 02ec:01042fe9:2025:02be:1:0:0
 Homebase TV
-p:Unknown
-02f3:01042fe9:2025:02be:1:0:0
-Metro TV
-p:Unknown
-02f4:01042fe9:2025:02be:1:0:0
-Original TV
 p:Unknown
 0001:01042ffc:146e:02be:1:0:0
 Al Hadath
@@ -1488,190 +1506,211 @@ p:Unknown
 MBC Drama
 p:Unknown
 000c:01042ffc:146e:02be:1:0:0
-Wanasah
+MBC Mood
 p:Unknown
-00a1:0104300f:01f4:0e26:1:0:0
+00a1:0104300f:0191:0e26:1:0:0
 Khorasan Razavi TV
 p:Unknown
-00a2:0104300f:01f4:0e26:1:0:0
+00a2:0104300f:0191:0e26:1:0:0
 Sahand TV
 p:Unknown
-00a3:0104300f:01f4:0e26:1:0:0
+00a3:0104300f:0191:0e26:1:0:0
 Golestan TV
 p:Unknown
-00a4:0104300f:01f4:0e26:1:0:0
+00a4:0104300f:0191:0e26:1:0:0
 Fars TV
 p:Unknown
-00a5:0104300f:01f4:0e26:1:0:0
+00a5:0104300f:0191:0e26:1:0:0
 Aflak TV
 p:Unknown
-00a7:0104300f:01f4:0e26:1:0:0
+00a7:0104300f:0191:0e26:1:0:0
 Baran TV
 p:Unknown
-00a9:0104300f:01f4:0e26:1:0:0
+00a9:0104300f:0191:0e26:1:0:0
 Azarbayjan TV
 p:Unknown
-00aa:0104300f:01f4:0e26:1:0:0
+00aa:0104300f:0191:0e26:1:0:0
 Alborz TV
 p:Unknown
-00ab:0104300f:01f4:0e26:1:0:0
+00ab:0104300f:0191:0e26:1:0:0
 Esfahan TV
 p:Unknown
-00ac:0104300f:01f4:0e26:1:0:0
+00ac:0104300f:0191:0e26:1:0:0
 Khozestan TV
 p:Unknown
-00ad:0104300f:01f4:0e26:1:0:0
+00ad:0104300f:0191:0e26:1:0:0
 Kerman TV
 p:Unknown
-00ae:0104300f:01f4:0e26:1:0:0
+00ae:0104300f:0191:0e26:1:0:0
 Mazandaran TV
 p:Unknown
-00af:0104300f:01f4:0e26:1:0:0
+00af:0104300f:0191:0e26:1:0:0
 Noor TV
 p:Unknown
-00b0:0104300f:01f4:0e26:1:0:0
+00b0:0104300f:0191:0e26:1:0:0
 Khorasan Shomali TV
 p:Unknown
-00b1:0104300f:01f4:0e26:1:0:0
+00b1:0104300f:0191:0e26:1:0:0
 Hamoon TV
 p:Unknown
-00b2:0104300f:01f4:0e26:1:0:0
+00b2:0104300f:0191:0e26:1:0:0
 Boushehr TV
 p:Unknown
-00b3:0104300f:01f4:0e26:1:0:0
+00b3:0104300f:0191:0e26:1:0:0
 Ilam TV
 p:Unknown
-00b4:0104300f:01f4:0e26:1:0:0
+00b4:0104300f:0191:0e26:1:0:0
 Hamedan TV
 p:Unknown
-00b5:0104300f:01f4:0e26:1:0:0
+00b5:0104300f:0191:0e26:1:0:0
 Jahanbin TV
 p:Unknown
-00b6:0104300f:01f4:0e26:1:0:0
+00b6:0104300f:0191:0e26:1:0:0
 Taban TV
 p:Unknown
-00b7:0104300f:01f4:0e26:1:0:0
+00b7:0104300f:0191:0e26:1:0:0
 Sabalan TV
 p:Unknown
-00b8:0104300f:01f4:0e26:1:0:0
+00b8:0104300f:0191:0e26:1:0:0
 Mahabad TV
 p:Unknown
-00b9:0104300f:01f4:0e26:1:0:0
+00b9:0104300f:0191:0e26:1:0:0
 Khalij-e Fars TV
 p:Unknown
-00ba:0104300f:01f4:0e26:1:0:0
+00ba:0104300f:0191:0e26:1:0:0
 Aftab TV
 p:Unknown
-00bb:0104300f:01f4:0e26:1:0:0
+00bb:0104300f:0191:0e26:1:0:0
 Eshragh TV
 p:Unknown
-00bc:0104300f:01f4:0e26:1:0:0
+00bc:0104300f:0191:0e26:1:0:0
 Kermanshah TV
 p:Unknown
-00bd:0104300f:01f4:0e26:1:0:0
+00bd:0104300f:0191:0e26:1:0:0
 Dena TV
 p:Unknown
-00be:0104300f:01f4:0e26:1:0:0
+00be:0104300f:0191:0e26:1:0:0
 Semnan TV
 p:Unknown
-00bf:0104300f:01f4:0e26:1:0:0
+00bf:0104300f:0191:0e26:1:0:0
 Kordestan TV
 p:Unknown
-00c0:0104300f:01f4:0e26:1:0:0
+00c0:0104300f:0191:0e26:1:0:0
 Khorasan Jonoobi TV
 p:Unknown
-00c1:0104300f:01f4:0e26:1:0:0
+00c1:0104300f:0191:0e26:1:0:0
 Qazvin TV
 p:Unknown
-01cd:0104300f:01f4:0e26:2:0:0
+01cd:0104300f:0191:0e26:2:0:0
 Radio Khorasan e Razavi
 p:Unknown
-01ce:0104300f:01f4:0e26:2:0:0
+01ce:0104300f:0191:0e26:2:0:0
 Radio Tabriz
 p:Unknown
-01cf:0104300f:01f4:0e26:2:0:0
+01cf:0104300f:0191:0e26:2:0:0
 Radio Gorgan
 p:Unknown
-01d1:0104300f:01f4:0e26:2:0:0
+01d1:0104300f:0191:0e26:2:0:0
 Radio Lorestan
 p:Unknown
-01d3:0104300f:01f4:0e26:2:0:0
+01d3:0104300f:0191:0e26:2:0:0
 Radio Guilan
 p:Unknown
-01d5:0104300f:01f4:0e26:2:0:0
+01d5:0104300f:0191:0e26:2:0:0
 Radio Azarbayjan
 p:Unknown
-01d6:0104300f:01f4:0e26:2:0:0
+01d6:0104300f:0191:0e26:2:0:0
 Radio Alborz
 p:Unknown
-01d7:0104300f:01f4:0e26:2:0:0
+01d7:0104300f:0191:0e26:2:0:0
 Radio Isfahan
 p:Unknown
-01d8:0104300f:01f4:0e26:2:0:0
+01d8:0104300f:0191:0e26:2:0:0
 Radio Khozestan
 p:Unknown
-01d9:0104300f:01f4:0e26:2:0:0
+01d9:0104300f:0191:0e26:2:0:0
 Radio Kerman
 p:Unknown
-01da:0104300f:01f4:0e26:2:0:0
+01da:0104300f:0191:0e26:2:0:0
 Radio Sari
 p:Unknown
-01db:0104300f:01f4:0e26:2:0:0
+01db:0104300f:0191:0e26:2:0:0
 Radio Qom
 p:Unknown
-01dc:0104300f:01f4:0e26:2:0:0
+01dc:0104300f:0191:0e26:2:0:0
 Radio Khorasan Shomali
 p:Unknown
-01dd:0104300f:01f4:0e26:2:0:0
+01dd:0104300f:0191:0e26:2:0:0
 Radio Zahedan
 p:Unknown
-01de:0104300f:01f4:0e26:2:0:0
+01de:0104300f:0191:0e26:2:0:0
 Radio Bushehr
 p:Unknown
-01df:0104300f:01f4:0e26:2:0:0
+01df:0104300f:0191:0e26:2:0:0
 Radio Ilam
 p:Unknown
-01e0:0104300f:01f4:0e26:2:0:0
+01e0:0104300f:0191:0e26:2:0:0
 Radio Hamedan
 p:Unknown
-01e1:0104300f:01f4:0e26:2:0:0
+01e1:0104300f:0191:0e26:2:0:0
 Radio Shahrekord
 p:Unknown
-01e2:0104300f:01f4:0e26:2:0:0
+01e2:0104300f:0191:0e26:2:0:0
 Radio Yazd
 p:Unknown
-01e3:0104300f:01f4:0e26:2:0:0
+01e3:0104300f:0191:0e26:2:0:0
 Radio Ardabil
 p:Unknown
-01e4:0104300f:01f4:0e26:2:0:0
+01e4:0104300f:0191:0e26:2:0:0
 Radio Mahabad
 p:Unknown
-01e5:0104300f:01f4:0e26:2:0:0
+01e5:0104300f:0191:0e26:2:0:0
 Radio Bandarabas
 p:Unknown
-01e6:0104300f:01f4:0e26:2:0:0
+01e6:0104300f:0191:0e26:2:0:0
 Radio Aftab
 p:Unknown
-01e7:0104300f:01f4:0e26:2:0:0
+01e7:0104300f:0191:0e26:2:0:0
 Radio Zanjan
 p:Unknown
-01e8:0104300f:01f4:0e26:2:0:0
+01e8:0104300f:0191:0e26:2:0:0
 Radio Kermanshah
 p:Unknown
-01e9:0104300f:01f4:0e26:2:0:0
+01e9:0104300f:0191:0e26:2:0:0
 Radio Yasuj
 p:Unknown
-01ea:0104300f:01f4:0e26:2:0:0
+01ea:0104300f:0191:0e26:2:0:0
 Radio Semnan
 p:Unknown
-01eb:0104300f:01f4:0e26:2:0:0
+01eb:0104300f:0191:0e26:2:0:0
 Radio Kordestan
 p:Unknown
-01ec:0104300f:01f4:0e26:2:0:0
+01ec:0104300f:0191:0e26:2:0:0
 Radio Khorasan Jonoobi
 p:Unknown
-01ed:0104300f:01f4:0e26:2:0:0
+01ed:0104300f:0191:0e26:2:0:0
 Radio Qazvin
+p:Unknown
+0292:0104300f:0191:0e26:2:0:0
+IRIB World Service Radio 7
+p:Unknown
+0293:0104300f:0191:0e26:2:0:0
+IRIB World Service Radio 3
+p:Unknown
+029f:0104300f:0191:0e26:2:0:0
+Radio Kashan
+p:Unknown
+02aa:0104300f:0191:0e26:2:0:0
+IRIB World Service Radio 2
+p:Unknown
+02ac:0104300f:0191:0e26:2:0:0
+IRIB World Service Radio 4
+p:Unknown
+02ad:0104300f:0191:0e26:2:0:0
+IRIB World Service Radio 5
+p:Unknown
+02ae:0104300f:0191:0e26:2:0:0
+IRIB World Service Radio 6
 p:Unknown
 0010:0104300f:146f:02be:1:0:0
 2M TV
@@ -1680,7 +1719,7 @@ p:Unknown
 Endowment TV
 p:Unknown
 0016:0104300f:146f:02be:1:0:0
-G-Eye TV
+Mothers TV
 p:Unknown
 0017:0104300f:146f:02be:1:0:0
 Star Plus TV
@@ -1689,7 +1728,7 @@ p:Unknown
 New Day TV
 p:Unknown
 0019:0104300f:146f:02be:1:0:0
-Pemsan TV
+Future TV
 p:Unknown
 001a:0104300f:146f:02be:1:0:0
 Atenpong TV
@@ -1704,7 +1743,7 @@ p:Unknown
 Tevah TV
 p:Unknown
 001e:0104300f:146f:02be:1:0:0
-Ahenfie TV
+Prime 7 TV
 p:Unknown
 001f:0104300f:146f:02be:1:0:0
 Alkarma TV Middle East
@@ -1714,9 +1753,6 @@ Eeman Da'wah TV
 p:Unknown
 0021:0104300f:146f:02be:1:0:0
 Off TV
-p:Unknown
-0022:0104300f:146f:02be:1:0:0
-Zoe TV
 p:Unknown
 0023:0104300f:146f:02be:1:0:0
 Divine City TV
@@ -1737,13 +1773,13 @@ p:Unknown
 Rahma TV
 p:Unknown
 0029:0104300f:146f:02be:1:0:0
-North East TV
+Obour TV
 p:Unknown
 002b:0104300f:146f:02be:1:0:0
 Manso TV
 p:Unknown
 002c:0104300f:146f:02be:1:0:0
-Dadie TV
+Otwea TV
 p:Unknown
 002d:0104300f:146f:02be:1:0:0
 Sagani TV
@@ -1796,32 +1832,41 @@ p:Unknown
 08ff:01043048:0002:02be:1:0:0
 Al Hedaya TV
 p:Unknown
-5141:0104305c:0820:00e0:1:0:0
-Rotana Cinema Saudi Arabia
+0001:0104305c:1fc7:02be:1:0:0
+FilmBox Basic
 p:Unknown
-5142:0104305c:0820:00e0:1:0:0
-Rotana Comedy
+0002:0104305c:1fc7:02be:1:0:0
+FilmBox+ Action
 p:Unknown
-5143:0104305c:0820:00e0:1:0:0
-Rotana Classic
+0003:0104305c:1fc7:02be:1:0:0
+Fast & FunBox HD
 p:Unknown
-5144:0104305c:0820:00e0:1:0:0
-Rotana Khalejia
+0004:0104305c:1fc7:02be:1:0:0
+Dizi
 p:Unknown
-5145:0104305c:0820:00e0:1:0:0
-Rotana Drama
+0005:0104305c:1fc7:02be:1:0:0
+Gametoon
 p:Unknown
-5146:0104305c:0820:00e0:1:0:0
-Rotana Music
+0006:0104305c:1fc7:02be:1:0:0
+FightBox HD
 p:Unknown
-5147:0104305c:0820:00e0:1:0:0
-LBC
+0007:0104305c:1fc7:02be:1:0:0
+FunBox UHD
 p:Unknown
-5148:0104305c:0820:00e0:1:0:0
-Alresalah TV
+0008:0104305c:1fc7:02be:1:0:0
+DocuBox HD
 p:Unknown
-5149:0104305c:0820:00e0:1:0:0
-Rotana Clip
+0009:0104305c:1fc7:02be:1:0:0
+FilmBox+ Comedy
+p:Unknown
+000a:0104305c:1fc7:02be:1:0:0
+FashionBox HD
+p:Unknown
+000b:0104305c:1fc7:02be:1:0:0
+FilmBox+ Festival Africa & Turkey & Middle East
+p:Unknown
+000c:0104305c:1fc7:02be:1:0:0
+360 Tune Box
 p:Unknown
 012d:0104306f:17f8:02be:1:0:0
 MBC
@@ -2075,11 +2120,203 @@ p:Unknown
 0014:010430eb:7594:077e:2:0:0
 Kuwait Radio One
 p:Unknown
-07da:010430eb:0002:02be:1:0:0
-Sudan TV
+0001:010430eb:0002:ffff:1:0:0
+ENTV
 p:Unknown
-07db:010430eb:0002:02be:1:0:0
-Sudan News Channel
+0002:010430eb:0002:ffff:1:0:0
+Canal Algérie 2
+p:Unknown
+0004:010430eb:0002:ffff:1:0:0
+TV 4 Amazigh
+p:Unknown
+0005:010430eb:0002:ffff:1:0:0
+TV 5 Coran
+p:Unknown
+0006:010430eb:0002:ffff:1:0:0
+TV 6
+p:Unknown
+0007:010430eb:0002:ffff:1:0:0
+TV 7
+p:Unknown
+0008:010430eb:0002:ffff:1:0:0
+TV 8
+p:Unknown
+0009:010430eb:0002:ffff:1:0:0
+TV 9
+p:Unknown
+000a:010430eb:0002:ffff:2:0:0
+Radio Ouargla
+p:Unknown
+000b:010430eb:0002:ffff:2:0:0
+Chaîne 1
+p:Unknown
+000c:010430eb:0002:ffff:2:0:0
+Chaîne 2
+p:Unknown
+000d:010430eb:0002:ffff:2:0:0
+Chaîne 3
+p:Unknown
+000e:010430eb:0002:ffff:2:0:0
+Radio Décrochage
+p:Unknown
+000f:010430eb:0002:ffff:2:0:0
+Radio El Bahdja
+p:Unknown
+0010:010430eb:0002:ffff:2:0:0
+Radio Culture
+p:Unknown
+0011:010430eb:0002:ffff:2:0:0
+Radio Algérie Internationale
+p:Unknown
+0012:010430eb:0002:ffff:2:0:0
+Ifrikya FM
+p:Unknown
+0013:010430eb:0002:ffff:2:0:0
+Radio Jil FM
+p:Unknown
+0014:010430eb:0002:ffff:2:0:0
+Radio Coran
+p:Unknown
+0015:010430eb:0002:ffff:2:0:0
+Radio Tamanrasset
+p:Unknown
+0016:010430eb:0002:ffff:2:0:0
+Radio Béchar
+p:Unknown
+0017:010430eb:0002:ffff:2:0:0
+Radio Tlemcen
+p:Unknown
+0018:010430eb:0002:ffff:2:0:0
+Zaman FM
+p:Unknown
+0019:010430eb:0002:ffff:2:0:0
+Radio Adrar
+p:Unknown
+001a:010430eb:0002:ffff:2:0:0
+Radio Ghardaïa
+p:Unknown
+001b:010430eb:0002:ffff:2:0:0
+Radio Illizi
+p:Unknown
+001c:010430eb:0002:ffff:2:0:0
+Radio El Oued
+p:Unknown
+001d:010430eb:0002:ffff:2:0:0
+Radio Tindouf
+p:Unknown
+001e:010430eb:0002:ffff:2:0:0
+Radio Batna
+p:Unknown
+001f:010430eb:0002:ffff:2:0:0
+Radio Jijel
+p:Unknown
+0020:010430eb:0002:ffff:2:0:0
+Radio Souk Ahras
+p:Unknown
+0021:010430eb:0002:ffff:2:0:0
+Radio Laghouat
+p:Unknown
+0022:010430eb:0002:ffff:2:0:0
+Radio Naâma
+p:Unknown
+0023:010430eb:0002:ffff:2:0:0
+Radio Blida
+p:Unknown
+0024:010430eb:0002:ffff:2:0:0
+Radio El Tarf
+p:Unknown
+0025:010430eb:0002:ffff:2:0:0
+Radio Médéa
+p:Unknown
+0026:010430eb:0002:ffff:2:0:0
+Radio Mila
+p:Unknown
+0027:010430eb:0002:ffff:2:0:0
+Radio Saïda
+p:Unknown
+0028:010430eb:0002:ffff:2:0:0
+Radio Skikda
+p:Unknown
+0029:010430eb:0002:ffff:2:0:0
+Radio Mascara
+p:Unknown
+002a:010430eb:0002:ffff:2:0:0
+Radio Guelma
+p:Unknown
+002b:010430eb:0002:ffff:2:0:0
+Radio Aïn Témouchent
+p:Unknown
+002c:010430eb:0002:ffff:2:0:0
+Radio Khenchela
+p:Unknown
+002d:010430eb:0002:ffff:2:0:0
+Radio Béjaïa
+p:Unknown
+002e:010430eb:0002:ffff:2:0:0
+Radio Bouira
+p:Unknown
+002f:010430eb:0002:ffff:2:0:0
+Radio Relizane
+p:Unknown
+0030:010430eb:0002:ffff:2:0:0
+Radio Annaba
+p:Unknown
+0031:010430eb:0002:ffff:2:0:0
+Radio Tizi Ouzou
+p:Unknown
+0032:010430eb:0002:ffff:2:0:0
+Radio Tissemsilt
+p:Unknown
+0033:010430eb:0002:ffff:2:0:0
+Radio El Bayadh
+p:Unknown
+0034:010430eb:0002:ffff:2:0:0
+Radio Tebessa
+p:Unknown
+0035:010430eb:0002:ffff:2:0:0
+Radio Djelfa
+p:Unknown
+0036:010430eb:0002:ffff:2:0:0
+Radio Aïn Defla
+p:Unknown
+0037:010430eb:0002:ffff:2:0:0
+Radio Tipaza
+p:Unknown
+0038:010430eb:0002:ffff:2:0:0
+Radio Boumerdès
+p:Unknown
+0039:010430eb:0002:ffff:2:0:0
+Radio Oran
+p:Unknown
+003a:010430eb:0002:ffff:2:0:0
+Radio Tiaret
+p:Unknown
+003b:010430eb:0002:ffff:2:0:0
+Radio Mostaganem
+p:Unknown
+003c:010430eb:0002:ffff:2:0:0
+Radio M'Sila
+p:Unknown
+003d:010430eb:0002:ffff:2:0:0
+Radio Bordj Bou Arreridj
+p:Unknown
+003e:010430eb:0002:ffff:2:0:0
+Radio Sétif
+p:Unknown
+003f:010430eb:0002:ffff:2:0:0
+Radio Biskra
+p:Unknown
+0040:010430eb:0002:ffff:2:0:0
+Radio Constantine
+p:Unknown
+0041:010430eb:0002:ffff:2:0:0
+Radio Oum El Bouaghi
+p:Unknown
+0042:010430eb:0002:ffff:2:0:0
+Radio Chlef
+p:Unknown
+0043:010430eb:0002:ffff:2:0:0
+Radio Sidi Bel Abbès
 p:Unknown
 0001:01043113:001a:0088:1:0:0
 Elmouritaniya
@@ -2155,6 +2392,9 @@ Nessma Ejdida
 p:Unknown
 000f:01043163:1137:21ac:1:0:0
 Jawhara FM TV
+p:Unknown
+0010:01043163:1137:21ac:1:0:0
+Watania Sports
 p:Unknown
 0011:01043163:1137:21ac:1:0:0
 Tunisna TV

@@ -1,0 +1,794 @@
+eDVB services /4/
+transponders
+0ce42a12:0006:0006
+	s 10770000:30000000:0:0:-300:2:0:1:0:2:2
+/
+0ce42aa2:0001:0001
+	s 10914000:2500000:0:0:-300:2:0:1:0:2:2
+/
+0ce42aba:0000:0000
+	s 10938000:14167000:0:0:-300:2:0:1:0:2:2
+/
+0ce42bd6:ea74:0001
+	s 11222000:30000000:0:0:-300:2:0:1:0:2:2
+/
+0ce42c26:ea76:0001
+	s 11302000:30000000:0:0:-300:2:0:1:0:2:2
+/
+0ce42c42:03e9:22d4
+	s 11330000:9140000:0:0:-300:2:0:1:0:2:2
+/
+0ce42c76:ea79:0001
+	s 11382000:30000000:0:0:-300:2:0:1:0:2:2
+/
+0ce42ce3:0001:22d4
+	s 11491000:7522000:1:0:-300:2:0:1:0:2:2
+/
+0ce42cfb:0065:0000
+	s 11515000:4000000:1:0:-300:2:0:0:0:2:2
+/
+0ce42d9b:ea64:0001
+	s 11675000:15750000:0:0:-300:2:0:1:0:2:2
+/
+0ce42daf:0001:0001
+	s 11695000:185000:1:0:-300:2:0:0:0:2:2
+/
+0ce42f14:0002:0001
+	s 12052000:27500000:1:0:-300:2:0:0:0:2:2
+/
+0ce42f14:0003:0001
+	s 12052000:27500000:0:0:-300:2:0:1:0:2:2
+/
+0ce42f2c:0000:0000
+	s 12076000:4000000:1:0:-300:2:0:1:0:2:2
+/
+0ce42f3c:0000:0000
+	s 12092000:30000000:0:0:-300:2:0:1:0:2:2
+/
+0ce42f4c:0000:0000
+	s 12108000:4200000:1:0:-300:2:0:1:0:2:2
+/
+0ce42f62:0065:0053
+	s 12130000:27500000:0:0:-300:2:0:1:0:2:2
+/
+0ce42f64:0a28:00a7
+	s 12132000:27500000:0:0:-300:2:0:0:0:2:2
+/
+0ce43048:0026:0036
+	s 12360000:27500000:0:0:-300:2:0:1:0:2:2
+/
+0ce4306f:0027:0036
+	s 12399000:27500000:0:0:-300:2:0:1:0:2:2
+/
+0ce43095:002f:0036
+	s 12437000:27500000:0:0:-300:2:0:1:0:2:2
+/
+0ce430e7:0001:0001
+	s 12519000:1481000:1:0:-300:2:0:0:0:2:2
+/
+0ce43140:0001:ffff
+	s 12608000:1750000:0:0:-300:2:0:1:0:2:2
+/
+end
+services
+03e8:0ce42a12:0006:0006:1:0:0
+Canal Parlamento
+p:Unknown
+08fc:0ce42a12:0006:0006:1:0:0
+God TV United Kingdom
+p:Unknown
+0960:0ce42a12:0006:0006:1:0:0
+SBN International
+p:Unknown
+09c4:0ce42a12:0006:0006:1:0:0
+Record TV Europa
+p:Unknown
+0a8c:0ce42a12:0006:0006:1:0:0
+Record News
+p:Unknown
+0af0:0ce42a12:0006:0006:1:0:0
+RTP Notícias
+p:Unknown
+0c80:0ce42a12:0006:0006:1:0:0
+Telesur
+p:Unknown
+0001:0ce42aa2:0001:0001:1:0:0
+Bom Cine
+p:Unknown
+0132:0ce42aba:0000:0000:1:0:0
+RTVi
+p:Unknown
+0000:0ce42bd6:ea74:0001:2:0:0
+RNE Radio Clásica
+p:Unknown
+0000:0ce42c26:ea76:0001:2:0:0
+RNE Radio Nacional
+p:Unknown
+27b2:0ce42c42:03e9:22d4:1:0:0
+Aragón TV
+p:Unknown
+27b1:0ce42c42:03e9:22d4:2:0:0
+Aragón Radio Zaragoza
+p:Unknown
+27b5:0ce42c42:03e9:22d4:2:0:0
+Aragón Radio Huesca
+p:Unknown
+27b6:0ce42c42:03e9:22d4:2:0:0
+Aragón Radio Teruel
+p:Unknown
+0000:0ce42c76:ea79:0001:2:0:0
+RNE Radio Nacional
+p:Unknown
+0002:0ce42ce3:0001:22d4:1:0:0
+CMM TV
+p:Unknown
+0003:0ce42ce3:0001:22d4:2:0:0
+Radio C-LM Toledo
+p:Unknown
+0004:0ce42ce3:0001:22d4:2:0:0
+Radio C-LM Albacete
+p:Unknown
+0006:0ce42ce3:0001:22d4:2:0:0
+Radio C-LM Ciudad Real
+p:Unknown
+0007:0ce42ce3:0001:22d4:2:0:0
+Radio C-LM Cuenca
+p:Unknown
+0008:0ce42ce3:0001:22d4:2:0:0
+Radio C-LM Guadalajara
+p:Unknown
+000a:0ce42ce3:0001:22d4:2:0:0
+Radio C-LM Talavera
+p:Unknown
+0001:0ce42cfb:0065:0000:2:0:0
+Onda Cero
+p:Unknown
+0002:0ce42cfb:0065:0000:2:0:0
+Europa FM
+p:Unknown
+0004:0ce42cfb:0065:0000:2:0:0
+Es Radio
+p:Unknown
+0008:0ce42cfb:0065:0000:2:0:0
+Radio María España
+p:Unknown
+000a:0ce42cfb:0065:0000:2:0:0
+Cadena 100
+p:Unknown
+000b:0ce42cfb:0065:0000:2:0:0
+Rock FM
+p:Unknown
+0019:0ce42cfb:0065:0000:2:0:0
+Kiss FM
+p:Unknown
+001a:0ce42cfb:0065:0000:2:0:0
+Hit FM
+p:Unknown
+001e:0ce42cfb:0065:0000:2:0:0
+COPE
+p:Unknown
+0025:0ce42cfb:0065:0000:2:0:0
+COPE
+p:Unknown
+0027:0ce42cfb:0065:0000:2:0:0
+MegaStar FM
+p:Unknown
+003a:0ce42cfb:0065:0000:2:0:0
+Aragón Radio Zaragoza
+p:Unknown
+003b:0ce42cfb:0065:0000:2:0:0
+Aragón Radio Huesca
+p:Unknown
+003c:0ce42cfb:0065:0000:2:0:0
+Aragón Radio Teruel
+p:Unknown
+0074:0ce42cfb:0065:0000:2:0:0
+Canal Extremadura Radio
+p:Unknown
+03e8:0ce42cfb:0065:0000:2:0:0
+Radio Voz
+p:Unknown
+0000:0ce42d9b:ea64:0001:2:0:0
+RNE Radio 5 Tenerife
+p:Unknown
+03e8:0ce42daf:0001:0001:2:0:0
+Radio Mars
+p:Unknown
+000a:0ce42f14:0002:0001:1:0:0
+TVE Internacional América
+p:Unknown
+000b:0ce42f14:0002:0001:1:0:0
+TVE Internacional América
+p:Unknown
+000c:0ce42f14:0002:0001:1:0:0
+Canal 24 Horas
+p:Unknown
+000d:0ce42f14:0002:0001:1:0:0
+Star
+p:Unknown
+000e:0ce42f14:0002:0001:1:0:0
+Clan
+p:Unknown
+006b:0ce42f14:0002:0001:1:0:0
+TV de Galicia
+p:Unknown
+00c9:0ce42f14:0002:0001:2:0:0
+RNE Radio Nacional
+p:Unknown
+00cc:0ce42f14:0002:0001:2:0:0
+Radio Exterior
+p:Unknown
+00d1:0ce42f14:0002:0001:2:0:0
+Radio Galega
+p:Unknown
+00d7:0ce42f14:0002:0001:2:0:0
+Radio Galega Música
+p:Unknown
+0002:0ce42f14:0003:0001:1:0:0
+Daystar TV Español
+p:Unknown
+0004:0ce42f14:0003:0001:1:0:0
+MTA 1 World
+p:Unknown
+0006:0ce42f14:0003:0001:1:0:0
+Sophia TV Español
+p:Unknown
+0010:0ce42f14:0003:0001:1:0:0
+SBN Domestic
+p:Unknown
+0064:0ce42f14:0003:0001:1:0:0
+Parole di Vita
+p:Unknown
+00c9:0ce42f14:0003:0001:1:0:0
+Hispan TV
+p:Unknown
+0c1c:0ce42f14:0003:0001:1:0:0
+DW Español
+p:Unknown
+0001:0ce42f2c:0000:0000:1:0:0
+Canal Luz
+p:Unknown
+0003:0ce42f3c:0000:0000:1:0:0
+Supreme Master TV
+p:Unknown
+0005:0ce42f3c:0000:0000:1:0:0
+Vatican Media
+p:Unknown
+0029:0ce42f3c:0000:0000:1:0:0
+Antena 3 Internacional
+p:Unknown
+0034:0ce42f3c:0000:0000:1:0:0
+Hola! TV América Latina
+p:Unknown
+019b:0ce42f3c:0000:0000:1:0:0
+Atreseries
+p:Unknown
+0006:0ce42f3c:0000:0000:2:0:0
+Radio Vaticana Europa
+p:Unknown
+0007:0ce42f3c:0000:0000:2:0:0
+Cadena Radio Visión
+p:Unknown
+05e9:0ce42f3c:0000:0000:2:0:0
+RFI Español
+p:Unknown
+05ed:0ce42f3c:0000:0000:2:0:0
+RFI Français
+p:Unknown
+05ee:0ce42f3c:0000:0000:2:0:0
+RFI Latine
+p:Unknown
+0001:0ce42f4c:0000:0000:1:0:0
+Canal 7 Santiago del Estero
+p:Unknown
+0065:0ce42f62:0065:0053:1:0:0
+RTP 1
+p:Meo
+0066:0ce42f62:0065:0053:1:0:0
+RTP 2
+p:Meo
+0067:0ce42f62:0065:0053:1:0:0
+Record TV Europa
+p:Unknown
+0069:0ce42f62:0065:0053:1:0:0
+RTP Notícias
+p:Meo
+006a:0ce42f62:0065:0053:1:0:0
+RTP Madeira
+p:Meo
+006b:0ce42f62:0065:0053:1:0:0
+RTP Açores
+p:Meo
+006c:0ce42f62:0065:0053:1:0:0
+A Bola TV
+p:Meo
+006d:0ce42f62:0065:0053:1:0:0
+Kids Stars
+p:Meo
+006e:0ce42f62:0065:0053:1:0:0
+Cine Mundo
+p:Meo
+0070:0ce42f62:0065:0053:1:0:0
+História Portugal
+p:Meo
+0072:0ce42f62:0065:0053:1:0:0
+Caçavision
+p:Meo
+0073:0ce42f62:0065:0053:1:0:0
+Cartoonito Portugal
+p:Meo
+0078:0ce42f62:0065:0053:1:0:0
+AR TV
+p:Meo
+0085:0ce42f62:0065:0053:1:0:0
+CNN Portugal
+p:Meo
+008a:0ce42f62:0065:0053:1:0:0
+Globo Portugal
+p:Meo
+0099:0ce42f62:0065:0053:1:0:0
+SIC
+p:Meo
+009a:0ce42f62:0065:0053:1:0:0
+TVI
+p:Meo
+009d:0ce42f62:0065:0053:1:0:0
+CM TV
+p:Meo
+009f:0ce42f62:0065:0053:1:0:0
+Porto Canal
+p:Meo
+00a3:0ce42f62:0065:0053:1:0:0
+RTP Memória
+p:Meo
+00a6:0ce42f62:0065:0053:1:0:0
+RTP África
+p:Meo
+00be:0ce42f62:0065:0053:1:0:0
+SIC Mulher
+p:Meo
+00bf:0ce42f62:0065:0053:1:0:0
+CNN International Europe
+p:Meo
+00c0:0ce42f62:0065:0053:1:0:0
+Star Comedy Portugal
+p:Meo
+00c1:0ce42f62:0065:0053:1:0:0
+Star Movies Portugal
+p:Meo
+00c2:0ce42f62:0065:0053:1:0:0
+EuroNews Português
+p:Meo
+00c3:0ce42f62:0065:0053:1:0:0
+Venus
+p:Meo
+00c4:0ce42f62:0065:0053:1:0:0
+Sky News International
+p:Meo
+00c5:0ce42f62:0065:0053:1:0:0
+Playboy TV Iberia
+p:Meo
+046c:0ce42f62:0065:0053:1:0:0
+S+
+p:Meo
+00aa:0ce42f62:0065:0053:2:0:0
+RTP Antena 1
+p:Meo
+00ab:0ce42f62:0065:0053:2:0:0
+RTP Antena 2
+p:Meo
+00ac:0ce42f62:0065:0053:2:0:0
+RTP Antena 3
+p:Meo
+00ad:0ce42f62:0065:0053:2:0:0
+RTP África
+p:Meo
+00ae:0ce42f62:0065:0053:2:0:0
+RTP Lusitânia
+p:Meo
+00af:0ce42f62:0065:0053:2:0:0
+Cidade FM
+p:Meo
+00b0:0ce42f62:0065:0053:2:0:0
+Smooth FM
+p:Meo
+00b1:0ce42f62:0065:0053:2:0:0
+RFM
+p:Meo
+00b2:0ce42f62:0065:0053:2:0:0
+Mega Hits FM
+p:Meo
+00b3:0ce42f62:0065:0053:2:0:0
+Renascença
+p:Meo
+00b4:0ce42f62:0065:0053:2:0:0
+Rádio Comercial
+p:Meo
+00b5:0ce42f62:0065:0053:2:0:0
+M80
+p:Meo
+046d:0ce42f62:0065:0053:2:0:0
+RFM Dancefloor
+p:Meo
+046e:0ce42f62:0065:0053:2:0:0
+RTP Fado
+p:Meo
+0471:0ce42f62:0065:0053:2:0:0
+RTP Ópera
+p:Meo
+0472:0ce42f62:0065:0053:2:0:0
+RFM Oceano Pacífico
+p:Meo
+0473:0ce42f62:0065:0053:2:0:0
+80s RFM
+p:Meo
+0bb9:0ce42f64:0a28:00a7:1:0:0
+Palestine TV
+p:Unknown
+0bbc:0ce42f64:0a28:00a7:1:0:0
+Oman TV
+p:Unknown
+0bc0:0ce42f64:0a28:00a7:1:0:0
+Saudi TV
+p:Unknown
+0bc2:0ce42f64:0a28:00a7:1:0:0
+Sharjah TV
+p:Unknown
+0bc3:0ce42f64:0a28:00a7:1:0:0
+Quran TV
+p:Unknown
+0bc4:0ce42f64:0a28:00a7:1:0:0
+KTV 1
+p:Unknown
+0bc5:0ce42f64:0a28:00a7:1:0:0
+KTV Al-Akhbar
+p:Unknown
+0beb:0ce42f64:0a28:00a7:1:0:0
+Sudan TV
+p:Unknown
+0bec:0ce42f64:0a28:00a7:1:0:0
+Alwatania TV
+p:Unknown
+0c27:0ce42f64:0a28:00a7:1:0:0
+Sunna TV
+p:Unknown
+0bbf:0ce42f64:0a28:00a7:2:0:0
+Holy Quran Radio
+p:Unknown
+0db0:0ce42f64:0a28:00a7:2:0:0
+Riyadh Radio
+p:Unknown
+0db1:0ce42f64:0a28:00a7:2:0:0
+Holly Quran Radio
+p:Unknown
+0db3:0ce42f64:0a28:00a7:2:0:0
+Jeddah Radio
+p:Unknown
+0db6:0ce42f64:0a28:00a7:2:0:0
+Radio Oman
+p:Unknown
+0db8:0ce42f64:0a28:00a7:2:0:0
+Sharjah Radio
+p:Unknown
+0dba:0ce42f64:0a28:00a7:2:0:0
+Saudia Radio
+p:Unknown
+0dbd:0ce42f64:0a28:00a7:2:0:0
+Radio Oman FM
+p:Unknown
+0135:0ce43048:0026:0036:1:0:0
+Sport TV 4
+p:Nos
+0139:0ce43048:0026:0036:1:0:0
+Canal Hollywood Portugal
+p:Nos
+013e:0ce43048:0026:0036:1:0:0
+Odisseia
+p:Nos
+0141:0ce43048:0026:0036:1:0:0
+Eurosport 2
+p:Nos
+0142:0ce43048:0026:0036:1:0:0
+Cartoon Network Northern Europe +1
+p:Nos
+0143:0ce43048:0026:0036:1:0:0
+Canal Q
+p:Nos
+0144:0ce43048:0026:0036:1:0:0
+SIC Radical
+p:Nos
+0145:0ce43048:0026:0036:1:0:0
+SIC Caras
+p:Nos
+0147:0ce43048:0026:0036:1:0:0
+FashionTV Europe
+p:Nos
+0148:0ce43048:0026:0036:1:0:0
+MCM Pop
+p:Nos
+014b:0ce43048:0026:0036:1:0:0
+Bloomberg TV Europe
+p:Nos
+014c:0ce43048:0026:0036:1:0:0
+CNBC Europe
+p:Nos
+014d:0ce43048:0026:0036:1:0:0
+TV de Galicia
+p:Nos
+0375:0ce43048:0026:0036:1:0:0
+SIC Notícias
+p:Nos
+0376:0ce43048:0026:0036:1:0:0
+Canal Panda
+p:Nos
+037b:0ce43048:0026:0036:1:0:0
+V+ TVI
+p:Nos
+09d4:0ce43048:0026:0036:1:0:0
+France 24 English
+p:Nos
+09d5:0ce43048:0026:0036:1:0:0
+Hot
+p:Nos
+09d6:0ce43048:0026:0036:1:0:0
+MCM Top
+p:Nos
+09d7:0ce43048:0026:0036:1:0:0
+Mezzo
+p:Nos
+09d8:0ce43048:0026:0036:1:0:0
+Onetoro TV
+p:Nos
+09d9:0ce43048:0026:0036:1:0:0
+Panda Kids
+p:Nos
+09da:0ce43048:0026:0036:1:0:0
+Canal 24 Horas
+p:Nos
+09db:0ce43048:0026:0036:1:0:0
+TVE Internacional Europa
+p:Nos
+0ed9:0ce43048:0026:0036:1:0:0
+Sport TV 5
+p:Nos
+0eda:0ce43048:0026:0036:1:0:0
+Sport TV 1
+p:Nos
+0edb:0ce43048:0026:0036:1:0:0
+Sport TV 6
+p:Nos
+0edc:0ce43048:0026:0036:1:0:0
+Sport TV 2
+p:Nos
+0edd:0ce43048:0026:0036:1:0:0
+Sport TV 3
+p:Nos
+0ede:0ce43048:0026:0036:1:0:0
+Benfica TV
+p:Nos
+0edf:0ce43048:0026:0036:1:0:0
+Sport TV 7
+p:Nos
+0ee8:0ce43048:0026:0036:1:0:0
+AMC Crime Portugal
+p:Nos
+0191:0ce4306f:0027:0036:1:0:0
+AXN Movies
+p:Nos
+0192:0ce4306f:0027:0036:1:0:0
+24 Kitchen Portugal
+p:Nos
+0193:0ce4306f:0027:0036:1:0:0
+Star Crime Portugal
+p:Nos
+0195:0ce4306f:0027:0036:1:0:0
+Travel Channel Europe
+p:Nos
+0196:0ce4306f:0027:0036:1:0:0
+AXN White Portugal
+p:Nos
+0199:0ce4306f:0027:0036:1:0:0
+Eurosport 1
+p:Nos
+019a:0ce4306f:0027:0036:1:0:0
+Star Life Portugal
+p:Nos
+01cb:0ce4306f:0027:0036:1:0:0
+Investigation Discovery Europe
+p:Nos
+01cf:0ce4306f:0027:0036:1:0:0
+National Geographic Wild Europe
+p:Nos
+0209:0ce4306f:0027:0036:1:0:0
+DAZN 1 Portugal
+p:Nos
+020b:0ce4306f:0027:0036:1:0:0
+DAZN 4 Portugal
+p:Nos
+020c:0ce4306f:0027:0036:1:0:0
+DAZN 5 Portugal
+p:Nos
+0642:0ce4306f:0027:0036:1:0:0
+TVCine Emotion
+p:Nos
+0649:0ce4306f:0027:0036:1:0:0
+Casa e Cozinha
+p:Nos
+064a:0ce4306f:0027:0036:1:0:0
+TVCine Edition
+p:Nos
+09ce:0ce4306f:0027:0036:1:0:0
+Syfy Portugal
+p:Nos
+09cf:0ce4306f:0027:0036:1:0:0
+TLC Portugal
+p:Nos
+09d0:0ce4306f:0027:0036:1:0:0
+TV5Monde Europe
+p:Nos
+09d1:0ce4306f:0027:0036:1:0:0
+TVI Reality
+p:Nos
+09d2:0ce4306f:0027:0036:1:0:0
+Sport TV +
+p:Nos
+09d3:0ce4306f:0027:0036:1:0:0
+Sporting TV
+p:Nos
+0f3d:0ce4306f:0027:0036:1:0:0
+DAZN 2 Portugal
+p:Nos
+0f3e:0ce4306f:0027:0036:1:0:0
+DAZN 3 Portugal
+p:Nos
+0f3f:0ce4306f:0027:0036:1:0:0
+E! Europe
+p:Unknown
+0f40:0ce4306f:0027:0036:1:0:0
+SIC K
+p:Nos
+0f42:0ce4306f:0027:0036:1:0:0
+Canal Nos
+p:Unknown
+0f43:0ce4306f:0027:0036:1:0:0
+Zap Viva Internacional
+p:Unknown
+0f4a:0ce4306f:0027:0036:1:0:0
+MTV Portugal
+p:Nos
+179a:0ce4306f:0027:0036:1:0:0
+Trace Urban
+p:Meo
+0324:0ce43095:002f:0036:1:0:0
+TVCine Action
+p:Nos
+0327:0ce43095:002f:0036:1:0:0
+Trace Toca
+p:Nos
+0328:0ce43095:002f:0036:1:0:0
+Nickelodeon Portugal
+p:Nos
+0329:0ce43095:002f:0036:1:0:0
+Fuel TV
+p:Nos
+032f:0ce43095:002f:0036:1:0:0
+Caza y Pesca
+p:Nos
+0330:0ce43095:002f:0036:1:0:0
+Nick Jr Portugal
+p:Nos
+0332:0ce43095:002f:0036:1:0:0
+Discovery Channel Iberia
+p:Nos
+0336:0ce43095:002f:0036:1:0:0
+Disney Channel Portugal
+p:Nos
+03b3:0ce43095:002f:0036:1:0:0
+TVCine Top
+p:Nos
+0512:0ce43095:002f:0036:1:0:0
+AMC Portugal
+p:Nos
+051a:0ce43095:002f:0036:1:0:0
+Motorvision+
+p:Nos
+051d:0ce43095:002f:0036:1:0:0
+Now 9
+p:Nos
+051e:0ce43095:002f:0036:1:0:0
+SIC Novelas
+p:Nos
+053a:0ce43095:002f:0036:1:0:0
+Canal 11
+p:Nos
+09dd:0ce43095:002f:0036:1:0:0
+Kuriakos TV
+p:Unknown
+09de:0ce43095:002f:0036:1:0:0
+AMC Break Portugal
+p:Nos
+09df:0ce43095:002f:0036:1:0:0
+Baby TV Europe
+p:Nos
+09e0:0ce43095:002f:0036:1:0:0
+Vin TV
+p:Nos
+09e1:0ce43095:002f:0036:1:0:0
+TV Canção Nova Portugal
+p:Nos
+09e2:0ce43095:002f:0036:1:0:0
+Disney Jr Portugal
+p:Nos
+125e:0ce43095:002f:0036:1:0:0
+National Geographic Portugal
+p:Nos
+125f:0ce43095:002f:0036:1:0:0
+Star Channel Portugal
+p:Nos
+1260:0ce43095:002f:0036:1:0:0
+AXN Portugal
+p:Nos
+1261:0ce43095:002f:0036:1:0:0
+Nos Studios
+p:Nos
+17a8:0ce43095:002f:0036:1:0:0
+Afro Music Channel
+p:Nos
+17a9:0ce43095:002f:0036:1:0:0
+NHK World Japan
+p:Nos
+0320:0ce43095:002f:0036:2:0:0
+TSF Nacional
+p:Unknown
+1269:0ce43095:002f:0036:2:0:0
+Rádio Amália
+p:Nos
+126a:0ce43095:002f:0036:2:0:0
+Rádio Marginal
+p:Nos
+126b:0ce43095:002f:0036:2:0:0
+Rádio Oxigénio
+p:Nos
+126c:0ce43095:002f:0036:2:0:0
+Radar
+p:Nos
+126d:0ce43095:002f:0036:2:0:0
+Rádio Regional Nacional
+p:Nos
+126e:0ce43095:002f:0036:2:0:0
+Correio da Manhã Rádio
+p:Nos
+126f:0ce43095:002f:0036:2:0:0
+Super FM
+p:Nos
+0001:0ce430e7:0001:0001:2:0:0
+RTP Antena 1
+p:Unknown
+0002:0ce430e7:0001:0001:2:0:0
+RTP Antena 2
+p:Unknown
+0003:0ce430e7:0001:0001:2:0:0
+RTP Antena 3
+p:Unknown
+0004:0ce430e7:0001:0001:2:0:0
+RTP África
+p:Unknown
+0006:0ce430e7:0001:0001:2:0:0
+RTP Antena 1 Açores
+p:Unknown
+0008:0ce430e7:0001:0001:2:0:0
+RTP Antena 1
+p:Unknown
+0009:0ce430e7:0001:0001:2:0:0
+RTP Antena 1 Madeira
+p:Unknown
+000a:0ce430e7:0001:0001:2:0:0
+RTP Antena 3 Madeira
+p:Unknown
+0001:0ce43140:0001:ffff:1:0:0
+NorteVisión
+p:Unknown
+0002:0ce43140:0001:ffff:2:0:0
+NorteRadio
+p:Unknown
+end

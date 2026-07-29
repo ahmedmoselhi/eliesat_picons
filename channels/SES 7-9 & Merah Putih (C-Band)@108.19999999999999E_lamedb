@@ -1,0 +1,1112 @@
+eDVB services /4/
+transponders
+043a0dd4:0016:0003
+	s 3540000:31000000:0:0:1082:2:0:1:0:2:2
+/
+043a0e34:0001:0001
+	s 3636000:5454000:0:0:1082:2:0:1:0:2:2
+/
+043a0e88:0002:0001
+	s 3720000:32727000:0:0:1082:2:0:1:0:2:2
+/
+043a0ea8:0001:0001
+	s 3752000:3083000:0:0:1082:2:0:1:0:2:2
+/
+043a0eac:0001:0001
+	s 3756000:2400000:0:0:1082:2:0:1:0:2:2
+/
+043a0ec2:0001:0001
+	s 3778000:2500000:1:0:1082:2:0:1:0:2:2
+/
+043a0ef0:0001:0001
+	s 3824000:3636000:0:0:1082:2:0:1:0:2:2
+/
+043a0eff:0001:2168
+	s 3839000:9100000:0:0:1082:2:0:1:0:2:2
+/
+043a0f14:0005:0001
+	s 3860000:31000000:1:0:1082:2:0:1:0:2:2
+/
+043a0f22:0001:ffff
+	s 3874000:5400000:0:0:1082:2:0:1:0:2:2
+/
+043a0f30:1045:2168
+	s 3888000:9600000:0:0:1082:2:0:1:0:2:2
+/
+043a0f3c:0008:0001
+	s 3900000:29800000:1:0:1082:2:0:1:0:2:2
+/
+043a0f54:0001:0001
+	s 3924000:6500000:0:0:1082:2:0:1:0:2:2
+/
+043a0f62:0001:0001
+	s 3938000:1640000:0:0:1082:2:0:1:0:2:2
+/
+043a0f6a:0001:0001
+	s 3946000:6660000:0:0:1082:2:0:0:0:2:2
+/
+043a0f6d:1000:2000
+	s 3949000:4333000:1:0:1082:2:0:1:0:2:2
+/
+043a0f86:0001:ffff
+	s 3974000:1700000:0:0:1082:2:0:0:0:2:2
+/
+043a0f8c:000d:0001
+	s 3980000:31000000:1:0:1082:2:0:1:0:2:2
+/
+043a0f92:0001:ffff
+	s 3986000:4400000:0:0:1082:2:0:1:0:2:2
+/
+043a0f9c:0002:ffff
+	s 3996000:5926000:0:0:1082:2:0:0:0:2:2
+/
+043a0fa5:119c:2168
+	s 4005000:9100000:0:0:1082:2:0:1:0:2:2
+/
+043a0fb4:0001:ffff
+	s 4020000:32727000:1:0:1082:2:0:1:0:2:2
+/
+043a0fc2:0003:0001
+	s 4034000:16600000:0:0:1082:2:0:1:0:2:2
+/
+043a0fdc:0001:0001
+	s 4060000:31000000:1:0:1082:2:0:1:0:2:2
+/
+043a100d:0037:0001
+	s 4109000:2558000:0:0:1082:2:0:1:0:2:2
+/
+043a1023:0003:0001
+	s 4131000:6350000:0:0:1082:2:0:1:0:2:2
+/
+043a1031:0001:ffff
+	s 4145000:4600000:0:0:1082:2:0:0:0:2:2
+/
+043a103f:11ac:2168
+	s 4159000:5700000:0:0:1082:2:0:1:0:2:2
+/
+043a1054:0007:0001
+	s 4180000:29800000:1:0:1082:2:0:1:0:2:2
+/
+end
+services
+06a5:043a0dd4:0016:0003:1:0:0
+Trans TV
+p:Transvision
+06a6:043a0dd4:0016:0003:1:0:0
+Trans 7
+p:Transvision
+06a9:043a0dd4:0016:0003:1:0:0
+ANTV
+p:Transvision
+06ae:043a0dd4:0016:0003:1:0:0
+SCTV
+p:Transvision
+06b8:043a0dd4:0016:0003:1:0:0
+Indosiar
+p:Transvision
+06c2:043a0dd4:0016:0003:1:0:0
+GTV
+p:Transvision
+06cc:043a0dd4:0016:0003:1:0:0
+MNC TV
+p:Transvision
+06d6:043a0dd4:0016:0003:1:0:0
+RCTI
+p:Transvision
+06e0:043a0dd4:0016:0003:1:0:0
+Moji
+p:Transvision
+06f4:043a0dd4:0016:0003:1:0:0
+Aljazeera English
+p:Transvision
+06f8:043a0dd4:0016:0003:1:0:0
+CNA Asia
+p:Transvision
+06f9:043a0dd4:0016:0003:1:0:0
+CNBC Asia-Pacific
+p:Transvision
+0708:043a0dd4:0016:0003:1:0:0
+Bioskop Indonesia
+p:Unknown
+0712:043a0dd4:0016:0003:1:0:0
+Eat N Go
+p:Transvision
+071c:043a0dd4:0016:0003:1:0:0
+Zee Bioskop
+p:Unknown
+0726:043a0dd4:0016:0003:1:0:0
+Thrill
+p:Transvision
+0730:043a0dd4:0016:0003:1:0:0
+Cartoon Network Asia
+p:Transvision
+073a:043a0dd4:0016:0003:1:0:0
+Cartoonito South East Asia
+p:Transvision
+073f:043a0dd4:0016:0003:1:0:0
+Cartoon TV Premium
+p:Transvision
+0744:043a0dd4:0016:0003:1:0:0
+AXN East Asia
+p:Transvision
+074e:043a0dd4:0016:0003:1:0:0
+Warner TV Southeast Asia
+p:Transvision
+0752:043a0dd4:0016:0003:1:0:0
+FashionTV Asia
+p:Transvision
+0758:043a0dd4:0016:0003:1:0:0
+Celestial Movies Indonesia
+p:Transvision
+0762:043a0dd4:0016:0003:1:0:0
+CinemaWorld
+p:Transvision
+076c:043a0dd4:0016:0003:1:0:0
+HBO Asia
+p:Transvision
+0776:043a0dd4:0016:0003:1:0:0
+HBO Hits Asia
+p:Transvision
+0780:043a0dd4:0016:0003:1:0:0
+HBO Family Asia
+p:Transvision
+078a:043a0dd4:0016:0003:1:0:0
+HBO Signature Asia
+p:Transvision
+0794:043a0dd4:0016:0003:1:0:0
+Cinemax Asia
+p:Transvision
+079e:043a0dd4:0016:0003:1:0:0
+TVN Premium Indonesia
+p:Transvision
+07a8:043a0dd4:0016:0003:1:0:0
+TVN Movies Indonesia
+p:Transvision
+07b2:043a0dd4:0016:0003:1:0:0
+Musik Indonesia
+p:Transvision
+07c6:043a0dd4:0016:0003:1:0:0
+KBS World
+p:Transvision
+07d0:043a0dd4:0016:0003:1:0:0
+CCTV 4 Asia
+p:Transvision
+07da:043a0dd4:0016:0003:1:0:0
+Golf Plus ID
+p:Transvision
+07e4:043a0dd4:0016:0003:1:0:0
+Channel Jowo
+p:Transvision
+07ee:043a0dd4:0016:0003:1:0:0
+TVRI Nasional
+p:Transvision
+07f8:043a0dd4:0016:0003:1:0:0
+TVRI Sport
+p:Transvision
+07fc:043a0dd4:0016:0003:1:0:0
+Hope Channel Indonesia
+p:Unknown
+0003:043a0e34:0001:0001:1:0:0
+Surau TV
+p:Unknown
+0004:043a0e34:0001:0001:1:0:0
+Ahsan TV
+p:Unknown
+0005:043a0e34:0001:0001:1:0:0
+Muadz TV
+p:Unknown
+0007:043a0e34:0001:0001:1:0:0
+Naajiya TV
+p:Unknown
+000c:043a0e34:0001:0001:1:0:0
+Salam TV
+p:Unknown
+0022:043a0e34:0001:0001:1:0:0
+MQH TV
+p:Unknown
+0005:043a0e88:0002:0001:1:0:0
+Press TV
+p:Unknown
+0009:043a0e88:0002:0001:1:0:0
+Efarina TV
+p:Unknown
+001a:043a0e88:0002:0001:1:0:0
+Nusantara TV
+p:Unknown
+0023:043a0e88:0002:0001:1:0:0
+JTV
+p:Unknown
+0001:043a0ea8:0001:0001:1:0:0
+Kompas TV
+p:Unknown
+0002:043a0ea8:0001:0001:1:0:0
+KTV
+p:Unknown
+0847:043a0eac:0001:0001:1:0:0
+Da Ai TV Indonesia
+p:Unknown
+0010:043a0ec2:0001:0001:1:0:0
+TV Mu
+p:Unknown
+007a:043a0ec2:0001:0001:1:0:0
+Wesal TV
+p:Unknown
+0901:043a0ec2:0001:0001:1:0:0
+Gazwah TV
+p:Unknown
+0010:043a0ef0:0001:0001:1:0:0
+Rodja TV
+p:Unknown
+006c:043a0ef0:0001:0001:1:0:0
+Ashiil TV
+p:Unknown
+0111:043a0ef0:0001:0001:1:0:0
+Fatwa TV
+p:Unknown
+0201:043a0ef0:0001:0001:1:0:0
+Al-Iman TV
+p:Unknown
+0020:043a0ef0:0001:0001:2:0:0
+Radio Rodja
+p:Unknown
+0001:043a0eff:0001:2168:1:0:0
+ANTV
+p:Unknown
+0002:043a0eff:0001:2168:1:0:0
+VTV
+p:Unknown
+0003:043a0eff:0001:2168:1:0:0
+Jagantara TV
+p:Unknown
+0004:043a0eff:0001:2168:1:0:0
+TVOne
+p:Unknown
+0017:043a0f14:0005:0001:1:0:0
+Arirang World
+p:K-Vision
+00b9:043a0f14:0005:0001:1:0:0
+Kids TV
+p:K-Vision
+00ba:043a0f14:0005:0001:1:0:0
+Music TV
+p:K-Vision
+00c3:043a0f14:0005:0001:1:0:0
+Vision Prime
+p:Unknown
+00c4:043a0f14:0005:0001:1:0:0
+Ent
+p:K-Vision
+00c5:043a0f14:0005:0001:1:0:0
+SindoNews TV
+p:K-Vision
+00c6:043a0f14:0005:0001:1:0:0
+ZooMoo Asia
+p:K-Vision
+00c7:043a0f14:0005:0001:1:0:0
+TVOne
+p:K-Vision
+00ca:043a0f14:0005:0001:1:0:0
+Life
+p:K-Vision
+00cf:043a0f14:0005:0001:1:0:0
+Channel Dangdut Indonesia
+p:K-Vision
+00d5:043a0f14:0005:0001:1:0:0
+INews
+p:K-Vision
+00d8:043a0f14:0005:0001:1:0:0
+RCTI
+p:K-Vision
+00e2:043a0f14:0005:0001:1:0:0
+Hits Now
+p:K-Vision
+00e3:043a0f14:0005:0001:1:0:0
+Music TV
+p:K-Vision
+00e4:043a0f14:0005:0001:1:0:0
+Celebrities TV
+p:K-Vision
+00e5:043a0f14:0005:0001:1:0:0
+Muslim TV
+p:K-Vision
+00e6:043a0f14:0005:0001:1:0:0
+MNC TV
+p:K-Vision
+00e7:043a0f14:0005:0001:1:0:0
+GTV
+p:K-Vision
+00e9:043a0f14:0005:0001:1:0:0
+Celestial Classic Movies
+p:K-Vision
+00fa:043a0f14:0005:0001:1:0:0
+SpoTV Indonesia
+p:K-Vision
+00fb:043a0f14:0005:0001:1:0:0
+SpoTV 2 Indonesia
+p:K-Vision
+0177:043a0f14:0005:0001:1:0:0
+Galaxy
+p:K-Vision
+0178:043a0f14:0005:0001:1:0:0
+Galaxy Premium
+p:K-Vision
+0179:043a0f14:0005:0001:1:0:0
+IMC
+p:K-Vision
+0181:043a0f14:0005:0001:1:0:0
+Buddy Star
+p:K-Vision
+0183:043a0f14:0005:0001:1:0:0
+Cineedge
+p:K-Vision
+01a2:043a0f14:0005:0001:1:0:0
+DreamWorks TV Asia
+p:K-Vision
+01ce:043a0f14:0005:0001:1:0:0
+Moonbug Indonesia
+p:K-Vision
+02a1:043a0f14:0005:0001:1:0:0
+BeIn Sports 2 Southeast Asia
+p:K-Vision
+02c1:043a0f14:0005:0001:1:0:0
+BeIn Sports 3 Indonesia
+p:K-Vision
+0001:043a0f22:0001:ffff:1:0:0
+BTV
+p:Unknown
+0002:043a0f22:0001:ffff:1:0:0
+Berita Satu
+p:Unknown
+0001:043a0f30:1045:2168:1:0:0
+Trans TV
+p:Unknown
+0002:043a0f30:1045:2168:1:0:0
+Trans 7
+p:Unknown
+0003:043a0f30:1045:2168:1:0:0
+CNN Indonesia
+p:Unknown
+0005:043a0f30:1045:2168:1:0:0
+CNBC Indonesia
+p:Unknown
+0002:043a0f3c:0008:0001:1:0:0
+Champions TV 5
+p:Nex
+0003:043a0f3c:0008:0001:1:0:0
+Mentari TV
+p:Nex
+0004:043a0f3c:0008:0001:1:0:0
+Rock Action
+p:Nex
+0005:043a0f3c:0008:0001:1:0:0
+BBC Earth Asia
+p:Nex
+0007:043a0f3c:0008:0001:1:0:0
+HGTV Asia
+p:Nex
+0008:043a0f3c:0008:0001:1:0:0
+M Channel
+p:Unknown
+000b:043a0f3c:0008:0001:1:0:0
+BBC News Asia Pacific
+p:Nex
+000c:043a0f3c:0008:0001:1:0:0
+TLC Southeast Asia
+p:Nex
+000f:043a0f3c:0008:0001:1:0:0
+Asian Food Network
+p:Nex
+0010:043a0f3c:0008:0001:1:0:0
+Nickelodeon South East Asia
+p:Nex
+0011:043a0f3c:0008:0001:1:0:0
+Nick Jr Asia
+p:Nex
+0014:043a0f3c:0008:0001:1:0:0
+Discovery Channel Southeast Asia
+p:Nex
+0015:043a0f3c:0008:0001:1:0:0
+Animal Planet Southeast Asia
+p:Nex
+0016:043a0f3c:0008:0001:1:0:0
+TVN Premium Indonesia
+p:Nex
+0017:043a0f3c:0008:0001:1:0:0
+Champions TV 6
+p:Nex
+0019:043a0f3c:0008:0001:1:0:0
+Kix Asia
+p:Nex
+001a:043a0f3c:0008:0001:1:0:0
+Voli TV
+p:Nex
+001d:043a0f3c:0008:0001:1:0:0
+Celestial Classic Movies
+p:Nex
+001e:043a0f3c:0008:0001:1:0:0
+Reformed 21 TV
+p:Unknown
+001f:043a0f3c:0008:0001:1:0:0
+BBC Lifestyle Asia
+p:Nex
+0020:043a0f3c:0008:0001:1:0:0
+Celestial Movies Indonesia
+p:Nex
+0021:043a0f3c:0008:0001:1:0:0
+DreamWorks TV Asia
+p:Nex
+0022:043a0f3c:0008:0001:1:0:0
+Thrill
+p:Nex
+0023:043a0f3c:0008:0001:1:0:0
+Konco TV
+p:Nex
+0025:043a0f3c:0008:0001:1:0:0
+Nex Sports 3
+p:Nex
+0027:043a0f3c:0008:0001:1:0:0
+Rock Entertainment
+p:Nex
+002b:043a0f3c:0008:0001:1:0:0
+Ajwa TV
+p:Unknown
+0076:043a0f3c:0008:0001:1:0:0
+Nex Sports 2
+p:Nex
+007e:043a0f3c:0008:0001:1:0:0
+Moji
+p:Nex
+0001:043a0f54:0001:0001:1:0:0
+TVRI Nasional
+p:Unknown
+0002:043a0f54:0001:0001:1:0:0
+TVRI World
+p:Unknown
+0003:043a0f54:0001:0001:1:0:0
+TVRI Sport
+p:Unknown
+0001:043a0f62:0001:0001:1:0:0
+Bali TV
+p:Unknown
+0001:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Kendari
+p:Unknown
+0002:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Sibolga
+p:Unknown
+0003:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Bandar Lampung
+p:Unknown
+0004:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Jambi
+p:Unknown
+0005:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Banda Aceh
+p:Unknown
+0007:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Pekanbaru
+p:Unknown
+0008:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Manado
+p:Unknown
+0009:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Padang
+p:Unknown
+000b:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Palu
+p:Unknown
+000c:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Cirebon
+p:Unknown
+000d:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Mataram
+p:Unknown
+000e:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Malang
+p:Unknown
+000f:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Singaraja
+p:Unknown
+0010:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Palembang
+p:Unknown
+0011:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Tanjung Pinang
+p:Unknown
+0012:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Tarakan
+p:Unknown
+0013:043a0f6a:0001:0001:2:0:0
+RRI Pro 3
+p:Unknown
+0014:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Madiun
+p:Unknown
+0015:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Bandung
+p:Unknown
+0016:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Semarang
+p:Unknown
+0017:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Medan
+p:Unknown
+0018:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Meulaboh
+p:Unknown
+0019:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Palangkaraya
+p:Unknown
+001a:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Samarinda
+p:Unknown
+001b:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Jember
+p:Unknown
+001c:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Sintang
+p:Unknown
+001d:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Toli Toli
+p:Unknown
+001e:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Atambua
+p:Unknown
+001f:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Ambon
+p:Unknown
+0020:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Banjarmasin
+p:Unknown
+0021:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Surabaya
+p:Unknown
+0023:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Fak Fak
+p:Unknown
+0024:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Bengkulu
+p:Unknown
+0025:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Jakarta
+p:Unknown
+0026:043a0f6a:0001:0001:2:0:0
+RRI Pro 2 Jakarta
+p:Unknown
+0027:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Makassar
+p:Unknown
+0029:043a0f6a:0001:0001:2:0:0
+RRI Pro 4 Jakarta
+p:Unknown
+002a:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Ende
+p:Unknown
+002c:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Merauke
+p:Unknown
+0030:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Ternate
+p:Unknown
+0031:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Sorong
+p:Unknown
+0032:043a0f6a:0001:0001:2:0:0
+RRI Pro 4 Bandung
+p:Unknown
+0033:043a0f6a:0001:0001:2:0:0
+RRI Pro 4 Surakarta
+p:Unknown
+0038:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Denpasar
+p:Unknown
+003f:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Mamuju
+p:Unknown
+0040:043a0f6a:0001:0001:2:0:0
+RRI Pro 4 Surabaya
+p:Unknown
+0041:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Nias Selatan
+p:Unknown
+0064:043a0f6a:0001:0001:2:0:0
+Voice of Indonesia
+p:Unknown
+0065:043a0f6a:0001:0001:2:0:0
+RRI Pro 4 Makassar
+p:Unknown
+006e:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Tual
+p:Unknown
+0082:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Gorontalo
+p:Unknown
+0083:043a0f6a:0001:0001:2:0:0
+RRI Pro 4 Gorontalo
+p:Unknown
+0096:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Nunukan
+p:Unknown
+0097:043a0f6a:0001:0001:2:0:0
+RRI Pro 2 Nunukan
+p:Unknown
+00a0:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Kupang
+p:Unknown
+00ac:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Pontianak
+p:Unknown
+00c2:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Wamena
+p:Unknown
+00c8:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Sungailiat
+p:Unknown
+00d2:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Manokwari
+p:Unknown
+00dc:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Jayapura
+p:Unknown
+0190:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Gunung Sitoli
+p:Unknown
+01f4:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Bogor
+p:Unknown
+0258:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Nabire
+p:Unknown
+0259:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Banten
+p:Unknown
+025b:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Biak
+p:Unknown
+025f:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Entikong
+p:Unknown
+0260:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Bukittinggi
+p:Unknown
+0261:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Sumenep
+p:Unknown
+0263:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Lhokseumave
+p:Unknown
+0264:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Takengon
+p:Unknown
+0265:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Serui
+p:Unknown
+0266:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Tahuna
+p:Unknown
+0267:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Ranai
+p:Unknown
+0268:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Bovendigul
+p:Unknown
+0269:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Yogyakarta
+p:Unknown
+026a:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Purwokerto
+p:Unknown
+026b:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Surakarta
+p:Unknown
+026c:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Batam
+p:Unknown
+026d:043a0f6a:0001:0001:2:0:0
+RRI Pro 5
+p:Unknown
+026f:043a0f6a:0001:0001:2:0:0
+RRI Pro 2 Tanjung Pinang
+p:Unknown
+0270:043a0f6a:0001:0001:2:0:0
+RRI Pro 1 Singaraja
+p:Unknown
+029e:043a0f6a:0001:0001:2:0:0
+RRI Pro 4 Tanjung Pinang
+p:Unknown
+0001:043a0f6d:1000:2000:1:0:0
+Rajawali TV
+p:Unknown
+0001:043a0f86:0001:ffff:1:0:0
+Hope Channel Indonesia
+p:Unknown
+0bb9:043a0f8c:000d:0001:1:0:0
+Metro TV
+p:K-Vision
+0bba:043a0f8c:000d:0001:1:0:0
+MD TV
+p:K-Vision
+0bbb:043a0f8c:000d:0001:1:0:0
+Kompas TV
+p:K-Vision
+0bbc:043a0f8c:000d:0001:1:0:0
+Originals
+p:K-Vision
+0bbd:043a0f8c:000d:0001:1:0:0
+Superrix
+p:K-Vision
+0bbe:043a0f8c:000d:0001:1:0:0
+Uniques
+p:K-Vision
+0bbf:043a0f8c:000d:0001:1:0:0
+TVN Movies Indonesia
+p:K-Vision
+0bc0:043a0f8c:000d:0001:1:0:0
+Celestial Movies Indonesia
+p:K-Vision
+0bc1:043a0f8c:000d:0001:1:0:0
+Hits Movies
+p:K-Vision
+0bc2:043a0f8c:000d:0001:1:0:0
+Nickelodeon South East Asia
+p:K-Vision
+0bc3:043a0f8c:000d:0001:1:0:0
+Food Travel
+p:K-Vision
+0bc4:043a0f8c:000d:0001:1:0:0
+AXN East Asia
+p:K-Vision
+0bc5:043a0f8c:000d:0001:1:0:0
+TVN Premium Indonesia
+p:K-Vision
+0bc6:043a0f8c:000d:0001:1:0:0
+Hits Now
+p:K-Vision
+0bc7:043a0f8c:000d:0001:1:0:0
+Lifetime Asia
+p:K-Vision
+0bc8:043a0f8c:000d:0001:1:0:0
+Animax Asia
+p:K-Vision
+0bc9:043a0f8c:000d:0001:1:0:0
+BBC Earth Asia
+p:K-Vision
+0bca:043a0f8c:000d:0001:1:0:0
+Crime + Investigation Asia
+p:K-Vision
+0bcb:043a0f8c:000d:0001:1:0:0
+ABC Australia Asia
+p:K-Vision
+0bcc:043a0f8c:000d:0001:1:0:0
+Aljazeera English
+p:K-Vision
+0bcd:043a0f8c:000d:0001:1:0:0
+BBC News Asia Pacific
+p:K-Vision
+0bce:043a0f8c:000d:0001:1:0:0
+Bloomberg TV Asia
+p:K-Vision
+0bcf:043a0f8c:000d:0001:1:0:0
+CGTN Documentary
+p:K-Vision
+0bd0:043a0f8c:000d:0001:1:0:0
+CNA Asia
+p:K-Vision
+0bd1:043a0f8c:000d:0001:1:0:0
+CNBC Asia-Pacific
+p:K-Vision
+0bd2:043a0f8c:000d:0001:1:0:0
+DW English
+p:K-Vision
+0bd3:043a0f8c:000d:0001:1:0:0
+Fox News Channel
+p:K-Vision
+0bd4:043a0f8c:000d:0001:1:0:0
+France 24 English
+p:K-Vision
+0bd5:043a0f8c:000d:0001:1:0:0
+History Asia
+p:K-Vision
+0bd6:043a0f8c:000d:0001:1:0:0
+NHK World Japan
+p:K-Vision
+0bd7:043a0f8c:000d:0001:1:0:0
+NHK World Premium
+p:K-Vision
+0bdc:043a0f8c:000d:0001:1:0:0
+Hapy Kids TV
+p:K-Vision
+0bd8:043a0f8c:000d:0001:2:0:0
+MNC Trijaya
+p:K-Vision
+0bd9:043a0f8c:000d:0001:2:0:0
+RDI 97.1 FM
+p:K-Vision
+0bda:043a0f8c:000d:0001:2:0:0
+Radio Australia English for Asia
+p:K-Vision
+0bdb:043a0f8c:000d:0001:2:0:0
+RRI Pro 3
+p:K-Vision
+0001:043a0f92:0001:ffff:1:0:0
+MD TV
+p:Unknown
+0002:043a0f92:0001:ffff:1:0:0
+MD TV
+p:Unknown
+0001:043a0f9c:0002:ffff:1:0:0
+TV Timor Leste
+p:Unknown
+0002:043a0f9c:0002:ffff:1:0:0
+TV Timor Leste
+p:Unknown
+0001:043a0fa5:119c:2168:1:0:0
+SCTV
+p:Unknown
+0002:043a0fa5:119c:2168:1:0:0
+Indosiar
+p:Unknown
+0003:043a0fa5:119c:2168:1:0:0
+Moji
+p:Unknown
+0004:043a0fa5:119c:2168:1:0:0
+Mentari TV
+p:Unknown
+0001:043a0fb4:0001:ffff:1:0:0
+RT News
+p:Unknown
+0017:043a0fb4:0001:ffff:1:0:0
+Ruai TV
+p:Unknown
+0024:043a0fb4:0001:ffff:1:0:0
+MTA TV
+p:Unknown
+0036:043a0fb4:0001:ffff:1:0:0
+U Channel
+p:Unknown
+0037:043a0fb4:0001:ffff:1:0:0
+Sin Po TV
+p:Unknown
+0852:043a0fb4:0001:ffff:1:0:0
+HCBN Indonesia
+p:Unknown
+086d:043a0fb4:0001:ffff:1:0:0
+TV Tabalong
+p:Unknown
+000c:043a0fb4:0001:ffff:2:0:0
+MTA FM
+p:Unknown
+0001:043a0fc2:0003:0001:1:0:0
+RCTI
+p:Unknown
+0002:043a0fc2:0003:0001:1:0:0
+MNC TV
+p:Unknown
+0003:043a0fc2:0003:0001:1:0:0
+GTV
+p:Unknown
+0004:043a0fc2:0003:0001:1:0:0
+INews
+p:Unknown
+0001:043a0fdc:0001:0001:1:0:0
+On Channel
+p:Unknown
+0007:043a0fdc:0001:0001:1:0:0
+Nick Jr Asia
+p:K-Vision
+000a:043a0fdc:0001:0001:1:0:0
+Zee Bioskop
+p:K-Vision
+000f:043a0fdc:0001:0001:1:0:0
+Outdoor Channel International
+p:K-Vision
+0014:043a0fdc:0001:0001:1:0:0
+Love Nature
+p:K-Vision
+001f:043a0fdc:0001:0001:1:0:0
+Sportstars
+p:K-Vision
+002a:043a0fdc:0001:0001:1:0:0
+Fight Sports
+p:K-Vision
+0046:043a0fdc:0001:0001:1:0:0
+Quran TV
+p:K-Vision
+0047:043a0fdc:0001:0001:1:0:0
+Hits
+p:K-Vision
+0048:043a0fdc:0001:0001:1:0:0
+Studio Universal Indonesia
+p:K-Vision
+005d:043a0fdc:0001:0001:1:0:0
+Rock Action
+p:K-Vision
+005e:043a0fdc:0001:0001:1:0:0
+Rock Entertainment
+p:K-Vision
+0061:043a0fdc:0001:0001:1:0:0
+Trans TV
+p:K-Vision
+0062:043a0fdc:0001:0001:1:0:0
+ANTV
+p:K-Vision
+0063:043a0fdc:0001:0001:1:0:0
+Trans 7
+p:K-Vision
+00b4:043a0fdc:0001:0001:1:0:0
+Thrill
+p:K-Vision
+00b5:043a0fdc:0001:0001:1:0:0
+Kix Asia
+p:K-Vision
+00b6:043a0fdc:0001:0001:1:0:0
+SCTV
+p:K-Vision
+00b7:043a0fdc:0001:0001:1:0:0
+Indosiar
+p:K-Vision
+00b8:043a0fdc:0001:0001:1:0:0
+Soccer Channel
+p:K-Vision
+00bc:043a0fdc:0001:0001:1:0:0
+Sportstars 2
+p:K-Vision
+00bd:043a0fdc:0001:0001:1:0:0
+TVRI Nasional
+p:K-Vision
+00f0:043a0fdc:0001:0001:1:0:0
+IDX Channel
+p:K-Vision
+01a1:043a0fdc:0001:0001:1:0:0
+Global Trekker
+p:K-Vision
+01c1:043a0fdc:0001:0001:1:0:0
+TVRI Sport
+p:K-Vision
+027a:043a0fdc:0001:0001:1:0:0
+BeIn Sports 1 Indonesia
+p:K-Vision
+027b:043a0fdc:0001:0001:1:0:0
+FTV One
+p:K-Vision
+02a2:043a0fdc:0001:0001:1:0:0
+SET International
+p:K-Vision
+02a4:043a0fdc:0001:0001:1:0:0
+Hanacaraka TV
+p:K-Vision
+0002:043a100d:0037:0001:1:0:0
+Sin Po TV
+p:Unknown
+0003:043a100d:0037:0001:2:0:0
+Radio Elshinta
+p:Unknown
+0008:043a1023:0003:0001:1:0:0
+MTA 3 Al-Arabia
+p:Unknown
+0019:043a1023:0003:0001:1:0:0
+Garuda TV
+p:Unknown
+0001:043a1031:0001:ffff:1:0:0
+GMN
+p:Unknown
+0002:043a1031:0001:ffff:1:0:0
+GMN
+p:Unknown
+0003:043a1031:0001:ffff:2:0:0
+Nacional FM
+p:Unknown
+9c41:043a103f:11ac:2168:1:0:0
+Metro TV
+p:Unknown
+9c42:043a103f:11ac:2168:1:0:0
+Magna Channel
+p:Unknown
+9c43:043a103f:11ac:2168:1:0:0
+BN Channel
+p:Unknown
+9c48:043a103f:11ac:2168:1:0:0
+Nusantara TV
+p:Unknown
+9c49:043a103f:11ac:2168:1:0:0
+MD TV
+p:Unknown
+0066:043a1054:0007:0001:1:0:0
+SCTV
+p:Nex
+0067:043a1054:0007:0001:1:0:0
+Indosiar
+p:Nex
+006f:043a1054:0007:0001:1:0:0
+Trans TV
+p:Nex
+0070:043a1054:0007:0001:1:0:0
+Trans 7
+p:Nex
+0071:043a1054:0007:0001:1:0:0
+ANTV
+p:Nex
+0072:043a1054:0007:0001:1:0:0
+Nex Sports 4
+p:Nex
+0073:043a1054:0007:0001:1:0:0
+Zee Bioskop
+p:Nex
+0074:043a1054:0007:0001:1:0:0
+Nex Sports 1
+p:Nex
+0075:043a1054:0007:0001:1:0:0
+Voli TV 2
+p:Nex
+0077:043a1054:0007:0001:1:0:0
+ZooMoo Asia
+p:Nex
+0078:043a1054:0007:0001:1:0:0
+Horee!
+p:Nex
+0079:043a1054:0007:0001:1:0:0
+Citra Drama
+p:Nex
+007a:043a1054:0007:0001:1:0:0
+Citra Entertainment
+p:Nex
+007b:043a1054:0007:0001:1:0:0
+Citra Dangdut
+p:Nex
+007c:043a1054:0007:0001:1:0:0
+Citra Muslim
+p:Nex
+007d:043a1054:0007:0001:1:0:0
+Citra Bioskop
+p:Nex
+007e:043a1054:0007:0001:1:0:0
+Nex PPV
+p:Nex
+0081:043a1054:0007:0001:1:0:0
+Champions Fight
+p:Nex
+0082:043a1054:0007:0001:1:0:0
+Champions TV 1
+p:Nex
+0083:043a1054:0007:0001:1:0:0
+Champions TV 2
+p:Nex
+0085:043a1054:0007:0001:1:0:0
+RCTI
+p:Nex
+0086:043a1054:0007:0001:1:0:0
+MNC TV
+p:Nex
+0087:043a1054:0007:0001:1:0:0
+GTV
+p:Nex
+0088:043a1054:0007:0001:1:0:0
+INews
+p:Nex
+0089:043a1054:0007:0001:1:0:0
+Champions TV 3
+p:Nex
+008a:043a1054:0007:0001:1:0:0
+Hip Hip Horee!
+p:Nex
+end

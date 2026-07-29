@@ -1,0 +1,743 @@
+eDVB services /4/
+transponders
+020d2de3:001a:02be
+	s 11747000:27500000:0:0:525:2:0:1:0:2:2
+/
+020d2df6:0001:0001
+	s 11766000:27500000:1:0:525:2:0:0:0:2:2
+/
+020d2e09:0007:0001
+	s 11785000:27500000:0:0:525:2:0:1:0:2:2
+/
+020d2e43:0005:0001
+	s 11843000:27500000:1:0:525:2:0:1:0:2:2
+/
+020d2e69:0009:00fc
+	s 11881000:27500000:1:0:525:2:0:0:0:2:2
+/
+020d2ea2:0005:0001
+	s 11938000:27500000:0:0:525:2:0:1:0:2:2
+/
+020d2eb6:0002:0001
+	s 11958000:27500000:1:0:525:2:0:0:0:2:2
+/
+020d2ec9:000a:0001
+	s 11977000:27500000:0:0:525:2:0:1:0:2:2
+/
+020d2edc:0008:0001
+	s 11996000:27500000:1:0:525:2:0:0:0:2:2
+/
+020d2eef:0004:020d
+	s 12015000:27500000:0:0:525:2:0:1:0:2:2
+/
+020d2f02:0011:0001
+	s 12034000:27500000:1:0:525:2:0:1:0:2:2
+/
+020d2f29:0003:0001
+	s 12073000:27500000:1:0:525:2:0:0:0:2:2
+/
+020d2f75:0004:0001
+	s 12149000:27500000:1:0:525:2:0:1:0:2:2
+/
+020d2f89:0018:020d
+	s 12169000:27500000:0:0:525:2:0:1:0:2:2
+/
+end
+services
+0a29:020d2de3:001a:02be:1:0:0
+Saudi TV
+p:Unknown
+0a2a:020d2de3:001a:02be:1:0:0
+Thikrayat TV
+p:Unknown
+0a2b:020d2de3:001a:02be:1:0:0
+SBC
+p:Unknown
+0a2c:020d2de3:001a:02be:1:0:0
+Ekhbariya TV
+p:Unknown
+0a2d:020d2de3:001a:02be:1:0:0
+Saudia Alaan TV
+p:Unknown
+15e1:020d2de3:001a:02be:1:0:0
+Quran TV
+p:Unknown
+15e2:020d2de3:001a:02be:1:0:0
+Sunna TV
+p:Unknown
+15e3:020d2de3:001a:02be:1:0:0
+KSA Sport 1
+p:Unknown
+15e4:020d2de3:001a:02be:1:0:0
+KSA Sport 2
+p:Unknown
+15e5:020d2de3:001a:02be:1:0:0
+KSA Sport 3
+p:Unknown
+15e7:020d2de3:001a:02be:1:0:0
+KSA Sport 4
+p:Unknown
+0a3c:020d2de3:001a:02be:2:0:0
+Holly Quran Radio
+p:Unknown
+0a3d:020d2de3:001a:02be:2:0:0
+Riyadh Radio
+p:Unknown
+0a3e:020d2de3:001a:02be:2:0:0
+Jeddah Radio
+p:Unknown
+0a3f:020d2de3:001a:02be:2:0:0
+Saudia Radio
+p:Unknown
+0a40:020d2de3:001a:02be:2:0:0
+Nida Alislam Radio
+p:Unknown
+0a41:020d2de3:001a:02be:2:0:0
+Ekhbariya Radio
+p:Unknown
+0a43:020d2de3:001a:02be:2:0:0
+Saudi Radio French
+p:Unknown
+0a44:020d2de3:001a:02be:2:0:0
+Saudi Radio Pashto
+p:Unknown
+0a45:020d2de3:001a:02be:2:0:0
+Saudi Radio Bengali
+p:Unknown
+0a46:020d2de3:001a:02be:2:0:0
+Alazm Radio
+p:Unknown
+0a47:020d2de3:001a:02be:2:0:0
+Khuzama Radio
+p:Unknown
+0001:020d2df6:0001:0001:1:0:0
+Kalemeh TV
+p:Unknown
+003b:020d2df6:0001:0001:1:0:0
+Ganj e Hozour TV 5
+p:Unknown
+003d:020d2df6:0001:0001:1:0:0
+Iranova
+p:Unknown
+003e:020d2df6:0001:0001:1:0:0
+Toosheh TV
+p:Unknown
+003f:020d2df6:0001:0001:1:0:0
+Cinema+
+p:Unknown
+0040:020d2df6:0001:0001:1:0:0
+Ruby TV
+p:Unknown
+0042:020d2df6:0001:0001:1:0:0
+My TV
+p:Unknown
+0043:020d2df6:0001:0001:1:0:0
+Lux TV
+p:Unknown
+0044:020d2df6:0001:0001:1:0:0
+Tak TV (1)
+p:Unknown
+0045:020d2df6:0001:0001:1:0:0
+Film +
+p:Unknown
+0046:020d2df6:0001:0001:1:0:0
+City TV
+p:Unknown
+0047:020d2df6:0001:0001:1:0:0
+Ganj e Hozour TV 1
+p:Unknown
+0048:020d2df6:0001:0001:1:0:0
+Didgah TV
+p:Unknown
+0049:020d2df6:0001:0001:1:0:0
+Hamsafar
+p:Unknown
+004a:020d2df6:0001:0001:1:0:0
+Tala Kids Club
+p:Unknown
+004b:020d2df6:0001:0001:1:0:0
+TV 8 +2
+p:Unknown
+004d:020d2df6:0001:0001:1:0:0
+Ganj e Hozour TV 4
+p:Unknown
+004f:020d2df6:0001:0001:1:0:0
+Tin TV
+p:Unknown
+0050:020d2df6:0001:0001:1:0:0
+QFilm
+p:Unknown
+0051:020d2df6:0001:0001:1:0:0
+Velayat TV Network
+p:Unknown
+0001:020d2e09:0007:0001:1:0:0
+Tojikiston
+p:Unknown
+0002:020d2e09:0007:0001:1:0:0
+TV Safina
+p:Unknown
+0003:020d2e09:0007:0001:1:0:0
+TV Bahoriston
+p:Unknown
+0004:020d2e09:0007:0001:1:0:0
+Jahonnamo
+p:Unknown
+0005:020d2e09:0007:0001:1:0:0
+Varzish TV
+p:Unknown
+0006:020d2e09:0007:0001:1:0:0
+Sinamo TV
+p:Unknown
+0007:020d2e09:0007:0001:1:0:0
+TV Dushanbe
+p:Unknown
+0008:020d2e09:0007:0001:1:0:0
+Futbol
+p:Unknown
+0009:020d2e09:0007:0001:1:0:0
+TMT Sahnavaz
+p:Unknown
+000a:020d2e09:0007:0001:1:0:0
+Khatlon HD
+p:Unknown
+000b:020d2e09:0007:0001:1:0:0
+TV Badakhshon
+p:Unknown
+000c:020d2e09:0007:0001:1:0:0
+TV Kulob
+p:Unknown
+000e:020d2e09:0007:0001:1:0:0
+Sugd HD
+p:Unknown
+000f:020d2e09:0007:0001:1:0:0
+Ilm va Tabiat
+p:Unknown
+0010:020d2e09:0007:0001:1:0:0
+TV Sayohi
+p:Unknown
+0011:020d2e09:0007:0001:2:0:0
+Radioi Tojikiston
+p:Unknown
+0012:020d2e09:0007:0001:2:0:0
+Ovozi Tojik
+p:Unknown
+0013:020d2e09:0007:0001:2:0:0
+Sadoi Dushanbe
+p:Unknown
+0014:020d2e09:0007:0001:2:0:0
+Radioi Farhang
+p:Unknown
+0001:020d2e43:0005:0001:1:0:0
+Zed TV
+p:Unknown
+0004:020d2e43:0005:0001:1:0:0
+Ayeneh TV
+p:Unknown
+0005:020d2e43:0005:0001:1:0:0
+Hambastegi TV
+p:Unknown
+0006:020d2e43:0005:0001:1:0:0
+Grand Cinema
+p:Unknown
+0007:020d2e43:0005:0001:1:0:0
+VoA 365
+p:Unknown
+0008:020d2e43:0005:0001:1:0:0
+QTV
+p:Unknown
+0009:020d2e43:0005:0001:1:0:0
+BBC News Arabic
+p:Unknown
+000a:020d2e43:0005:0001:1:0:0
+BBC News Persian
+p:Unknown
+000c:020d2e43:0005:0001:2:0:0
+Radio Farda TV
+p:Unknown
+000d:020d2e43:0005:0001:1:0:0
+MBC Persia
+p:Unknown
+000e:020d2e43:0005:0001:1:0:0
+CNN International Europe
+p:Unknown
+000f:020d2e43:0005:0001:1:0:0
+BBC News Afghanistan
+p:Unknown
+000b:020d2e43:0005:0001:2:0:0
+BBC World Service Arabic
+p:Unknown
+0010:020d2e43:0005:0001:2:0:0
+Voice of America
+p:Unknown
+0012:020d2e43:0005:0001:2:0:0
+BBC World Service Afghanistan
+p:Unknown
+000e:020d2e69:0009:00fc:1:0:0
+GEM Food
+p:Unknown
+000f:020d2e69:0009:00fc:1:0:0
+GEM Fit
+p:Unknown
+0010:020d2e69:0009:00fc:1:0:0
+GEM Rubix
+p:Unknown
+0011:020d2e69:0009:00fc:1:0:0
+GEM River
+p:Unknown
+0012:020d2e69:0009:00fc:1:0:0
+GEM Life
+p:Unknown
+0013:020d2e69:0009:00fc:1:0:0
+GEM Bollywood
+p:Unknown
+0014:020d2e69:0009:00fc:1:0:0
+GEM Classic
+p:Unknown
+0015:020d2e69:0009:00fc:1:0:0
+GEM Series
+p:Unknown
+0016:020d2e69:0009:00fc:1:0:0
+GEM Nature
+p:Unknown
+0017:020d2e69:0009:00fc:1:0:0
+GEM Junior
+p:Unknown
+0019:020d2e69:0009:00fc:1:0:0
+GEM TV
+p:Unknown
+001a:020d2e69:0009:00fc:1:0:0
+GEM Entertainment
+p:Unknown
+001c:020d2e69:0009:00fc:1:0:0
+GEM Kids
+p:Unknown
+001d:020d2e69:0009:00fc:1:0:0
+GEM Sport 2
+p:Unknown
+001e:020d2e69:0009:00fc:1:0:0
+GEM Film
+p:Unknown
+0022:020d2e69:0009:00fc:1:0:0
+GEM Drama
+p:Unknown
+0028:020d2e69:0009:00fc:1:0:0
+GEM Pixel
+p:Unknown
+01d1:020d2ea2:0005:0001:1:0:0
+Supreme Master TV
+p:Unknown
+01d5:020d2ea2:0005:0001:1:0:0
+VoA TV Afghanistan
+p:Unknown
+01db:020d2ea2:0005:0001:1:0:0
+Alarabiya
+p:Unknown
+01e8:020d2ea2:0005:0001:1:0:0
+Begum TV
+p:Unknown
+0239:020d2ea2:0005:0001:1:0:0
+AF Sports
+p:Unknown
+023a:020d2ea2:0005:0001:1:0:0
+Lemar TV
+p:Unknown
+023b:020d2ea2:0005:0001:1:0:0
+Tolo TV
+p:Unknown
+023c:020d2ea2:0005:0001:1:0:0
+Tolo News
+p:Unknown
+0246:020d2ea2:0005:0001:1:0:0
+Faza TV
+p:Unknown
+0247:020d2ea2:0005:0001:1:0:0
+Amu TV
+p:Unknown
+024c:020d2ea2:0005:0001:1:0:0
+Ariana TV Network
+p:Unknown
+0251:020d2ea2:0005:0001:1:0:0
+Shams TV
+p:Unknown
+0252:020d2ea2:0005:0001:1:0:0
+Afghanistan International
+p:Unknown
+1b63:020d2ea2:0005:0001:1:0:0
+Hadi TV 6
+p:Unknown
+1b64:020d2ea2:0005:0001:1:0:0
+Rana TV
+p:Unknown
+01cd:020d2ea2:0005:0001:2:0:0
+Radio Nawa FM
+p:Unknown
+01d3:020d2ea2:0005:0001:2:0:0
+Radio Ashna
+p:Unknown
+0243:020d2ea2:0005:0001:2:0:0
+Arman FM
+p:Unknown
+0244:020d2ea2:0005:0001:2:0:0
+Arakozia FM
+p:Unknown
+0002:020d2eb6:0002:0001:1:0:0
+QToon
+p:Unknown
+0004:020d2eb6:0002:0001:1:0:0
+Grand Sport
+p:Unknown
+0005:020d2eb6:0002:0001:1:0:0
+Dr Pal TV
+p:Unknown
+0006:020d2eb6:0002:0001:1:0:0
+Grand Series
+p:Unknown
+0007:020d2eb6:0002:0001:1:0:0
+Movie 1
+p:Unknown
+0008:020d2eb6:0002:0001:1:0:0
+Grand TV
+p:Unknown
+0009:020d2eb6:0002:0001:1:0:0
+Grand Toon
+p:Unknown
+000c:020d2eb6:0002:0001:1:0:0
+TV 8
+p:Unknown
+000d:020d2eb6:0002:0001:1:0:0
+U Toon
+p:Unknown
+000f:020d2eb6:0002:0001:1:0:0
+Simay-Azadi Iran National TV
+p:Unknown
+0011:020d2eb6:0002:0001:1:0:0
+Sat 7 Pars
+p:Unknown
+0012:020d2eb6:0002:0001:1:0:0
+JK Entertainment
+p:Unknown
+0017:020d2eb6:0002:0001:1:0:0
+Al-Hadi Media
+p:Unknown
+0018:020d2eb6:0002:0001:1:0:0
+Ganj e Hozour TV 3
+p:Unknown
+0019:020d2eb6:0002:0001:1:0:0
+Kalemeh TV
+p:Unknown
+001b:020d2eb6:0002:0001:1:0:0
+Ayeneh TV
+p:Unknown
+001e:020d2eb6:0002:0001:1:0:0
+Radis
+p:Unknown
+001f:020d2eb6:0002:0001:1:0:0
+Grand Cinema
+p:Unknown
+001d:020d2eb6:0002:0001:2:0:0
+Radio Mojdeh
+p:Unknown
+0001:020d2ec9:000a:0001:1:0:0
+Asena TV
+p:Unknown
+0002:020d2ec9:000a:0001:1:0:0
+Tigrai TV
+p:Unknown
+0003:020d2ec9:000a:0001:1:0:0
+Vilayet TV
+p:Unknown
+0007:020d2ec9:000a:0001:1:0:0
+Dr Pal TV
+p:Unknown
+0008:020d2ec9:000a:0001:1:0:0
+24.7 Music TV
+p:Unknown
+000a:020d2ec9:000a:0001:1:0:0
+Gulf Movies
+p:Unknown
+000c:020d2ec9:000a:0001:1:0:0
+Tibeb Ybrah
+p:Unknown
+000d:020d2ec9:000a:0001:1:0:0
+Dedebit TV
+p:Unknown
+000e:020d2ec9:000a:0001:1:0:0
+Ayaz TV
+p:Unknown
+000f:020d2ec9:000a:0001:1:0:0
+Oromia National Media
+p:Unknown
+0010:020d2ec9:000a:0001:1:0:0
+Axumawian Media Network
+p:Unknown
+0011:020d2ec9:000a:0001:1:0:0
+AmharaSat
+p:Unknown
+0012:020d2ec9:000a:0001:1:0:0
+Zemed TV
+p:Unknown
+0013:020d2ec9:000a:0001:1:0:0
+Channel 8
+p:Unknown
+0014:020d2ec9:000a:0001:1:0:0
+Gulf Movies
+p:Unknown
+0019:020d2ec9:000a:0001:1:0:0
+STR News
+p:Unknown
+001b:020d2ec9:000a:0001:1:0:0
+Al Aghile Talebin TV
+p:Unknown
+001c:020d2ec9:000a:0001:1:0:0
+Al-Amir TV
+p:Unknown
+0065:020d2edc:0008:0001:1:0:0
+BBC News Persian
+p:Unknown
+0067:020d2edc:0008:0001:1:0:0
+BBC News Arabic
+p:Unknown
+0068:020d2edc:0008:0001:1:0:0
+MBC Persia
+p:Unknown
+006b:020d2edc:0008:0001:1:0:0
+BBC News Afghanistan
+p:Unknown
+00ca:020d2edc:0008:0001:1:0:0
+CNN International Europe
+p:Unknown
+0069:020d2edc:0008:0001:2:0:0
+BBC World Service Afghanistan
+p:Unknown
+006a:020d2edc:0008:0001:2:0:0
+BBC World Service Arabic
+p:Unknown
+0644:020d2eef:0004:020d:1:0:0
+Shamshad TV
+p:Unknown
+064d:020d2eef:0004:020d:1:0:0
+Esteqlal TV
+p:Unknown
+0654:020d2eef:0004:020d:1:0:0
+Zhwandoon TV
+p:Unknown
+0656:020d2eef:0004:020d:1:0:0
+Arezo TV
+p:Unknown
+065a:020d2eef:0004:020d:1:0:0
+ATN News
+p:Unknown
+065e:020d2eef:0004:020d:1:0:0
+RTA
+p:Unknown
+065f:020d2eef:0004:020d:1:0:0
+RTA News
+p:Unknown
+0660:020d2eef:0004:020d:1:0:0
+RTA Sport
+p:Unknown
+0661:020d2eef:0004:020d:1:0:0
+RTA World
+p:Unknown
+0662:020d2eef:0004:020d:1:0:0
+RTA Education
+p:Unknown
+0663:020d2eef:0004:020d:2:0:0
+RTA Education Radio
+p:Unknown
+0665:020d2eef:0004:020d:2:0:0
+RTA Taranum Radio
+p:Unknown
+0666:020d2eef:0004:020d:2:0:0
+Afghanistan National Radio
+p:Unknown
+0667:020d2eef:0004:020d:2:0:0
+Voice of Sharia
+p:Unknown
+06a8:020d2eef:0004:020d:2:0:0
+Hurriyat Radio
+p:Unknown
+06a9:020d2eef:0004:020d:2:0:0
+Salam Watandar
+p:Unknown
+06aa:020d2eef:0004:020d:2:0:0
+Zhwandoon Radio
+p:Unknown
+06ab:020d2eef:0004:020d:2:0:0
+Omid Radio
+p:Unknown
+06ac:020d2eef:0004:020d:2:0:0
+Ariana FM
+p:Unknown
+06ad:020d2eef:0004:020d:2:0:0
+Shamshad FM
+p:Unknown
+06ae:020d2eef:0004:020d:2:0:0
+Begum FM
+p:Unknown
+06af:020d2eef:0004:020d:2:0:0
+Radio Jawanan
+p:Unknown
+06bd:020d2eef:0004:020d:2:0:0
+Radio Killid Kabul
+p:Unknown
+06c0:020d2eef:0004:020d:2:0:0
+Arezo Radio
+p:Unknown
+06c2:020d2eef:0004:020d:2:0:0
+Police Radio
+p:Unknown
+000b:020d2f02:0011:0001:1:0:0
+GEM Onyx
+p:Unknown
+000c:020d2f02:0011:0001:1:0:0
+GEM Rubix +
+p:Unknown
+000e:020d2f02:0011:0001:1:0:0
+GEM River +
+p:Unknown
+000f:020d2f02:0011:0001:1:0:0
+GEM 24B
+p:Unknown
+0010:020d2f02:0011:0001:1:0:0
+GEM TV +
+p:Unknown
+0011:020d2f02:0011:0001:1:0:0
+GEM Drama +
+p:Unknown
+0013:020d2f02:0011:0001:1:0:0
+GEM Series +
+p:Unknown
+0016:020d2f02:0011:0001:1:0:0
+GEM Mifa
+p:Unknown
+0017:020d2f02:0011:0001:1:0:0
+GEM AZ
+p:Unknown
+0018:020d2f02:0011:0001:1:0:0
+GEM Comedy
+p:Unknown
+001a:020d2f02:0011:0001:1:0:0
+GEM Documentary
+p:Unknown
+001b:020d2f02:0011:0001:1:0:0
+GEM Modern Economy
+p:Unknown
+001c:020d2f02:0011:0001:1:0:0
+GEM Mifa +
+p:Unknown
+001d:020d2f02:0011:0001:1:0:0
+GEM Sport 1
+p:Unknown
+001e:020d2f02:0011:0001:1:0:0
+GEM Music
+p:Unknown
+0013:020d2f29:0003:0001:1:0:0
+Marjaeyat TV Persian
+p:Unknown
+0014:020d2f29:0003:0001:1:0:0
+Imam Hussein TV 1
+p:Unknown
+0016:020d2f29:0003:0001:1:0:0
+Towheed TV
+p:Unknown
+0017:020d2f29:0003:0001:1:0:0
+Vox 1
+p:Unknown
+001f:020d2f29:0003:0001:1:0:0
+Channel One
+p:Unknown
+002f:020d2f29:0003:0001:1:0:0
+Ganj e Hozour TV 2
+p:Unknown
+0030:020d2f29:0003:0001:1:0:0
+Imam Hussein TV 1
+p:Unknown
+0032:020d2f29:0003:0001:1:0:0
+BeitolAbbas TV Channel
+p:Unknown
+0034:020d2f29:0003:0001:1:0:0
+MITV
+p:Unknown
+0046:020d2f29:0003:0001:1:0:0
+Payam-e-Afghan TV
+p:Unknown
+005a:020d2f29:0003:0001:1:0:0
+City+
+p:Unknown
+005b:020d2f29:0003:0001:1:0:0
+JK Entertainment
+p:Unknown
+0001:020d2f75:0004:0001:1:0:0
+Jannatul Baqi TV
+p:Unknown
+0003:020d2f75:0004:0001:1:0:0
+Hodhod Farsi TV HD
+p:Unknown
+0004:020d2f75:0004:0001:1:0:0
+Channel One
+p:Unknown
+0005:020d2f75:0004:0001:1:0:0
+Afghanistan International
+p:Unknown
+0009:020d2f75:0004:0001:1:0:0
+Simay-Azadi Iran National TV
+p:Unknown
+000d:020d2f75:0004:0001:1:0:0
+My Dot
+p:Unknown
+0013:020d2f75:0004:0001:1:0:0
+Marjaeyat TV Persian
+p:Unknown
+0044:020d2f75:0004:0001:1:0:0
+MeShop TV
+p:Unknown
+0045:020d2f75:0004:0001:1:0:0
+Newflix
+p:Unknown
+0046:020d2f75:0004:0001:1:0:0
+Mohabat TV
+p:Unknown
+0049:020d2f75:0004:0001:1:0:0
+Ayeneh TV
+p:Unknown
+004e:020d2f75:0004:0001:1:0:0
+Watan HD
+p:Unknown
+004f:020d2f75:0004:0001:1:0:0
+Abalfadhl TV
+p:Unknown
+0053:020d2f75:0004:0001:1:0:0
+Valiasr-aj TV
+p:Unknown
+0059:020d2f75:0004:0001:1:0:0
+Towheed TV
+p:Unknown
+000a:020d2f75:0004:0001:2:0:0
+Radio Payam Azadi
+p:Unknown
+0001:020d2f89:0018:020d:1:0:0
+Star World Middle East
+p:Unknown
+0002:020d2f89:0018:020d:1:0:0
+Star Movies Middle East
+p:Unknown
+0003:020d2f89:0018:020d:1:0:0
+Baby TV Europe
+p:Unknown
+0007:020d2f89:0018:020d:1:0:0
+Star Action
+p:Unknown
+000f:020d2f89:0018:020d:1:0:0
+National Geographic Middle East
+p:Unknown
+0010:020d2f89:0018:020d:1:0:0
+National Geographic Wild Middle East
+p:Unknown
+0018:020d2f89:0018:020d:1:0:0
+Disney Channel Middle East
+p:Unknown
+0019:020d2f89:0018:020d:1:0:0
+Disney Jr Middle East
+p:Unknown
+end

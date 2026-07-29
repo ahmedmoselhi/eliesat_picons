@@ -1,0 +1,2183 @@
+eDVB services /4/
+transponders
+01a42b04:7d6c:042e
+	s 11012000:30000000:0:0:420:2:0:1:0:2:2
+/
+01a42b2d:7dc9:042e
+	s 11053000:8000000:0:0:420:2:0:0:0:2:2
+/
+01a42b2e:7919:042e
+	s 11054000:30000000:1:0:420:2:0:1:0:2:2
+/
+01a42b58:003d:002a
+	s 11096000:30000000:0:0:420:2:0:0:0:2:2
+/
+01a42c01:78b5:002a
+	s 11265000:30000000:1:0:420:2:0:1:0:2:2
+/
+01a42c29:a929:002a
+	s 11305000:30000000:1:0:420:2:0:1:0:2:2
+/
+01a42c51:c5a8:002a
+	s 11345000:29750000:1:0:420:2:0:0:0:2:2
+/
+01a42ca1:c6d5:042e
+	s 11425000:30000000:1:0:420:2:0:1:0:2:2
+/
+01a42cf3:0001:ffff
+	s 11507000:6250000:1:0:420:2:0:1:0:2:2
+/
+01a42cfc:0000:ff00
+	s 11516000:8000000:1:0:420:2:0:1:0:2:2
+/
+01a42d02:0001:002a
+	s 11522000:1800000:1:0:420:2:0:0:0:2:2
+/
+01a42d26:7789:042e
+	s 11558000:30000000:1:0:420:2:0:0:0:2:2
+/
+01a42d9c:4e85:002a
+	s 11676000:24444000:1:0:420:2:0:0:0:2:2
+/
+01a42dcf:eac5:042e
+	s 11727000:27500000:1:0:420:2:0:1:0:2:2
+/
+01a42de3:ede5:042e
+	s 11747000:27500000:0:0:420:2:0:1:0:2:2
+/
+01a42df7:a860:042e
+	s 11767000:15000000:1:0:420:2:0:1:0:2:2
+/
+01a42e0d:a8c3:042e
+	s 11789000:20000000:0:0:420:2:0:1:0:2:2
+/
+01a42e12:a861:042e
+	s 11794000:30000000:1:0:420:2:0:1:0:2:2
+/
+01a42e3d:a925:042e
+	s 11837000:30000000:1:0:420:2:0:1:0:2:2
+/
+01a42e4d:a989:042e
+	s 11853000:25000000:0:0:420:2:0:1:0:2:2
+/
+01a42e68:a98a:042e
+	s 11880000:20000000:0:0:420:2:0:1:0:2:2
+/
+01a42e6b:9ca6:042e
+	s 11883000:5000000:1:0:420:2:0:1:0:2:2
+/
+01a42e8c:9ca5:042e
+	s 11916000:30000000:1:0:420:2:0:0:0:2:2
+/
+01a42eb6:9d6d:042e
+	s 11958000:27500000:1:0:420:2:0:0:0:2:2
+/
+01a42ec9:0001:0042
+	s 11977000:27500000:0:0:420:2:0:0:0:2:2
+/
+01a42edf:9e38:042e
+	s 11999000:11666000:1:0:420:2:0:1:0:2:2
+/
+01a42ee9:0001:ffff
+	s 12009000:4444000:1:0:420:2:0:1:0:2:2
+/
+01a42eef:9e99:042e
+	s 12015000:27500000:0:0:420:2:0:0:0:2:2
+/
+01a42f02:0003:0042
+	s 12034000:27500000:1:0:420:2:0:0:0:2:2
+/
+01a42f16:9f61:042e
+	s 12054000:27500000:0:0:420:2:0:0:0:2:2
+/
+01a42f29:9fc5:002a
+	s 12073000:27500000:1:0:420:2:0:1:0:2:2
+/
+01a42f33:a02d:042e
+	s 12083000:13750000:0:0:420:2:0:1:0:2:2
+/
+01a42f3f:a02a:042e
+	s 12095000:4800000:0:0:420:2:0:0:0:2:2
+/
+01a42f47:a02b:042e
+	s 12103000:8333000:0:0:420:2:0:1:0:2:2
+/
+01a42f9c:0009:005a
+	s 12188000:27500000:1:0:420:2:0:1:0:2:2
+/
+01a42fa4:a1bc:0001
+	s 12196000:10400000:0:0:420:2:0:1:0:2:2
+/
+01a42fb1:a1b9:042e
+	s 12209000:10000000:0:0:420:2:0:1:0:2:2
+/
+01a42fb5:a155:042e
+	s 12213000:5833000:1:0:420:2:0:1:0:2:2
+/
+01a42fbb:a1ba:042e
+	s 12219000:6500000:0:0:420:2:0:0:0:2:2
+/
+01a42fd5:0007:0042
+	s 12245000:27500000:0:0:420:2:0:1:0:2:2
+/
+01a42fe9:a21d:042e
+	s 12265000:27500000:1:0:420:2:0:1:0:2:2
+/
+01a4300a:a2e6:042e
+	s 12298000:4800000:1:0:420:2:0:0:0:2:2
+/
+01a43016:a2e7:042e
+	s 12310000:15000000:1:0:420:2:0:1:0:2:2
+/
+01a43029:a412:042e
+	s 12329000:6666000:0:0:420:2:0:1:0:2:2
+/
+01a43030:a413:042e
+	s 12336000:5520000:0:0:420:2:0:0:0:2:2
+/
+01a43038:a3ad:042e
+	s 12344000:0:1:0:420:2:0:1:0:2:2
+/
+01a4303a:a414:042e
+	s 12346000:9600000:0:0:420:2:0:0:0:2:2
+/
+01a43044:a415:042e
+	s 12356000:7100000:0:0:420:2:0:1:0:2:2
+/
+01a4305b:a411:042e
+	s 12379000:30000000:0:0:420:2:0:0:0:2:2
+/
+01a4305c:a3ae:042e
+	s 12380000:27500000:1:0:420:2:0:0:0:2:2
+/
+01a43086:a475:042e
+	s 12422000:27500000:1:0:420:2:0:0:0:2:2
+/
+01a43086:a4d9:042e
+	s 12422000:30000000:0:0:420:2:0:0:0:2:2
+/
+01a430e9:0001:1100
+	s 12521000:30000000:0:0:420:2:0:1:0:2:2
+/
+01a4310a:0000:0000
+	s 12554000:7000000:1:0:420:2:0:1:0:2:2
+/
+01a43139:efd9:042e
+	s 12601000:27500000:0:0:420:2:0:1:0:2:2
+/
+01a4318d:7660:042e
+	s 12685000:30000000:1:0:420:2:0:1:0:2:2
+/
+01a4318d:7b0e:042e
+	s 12685000:27500000:0:0:420:2:0:1:0:2:2
+/
+01a431b9:76c1:042e
+	s 12729000:30000000:1:0:420:2:0:1:0:2:2
+/
+end
+services
+43c6:01a42b04:7d6c:042e:1:0:0
+RTR Planeta
+p:Unknown
+43c7:01a42b04:7d6c:042e:1:0:0
+Rossiya 24
+p:Unknown
+43c8:01a42b04:7d6c:042e:1:0:0
+NTV Stil
+p:Unknown
+43c9:01a42b04:7d6c:042e:1:0:0
+NTV Pravo
+p:Unknown
+43ca:01a42b04:7d6c:042e:1:0:0
+NTV Serial
+p:Unknown
+43cb:01a42b04:7d6c:042e:1:0:0
+NTV Mir
+p:Unknown
+43cc:01a42b04:7d6c:042e:1:0:0
+Domashniy International
+p:Unknown
+43cd:01a42b04:7d6c:042e:1:0:0
+Izvestia TV
+p:Unknown
+43ce:01a42b04:7d6c:042e:1:0:0
+REN TV International
+p:Unknown
+43cf:01a42b04:7d6c:042e:1:0:0
+STS International
+p:Unknown
+43d0:01a42b04:7d6c:042e:1:0:0
+Peretz International
+p:Unknown
+43d1:01a42b04:7d6c:042e:1:0:0
+5 Kanal International
+p:Unknown
+43d2:01a42b04:7d6c:042e:1:0:0
+TNT International
+p:Unknown
+43d3:01a42b04:7d6c:042e:1:0:0
+Fon Music
+p:Unknown
+43d4:01a42b04:7d6c:042e:1:0:0
+Umka
+p:Unknown
+43d5:01a42b04:7d6c:042e:1:0:0
+Epic
+p:Unknown
+43d6:01a42b04:7d6c:042e:1:0:0
+Start Air
+p:Unknown
+43d7:01a42b04:7d6c:042e:1:0:0
+Start World
+p:Unknown
+43d8:01a42b04:7d6c:042e:1:0:0
+Neizvestnaya Rossiya
+p:Unknown
+2bc0:01a42b2d:7dc9:042e:1:0:0
+Habertürk
+p:Unknown
+2bc1:01a42b2d:7dc9:042e:1:0:0
+Bloomberg HT
+p:Unknown
+2bc6:01a42b2d:7dc9:042e:1:0:0
+Show Turk
+p:Unknown
+2bc7:01a42b2d:7dc9:042e:1:0:0
+HT Spor
+p:Unknown
+2bc2:01a42b2d:7dc9:042e:2:0:0
+Haberturk Radyo
+p:Unknown
+2968:01a42b2e:7919:042e:1:0:0
+TRT Çocuk
+p:Unknown
+2969:01a42b2e:7919:042e:1:0:0
+TRT 1
+p:Unknown
+296a:01a42b2e:7919:042e:1:0:0
+TRT Haber
+p:Unknown
+296b:01a42b2e:7919:042e:1:0:0
+TRT Spor
+p:Unknown
+296c:01a42b2e:7919:042e:1:0:0
+TRT Belgesel
+p:Unknown
+296d:01a42b2e:7919:042e:1:0:0
+TRT World
+p:Unknown
+296e:01a42b2e:7919:042e:1:0:0
+TRT Türk
+p:Unknown
+2970:01a42b2e:7919:042e:1:0:0
+TRT Müzik
+p:Unknown
+2971:01a42b2e:7919:042e:1:0:0
+TRT Kurdî
+p:Unknown
+0001:01a42b58:003d:002a:1:0:0
+TRT 1
+p:Unknown
+0005:01a42b58:003d:002a:1:0:0
+TRT Haber
+p:Unknown
+0009:01a42b58:003d:002a:1:0:0
+TRT Türk
+p:Unknown
+000c:01a42b58:003d:002a:1:0:0
+TRT Müzik
+p:Unknown
+0010:01a42b58:003d:002a:1:0:0
+TRT Çocuk
+p:Unknown
+0015:01a42b58:003d:002a:1:0:0
+TRT Avaz
+p:Unknown
+0017:01a42b58:003d:002a:1:0:0
+TRT Arabi
+p:Unknown
+0018:01a42b58:003d:002a:1:0:0
+TRT Arabi
+p:Unknown
+0019:01a42b58:003d:002a:1:0:0
+TRT Spor
+p:Unknown
+001a:01a42b58:003d:002a:1:0:0
+TRT Kurdî
+p:Unknown
+0002:01a42b58:003d:002a:2:0:0
+TRT Radyo 1
+p:Unknown
+0003:01a42b58:003d:002a:2:0:0
+TRT Radyo 3
+p:Unknown
+0006:01a42b58:003d:002a:2:0:0
+TRT FM
+p:Unknown
+0008:01a42b58:003d:002a:2:0:0
+TRT Radyo Kurdî
+p:Unknown
+000a:01a42b58:003d:002a:2:0:0
+TRT World
+p:Unknown
+000b:01a42b58:003d:002a:2:0:0
+TRT TSR
+p:Unknown
+0011:01a42b58:003d:002a:2:0:0
+TRT Antalya
+p:Unknown
+000d:01a42b58:003d:002a:2:0:0
+TRT Nagme
+p:Unknown
+000e:01a42b58:003d:002a:2:0:0
+TRT Türkü
+p:Unknown
+000f:01a42b58:003d:002a:2:0:0
+TRT Voice of Turkey East
+p:Unknown
+0012:01a42b58:003d:002a:2:0:0
+TRT Çukurova
+p:Unknown
+0013:01a42b58:003d:002a:2:0:0
+TRT Erzurum
+p:Unknown
+0014:01a42b58:003d:002a:2:0:0
+TRT Trabzon
+p:Unknown
+0016:01a42b58:003d:002a:2:0:0
+TRT Voice of Turkey West
+p:Unknown
+001c:01a42b58:003d:002a:2:0:0
+TRT Dis Yay Orta Dalga Arapça
+p:Unknown
+426b:01a42c01:78b5:002a:1:0:0
+BBC News Europe
+p:Digiturk
+426c:01a42c01:78b5:002a:1:0:0
+Eurosport 2
+p:Digiturk
+426d:01a42c01:78b5:002a:1:0:0
+MCM Top
+p:Digiturk
+426f:01a42c01:78b5:002a:1:0:0
+CBeebies Türkiye
+p:Digiturk
+4270:01a42c01:78b5:002a:1:0:0
+France 24 English
+p:Digiturk
+4271:01a42c01:78b5:002a:1:0:0
+TV5Monde Europe
+p:Digiturk
+4272:01a42c01:78b5:002a:1:0:0
+EuroNews English
+p:Digiturk
+4273:01a42c01:78b5:002a:1:0:0
+CGTN
+p:Unknown
+427d:01a42c01:78b5:002a:1:0:0
+BBC Earth Türkiye
+p:Digiturk
+4286:01a42c01:78b5:002a:1:0:0
+BeIn Sports 2 Türkiye
+p:Digiturk
+4289:01a42c01:78b5:002a:1:0:0
+BeIn Sports 4 Türkiye
+p:Digiturk
+4204:01a42c29:a929:002a:1:0:0
+Yaban
+p:Digiturk
+4205:01a42c29:a929:002a:1:0:0
+CGTN Documentary
+p:Unknown
+4206:01a42c29:a929:002a:1:0:0
+BeIn Sports
+p:Digiturk
+4207:01a42c29:a929:002a:1:0:0
+Da Vinci
+p:Digiturk
+4209:01a42c29:a929:002a:1:0:0
+BeIn Box Office 1 Türkiye
+p:Digiturk
+420e:01a42c29:a929:002a:1:0:0
+Digiturk 4K
+p:Digiturk
+4212:01a42c29:a929:002a:1:0:0
+Aljazeera English
+p:Digiturk
+4213:01a42c29:a929:002a:1:0:0
+FB TV
+p:Digiturk
+4237:01a42c29:a929:002a:1:0:0
+TRT 1
+p:Digiturk
+4238:01a42c29:a929:002a:1:0:0
+Aljazeera Channel
+p:Digiturk
+14bc:01a42c29:a929:002a:2:0:0
+Hottest Hits
+p:Digiturk
+14bd:01a42c29:a929:002a:2:0:0
+Love Songs
+p:Digiturk
+14be:01a42c29:a929:002a:2:0:0
+In Love
+p:Digiturk
+14bf:01a42c29:a929:002a:2:0:0
+90s Hits
+p:Digiturk
+14c0:01a42c29:a929:002a:2:0:0
+80s Hits
+p:Digiturk
+14c1:01a42c29:a929:002a:2:0:0
+Party
+p:Digiturk
+14c2:01a42c29:a929:002a:2:0:0
+Concerts
+p:Digiturk
+14c3:01a42c29:a929:002a:2:0:0
+America's Classics
+p:Digiturk
+14c4:01a42c29:a929:002a:2:0:0
+Classical Music
+p:Digiturk
+14c5:01a42c29:a929:002a:2:0:0
+Rock
+p:Digiturk
+14c6:01a42c29:a929:002a:2:0:0
+Energetic
+p:Digiturk
+14c7:01a42c29:a929:002a:2:0:0
+Classic Rock
+p:Digiturk
+14c8:01a42c29:a929:002a:2:0:0
+Nu Jazz
+p:Digiturk
+14c9:01a42c29:a929:002a:2:0:0
+Jazz
+p:Digiturk
+14ca:01a42c29:a929:002a:2:0:0
+Blues
+p:Digiturk
+14cb:01a42c29:a929:002a:2:0:0
+Reggae
+p:Digiturk
+14cc:01a42c29:a929:002a:2:0:0
+Latin
+p:Digiturk
+14cd:01a42c29:a929:002a:2:0:0
+Oldies but Goldies
+p:Digiturk
+14ce:01a42c29:a929:002a:2:0:0
+Morning Coffee
+p:Digiturk
+14cf:01a42c29:a929:002a:2:0:0
+Chill Out
+p:Digiturk
+14d0:01a42c29:a929:002a:2:0:0
+Hip Hop R&B
+p:Digiturk
+14d1:01a42c29:a929:002a:2:0:0
+Easy Listening
+p:Digiturk
+14d2:01a42c29:a929:002a:2:0:0
+Relaxation
+p:Digiturk
+14d3:01a42c29:a929:002a:2:0:0
+International
+p:Digiturk
+14d4:01a42c29:a929:002a:2:0:0
+Dreamy
+p:Digiturk
+14d5:01a42c29:a929:002a:2:0:0
+Melancholic
+p:Digiturk
+14d6:01a42c29:a929:002a:2:0:0
+Smooth Jazz
+p:Digiturk
+14d7:01a42c29:a929:002a:2:0:0
+Happy
+p:Digiturk
+14e3:01a42c29:a929:002a:2:0:0
+5+1 Concerts
+p:Digiturk
+14e6:01a42c29:a929:002a:2:0:0
+Baba Radyo
+p:Digiturk
+14ea:01a42c29:a929:002a:2:0:0
+Greek Songs
+p:Digiturk
+14ed:01a42c29:a929:002a:2:0:0
+Masal Radyo
+p:Digiturk
+3c8f:01a42c51:c5a8:002a:1:0:0
+BeIn Sports Max 2 Türkiye
+p:Digiturk
+3c91:01a42c51:c5a8:002a:1:0:0
+BeIn Movies Premiere 2
+p:Digiturk
+3c98:01a42c51:c5a8:002a:1:0:0
+BeIn H&E
+p:Digiturk
+3c99:01a42c51:c5a8:002a:1:0:0
+BeIn Sports 5 Türkiye
+p:Digiturk
+3c9d:01a42c51:c5a8:002a:1:0:0
+Eurosport 1
+p:Digiturk
+3c9f:01a42c51:c5a8:002a:1:0:0
+National Geographic Türkiye
+p:Digiturk
+3ca5:01a42c51:c5a8:002a:1:0:0
+National Geographic Wild Türkiye
+p:Digiturk
+3ca8:01a42c51:c5a8:002a:1:0:0
+TJK TV
+p:Unknown
+3cb9:01a42c51:c5a8:002a:1:0:0
+Nick Jr Türkiye
+p:Digiturk
+c577:01a42ca1:c6d5:042e:1:0:0
+Kablo Info
+p:Unknown
+c578:01a42ca1:c6d5:042e:1:0:0
+Tarim TV
+p:Unknown
+c57a:01a42ca1:c6d5:042e:1:0:0
+Semerkand TV
+p:Unknown
+c57b:01a42ca1:c6d5:042e:1:0:0
+Semerkand Way
+p:Unknown
+c57c:01a42ca1:c6d5:042e:1:0:0
+AS TV
+p:Unknown
+c57d:01a42ca1:c6d5:042e:1:0:0
+Quran TV
+p:Unknown
+c57e:01a42ca1:c6d5:042e:1:0:0
+Sunna TV
+p:Unknown
+c582:01a42ca1:c6d5:042e:1:0:0
+Witness Eye
+p:Unknown
+c583:01a42ca1:c6d5:042e:1:0:0
+TYT Türk
+p:Unknown
+c584:01a42ca1:c6d5:042e:1:0:0
+Cem TV
+p:Unknown
+c585:01a42ca1:c6d5:042e:1:0:0
+Bi Kanal
+p:Unknown
+c588:01a42ca1:c6d5:042e:1:0:0
+TeleNews
+p:Unknown
+c589:01a42ca1:c6d5:042e:1:0:0
+24KZ
+p:Unknown
+c59e:01a42ca1:c6d5:042e:2:0:0
+Semerkand Radyo
+p:Unknown
+0017:01a42cf3:0001:ffff:1:0:0
+TRT Arabi
+p:Unknown
+296d:01a42cf3:0001:ffff:1:0:0
+TRT World
+p:Unknown
+03e9:01a42cfc:0000:ff00:1:0:0
+TRT 2
+p:Unknown
+0001:01a42d02:0001:002a:2:0:0
+TRT Radyo 1
+p:Unknown
+0002:01a42d02:0001:002a:2:0:0
+TRT FM
+p:Unknown
+0003:01a42d02:0001:002a:2:0:0
+TRT Radyo 3
+p:Unknown
+0004:01a42d02:0001:002a:2:0:0
+Sada El Furat
+p:Unknown
+0006:01a42d02:0001:002a:2:0:0
+TRT Nagme
+p:Unknown
+0007:01a42d02:0001:002a:2:0:0
+TRT Türkü
+p:Unknown
+0008:01a42d02:0001:002a:2:0:0
+TRT Radyo Haber
+p:Unknown
+0009:01a42d02:0001:002a:2:0:0
+Yurt FM
+p:Unknown
+000a:01a42d02:0001:002a:2:0:0
+Radyo Delal
+p:Unknown
+c738:01a42d26:7789:042e:1:0:0
+Quran TV
+p:Unknown
+c739:01a42d26:7789:042e:1:0:0
+Sunna TV
+p:Unknown
+c743:01a42d26:7789:042e:1:0:0
+Al-Zahra TV
+p:Unknown
+c747:01a42d26:7789:042e:2:0:0
+Pal Nostalji
+p:Unknown
+c748:01a42d26:7789:042e:2:0:0
+Pal Station
+p:Unknown
+c749:01a42d26:7789:042e:2:0:0
+Erkam Radyo
+p:Unknown
+c74a:01a42d26:7789:042e:2:0:0
+Akra FM
+p:Unknown
+3751:01a42d9c:4e85:002a:1:0:0
+Rai 1
+p:Digiturk
+3752:01a42d9c:4e85:002a:1:0:0
+Bloomberg TV Europe
+p:Digiturk
+3755:01a42d9c:4e85:002a:1:0:0
+CNN International Europe
+p:Digiturk
+3756:01a42d9c:4e85:002a:1:0:0
+FashionTV HD Europe
+p:Digiturk
+3757:01a42d9c:4e85:002a:1:0:0
+Mezzo
+p:Digiturk
+3759:01a42d9c:4e85:002a:1:0:0
+TRT Spor
+p:Digiturk
+375a:01a42d9c:4e85:002a:1:0:0
+Nickelodeon Türkiye
+p:Digiturk
+4394:01a42dcf:eac5:042e:1:0:0
+RTR Planeta
+p:Unknown
+4395:01a42dcf:eac5:042e:1:0:0
+Rossiya 24
+p:Unknown
+4396:01a42dcf:eac5:042e:1:0:0
+NTV Stil
+p:Unknown
+4397:01a42dcf:eac5:042e:1:0:0
+NTV Pravo
+p:Unknown
+4398:01a42dcf:eac5:042e:1:0:0
+NTV Serial
+p:Unknown
+4399:01a42dcf:eac5:042e:1:0:0
+NTV Mir
+p:Unknown
+439a:01a42dcf:eac5:042e:1:0:0
+Domashniy International
+p:Unknown
+439b:01a42dcf:eac5:042e:1:0:0
+Izvestia TV
+p:Unknown
+439c:01a42dcf:eac5:042e:1:0:0
+REN TV International
+p:Unknown
+439d:01a42dcf:eac5:042e:1:0:0
+STS International
+p:Unknown
+439e:01a42dcf:eac5:042e:1:0:0
+Peretz International
+p:Unknown
+439f:01a42dcf:eac5:042e:1:0:0
+5 Kanal International
+p:Unknown
+43a0:01a42dcf:eac5:042e:1:0:0
+TNT International
+p:Unknown
+43a1:01a42dcf:eac5:042e:1:0:0
+Fon Music
+p:Unknown
+43a2:01a42dcf:eac5:042e:1:0:0
+Umka
+p:Unknown
+43a3:01a42dcf:eac5:042e:1:0:0
+Epic
+p:Unknown
+43a4:01a42dcf:eac5:042e:1:0:0
+Start Air
+p:Unknown
+43a5:01a42dcf:eac5:042e:1:0:0
+Start World
+p:Unknown
+43a6:01a42dcf:eac5:042e:1:0:0
+Neizvestnaya Rossiya
+p:Unknown
+43f8:01a42de3:ede5:042e:1:0:0
+RTR Planeta
+p:Unknown
+43f9:01a42de3:ede5:042e:1:0:0
+Rossiya 24
+p:Unknown
+43fa:01a42de3:ede5:042e:1:0:0
+NTV Stil
+p:Unknown
+43fb:01a42de3:ede5:042e:1:0:0
+NTV Pravo
+p:Unknown
+43fc:01a42de3:ede5:042e:1:0:0
+NTV Serial
+p:Unknown
+43fd:01a42de3:ede5:042e:1:0:0
+NTV Mir
+p:Unknown
+43fe:01a42de3:ede5:042e:1:0:0
+Domashniy International
+p:Unknown
+43ff:01a42de3:ede5:042e:1:0:0
+Izvestia TV
+p:Unknown
+4400:01a42de3:ede5:042e:1:0:0
+REN TV International
+p:Unknown
+4401:01a42de3:ede5:042e:1:0:0
+STS International
+p:Unknown
+4402:01a42de3:ede5:042e:1:0:0
+Peretz International
+p:Unknown
+4403:01a42de3:ede5:042e:1:0:0
+5 Kanal International
+p:Unknown
+4404:01a42de3:ede5:042e:1:0:0
+TNT International
+p:Unknown
+4405:01a42de3:ede5:042e:1:0:0
+Fon Music
+p:Unknown
+4406:01a42de3:ede5:042e:1:0:0
+Umka
+p:Unknown
+4407:01a42de3:ede5:042e:1:0:0
+Epic
+p:Unknown
+4408:01a42de3:ede5:042e:1:0:0
+Start Air
+p:Unknown
+4409:01a42de3:ede5:042e:1:0:0
+Start World
+p:Unknown
+440a:01a42de3:ede5:042e:1:0:0
+Neizvestnaya Rossiya
+p:Unknown
+3fac:01a42df7:a860:042e:1:0:0
+TRT 4K
+p:Unknown
+3e84:01a42e0d:a8c3:042e:1:0:0
+BBC First Türkiye
+p:Tivibu
+3e85:01a42e0d:a8c3:042e:1:0:0
+Sinema Aksiyon 2
+p:Tivibu
+3e87:01a42e0d:a8c3:042e:1:0:0
+Sinema Aile
+p:Tivibu
+3e88:01a42e0d:a8c3:042e:1:0:0
+Sinema Aile 2
+p:Tivibu
+3e8b:01a42e0d:a8c3:042e:1:0:0
+Sinema Komedi
+p:Tivibu
+3e8c:01a42e0d:a8c3:042e:1:0:0
+Sinema Komedi 2
+p:Tivibu
+3e8d:01a42e0d:a8c3:042e:1:0:0
+Sinema 1001
+p:Tivibu
+3e8e:01a42e0d:a8c3:042e:1:0:0
+Sinema 1002
+p:Tivibu
+3e8f:01a42e0d:a8c3:042e:1:0:0
+Sinema Yerli
+p:Tivibu
+3e90:01a42e0d:a8c3:042e:1:0:0
+Disney Jr Türkiye & Polska
+p:Tivibu
+3e91:01a42e0d:a8c3:042e:1:0:0
+Tarih TV
+p:Tivibu
+2968:01a42e12:a861:042e:1:0:0
+TRT Çocuk
+p:Unknown
+2969:01a42e12:a861:042e:1:0:0
+TRT 1
+p:Unknown
+296b:01a42e12:a861:042e:1:0:0
+TRT Spor
+p:Unknown
+296c:01a42e12:a861:042e:1:0:0
+TRT Belgesel
+p:Unknown
+2970:01a42e12:a861:042e:1:0:0
+TRT Müzik
+p:Unknown
+2985:01a42e12:a861:042e:1:0:0
+TRT Genç
+p:Unknown
+2986:01a42e12:a861:042e:1:0:0
+TRT Diyanet Çocuk
+p:Unknown
+cbe8:01a42e3d:a925:042e:1:0:0
+TV 100
+p:Unknown
+cbe9:01a42e3d:a925:042e:1:0:0
+Ekotürk
+p:Unknown
+cbed:01a42e3d:a925:042e:1:0:0
+SZC
+p:Unknown
+cbf2:01a42e3d:a925:042e:1:0:0
+Kibris Genç TV
+p:Unknown
+cbf3:01a42e3d:a925:042e:1:0:0
+Agro TV
+p:Unknown
+cbf4:01a42e3d:a925:042e:1:0:0
+Van TV
+p:Unknown
+cbf5:01a42e3d:a925:042e:1:0:0
+Kanal 3
+p:Unknown
+cbf6:01a42e3d:a925:042e:1:0:0
+Tek Rumeli TV
+p:Unknown
+cbf7:01a42e3d:a925:042e:1:0:0
+Ekol TV
+p:Unknown
+cbf9:01a42e3d:a925:042e:1:0:0
+Kibris TV
+p:Unknown
+cbfc:01a42e3d:a925:042e:1:0:0
+HT Spor
+p:Unknown
+cbfd:01a42e3d:a925:042e:1:0:0
+CNBC-E
+p:Unknown
+cbfe:01a42e3d:a925:042e:1:0:0
+GZT TV
+p:Unknown
+cc12:01a42e3d:a925:042e:2:0:0
+Kibris FM
+p:Unknown
+39d1:01a42e4d:a989:042e:1:0:0
+Tivibu Spor
+p:Unknown
+39d2:01a42e4d:a989:042e:1:0:0
+Tivibu Spor 1
+p:Tivibu
+39d4:01a42e4d:a989:042e:1:0:0
+Sinema Aksiyon
+p:Tivibu
+39d5:01a42e4d:a989:042e:1:0:0
+Habitat TV
+p:Unknown
+39d6:01a42e4d:a989:042e:1:0:0
+Sinema TV
+p:Tivibu
+39d7:01a42e4d:a989:042e:1:0:0
+Sinema 2
+p:Tivibu
+39da:01a42e4d:a989:042e:1:0:0
+S Sport
+p:Tivibu
+39de:01a42e4d:a989:042e:1:0:0
+Nicktoons Türkiye
+p:Tivibu
+3afc:01a42e68:a98a:042e:1:0:0
+Tivibu Spor 2
+p:Tivibu
+3afd:01a42e68:a98a:042e:1:0:0
+Fight Network
+p:Tivibu
+3afe:01a42e68:a98a:042e:1:0:0
+Viasat Epic Drama
+p:Tivibu
+3aff:01a42e68:a98a:042e:1:0:0
+Tivibu Spor 4
+p:Tivibu
+3b00:01a42e68:a98a:042e:1:0:0
+W-Sport
+p:Tivibu
+3b19:01a42e68:a98a:042e:1:0:0
+Sinema Yerli 2
+p:Tivibu
+3b1b:01a42e68:a98a:042e:1:0:0
+Tivibu Spor 3
+p:Tivibu
+3b1e:01a42e68:a98a:042e:1:0:0
+Moonbug
+p:Tivibu
+3b1f:01a42e68:a98a:042e:1:0:0
+FX Türkiye
+p:Tivibu
+3b20:01a42e68:a98a:042e:1:0:0
+Nickelodeon Türkiye
+p:Tivibu
+3b01:01a42e68:a98a:042e:2:0:0
+Mutlu
+p:Tivibu
+3b02:01a42e68:a98a:042e:2:0:0
+Çalisiyorken
+p:Tivibu
+3b03:01a42e68:a98a:042e:2:0:0
+Yabanci Slow
+p:Tivibu
+3b04:01a42e68:a98a:042e:2:0:0
+Retro
+p:Tivibu
+3b05:01a42e68:a98a:042e:2:0:0
+Film Muzikleri
+p:Tivibu
+3b06:01a42e68:a98a:042e:2:0:0
+Jazz
+p:Tivibu
+3b07:01a42e68:a98a:042e:2:0:0
+Oldies
+p:Tivibu
+3b08:01a42e68:a98a:042e:2:0:0
+Yabanci Pop
+p:Tivibu
+3b09:01a42e68:a98a:042e:2:0:0
+Yabanci Rock
+p:Tivibu
+3b0a:01a42e68:a98a:042e:2:0:0
+Klasik Müzik
+p:Tivibu
+3b0b:01a42e68:a98a:042e:2:0:0
+Türkçe Pop
+p:Tivibu
+3b0c:01a42e68:a98a:042e:2:0:0
+Türkçe Slow
+p:Tivibu
+3b0d:01a42e68:a98a:042e:2:0:0
+Tivibu Çocuk
+p:Tivibu
+3b0e:01a42e68:a98a:042e:2:0:0
+Türk Halk Müzigi
+p:Tivibu
+3b0f:01a42e68:a98a:042e:2:0:0
+Türk Sanat Müzigi
+p:Tivibu
+3b10:01a42e68:a98a:042e:2:0:0
+Arabesk
+p:Tivibu
+3b11:01a42e68:a98a:042e:2:0:0
+Dini Musiki
+p:Tivibu
+3b12:01a42e68:a98a:042e:2:0:0
+Akustik
+p:Tivibu
+3b13:01a42e68:a98a:042e:2:0:0
+Tas Plak
+p:Tivibu
+3b14:01a42e68:a98a:042e:2:0:0
+90lar
+p:Tivibu
+3b15:01a42e68:a98a:042e:2:0:0
+Lounge
+p:Tivibu
+3b16:01a42e68:a98a:042e:2:0:0
+Blues
+p:Tivibu
+28a0:01a42e6b:9ca6:042e:1:0:0
+ATV Avrupa
+p:Unknown
+28a1:01a42e6b:9ca6:042e:1:0:0
+A Haber
+p:Unknown
+c864:01a42e8c:9ca5:042e:1:0:0
+Kanal B
+p:Unknown
+c866:01a42e8c:9ca5:042e:1:0:0
+TRT EBA
+p:Unknown
+c868:01a42e8c:9ca5:042e:1:0:0
+TGRT EU
+p:Unknown
+c86c:01a42e8c:9ca5:042e:1:0:0
+TGRT Haber
+p:Unknown
+c86f:01a42e8c:9ca5:042e:1:0:0
+EuroStar
+p:Unknown
+c870:01a42e8c:9ca5:042e:1:0:0
+KRT TV
+p:Unknown
+c871:01a42e8c:9ca5:042e:1:0:0
+Flash Haber
+p:Unknown
+c872:01a42e8c:9ca5:042e:1:0:0
+Neo
+p:Unknown
+2904:01a42eb6:9d6d:042e:1:0:0
+TRT 1
+p:Unknown
+2905:01a42eb6:9d6d:042e:1:0:0
+TRT Haber
+p:Unknown
+2906:01a42eb6:9d6d:042e:1:0:0
+TRT Türk
+p:Unknown
+2907:01a42eb6:9d6d:042e:1:0:0
+TRT 3 Spor
+p:Unknown
+2908:01a42eb6:9d6d:042e:1:0:0
+TRT Çocuk
+p:Unknown
+2909:01a42eb6:9d6d:042e:1:0:0
+TRT Belgesel
+p:Unknown
+290a:01a42eb6:9d6d:042e:1:0:0
+TRT 2
+p:Unknown
+290b:01a42eb6:9d6d:042e:1:0:0
+TRT Müzik
+p:Unknown
+291d:01a42eb6:9d6d:042e:1:0:0
+TRT Spor Yildiz
+p:Unknown
+290c:01a42eb6:9d6d:042e:2:0:0
+TRT Radyo 1
+p:Unknown
+290d:01a42eb6:9d6d:042e:2:0:0
+TRT Radyo 3
+p:Unknown
+290e:01a42eb6:9d6d:042e:2:0:0
+TRT GAP Diyarbakir
+p:Unknown
+290f:01a42eb6:9d6d:042e:2:0:0
+TRT FM
+p:Unknown
+2910:01a42eb6:9d6d:042e:2:0:0
+TRT Radyo Haber
+p:Unknown
+2911:01a42eb6:9d6d:042e:2:0:0
+TRT Radyo Kurdî
+p:Unknown
+2912:01a42eb6:9d6d:042e:2:0:0
+TRT World
+p:Unknown
+2913:01a42eb6:9d6d:042e:2:0:0
+TRT TSR
+p:Unknown
+2914:01a42eb6:9d6d:042e:2:0:0
+Meteorolojinin Sesi Radyosu
+p:Unknown
+2915:01a42eb6:9d6d:042e:2:0:0
+TRT Voice of Turkey West
+p:Unknown
+2917:01a42eb6:9d6d:042e:2:0:0
+TRT Nagme
+p:Unknown
+2918:01a42eb6:9d6d:042e:2:0:0
+TRT Memleketim FM
+p:Unknown
+2919:01a42eb6:9d6d:042e:2:0:0
+TRT Türkü
+p:Unknown
+291b:01a42eb6:9d6d:042e:2:0:0
+TRT Voice of Turkey East
+p:Unknown
+044d:01a42ec9:0001:0042:1:0:0
+Kanal D
+p:Unknown
+0451:01a42ec9:0001:0042:1:0:0
+NHK World Japan
+p:Unknown
+045b:01a42ec9:0001:0042:1:0:0
+Cartoon Network Türkiye
+p:Unknown
+048f:01a42ec9:0001:0042:2:0:0
+Show Radyo
+p:Unknown
+0491:01a42ec9:0001:0042:2:0:0
+Radyo Viva
+p:Unknown
+4010:01a42edf:9e38:042e:1:0:0
+A News
+p:Unknown
+4011:01a42edf:9e38:042e:1:0:0
+A Para
+p:Unknown
+4012:01a42edf:9e38:042e:1:0:0
+A2
+p:Unknown
+4013:01a42edf:9e38:042e:1:0:0
+Vav TV
+p:Unknown
+0001:01a42ee9:0001:ffff:1:0:0
+Türkmeneli TV
+p:Unknown
+2a30:01a42eef:9e99:042e:1:0:0
+Star TV
+p:Unknown
+2a31:01a42eef:9e99:042e:1:0:0
+NTV
+p:Unknown
+2a32:01a42eef:9e99:042e:1:0:0
+DMAX Türkiye
+p:Unknown
+2a35:01a42eef:9e99:042e:1:0:0
+Star TV
+p:Unknown
+2a36:01a42eef:9e99:042e:1:0:0
+NTV
+p:Unknown
+2a3f:01a42eef:9e99:042e:1:0:0
+DMAX Türkiye
+p:Unknown
+2a43:01a42eef:9e99:042e:1:0:0
+TLC Türkiye
+p:Unknown
+2a44:01a42eef:9e99:042e:1:0:0
+TLC Türkiye
+p:Unknown
+2a37:01a42eef:9e99:042e:2:0:0
+NTV Radyo
+p:Unknown
+2a39:01a42eef:9e99:042e:2:0:0
+Kral Pop Radyo
+p:Unknown
+2a3a:01a42eef:9e99:042e:2:0:0
+Kral FM
+p:Unknown
+0515:01a42f02:0003:0042:1:0:0
+CNN Türk
+p:Unknown
+0517:01a42f02:0003:0042:1:0:0
+TV 2
+p:Unknown
+0518:01a42f02:0003:0042:1:0:0
+Rumeli TV
+p:Unknown
+0519:01a42f02:0003:0042:1:0:0
+ASF TV
+p:Unknown
+051d:01a42f02:0003:0042:1:0:0
+Euro D
+p:Unknown
+0526:01a42f02:0003:0042:1:0:0
+TV 8 International
+p:Unknown
+0528:01a42f02:0003:0042:1:0:0
+Tele 1
+p:Unknown
+052d:01a42f02:0003:0042:1:0:0
+D Anadolu TV
+p:Unknown
+053f:01a42f02:0003:0042:1:0:0
+Ekin Türk
+p:Unknown
+055b:01a42f02:0003:0042:2:0:0
+CNN Türk Radyo
+p:Unknown
+055d:01a42f02:0003:0042:2:0:0
+Radyo D
+p:Unknown
+055f:01a42f02:0003:0042:2:0:0
+Slow Türk
+p:Unknown
+0562:01a42f02:0003:0042:2:0:0
+Radyo Mars
+p:Unknown
+0563:01a42f02:0003:0042:2:0:0
+Radyo Seymen
+p:Unknown
+0564:01a42f02:0003:0042:2:0:0
+Radyo 45'lik
+p:Unknown
+0565:01a42f02:0003:0042:2:0:0
+Metro FM
+p:Unknown
+0567:01a42f02:0003:0042:2:0:0
+Süper FM
+p:Unknown
+0569:01a42f02:0003:0042:2:0:0
+JoyTürk
+p:Unknown
+056b:01a42f02:0003:0042:2:0:0
+Virgin Radio Türkiye
+p:Unknown
+056d:01a42f02:0003:0042:2:0:0
+Joy FM
+p:Unknown
+0577:01a42f02:0003:0042:2:0:0
+Kalp FM
+p:Unknown
+283c:01a42f16:9f61:042e:1:0:0
+ATV Türkiye
+p:Unknown
+283d:01a42f16:9f61:042e:1:0:0
+A Haber
+p:Unknown
+283e:01a42f16:9f61:042e:1:0:0
+A Spor
+p:Unknown
+283f:01a42f16:9f61:042e:1:0:0
+Minika Çocuk
+p:Unknown
+2840:01a42f16:9f61:042e:1:0:0
+Minika Go
+p:Unknown
+2841:01a42f16:9f61:042e:1:0:0
+ATV Türkiye
+p:Unknown
+2842:01a42f16:9f61:042e:1:0:0
+A Haber
+p:Unknown
+2843:01a42f16:9f61:042e:1:0:0
+A Spor
+p:Unknown
+284a:01a42f16:9f61:042e:1:0:0
+A2
+p:Unknown
+2844:01a42f16:9f61:042e:2:0:0
+A Haber Radyo
+p:Unknown
+2845:01a42f16:9f61:042e:2:0:0
+A Spor Radyo
+p:Unknown
+2849:01a42f16:9f61:042e:2:0:0
+Vav Radyo
+p:Unknown
+284b:01a42f16:9f61:042e:2:0:0
+Radyo Turkuvaz
+p:Unknown
+4075:01a42f29:9fc5:002a:1:0:0
+BeIn Sports Max 1 Türkiye
+p:Digiturk
+407d:01a42f29:9fc5:002a:1:0:0
+BeIn Movies Premiere
+p:Digiturk
+408e:01a42f29:9fc5:002a:1:0:0
+BeIn Series 1 Türkiye
+p:Digiturk
+408f:01a42f29:9fc5:002a:1:0:0
+BeIn Series 2 Türkiye
+p:Digiturk
+4091:01a42f29:9fc5:002a:1:0:0
+BeIn Movies Stars
+p:Digiturk
+4094:01a42f29:9fc5:002a:1:0:0
+BeIn Movies Turk
+p:Digiturk
+4095:01a42f29:9fc5:002a:1:0:0
+BeIn Iz
+p:Digiturk
+4096:01a42f29:9fc5:002a:1:0:0
+BeIn Gurme
+p:Digiturk
+4097:01a42f29:9fc5:002a:1:0:0
+BeIn Türkiye
+p:Digiturk
+409e:01a42f29:9fc5:002a:1:0:0
+BeIn Sports 1 Türkiye
+p:Digiturk
+40a1:01a42f29:9fc5:002a:1:0:0
+BeIn Sports 3 Türkiye
+p:Digiturk
+cb22:01a42f33:a02d:042e:1:0:0
+TRT EBA
+p:Unknown
+cb26:01a42f33:a02d:042e:1:0:0
+Persiana Türkiye
+p:Unknown
+cb27:01a42f33:a02d:042e:1:0:0
+Witness Eye
+p:Unknown
+2cec:01a42f3f:a02a:042e:1:0:0
+Kanal 7
+p:Unknown
+2cee:01a42f3f:a02a:042e:1:0:0
+Ülke TV
+p:Unknown
+2ced:01a42f3f:a02a:042e:2:0:0
+Radyo 7
+p:Unknown
+2d50:01a42f47:a02b:042e:1:0:0
+Kanal 7
+p:Unknown
+2d51:01a42f47:a02b:042e:1:0:0
+Ülke TV
+p:Unknown
+2d52:01a42f47:a02b:042e:2:0:0
+Radyo 7
+p:Unknown
+076d:01a42f9c:0009:005a:1:0:0
+Discovery Channel Türkiye
+p:D-Smart
+076e:01a42f9c:0009:005a:1:0:0
+Dream TV
+p:D-Smart
+076f:01a42f9c:0009:005a:1:0:0
+Spor Smart
+p:D-Smart
+0770:01a42f9c:0009:005a:1:0:0
+Viasat History East
+p:D-Smart
+0771:01a42f9c:0009:005a:1:0:0
+Film Screen
+p:D-Smart
+0772:01a42f9c:0009:005a:1:0:0
+BBC News Europe
+p:D-Smart
+0773:01a42f9c:0009:005a:1:0:0
+FashionTV HD Europe
+p:D-Smart
+0774:01a42f9c:0009:005a:1:0:0
+Stingray Naturescape
+p:D-Smart
+0776:01a42f9c:0009:005a:1:0:0
+MovieSmart Classic
+p:D-Smart
+0777:01a42f9c:0009:005a:1:0:0
+MovieSmart Türk
+p:D-Smart
+0778:01a42f9c:0009:005a:1:0:0
+Baby TV Europe
+p:D-Smart
+0779:01a42f9c:0009:005a:1:0:0
+Investigation Discovery Europe
+p:D-Smart
+077a:01a42f9c:0009:005a:1:0:0
+DiziSmart Max
+p:D-Smart
+077b:01a42f9c:0009:005a:1:0:0
+DocuScreen
+p:D-Smart
+077c:01a42f9c:0009:005a:1:0:0
+Cartoonito Türkiye
+p:D-Smart
+077e:01a42f9c:0009:005a:1:0:0
+CosmoSports
+p:D-Smart
+077f:01a42f9c:0009:005a:1:0:0
+Da Vinci
+p:D-Smart
+07bc:01a42f9c:0009:005a:1:0:0
+Azoomee
+p:D-Smart
+0780:01a42f9c:0009:005a:2:0:0
+2000s
+p:D-Smart
+0781:01a42f9c:0009:005a:2:0:0
+90s
+p:D-Smart
+0782:01a42f9c:0009:005a:2:0:0
+80s
+p:D-Smart
+0783:01a42f9c:0009:005a:2:0:0
+Soho 70s
+p:D-Smart
+0784:01a42f9c:0009:005a:2:0:0
+60s
+p:D-Smart
+0786:01a42f9c:0009:005a:2:0:0
+Dancefloor Fillers
+p:D-Smart
+0787:01a42f9c:0009:005a:2:0:0
+Classic Masters
+p:D-Smart
+0788:01a42f9c:0009:005a:2:0:0
+Chillout
+p:D-Smart
+0789:01a42f9c:0009:005a:2:0:0
+Smooth Jazz
+p:D-Smart
+078a:01a42f9c:0009:005a:2:0:0
+Cool Jazz
+p:D-Smart
+078b:01a42f9c:0009:005a:2:0:0
+Jazz Classics
+p:D-Smart
+078c:01a42f9c:0009:005a:2:0:0
+Classical Orchestral
+p:D-Smart
+078d:01a42f9c:0009:005a:2:0:0
+Classical Greats
+p:D-Smart
+078e:01a42f9c:0009:005a:2:0:0
+Türkçe Pop
+p:D-Smart
+078f:01a42f9c:0009:005a:2:0:0
+Deep Blues
+p:D-Smart
+0790:01a42f9c:0009:005a:2:0:0
+Country
+p:D-Smart
+0791:01a42f9c:0009:005a:2:0:0
+Riddim
+p:D-Smart
+0792:01a42f9c:0009:005a:2:0:0
+Hip Hop
+p:D-Smart
+0793:01a42f9c:0009:005a:2:0:0
+Trance
+p:D-Smart
+0794:01a42f9c:0009:005a:2:0:0
+Latino Tropical
+p:D-Smart
+0796:01a42f9c:0009:005a:2:0:0
+Groove Disco & Funk
+p:D-Smart
+0797:01a42f9c:0009:005a:2:0:0
+The Chill Lounge
+p:D-Smart
+0798:01a42f9c:0009:005a:2:0:0
+Folk Roots
+p:D-Smart
+0799:01a42f9c:0009:005a:2:0:0
+Rock'n'Roll
+p:D-Smart
+079a:01a42f9c:0009:005a:2:0:0
+Rock Anthems
+p:D-Smart
+079b:01a42f9c:0009:005a:2:0:0
+Classic Rock
+p:D-Smart
+079c:01a42f9c:0009:005a:2:0:0
+Silk
+p:D-Smart
+079d:01a42f9c:0009:005a:2:0:0
+Chansons
+p:D-Smart
+079e:01a42f9c:0009:005a:2:0:0
+Türk Müzigi
+p:D-Smart
+079f:01a42f9c:0009:005a:2:0:0
+Türk Sanat Müzigi
+p:D-Smart
+07a0:01a42f9c:0009:005a:2:0:0
+Turkish Silk
+p:D-Smart
+07a1:01a42f9c:0009:005a:2:0:0
+House
+p:D-Smart
+07a3:01a42f9c:0009:005a:2:0:0
+Romance Latino
+p:D-Smart
+07a4:01a42f9c:0009:005a:2:0:0
+Nice & Cozy
+p:D-Smart
+07a5:01a42f9c:0009:005a:2:0:0
+Easy Listening
+p:D-Smart
+07a6:01a42f9c:0009:005a:2:0:0
+Classical Calm
+p:D-Smart
+07a7:01a42f9c:0009:005a:2:0:0
+Jazz Latino
+p:D-Smart
+07a8:01a42f9c:0009:005a:2:0:0
+Jazz Now
+p:D-Smart
+07a9:01a42f9c:0009:005a:2:0:0
+Mediterranean Music
+p:D-Smart
+07aa:01a42f9c:0009:005a:2:0:0
+Greatest Hits
+p:D-Smart
+07ab:01a42f9c:0009:005a:2:0:0
+Hit List
+p:D-Smart
+07ac:01a42f9c:0009:005a:2:0:0
+Urban Beats
+p:D-Smart
+07ad:01a42f9c:0009:005a:2:0:0
+Dance Clubbin'
+p:D-Smart
+07ae:01a42f9c:0009:005a:2:0:0
+Maximum Party
+p:D-Smart
+07b0:01a42f9c:0009:005a:2:0:0
+Around the World
+p:D-Smart
+07b1:01a42f9c:0009:005a:2:0:0
+Broadway
+p:D-Smart
+07b2:01a42f9c:0009:005a:2:0:0
+Ópera Plus
+p:D-Smart
+07b3:01a42f9c:0009:005a:2:0:0
+Baroque
+p:D-Smart
+07b4:01a42f9c:0009:005a:2:0:0
+Popcorn
+p:D-Smart
+07b5:01a42f9c:0009:005a:2:0:0
+Tango
+p:D-Smart
+3331:01a42fa4:a1bc:0001:1:0:0
+National Geographic Wild Türkiye
+p:D-Smart
+3332:01a42fa4:a1bc:0001:1:0:0
+National Geographic Türkiye
+p:D-Smart
+3333:01a42fa4:a1bc:0001:1:0:0
+FX Türkiye
+p:D-Smart
+3334:01a42fa4:a1bc:0001:1:0:0
+Disney Jr Türkiye & Polska
+p:D-Smart
+2af8:01a42fb1:a1b9:042e:1:0:0
+Show TV
+p:Unknown
+2af9:01a42fb1:a1b9:042e:1:0:0
+Habertürk
+p:Unknown
+2afa:01a42fb1:a1b9:042e:1:0:0
+Bloomberg HT
+p:Unknown
+2afb:01a42fb1:a1b9:042e:1:0:0
+Show Max
+p:Unknown
+2afc:01a42fb1:a1b9:042e:2:0:0
+Haberturk Radyo
+p:Unknown
+30d4:01a42fb5:a155:042e:1:0:0
+TV Net
+p:Unknown
+30d5:01a42fb5:a155:042e:2:0:0
+TV Net Radyo
+p:Unknown
+2b5c:01a42fbb:a1ba:042e:1:0:0
+Show TV
+p:Unknown
+2b5e:01a42fbb:a1ba:042e:2:0:0
+HT Spor Radyo
+p:Unknown
+06a5:01a42fd5:0007:0042:1:0:0
+Kanal D
+p:Unknown
+06a6:01a42fd5:0007:0042:1:0:0
+CNN Türk
+p:Unknown
+06a7:01a42fd5:0007:0042:1:0:0
+TV 2
+p:Unknown
+06a8:01a42fd5:0007:0042:1:0:0
+Eurosport 1
+p:D-Smart
+06a9:01a42fd5:0007:0042:1:0:0
+Eurosport 2
+p:D-Smart
+06aa:01a42fd5:0007:0042:1:0:0
+Dream Türk
+p:Unknown
+06ab:01a42fd5:0007:0042:1:0:0
+Lider Haber
+p:Unknown
+06ac:01a42fd5:0007:0042:1:0:0
+Cosmo EN
+p:D-Smart
+06ad:01a42fd5:0007:0042:1:0:0
+Çocuk Smart
+p:D-Smart
+06ae:01a42fd5:0007:0042:1:0:0
+Tay TV
+p:Unknown
+06af:01a42fd5:0007:0042:1:0:0
+CNN International Europe
+p:D-Smart
+06b0:01a42fd5:0007:0042:1:0:0
+Love Nature
+p:D-Smart
+06b1:01a42fd5:0007:0042:1:0:0
+BBC Earth Türkiye
+p:D-Smart
+06b2:01a42fd5:0007:0042:1:0:0
+Spor Smart 2
+p:D-Smart
+06b5:01a42fd5:0007:0042:1:0:0
+Sports TV
+p:Unknown
+06b7:01a42fd5:0007:0042:1:0:0
+Kocaeli TV
+p:Unknown
+3908:01a42fe9:a21d:042e:1:0:0
+Sun RTV
+p:Unknown
+3909:01a42fe9:a21d:042e:1:0:0
+Kanal V
+p:Unknown
+390c:01a42fe9:a21d:042e:1:0:0
+Tivi 6
+p:Unknown
+390e:01a42fe9:a21d:042e:1:0:0
+Kanal 26
+p:Unknown
+390f:01a42fe9:a21d:042e:1:0:0
+GRT TV
+p:Unknown
+3910:01a42fe9:a21d:042e:1:0:0
+Aksu TV
+p:Unknown
+3912:01a42fe9:a21d:042e:1:0:0
+ES TV
+p:Unknown
+3913:01a42fe9:a21d:042e:1:0:0
+Çiftçi TV
+p:Unknown
+3914:01a42fe9:a21d:042e:1:0:0
+ERTV
+p:Unknown
+3915:01a42fe9:a21d:042e:1:0:0
+Mercan TV
+p:Unknown
+3916:01a42fe9:a21d:042e:1:0:0
+Kanal Firat
+p:Unknown
+3917:01a42fe9:a21d:042e:1:0:0
+BRTV
+p:Unknown
+3919:01a42fe9:a21d:042e:1:0:0
+TV 41
+p:Unknown
+391a:01a42fe9:a21d:042e:1:0:0
+Mavi Karadeniz TV
+p:Unknown
+391b:01a42fe9:a21d:042e:1:0:0
+Can Tempo TV
+p:Unknown
+391d:01a42fe9:a21d:042e:1:0:0
+Kanal 23
+p:Unknown
+391e:01a42fe9:a21d:042e:1:0:0
+Kanal 15
+p:Unknown
+392a:01a42fe9:a21d:042e:1:0:0
+Sat 7 Türk
+p:Unknown
+392c:01a42fe9:a21d:042e:1:0:0
+Malatya Vuslat TV
+p:Unknown
+392d:01a42fe9:a21d:042e:1:0:0
+Van 65 TV
+p:Unknown
+3930:01a42fe9:a21d:042e:1:0:0
+Ikra TV
+p:Unknown
+3932:01a42fe9:a21d:042e:1:0:0
+Kanal 58
+p:Unknown
+3933:01a42fe9:a21d:042e:1:0:0
+TV 3
+p:Unknown
+3935:01a42fe9:a21d:042e:1:0:0
+Kanal 12
+p:Unknown
+391f:01a42fe9:a21d:042e:2:0:0
+Power FM
+p:Unknown
+3920:01a42fe9:a21d:042e:2:0:0
+Power Türk FM
+p:Unknown
+3922:01a42fe9:a21d:042e:2:0:0
+Fenomen Türk
+p:Unknown
+3923:01a42fe9:a21d:042e:2:0:0
+Radyo Fenomen
+p:Unknown
+3927:01a42fe9:a21d:042e:2:0:0
+Seyr FM
+p:Unknown
+3937:01a42fe9:a21d:042e:2:0:0
+Kafa Radyo
+p:Unknown
+40d8:01a4300a:a2e6:042e:1:0:0
+24 TV
+p:Unknown
+40d9:01a4300a:a2e6:042e:1:0:0
+360
+p:Unknown
+40da:01a4300a:a2e6:042e:2:0:0
+Alem FM
+p:Unknown
+40db:01a4300a:a2e6:042e:2:0:0
+Lig Radyo
+p:Unknown
+40dd:01a4300a:a2e6:042e:2:0:0
+24 Radyo
+p:Unknown
+413c:01a43016:a2e7:042e:1:0:0
+24 TV
+p:Unknown
+413d:01a43016:a2e7:042e:1:0:0
+360
+p:Unknown
+413e:01a43016:a2e7:042e:1:0:0
+TV 4
+p:Unknown
+319c:01a43029:a412:042e:1:0:0
+Now
+p:Unknown
+3200:01a43030:a413:042e:1:0:0
+Now
+p:Unknown
+c60c:01a43038:a3ad:042e:1:0:0
+BRT 1
+p:Unknown
+c60d:01a43038:a3ad:042e:1:0:0
+BRT 2
+p:Unknown
+c60e:01a43038:a3ad:042e:1:0:0
+TV 2020
+p:Unknown
+c60f:01a43038:a3ad:042e:1:0:0
+Kibris Kanal T
+p:Unknown
+c610:01a43038:a3ad:042e:1:0:0
+Ada TV
+p:Unknown
+c613:01a43038:a3ad:042e:1:0:0
+Ilke TV
+p:Unknown
+c614:01a43038:a3ad:042e:1:0:0
+Sercem TV
+p:Unknown
+c634:01a43038:a3ad:042e:2:0:0
+Radyo Diyalog
+p:Unknown
+3264:01a4303a:a414:042e:1:0:0
+TV 8
+p:Unknown
+3265:01a4303a:a414:042e:1:0:0
+TV 8.5
+p:Unknown
+3bc4:01a43044:a415:042e:1:0:0
+TV 8
+p:Unknown
+3bc5:01a43044:a415:042e:1:0:0
+TV 8.5
+p:Unknown
+c8d4:01a4305b:a411:042e:1:0:0
+Discovery Channel Türkiye
+p:Digiturk
+c8dc:01a4305b:a411:042e:1:0:0
+BeIn Sports Haber
+p:Unknown
+c8de:01a4305b:a411:042e:1:0:0
+Baby TV Europe
+p:Digiturk
+c8e0:01a4305b:a411:042e:1:0:0
+Ekol Sports
+p:Unknown
+c8e1:01a4305b:a411:042e:1:0:0
+Sifir TV
+p:Unknown
+c800:01a4305c:a3ae:042e:1:0:0
+Anadolum TV
+p:Unknown
+c801:01a4305c:a3ae:042e:1:0:0
+Beyaz TV
+p:Unknown
+c802:01a4305c:a3ae:042e:1:0:0
+TGRT Haber
+p:Unknown
+c803:01a4305c:a3ae:042e:1:0:0
+Diyanet TV
+p:Unknown
+c804:01a4305c:a3ae:042e:1:0:0
+TGRT Belgesel
+p:Unknown
+c807:01a4305c:a3ae:042e:1:0:0
+Haber Global
+p:Unknown
+c818:01a4305c:a3ae:042e:1:0:0
+Space Toon Türkiye
+p:Unknown
+c80b:01a4305c:a3ae:042e:2:0:0
+Türkiye Polis Radyosu
+p:Unknown
+c80c:01a4305c:a3ae:042e:2:0:0
+Diyanet Radyo
+p:Unknown
+c80e:01a4305c:a3ae:042e:2:0:0
+Diyanet Kur'an Radyo
+p:Unknown
+c810:01a4305c:a3ae:042e:2:0:0
+Diyanet Risalet Radyo
+p:Unknown
+c811:01a4305c:a3ae:042e:2:0:0
+Küpe FM
+p:Unknown
+c813:01a4305c:a3ae:042e:2:0:0
+Radyo Spor
+p:Unknown
+c816:01a4305c:a3ae:042e:2:0:0
+Best FM
+p:Unknown
+c817:01a4305c:a3ae:042e:2:0:0
+Karadeniz FM
+p:Unknown
+c819:01a4305c:a3ae:042e:2:0:0
+Bayram FM
+p:Unknown
+c81a:01a4305c:a3ae:042e:2:0:0
+Radyo 2000
+p:Unknown
+c81b:01a4305c:a3ae:042e:2:0:0
+TGRT FM
+p:Unknown
+c81c:01a4305c:a3ae:042e:2:0:0
+Sahil Güvenlik Radyo
+p:Unknown
+c3b4:01a43086:a475:042e:1:0:0
+Halk TV
+p:Unknown
+c3b5:01a43086:a475:042e:1:0:0
+BRT 3
+p:Unknown
+c3be:01a43086:a475:042e:1:0:0
+Gonca TV
+p:Unknown
+c3bf:01a43086:a475:042e:1:0:0
+Alikhbaria Syria
+p:Unknown
+c3c0:01a43086:a475:042e:1:0:0
+Yildiz En TV
+p:Unknown
+c3c1:01a43086:a475:042e:1:0:0
+Al Hadath
+p:Unknown
+c3c6:01a43086:a475:042e:2:0:0
+Bayrak Radyosu
+p:Unknown
+c3c7:01a43086:a475:042e:2:0:0
+Bayrak FM
+p:Unknown
+c41a:01a43086:a4d9:042e:1:0:0
+Kablo Info
+p:Unknown
+c41c:01a43086:a4d9:042e:1:0:0
+Diyanet TV
+p:Unknown
+c41d:01a43086:a4d9:042e:1:0:0
+TRT Avaz Rossiya
+p:Unknown
+c41e:01a43086:a4d9:042e:1:0:0
+Ayaz TV
+p:Unknown
+c427:01a43086:a4d9:042e:2:0:0
+Türkiye Polis Radyosu
+p:Unknown
+0002:01a430e9:0001:1100:1:0:0
+Sri Dalada Maligawa
+p:Unknown
+0003:01a430e9:0001:1100:1:0:0
+Rupavahini
+p:Freesat
+0004:01a430e9:0001:1100:1:0:0
+Nethra TV
+p:Freesat
+0005:01a430e9:0001:1100:1:0:0
+ITN
+p:Freesat
+0006:01a430e9:0001:1100:1:0:0
+Vasantham TV
+p:Freesat
+0008:01a430e9:0001:1100:1:0:0
+Sirasa TV
+p:Freesat
+0009:01a430e9:0001:1100:1:0:0
+Shakthi TV
+p:Freesat
+000a:01a430e9:0001:1100:1:0:0
+TV 1
+p:Freesat
+000b:01a430e9:0001:1100:1:0:0
+Swarnavahini
+p:Freesat
+000c:01a430e9:0001:1100:1:0:0
+TV Derana
+p:Freesat
+000d:01a430e9:0001:1100:1:0:0
+Ada Derana 24
+p:Freesat
+000e:01a430e9:0001:1100:1:0:0
+Siyatha TV
+p:Freesat
+000f:01a430e9:0001:1100:1:0:0
+Star Tamil TV
+p:Freesat
+0010:01a430e9:0001:1100:1:0:0
+Hiru TV
+p:Freesat
+0011:01a430e9:0001:1100:1:0:0
+TV Supreme
+p:Freesat
+0012:01a430e9:0001:1100:1:0:0
+The Buddhist TV
+p:Freesat
+0013:01a430e9:0001:1100:1:0:0
+Dasatha TV
+p:Freesat
+0014:01a430e9:0001:1100:1:0:0
+Rangiri Sri Lanka TV
+p:Freesat
+0015:01a430e9:0001:1100:1:0:0
+Verbum TV
+p:Freesat
+0016:01a430e9:0001:1100:1:0:0
+Asia TV
+p:Freesat
+0017:01a430e9:0001:1100:1:0:0
+Kuma TV
+p:Freesat
+0019:01a430e9:0001:1100:1:0:0
+I TV
+p:Freesat
+001a:01a430e9:0001:1100:1:0:0
+Saddhammawahini
+p:Freesat
+001b:01a430e9:0001:1100:1:0:0
+Athavan TV
+p:Unknown
+001c:01a430e9:0001:1100:1:0:0
+Channel Eye
+p:Freesat
+001d:01a430e9:0001:1100:1:0:0
+Shraddha TV
+p:Freesat
+001e:01a430e9:0001:1100:1:0:0
+Three Vision TV
+p:Freesat
+001f:01a430e9:0001:1100:1:0:0
+NHK World Japan
+p:Freesat
+0020:01a430e9:0001:1100:1:0:0
+Aljazeera English
+p:Freesat
+0021:01a430e9:0001:1100:1:0:0
+RT News
+p:Freesat
+0022:01a430e9:0001:1100:1:0:0
+ABC Australia Asia
+p:Freesat
+0023:01a430e9:0001:1100:1:0:0
+DW English
+p:Freesat
+0024:01a430e9:0001:1100:1:0:0
+Arirang World
+p:Freesat
+0025:01a430e9:0001:1100:1:0:0
+9XM
+p:Freesat
+0026:01a430e9:0001:1100:1:0:0
+B4U Movies India
+p:Freesat
+0027:01a430e9:0001:1100:1:0:0
+Quran TV
+p:Freesat
+0028:01a430e9:0001:1100:1:0:0
+DD Sports
+p:Freesat
+0029:01a430e9:0001:1100:1:0:0
+France 24 English
+p:Freesat
+002a:01a430e9:0001:1100:1:0:0
+TV5Monde Asie
+p:Freesat
+002b:01a430e9:0001:1100:1:0:0
+EuroNews English
+p:Freesat
+002c:01a430e9:0001:1100:1:0:0
+FashionTV Asia
+p:Freesat
+002d:01a430e9:0001:1100:1:0:0
+CGTN
+p:Freesat
+002e:01a430e9:0001:1100:1:0:0
+WION
+p:Freesat
+002f:01a430e9:0001:1100:1:0:0
+KBS World
+p:Freesat
+0032:01a430e9:0001:1100:1:0:0
+Hitz 99
+p:Freesat
+0001:01a4310a:0000:0000:1:0:0
+Crystal TV Plus
+p:Unknown
+0002:01a4310a:0000:0000:1:0:0
+Crystal TV Prime
+p:Unknown
+000c:01a4310a:0000:0000:1:0:0
+TRT World
+p:Unknown
+0010:01a4310a:0000:0000:1:0:0
+Lumen Christi TV
+p:Unknown
+efd9:01a43139:efd9:042e:1:0:0
+BRT 1
+p:Unknown
+c673:01a4318d:7660:042e:1:0:0
+Kanal 7 Avrupa
+p:Unknown
+c674:01a4318d:7660:042e:1:0:0
+Zarok TV Kurmanji
+p:Unknown
+c677:01a4318d:7660:042e:1:0:0
+Meltem TV
+p:Unknown
+c679:01a4318d:7660:042e:1:0:0
+Edessa TV
+p:Unknown
+c67a:01a4318d:7660:042e:1:0:0
+Kanal Urfa
+p:Unknown
+c67b:01a4318d:7660:042e:1:0:0
+Güneydogu TV
+p:Unknown
+c67d:01a4318d:7660:042e:1:0:0
+Line TV
+p:Unknown
+c682:01a4318d:7660:042e:1:0:0
+Rehber TV
+p:Unknown
+c684:01a4318d:7660:042e:1:0:0
+Çay TV
+p:Unknown
+c686:01a4318d:7660:042e:1:0:0
+Dost TV
+p:Unknown
+c687:01a4318d:7660:042e:1:0:0
+TürkHaber
+p:Unknown
+c68a:01a4318d:7660:042e:1:0:0
+FM TV
+p:Unknown
+c68b:01a4318d:7660:042e:1:0:0
+Lâlegül TV
+p:Unknown
+c68d:01a4318d:7660:042e:1:0:0
+HRT Akdeniz TV
+p:Unknown
+c68f:01a4318d:7660:042e:1:0:0
+GRT
+p:Unknown
+c690:01a4318d:7660:042e:1:0:0
+Ulusal Kanal
+p:Unknown
+c691:01a4318d:7660:042e:1:0:0
+Koza TV
+p:Unknown
+c692:01a4318d:7660:042e:1:0:0
+Kardelen TV
+p:Unknown
+c693:01a4318d:7660:042e:1:0:0
+Halk TV
+p:Unknown
+c698:01a4318d:7660:042e:2:0:0
+Cagri FM
+p:Unknown
+c69a:01a4318d:7660:042e:2:0:0
+Radyo 7
+p:Unknown
+c69b:01a4318d:7660:042e:2:0:0
+Lâlegül FM
+p:Unknown
+c69c:01a4318d:7660:042e:2:0:0
+Sputnik Türkiye
+p:Unknown
+ca58:01a4318d:7b0e:042e:1:0:0
+Akit TV
+p:Unknown
+ca59:01a4318d:7b0e:042e:1:0:0
+TMB
+p:Unknown
+ca5b:01a4318d:7b0e:042e:1:0:0
+Kon TV
+p:Unknown
+ca5c:01a4318d:7b0e:042e:1:0:0
+TV 1
+p:Unknown
+ca5d:01a4318d:7b0e:042e:1:0:0
+TV Kayseri
+p:Unknown
+ca5e:01a4318d:7b0e:042e:1:0:0
+Kanal 32
+p:Unknown
+ca62:01a4318d:7b0e:042e:1:0:0
+Freedom
+p:Unknown
+ca65:01a4318d:7b0e:042e:1:0:0
+TV 42
+p:Unknown
+ca66:01a4318d:7b0e:042e:1:0:0
+Bengü Türk
+p:Unknown
+ca67:01a4318d:7b0e:042e:1:0:0
+Köy TV
+p:Unknown
+ca69:01a4318d:7b0e:042e:1:0:0
+Altas TV
+p:Unknown
+ca6b:01a4318d:7b0e:042e:1:0:0
+Haber Global
+p:Unknown
+ca6d:01a4318d:7b0e:042e:1:0:0
+TV 52
+p:Unknown
+ca6f:01a4318d:7b0e:042e:1:0:0
+TV Den
+p:Unknown
+ca70:01a4318d:7b0e:042e:1:0:0
+TV 264
+p:Unknown
+ca73:01a4318d:7b0e:042e:1:0:0
+Bir TV
+p:Unknown
+ca74:01a4318d:7b0e:042e:1:0:0
+Egemax TV
+p:Unknown
+ca80:01a4318d:7b0e:042e:2:0:0
+Ribat FM
+p:Unknown
+c9a6:01a431b9:76c1:042e:1:0:0
+Kudüs TV
+p:Unknown
+c9a8:01a431b9:76c1:042e:1:0:0
+Kanal Avrupa
+p:Unknown
+c9ab:01a431b9:76c1:042e:1:0:0
+Kanal 33
+p:Unknown
+c9ad:01a431b9:76c1:042e:1:0:0
+Number 1 Türk
+p:Unknown
+c9b0:01a431b9:76c1:042e:1:0:0
+TV 100
+p:Unknown
+c9b1:01a431b9:76c1:042e:1:0:0
+TV 5
+p:Unknown
+c9b2:01a431b9:76c1:042e:1:0:0
+On 4
+p:Unknown
+c9b3:01a431b9:76c1:042e:1:0:0
+FB TV
+p:Unknown
+c9c3:01a431b9:76c1:042e:1:0:0
+Luys TV
+p:Unknown
+c9cc:01a431b9:76c1:042e:2:0:0
+Number 1 Türk FM
+p:Unknown
+c9cd:01a431b9:76c1:042e:2:0:0
+Number 1 FM
+p:Unknown
+c9d0:01a431b9:76c1:042e:2:0:0
+Opet Radyo
+p:Unknown
+end

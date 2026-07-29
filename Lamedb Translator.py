@@ -111,6 +111,7 @@ class NativeTerminalReader:
                 elif c3 == 'D': return ('left', 0, 0)
             return ('esc', 0, 0)
         # Map single standard keystrokes to descriptive event strings
+        elif c == '\x03': raise KeyboardInterrupt # Handle Ctrl+C gracefully
         elif c in ('\r', '\n'): return ('enter', 0, 0)
         elif c == 'q': return ('quit', 0, 0)
         elif c == ' ': return ('space', 0, 0)
@@ -290,7 +291,10 @@ class ObsidianUI:
         try:
             val = input().strip()
         except KeyboardInterrupt:
-            print(f"\n\n{t['c_err']} OPERATION CANCELLED{t['c_rst']}")
+            # Ensuring graceful terminal state restoration on Ctrl+C during typing
+            sys.stdout.write('\033[?1000l\033[?1006l')
+            sys.stdout.flush()
+            print(f"\n\n{t['c_err']} OPERATION CANCELLED BY USER (CTRL+C) {t['c_rst']}")
             sys.exit(0)
         finally:
             sys.stdout = original_stdout
@@ -350,6 +354,7 @@ UI.draw_master_header()
 # Gather Initial Variables
 DB_PATH = UI.draw_input_block("DATABASE SOURCE", "Provide the full path to your lamedb file.You can use TAB to autocomplete file names in your current directory.") or "lamedb"
 WRITE_MODE = UI.draw_input_block("WRITE MODE", "Decide if you want to overwrite your source file ('y') or create a safe copy named 'lamedb.translated' ('n').").lower() == "y"
+ENABLE_TRANSLATION = UI.draw_input_block("ENABLE TRANSLATION", "Enable AI and Dictionary translation procedures? ('y' to enable, 'n' to bypass translation and only sort/build bouquets).").lower() == "y"
 
 def fetch_api_key():
     """Attempts to retrieve the Google GenAI API key from file, or asks the user via TUI."""
@@ -432,29 +437,32 @@ from google.genai.errors import APIError
 # 5. CORE LOGIC ENGINE (BATCH PROCESSING, TUI & STATE PERSISTENCE)
 # ======================================================================================
 class HorizonCore:
-    def __init__(self, api_key=None):
+    def __init__(self, api_key=None, enable_translation=True):
         self.ui = UI
         self.t = UI.theme
         self.stats = defaultdict(int)
         self.mapping_export = []
         self.used_corrections = set()
         self.neural_enabled = True
+        self.enable_translation = enable_translation
         self.BATCH_SIZE = 40  
         self.api_key = api_key
         
         # MULTI-MODEL FALLBACK ENGINE
         # The script iterates through these if rate limits (429) are hit.
         self.models_available = [
+            "gemini-3.6-flash",
+            "gemini-3.5-flash",
+            "gemini-3.5-flash-lite",
+            "gemini-3.1-flash-lite",
             "gemini-2.5-flash",
             "gemini-2.5-flash-lite",
-            "gemini-3.1-flash-lite-preview",
-            "gemini-3-flash-preview",
-            "gemini-3.1-flash-live-preview",
+            "gemini-3-flash",
             "gemini-2.5-pro"
         ]
         self.active_model_idx = 0
         
-        if not self.api_key:
+        if not self.enable_translation or not self.api_key:
             self.neural_enabled = False
         else:
             try:
@@ -1073,8 +1081,12 @@ class HorizonCore:
 
                 raw_low = " ".join(s['raw'].split()).lower()
                 
+                # Skip translation entirely if the translation procedure is disabled
+                if not self.enable_translation:
+                    s['tx'], s['method'] = s['raw'], "BYPASSED"
+                    self.stats["method_bypass"] += 1
                 # Use Local Dictionary Override
-                if raw_low in self.corrections:
+                elif raw_low in self.corrections:
                     s['tx'], s['method'] = self.corrections[raw_low], "DICTIONARY"
                     self.stats["method_dict"] += 1
                     self.used_corrections.add(raw_low)
@@ -1203,15 +1215,21 @@ class HorizonCore:
 
 if __name__ == "__main__":
     try:
-        # 1. Fetch the API key before starting the engine
-        CURRENT_API_KEY = fetch_api_key()
+        # 1. Fetch the API key conditionally based on the toggle switch
+        CURRENT_API_KEY = fetch_api_key() if ENABLE_TRANSLATION else None
         
-        # 2. Pass the key to the engine constructor
-        engine = HorizonCore(api_key=CURRENT_API_KEY)
+        # 2. Pass the key and the state flag to the engine constructor
+        engine = HorizonCore(api_key=CURRENT_API_KEY, enable_translation=ENABLE_TRANSLATION)
         
         # 3. Execute main logic
         engine.run(DB_PATH, WRITE_MODE)
         
+    except KeyboardInterrupt:
+        # Gracefully handle Ctrl+C interrupts across all states while ensuring the TUI resets cleanly
+        sys.stdout.write('\033[?1000l\033[?1006l')
+        sys.stdout.flush()
+        print(f"\n\n{UI.theme['c_err']} [!] OPERATION CANCELLED BY USER (CTRL+C) {UI.theme['c_rst']}\n")
+        sys.exit(0)
     except Exception as e:
         # Failsafe: Reset terminal mouse tracking codes on crash to prevent broken terminal states
         sys.stdout.write('\033[?1000l\033[?1006l')

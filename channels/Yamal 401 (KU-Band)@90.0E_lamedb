@@ -1,0 +1,356 @@
+eDVB services /4/
+transponders
+03842adc:0012:090e
+	s 10972000:11200000:0:0:900:2:0:0:0:2:2
+/
+03842b59:0000:0000
+	s 11097000:3750000:0:0:900:2:0:0:0:2:2
+/
+03842bbe:0008:0001
+	s 11198000:2960000:1:0:900:2:0:1:0:2:2
+/
+03842be9:0001:0001
+	s 11241000:2740000:1:0:900:2:0:1:0:2:2
+/
+03842c01:0014:090e
+	s 11265000:30000000:0:0:900:2:0:1:0:2:2
+/
+03842c79:0013:090e
+	s 11385000:30000000:0:0:900:2:0:1:0:2:2
+/
+03842cd3:0001:ffff
+	s 11475000:2055000:0:0:900:2:0:0:0:2:2
+/
+03842d10:0037:0064
+	s 11536000:3333000:1:0:900:2:0:0:0:2:2
+/
+03842d31:0064:0064
+	s 11569000:3200000:1:0:900:2:0:0:0:2:2
+/
+03842d81:0001:0001
+	s 11649000:2170000:0:0:900:2:0:0:0:2:2
+/
+03843116:0017:0001
+	s 12566000:10547000:1:0:900:2:0:1:0:2:2
+/
+0384316e:0000:0001
+	s 12654000:3375000:1:0:900:2:0:1:0:2:2
+/
+end
+services
+0001:03842adc:0012:090e:1:0:0
+TRT Avaz Rossiya
+p:Unknown
+0002:03842adc:0012:090e:1:0:0
+Diyanet TV
+p:Unknown
+0003:03842adc:0012:090e:1:0:0
+TRT Çocuk
+p:Unknown
+0004:03842adc:0012:090e:1:0:0
+Supreme Master TV
+p:Unknown
+1a2c:03842adc:0012:090e:1:0:0
+B24
+p:Unknown
+1a90:03842adc:0012:090e:1:0:0
+Parole di Vita
+p:Unknown
+000b:03842adc:0012:090e:2:0:0
+TRT Türkü
+p:Unknown
+000c:03842adc:0012:090e:2:0:0
+TRT FM
+p:Unknown
+000d:03842adc:0012:090e:2:0:0
+Radio 7
+p:Unknown
+000e:03842adc:0012:090e:2:0:0
+Retro FM Rossiya
+p:Unknown
+000f:03842adc:0012:090e:2:0:0
+Europa Plus
+p:Unknown
+0010:03842adc:0012:090e:2:0:0
+Studio 21
+p:Unknown
+0011:03842adc:0012:090e:2:0:0
+Dorognoe FM
+p:Unknown
+0066:03842adc:0012:090e:2:0:0
+DFM
+p:Unknown
+0067:03842adc:0012:090e:2:0:0
+Russkoe Radio
+p:Unknown
+0068:03842adc:0012:090e:2:0:0
+Hit FM
+p:Unknown
+1838:03842adc:0012:090e:2:0:0
+Russkoe Radio
+p:Unknown
+189c:03842adc:0012:090e:2:0:0
+Sputnik FM
+p:Unknown
+1900:03842adc:0012:090e:2:0:0
+Sputnik FM
+p:Unknown
+19c8:03842adc:0012:090e:2:0:0
+Sputnik Kyrgyzstan
+p:Unknown
+1b58:03842adc:0012:090e:2:0:0
+Radio Komsomolskaya Pravda
+p:Unknown
+1bbc:03842adc:0012:090e:2:0:0
+Radio Zvezda
+p:Unknown
+1c20:03842adc:0012:090e:2:0:0
+Radio Zvezda
+p:Unknown
+0001:03842b59:0000:0000:1:0:0
+Amurskoye Oblastnoye TV
+p:Unknown
+0001:03842bbe:0008:0001:1:0:0
+BetBoom
+p:Unknown
+0002:03842bbe:0008:0001:2:0:0
+Radio Record
+p:Unknown
+0001:03842be9:0001:0001:1:0:0
+RZD TV
+p:Unknown
+0004:03842c01:0014:090e:1:0:0
+Leomax 24
+p:Unknown
+0009:03842c01:0014:090e:1:0:0
+Solntse +7
+p:Unknown
+000a:03842c01:0014:090e:1:0:0
+U +7
+p:Unknown
+000f:03842c01:0014:090e:1:0:0
+Che! +7
+p:Unknown
+0013:03842c01:0014:090e:1:0:0
+Shanson TV
+p:Unknown
+0015:03842c01:0014:090e:1:0:0
+8 Kanal
+p:Unknown
+01b2:03842c01:0014:090e:1:0:0
+STS Love +4
+p:Unknown
+01b6:03842c01:0014:090e:1:0:0
+Vitrina TV
+p:Unknown
+01c3:03842c01:0014:090e:1:0:0
+1 Krim
+p:Unknown
+01cd:03842c01:0014:090e:1:0:0
+Krim 24
+p:Unknown
+01f4:03842c01:0014:090e:1:0:0
+Fon Music
+p:Unknown
+023a:03842c01:0014:090e:1:0:0
+Krasnaya Liniya
+p:Unknown
+028a:03842c01:0014:090e:1:0:0
+STS Love
+p:Unknown
+0294:03842c01:0014:090e:1:0:0
+Che!
+p:Unknown
+029e:03842c01:0014:090e:1:0:0
+Schelkovskoe TV
+p:Unknown
+0020:03842c01:0014:090e:2:0:0
+Radio Chanson
+p:Unknown
+0192:03842c01:0014:090e:2:0:0
+Avtoradio +2
+p:Unknown
+0197:03842c01:0014:090e:2:0:0
+Humor FM +2
+p:Unknown
+019e:03842c01:0014:090e:2:0:0
+Radio Enerdzhi +2
+p:Unknown
+01a2:03842c01:0014:090e:2:0:0
+Radio Record
+p:Unknown
+01a8:03842c01:0014:090e:2:0:0
+Comedy Radio +2
+p:Unknown
+01b3:03842c01:0014:090e:2:0:0
+Comedy Radio +4
+p:Unknown
+01b4:03842c01:0014:090e:2:0:0
+Buryad FM
+p:Unknown
+01b7:03842c01:0014:090e:2:0:0
+Humor FM +7
+p:Unknown
+01b8:03842c01:0014:090e:2:0:0
+Avtoradio +7
+p:Unknown
+01b9:03842c01:0014:090e:2:0:0
+Radio Enerdzhi +4
+p:Unknown
+0258:03842c01:0014:090e:2:0:0
+Radio Zvezda
+p:Unknown
+0262:03842c01:0014:090e:2:0:0
+Sputnik FM
+p:Unknown
+0276:03842c01:0014:090e:2:0:0
+Sputnik FM
+p:Unknown
+0280:03842c01:0014:090e:2:0:0
+Sputnik FM
+p:Unknown
+02a8:03842c01:0014:090e:2:0:0
+Radio Krim
+p:Unknown
+02b2:03842c01:0014:090e:2:0:0
+Radio More
+p:Unknown
+02bc:03842c01:0014:090e:2:0:0
+Militseyskaya Volna
+p:Unknown
+0009:03842c79:0013:090e:1:0:0
+Che! +4
+p:Unknown
+000a:03842c79:0013:090e:1:0:0
+Izvestia TV
+p:Unknown
+0010:03842c79:0013:090e:1:0:0
+Silk Way
+p:Unknown
+0011:03842c79:0013:090e:1:0:0
+Silk Way Prime
+p:Unknown
+0012:03842c79:0013:090e:1:0:0
+Dom Kino Premium
+p:Unknown
+0014:03842c79:0013:090e:1:0:0
+Dom Kino
+p:Unknown
+0017:03842c79:0013:090e:1:0:0
+Bober
+p:Unknown
+0018:03842c79:0013:090e:1:0:0
+Pobeda
+p:Unknown
+0019:03842c79:0013:090e:1:0:0
+Poehali!
+p:Unknown
+001a:03842c79:0013:090e:1:0:0
+Silk Way Cinema
+p:Unknown
+001c:03842c79:0013:090e:1:0:0
+Lapki Live
+p:Unknown
+001d:03842c79:0013:090e:1:0:0
+STS Love +2
+p:Unknown
+001e:03842c79:0013:090e:1:0:0
+Che! +2
+p:Unknown
+001f:03842c79:0013:090e:1:0:0
+U +2
+p:Unknown
+0020:03842c79:0013:090e:1:0:0
+Solntse +2
+p:Unknown
+0001:03842cd3:0001:ffff:1:0:0
+Millet
+p:Unknown
+01ea:03842d10:0037:0064:2:0:0
+Dorognoe FM
+p:Unknown
+01fe:03842d10:0037:0064:2:0:0
+Radio Chanson
+p:Unknown
+021c:03842d10:0037:0064:2:0:0
+Europa Plus
+p:Unknown
+0226:03842d10:0037:0064:2:0:0
+Radio 7
+p:Unknown
+0230:03842d10:0037:0064:2:0:0
+Studio 21
+p:Unknown
+023a:03842d10:0037:0064:2:0:0
+Retro FM Rossiya
+p:Unknown
+0244:03842d10:0037:0064:2:0:0
+Kazak FM
+p:Unknown
+024e:03842d10:0037:0064:2:0:0
+Pervoe Radio
+p:Unknown
+0276:03842d10:0037:0064:2:0:0
+Radio 7 Tyumen
+p:Unknown
+0280:03842d10:0037:0064:2:0:0
+Radio VERA Tyumen
+p:Unknown
+028a:03842d10:0037:0064:2:0:0
+Tavria
+p:Unknown
+029e:03842d10:0037:0064:2:0:0
+Love Radio Tyumen
+p:Unknown
+02a8:03842d10:0037:0064:2:0:0
+Radio Zvezda
+p:Unknown
+02b2:03842d10:0037:0064:2:0:0
+Radio VERA
+p:Unknown
+02bc:03842d10:0037:0064:2:0:0
+Radio Komsomolskaya Pravda
+p:Unknown
+0384:03842d31:0064:0064:1:0:0
+Ugra TV
+p:Unknown
+12c0:03842d31:0064:0064:2:0:0
+Radio Komsomolskaya Pravda
+p:Unknown
+0001:03842d81:0001:0001:1:0:0
+OTV Prim
+p:Unknown
+0005:03843116:0017:0001:1:0:0
+Subbota! +2
+p:Unknown
+0006:03843116:0017:0001:1:0:0
+TNT 4 +2
+p:Unknown
+0007:03843116:0017:0001:1:0:0
+Telekanal 2x2 +2
+p:Unknown
+0008:03843116:0017:0001:1:0:0
+Subbota! +4
+p:Unknown
+0009:03843116:0017:0001:1:0:0
+TNT 4 +4
+p:Unknown
+000a:03843116:0017:0001:1:0:0
+Telekanal 2x2 +4
+p:Unknown
+000b:03843116:0017:0001:1:0:0
+Rossiya RTR
+p:Unknown
+000c:03843116:0017:0001:1:0:0
+1 Krim
+p:Unknown
+000d:03843116:0017:0001:1:0:0
+Krim 24
+p:Unknown
+0001:0384316e:0000:0001:1:0:0
+Bashkirskoe Sputnikovoe TV
+p:Unknown
+0002:0384316e:0000:0001:1:0:0
+Kuraj TV
+p:Unknown
+end

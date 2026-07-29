@@ -10,7 +10,7 @@ transponders
 	s 3825000:4170000:3:0:31:2:0:1:0:2:2
 /
 001f0ef7:0001:0001
-	s 3831000:2170000:2:0:31:2:0:1:0:2:2
+	s 3831000:2190000:2:0:31:2:0:1:0:2:2
 /
 001f0ef9:44de:0000
 	s 3833000:1108000:2:0:31:2:0:0:0:2:2
@@ -54,7 +54,7 @@ transponders
 001f0fb0:0000:0000
 	s 4016000:2500000:3:0:31:2:0:1:0:2:2
 /
-001f0fb8:0001:0001
+001f0fb8:0000:0000
 	s 4024000:4340000:2:0:31:2:0:1:0:2:2
 /
 001f0fbd:0001:0001
@@ -63,20 +63,23 @@ transponders
 001f0fc1:0000:0000
 	s 4033000:1700000:2:0:31:2:0:1:0:2:2
 /
+001f0fc4:0001:0001
+	s 4036000:1830000:3:0:31:2:0:1:0:2:2
+/
 001f0fc6:0001:0001
 	s 4038000:2358000:3:0:31:2:0:1:0:2:2
 /
 001f0fdf:0065:0089
 	s 4063000:33900000:2:0:31:2:0:1:0:2:2
 /
+001f0fe2:0000:0000
+	s 4066000:1083000:3:0:31:2:0:1:0:2:2
+/
 001f0fe7:0000:0000
 	s 4071000:2083000:3:0:31:2:0:1:0:2:2
 /
 001f1003:0066:0089
 	s 4099000:33900000:2:0:31:2:0:1:0:2:2
-/
-001f1013:0001:0001
-	s 4115000:1666000:3:0:31:2:0:1:0:2:2
 /
 001f1014:1000:2000
 	s 4116000:1000000:3:0:31:2:0:1:0:2:2
@@ -127,6 +130,9 @@ TV Citoyenne
 p:Unknown
 0018:001f0e91:0001:0001:1:0:0
 RTB 3
+p:Unknown
+001e:001f0e91:0001:0001:1:0:0
+Filinfo TV
 p:Unknown
 001f:001f0e91:0001:0001:2:0:0
 Radio Éducative
@@ -194,9 +200,6 @@ p:Unknown
 00c8:001f0f26:0007:0088:1:0:0
 Rapid TV
 p:Unknown
-00f4:001f0f26:0007:0088:1:0:0
-ST Beta Sports
-p:Unknown
 0003:001f0f31:000c:0088:1:0:0
 Peoples TV
 p:StarTimes TV Nigeria
@@ -247,6 +250,9 @@ Tozali TV
 p:StarTimes TV Nigeria
 0001:001f0f3c:0001:0001:1:0:0
 ITV
+p:Unknown
+0002:001f0f3c:0001:0001:1:0:0
+TV Imaan
 p:Unknown
 0004:001f0f3c:0001:0001:1:0:0
 ST Bongo
@@ -305,6 +311,9 @@ p:Unknown
 03ee:001f0f4e:0006:0001:1:0:0
 ST Swahili Plus
 p:Unknown
+03ef:001f0f4e:0006:0001:1:0:0
+ST Mania 2
+p:Unknown
 03f0:001f0f4e:0006:0001:1:0:0
 Arise & Shine TV
 p:Unknown
@@ -352,9 +361,6 @@ Colors
 p:Unknown
 07d1:001f0f4e:0006:0001:1:0:0
 Channel Ten +
-p:Unknown
-07e0:001f0f4e:0006:0001:1:0:0
-TV Imaan
 p:Unknown
 07e1:001f0f4e:0006:0001:1:0:0
 BNP TV
@@ -404,6 +410,12 @@ p:Unknown
 00e6:001f0f61:000a:0001:1:0:0
 ST Makula Kika
 p:Unknown
+00f2:001f0f61:000a:0001:1:0:0
+Tooro TV
+p:Unknown
+00f3:001f0f61:000a:0001:1:0:0
+KRC TV
+p:Unknown
 00f4:001f0f61:000a:0001:1:0:0
 KBS TV
 p:Unknown
@@ -423,7 +435,7 @@ p:Unknown
 Channel 44
 p:Unknown
 0124:001f0f61:000a:0001:1:0:0
-Glorious Times TV
+Good News TV
 p:Unknown
 01ef:001f0f61:000a:0001:1:0:0
 ST Makula
@@ -465,7 +477,7 @@ p:Unknown
 10'ème Rue TV
 p:Unknown
 000a:001f0f93:0000:0000:1:0:0
-TVS 1
+RTVS 1
 p:Unknown
 000d:001f0f93:0000:0000:2:0:0
 RTNC Radio
@@ -497,14 +509,20 @@ p:Unknown
 0001:001f0fb0:0000:0000:1:0:0
 Dash TV News
 p:Unknown
-0001:001f0fb8:0001:0001:1:0:0
+0001:001f0fb8:0000:0000:1:0:0
 Gabon 24
+p:Unknown
+0002:001f0fb8:0000:0000:2:0:0
+24 FM
 p:Unknown
 0101:001f0fbd:0001:0001:1:0:0
 Horizon 3
 p:Unknown
 0001:001f0fc1:0000:0000:1:0:0
 Malaika TV
+p:Unknown
+0201:001f0fc4:0001:0001:1:0:0
+For You Africa
 p:Unknown
 0065:001f0fc6:0001:0001:1:0:0
 Info TV
@@ -617,6 +635,9 @@ p:Unknown
 039c:001f0fdf:0065:0089:2:0:0
 RM Desporto
 p:Unknown
+0002:001f0fe2:0000:0000:1:0:0
+Amen TV
+p:Unknown
 0001:001f0fe7:0000:0000:1:0:0
 Media Sports Infos
 p:Unknown
@@ -660,7 +681,7 @@ p:TMT
 SIC Internacional África
 p:TMT
 00b3:001f1003:0066:0089:1:0:0
-SIC Mulher
+SIC Mulher África
 p:TMT
 00f2:001f1003:0066:0089:1:0:0
 National Geographic Wild South Africa
@@ -702,7 +723,7 @@ p:TMT
 Boing Africa
 p:TMT
 0173:001f1003:0066:0089:1:0:0
-Biggs
+Vin TV
 p:TMT
 0174:001f1003:0066:0089:1:0:0
 Disney Channel Portugal
@@ -733,9 +754,6 @@ EP Inhambane
 p:Unknown
 0396:001f1003:0066:0089:2:0:0
 EP Nampula
-p:Unknown
-0065:001f1013:0001:0001:1:0:0
-Bnews 1
 p:Unknown
 0001:001f1014:1000:2000:1:0:0
 LTM TV

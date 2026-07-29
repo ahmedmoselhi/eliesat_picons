@@ -1,0 +1,665 @@
+eDVB services /4/
+transponders
+02252a5d:0237:0070
+	s 10845000:27500000:0:0:549:2:0:1:0:2:2
+/
+02252aad:0232:0070
+	s 10925000:27500000:0:0:549:2:0:1:0:2:2
+/
+02252c0c:0009:0001
+	s 11276000:10858000:1:0:549:2:0:0:0:2:2
+/
+02252c51:0234:0070
+	s 11345000:27500000:0:0:549:2:0:1:0:2:2
+/
+02252c79:000d:0001
+	s 11385000:30000000:0:0:549:2:0:1:0:2:2
+/
+02252ca1:0235:0070
+	s 11425000:27500000:0:0:549:2:0:1:0:2:2
+/
+02252d60:0001:0001
+	s 11616000:4832000:0:0:549:2:0:1:0:2:2
+/
+0225314c:0236:0070
+	s 12620000:27500000:0:0:549:2:0:1:0:2:2
+/
+0225319c:0233:0070
+	s 12700000:27500000:0:0:549:2:0:1:0:2:2
+/
+end
+services
+dd7d:02252a5d:0237:0070:1:0:0
+Perviy kanal +4
+p:Unknown
+dd7e:02252a5d:0237:0070:1:0:0
+Rossiya 1 +4
+p:Unknown
+dd7f:02252a5d:0237:0070:1:0:0
+NTV +4
+p:Unknown
+dd80:02252a5d:0237:0070:1:0:0
+5 Kanal +4
+p:Unknown
+dd81:02252a5d:0237:0070:1:0:0
+Rossiya K +4
+p:Unknown
+dd82:02252a5d:0237:0070:1:0:0
+Karusel +3
+p:Unknown
+dd83:02252a5d:0237:0070:1:0:0
+TV Centr Ural
+p:Unknown
+dd84:02252a5d:0237:0070:1:0:0
+REN TV +4
+p:Unknown
+dd85:02252a5d:0237:0070:1:0:0
+STS +4
+p:Unknown
+dd86:02252a5d:0237:0070:1:0:0
+Domashniy +4
+p:Unknown
+dd87:02252a5d:0237:0070:1:0:0
+TV 3 +4
+p:Unknown
+dd88:02252a5d:0237:0070:1:0:0
+Pyatnitsa! +4
+p:Unknown
+dd89:02252a5d:0237:0070:1:0:0
+Telekanal Zvezda +2
+p:Unknown
+dd8a:02252a5d:0237:0070:1:0:0
+Mir +4
+p:Unknown
+dd8b:02252a5d:0237:0070:1:0:0
+TNT +4
+p:Unknown
+dd8c:02252a5d:0237:0070:1:0:0
+Che! +4
+p:Unknown
+dd8d:02252a5d:0237:0070:1:0:0
+Telekanal Spas
+p:Unknown
+dd8e:02252a5d:0237:0070:1:0:0
+TNT 4 +4
+p:Unknown
+dd8f:02252a5d:0237:0070:1:0:0
+U
+p:Unknown
+dd90:02252a5d:0237:0070:1:0:0
+Solntse
+p:Unknown
+dd91:02252a5d:0237:0070:1:0:0
+Blue Hustler Europe
+p:NTV Plus Vostok
+dd92:02252a5d:0237:0070:1:0:0
+Prodvizhenie Sibir
+p:Unknown
+dd93:02252a5d:0237:0070:1:0:0
+NTV Pravo
+p:Unknown
+dd94:02252a5d:0237:0070:1:0:0
+NTV Stil
+p:Unknown
+dd96:02252a5d:0237:0070:1:0:0
+Muz TV
+p:Unknown
+dd99:02252a5d:0237:0070:1:0:0
+Subbota! +4
+p:Unknown
+dd9a:02252a5d:0237:0070:1:0:0
+Telekanal 2x2
+p:Unknown
+dd9b:02252a5d:0237:0070:1:0:0
+Rossiya 24
+p:Unknown
+dd9c:02252a5d:0237:0070:1:0:0
+Zvezda Plus
+p:Unknown
+dda5:02252a5d:0237:0070:2:0:0
+Humor FM
+p:Unknown
+dda7:02252a5d:0237:0070:2:0:0
+Radio Romantika
+p:Unknown
+dda8:02252a5d:0237:0070:2:0:0
+Avtoradio Moskva
+p:Unknown
+dda9:02252a5d:0237:0070:2:0:0
+Radio Vanya
+p:Unknown
+ddaa:02252a5d:0237:0070:2:0:0
+Radio Enerdzhi
+p:Unknown
+ddab:02252a5d:0237:0070:2:0:0
+DFM
+p:Unknown
+ddac:02252a5d:0237:0070:2:0:0
+Russkoe Radio
+p:Unknown
+ddad:02252a5d:0237:0070:2:0:0
+Hit FM
+p:Unknown
+ddae:02252a5d:0237:0070:2:0:0
+Maximum
+p:Unknown
+ddaf:02252a5d:0237:0070:2:0:0
+Business FM
+p:Unknown
+ddb0:02252a5d:0237:0070:2:0:0
+Militseyskaya Volna
+p:Unknown
+ddb1:02252a5d:0237:0070:2:0:0
+Comedy Radio
+p:Unknown
+ddb2:02252a5d:0237:0070:2:0:0
+Radio Komsomolskaya Pravda
+p:Unknown
+ddb3:02252a5d:0237:0070:2:0:0
+Relax FM
+p:Unknown
+ddb5:02252a5d:0237:0070:2:0:0
+Radio Mir
+p:Unknown
+ddb6:02252a5d:0237:0070:2:0:0
+Love Radio
+p:Unknown
+ddb8:02252a5d:0237:0070:2:0:0
+Detskoe Radio Moskva
+p:Unknown
+ddb9:02252a5d:0237:0070:2:0:0
+Vesti FM
+p:Unknown
+ddba:02252a5d:0237:0070:2:0:0
+Radio Mayak
+p:Unknown
+ddbb:02252a5d:0237:0070:2:0:0
+Radio Rossii
+p:Unknown
+ddbc:02252a5d:0237:0070:2:0:0
+Radio Sibir
+p:Unknown
+db89:02252aad:0232:0070:1:0:0
+Match! Futbol 2
+p:NTV Plus Vostok
+db8a:02252aad:0232:0070:1:0:0
+Match!
+p:NTV Plus Vostok
+db8b:02252aad:0232:0070:1:0:0
+Dom Kino Premium
+p:NTV Plus Vostok
+db8c:02252aad:0232:0070:1:0:0
+Match! Futbol 1
+p:NTV Plus Vostok
+db8d:02252aad:0232:0070:1:0:0
+Kinopremyera
+p:NTV Plus Vostok
+db8e:02252aad:0232:0070:1:0:0
+Match Premier
+p:NTV Plus Vostok
+db8f:02252aad:0232:0070:1:0:0
+Match! Futbol 3
+p:NTV Plus Vostok
+db90:02252aad:0232:0070:1:0:0
+Tochka.RF
+p:NTV Plus Vostok
+0010:02252c0c:0009:0001:1:0:0
+Schelkovskoe TV
+p:Unknown
+0001:02252c0c:0009:0001:2:0:0
+Dorognoe FM
+p:Unknown
+0002:02252c0c:0009:0001:2:0:0
+Radio Chanson
+p:Unknown
+0003:02252c0c:0009:0001:2:0:0
+Europa Plus
+p:Unknown
+0004:02252c0c:0009:0001:2:0:0
+Radio 7
+p:Unknown
+0005:02252c0c:0009:0001:2:0:0
+Studio 21
+p:Unknown
+0006:02252c0c:0009:0001:2:0:0
+Retro FM Rossiya
+p:Unknown
+0007:02252c0c:0009:0001:2:0:0
+Kazak FM
+p:Unknown
+0008:02252c0c:0009:0001:2:0:0
+Pervoe Radio
+p:Unknown
+0009:02252c0c:0009:0001:2:0:0
+Radio 7 Tyumen
+p:Unknown
+000a:02252c0c:0009:0001:2:0:0
+Radio VERA Tyumen
+p:Unknown
+000b:02252c0c:0009:0001:2:0:0
+Tavria
+p:Unknown
+000c:02252c0c:0009:0001:2:0:0
+Love Radio Tyumen
+p:Unknown
+000d:02252c0c:0009:0001:2:0:0
+Radio Zvezda
+p:Unknown
+000e:02252c0c:0009:0001:2:0:0
+Radio VERA
+p:Unknown
+000f:02252c0c:0009:0001:2:0:0
+Radio Komsomolskaya Pravda
+p:Unknown
+0011:02252c0c:0009:0001:2:0:0
+Radio Record
+p:Unknown
+dc51:02252c51:0234:0070:1:0:0
+Mama
+p:NTV Plus Vostok
+dc52:02252c51:0234:0070:1:0:0
+Telekanal Doktor
+p:NTV Plus Vostok
+dc53:02252c51:0234:0070:1:0:0
+Detski Mir
+p:NTV Plus Vostok
+dc54:02252c51:0234:0070:1:0:0
+Sapfir
+p:NTV Plus Vostok
+dc55:02252c51:0234:0070:1:0:0
+Ani
+p:NTV Plus Vostok
+dc56:02252c51:0234:0070:1:0:0
+Kino TV
+p:NTV Plus Vostok
+dc57:02252c51:0234:0070:1:0:0
+Kineko
+p:NTV Plus Vostok
+dc58:02252c51:0234:0070:1:0:0
+Sarafan
+p:NTV Plus Vostok
+dc59:02252c51:0234:0070:1:0:0
+.Black
+p:NTV Plus Vostok
+dc5a:02252c51:0234:0070:1:0:0
+Istoriya Telekanal
+p:NTV Plus Vostok
+dc5b:02252c51:0234:0070:1:0:0
+Nauka
+p:NTV Plus Vostok
+dc5c:02252c51:0234:0070:1:0:0
+Unikum
+p:NTV Plus Vostok
+dc5d:02252c51:0234:0070:1:0:0
+Terra
+p:NTV Plus Vostok
+dc5e:02252c51:0234:0070:1:0:0
+Mir Seriala
+p:NTV Plus Vostok
+dc5f:02252c51:0234:0070:1:0:0
+Mult
+p:NTV Plus Vostok
+dc60:02252c51:0234:0070:1:0:0
+NST
+p:NTV Plus Vostok
+dc61:02252c51:0234:0070:1:0:0
+Russkiy Bestseller
+p:NTV Plus Vostok
+dc62:02252c51:0234:0070:1:0:0
+Russkiy Roman
+p:NTV Plus Vostok
+dc63:02252c51:0234:0070:1:0:0
+Russkiy Detektiv
+p:NTV Plus Vostok
+dc64:02252c51:0234:0070:1:0:0
+.Sci-fi
+p:NTV Plus Vostok
+dc65:02252c51:0234:0070:1:0:0
+STS Love
+p:NTV Plus Vostok
+dc66:02252c51:0234:0070:1:0:0
+Lubimoe Kino
+p:NTV Plus Vostok
+dc67:02252c51:0234:0070:1:0:0
+.Red
+p:NTV Plus Vostok
+dc68:02252c51:0234:0070:1:0:0
+Telekanal FAN
+p:NTV Plus Vostok
+dc69:02252c51:0234:0070:1:0:0
+Shot TV
+p:NTV Plus Vostok
+dc6a:02252c51:0234:0070:1:0:0
+Mosfilm Zolotaya kollektsiya
+p:NTV Plus Vostok
+dc6b:02252c51:0234:0070:1:0:0
+Start Air
+p:NTV Plus Vostok
+dc6c:02252c51:0234:0070:1:0:0
+Start World
+p:NTV Plus Vostok
+dc6d:02252c51:0234:0070:1:0:0
+Amedia Hit
+p:NTV Plus Vostok
+dc6e:02252c51:0234:0070:1:0:0
+Amedia Premium
+p:NTV Plus Vostok
+dc6f:02252c51:0234:0070:1:0:0
+KinoMult
+p:NTV Plus Vostok
+dc70:02252c51:0234:0070:1:0:0
+Dialogi o rybalke
+p:NTV Plus Vostok
+0007:02252c79:000d:0001:1:0:0
+Solntse +2
+p:Unknown
+0008:02252c79:000d:0001:1:0:0
+U +2
+p:Unknown
+0009:02252c79:000d:0001:1:0:0
+Krim 24
+p:Unknown
+000a:02252c79:000d:0001:1:0:0
+1 Krim
+p:Unknown
+000d:02252c79:000d:0001:1:0:0
+STS Love
+p:Unknown
+000e:02252c79:000d:0001:1:0:0
+STS Love +2
+p:Unknown
+000f:02252c79:000d:0001:1:0:0
+Che!
+p:Unknown
+0010:02252c79:000d:0001:1:0:0
+Che! +2
+p:Unknown
+0014:02252c79:000d:0001:1:0:0
+Krasnaya Liniya
+p:Unknown
+000b:02252c79:000d:0001:2:0:0
+Radio More
+p:Unknown
+000c:02252c79:000d:0001:2:0:0
+Radio Krim
+p:Unknown
+0012:02252c79:000d:0001:2:0:0
+Militseyskaya Volna
+p:Unknown
+dcb5:02252ca1:0235:0070:1:0:0
+Match!
+p:Unknown
+dcb6:02252ca1:0235:0070:1:0:0
+KHL
+p:NTV Plus Vostok
+dcb7:02252ca1:0235:0070:1:0:0
+Auto Plus
+p:NTV Plus Vostok
+dcb8:02252ca1:0235:0070:1:0:0
+Match! Boets
+p:NTV Plus Vostok
+dcb9:02252ca1:0235:0070:1:0:0
+Europa Plus TV
+p:NTV Plus Vostok
+dcba:02252ca1:0235:0070:1:0:0
+Indijskoe Kino
+p:NTV Plus Vostok
+dcbb:02252ca1:0235:0070:1:0:0
+Soyuzny
+p:NTV Plus Vostok
+dcbc:02252ca1:0235:0070:1:0:0
+Kinokomedija
+p:NTV Plus Vostok
+dcbd:02252ca1:0235:0070:1:0:0
+Kuhnya TV
+p:NTV Plus Vostok
+dcbe:02252ca1:0235:0070:1:0:0
+Muzyka Live
+p:Unknown
+dcbf:02252ca1:0235:0070:1:0:0
+Kinoserija
+p:NTV Plus Vostok
+dcc0:02252ca1:0235:0070:1:0:0
+365 dnei TV
+p:Unknown
+dcc1:02252ca1:0235:0070:1:0:0
+OTR
+p:NTV Plus Vostok
+dcc2:02252ca1:0235:0070:1:0:0
+Bridge Russkiy Hit
+p:NTV Plus Vostok
+dcc3:02252ca1:0235:0070:1:0:0
+RBK TV
+p:NTV Plus Vostok
+dcc4:02252ca1:0235:0070:1:0:0
+Bridge
+p:NTV Plus Vostok
+dcc6:02252ca1:0235:0070:1:0:0
+Indiya
+p:NTV Plus Vostok
+dcc7:02252ca1:0235:0070:1:0:0
+Mir 24
+p:NTV Plus Vostok
+dcc8:02252ca1:0235:0070:1:0:0
+Bollywood TV Rossiya
+p:NTV Plus Vostok
+dcc9:02252ca1:0235:0070:1:0:0
+Moya Planeta
+p:NTV Plus Vostok
+dcca:02252ca1:0235:0070:1:0:0
+Tayny Galaktiki
+p:NTV Plus Vostok
+dccb:02252ca1:0235:0070:1:0:0
+Match! Strana
+p:NTV Plus Vostok
+dccd:02252ca1:0235:0070:1:0:0
+Muzhskoe Kino
+p:NTV Plus Vostok
+dcce:02252ca1:0235:0070:1:0:0
+Playboy TV Europe
+p:NTV Plus Vostok
+dccf:02252ca1:0235:0070:1:0:0
+Russkaya Noch
+p:NTV Plus Vostok
+dcd0:02252ca1:0235:0070:1:0:0
+Nostalgia
+p:NTV Plus Vostok
+dcd1:02252ca1:0235:0070:1:0:0
+Okhota i Rybalka
+p:NTV Plus Vostok
+dcd2:02252ca1:0235:0070:1:0:0
+MMA-TV.com
+p:NTV Plus Vostok
+dcd3:02252ca1:0235:0070:1:0:0
+Match! Igra
+p:NTV Plus Vostok
+dcd4:02252ca1:0235:0070:1:0:0
+Match! Arena
+p:NTV Plus Vostok
+2775:02252d60:0001:0001:1:0:0
+T-Sat Nipuna
+p:Unknown
+2776:02252d60:0001:0001:1:0:0
+T-Sat Vidya
+p:Unknown
+2778:02252d60:0001:0001:1:0:0
+Mana TV 1
+p:Unknown
+2779:02252d60:0001:0001:1:0:0
+Mana TV 2
+p:Unknown
+dd19:0225314c:0236:0070:1:0:0
+Evrokino
+p:NTV Plus Vostok
+dd1a:0225314c:0236:0070:1:0:0
+Kinouzhas
+p:NTV Plus Vostok
+dd1b:0225314c:0236:0070:1:0:0
+Tochka Otryva
+p:NTV Plus Vostok
+dd1c:0225314c:0236:0070:1:0:0
+Russkiy Illusion
+p:NTV Plus Vostok
+dd1d:0225314c:0236:0070:1:0:0
+Radost Moya
+p:NTV Plus Vostok
+dd1e:0225314c:0236:0070:1:0:0
+Armenia TV Satellite
+p:NTV Plus Vostok
+dd20:0225314c:0236:0070:1:0:0
+Viju Explore
+p:NTV Plus Vostok
+dd21:0225314c:0236:0070:1:0:0
+Viju History
+p:NTV Plus Vostok
+dd22:0225314c:0236:0070:1:0:0
+MCM Top Russia
+p:NTV Plus Vostok
+dd23:0225314c:0236:0070:1:0:0
+Viju Nature
+p:NTV Plus Vostok
+dd24:0225314c:0236:0070:1:0:0
+Viju+ Sport
+p:NTV Plus Vostok
+dd25:0225314c:0236:0070:1:0:0
+Bober
+p:NTV Plus Vostok
+dd26:0225314c:0236:0070:1:0:0
+Dom Kino
+p:NTV Plus Vostok
+dd27:0225314c:0236:0070:1:0:0
+Duck TV SD
+p:NTV Plus Vostok
+dd28:0225314c:0236:0070:1:0:0
+Moya Stikhiya
+p:NTV Plus Vostok
+dd29:0225314c:0236:0070:1:0:0
+Hollywood HD
+p:NTV Plus Vostok
+dd2a:0225314c:0236:0070:1:0:0
+Viju TV 1000 Action
+p:NTV Plus Vostok
+dd2b:0225314c:0236:0070:1:0:0
+Viju TV 1000
+p:NTV Plus Vostok
+dd2c:0225314c:0236:0070:1:0:0
+Big Planet
+p:NTV Plus Vostok
+dd2d:0225314c:0236:0070:1:0:0
+Kinoliving
+p:NTV Plus Vostok
+dd2f:0225314c:0236:0070:1:0:0
+V Gostyakh u Skazki
+p:NTV Plus Vostok
+dd30:0225314c:0236:0070:1:0:0
+Dorama
+p:NTV Plus Vostok
+dd31:0225314c:0236:0070:1:0:0
+Fon Music
+p:NTV Plus Vostok
+dd32:0225314c:0236:0070:1:0:0
+Extreme Sports Channel
+p:NTV Plus Vostok
+dd33:0225314c:0236:0070:1:0:0
+Zhenskiy Zhurnal
+p:Unknown
+dd35:0225314c:0236:0070:1:0:0
+Vremya
+p:NTV Plus Vostok
+dd36:0225314c:0236:0070:1:0:0
+Flix Snip
+p:NTV Plus Vostok
+dd37:0225314c:0236:0070:1:0:0
+Pobeda
+p:NTV Plus Vostok
+dd38:0225314c:0236:0070:1:0:0
+Zhara TV
+p:NTV Plus Vostok
+dbed:0225319c:0233:0070:1:0:0
+Kinosemja
+p:NTV Plus Vostok
+dbee:0225319c:0233:0070:1:0:0
+Kinosvidanie
+p:NTV Plus Vostok
+dbef:0225319c:0233:0070:1:0:0
+Kinohit
+p:NTV Plus Vostok
+dbf0:0225319c:0233:0070:1:0:0
+Nashe Novoe Kino
+p:NTV Plus Vostok
+dbf1:0225319c:0233:0070:1:0:0
+Kinomiks
+p:NTV Plus Vostok
+dbf2:0225319c:0233:0070:1:0:0
+Rodnoe Kino
+p:Unknown
+dbf3:0225319c:0233:0070:1:0:0
+KVN
+p:NTV Plus Vostok
+dbf4:0225319c:0233:0070:1:0:0
+Mir Basketbola
+p:Unknown
+dbf5:0225319c:0233:0070:1:0:0
+Avto 24
+p:NTV Plus Vostok
+dbf6:0225319c:0233:0070:1:0:0
+Amedia 2
+p:NTV Plus Vostok
+dbf7:0225319c:0233:0070:1:0:0
+Amedia 1
+p:NTV Plus Vostok
+dbf8:0225319c:0233:0070:1:0:0
+Illusion +
+p:NTV Plus Vostok
+dbf9:0225319c:0233:0070:1:0:0
+Blue Hustler Europe
+p:NTV Plus Vostok
+dbfa:0225319c:0233:0070:1:0:0
+Domashnie Zhivotnye
+p:Unknown
+dbfb:0225319c:0233:0070:1:0:0
+NTV Hit
+p:NTV Plus Vostok
+dbfc:0225319c:0233:0070:1:0:0
+Zhivi!
+p:NTV Plus Vostok
+dbfd:0225319c:0233:0070:1:0:0
+NTV Serial
+p:NTV Plus Vostok
+dbfe:0225319c:0233:0070:1:0:0
+Telekanal O!
+p:NTV Plus Vostok
+dbff:0225319c:0233:0070:1:0:0
+SuperGeroi
+p:NTV Plus Vostok
+dc00:0225319c:0233:0070:1:0:0
+Kto est kto
+p:Unknown
+dc01:0225319c:0233:0070:1:0:0
+Boks TV
+p:NTV Plus Vostok
+dc02:0225319c:0233:0070:1:0:0
+Multilandia
+p:Unknown
+dc03:0225319c:0233:0070:1:0:0
+Travel + Adventure
+p:Unknown
+dc05:0225319c:0233:0070:1:0:0
+Tiji Russia
+p:NTV Plus Vostok
+dc06:0225319c:0233:0070:1:0:0
+Gulli Girl
+p:NTV Plus Vostok
+dc07:0225319c:0233:0070:1:0:0
+Telekanal Dikij
+p:Unknown
+dc08:0225319c:0233:0070:1:0:0
+Usadba
+p:Unknown
+dc09:0225319c:0233:0070:1:0:0
+Red Lips
+p:NTV Plus Vostok
+dc0a:0225319c:0233:0070:1:0:0
+Viju TV 1000 Russkoe
+p:NTV Plus Vostok
+end

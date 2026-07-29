@@ -60,9 +60,6 @@ transponders
 00312faf:0018:0044
 	s 12207000:30000000:1:0:49:2:0:1:0:2:2
 /
-00312fc2:0004:0001
-	s 12226000:27500000:0:0:49:2:0:1:0:2:2
-/
 0031300f:10af:00de
 	s 12303000:27500000:0:0:49:2:0:1:0:2:2
 /
@@ -113,14 +110,14 @@ p:Zuku
 004a:00312dcf:134d:0004:1:0:0
 Uganda Catholic TV
 p:Zuku
+004c:00312dcf:134d:0004:1:0:0
+MBC 2
+p:Unknown
 004d:00312dcf:134d:0004:1:0:0
 Tayari West
 p:Zuku
 0078:00312dcf:134d:0004:1:0:0
 Zee One
-p:Unknown
-0096:00312dcf:134d:0004:1:0:0
-Zuku Extra
 p:Zuku
 00e6:00312dcf:134d:0004:1:0:0
 Zuku Action
@@ -218,18 +215,6 @@ p:Zuku
 038d:00312dcf:134d:0004:1:0:0
 Zee Cinema Africa
 p:Zuku
-038f:00312dcf:134d:0004:1:0:0
-NDTV India
-p:Zuku
-0398:00312dcf:134d:0004:1:0:0
-ARY News UK & Europe
-p:Zuku
-03a4:00312dcf:134d:0004:1:0:0
-ARY Musik
-p:Zuku
-03aa:00312dcf:134d:0004:1:0:0
-Times Now
-p:Zuku
 03ab:00312dcf:134d:0004:1:0:0
 ARY Digital UK
 p:Zuku
@@ -324,7 +309,7 @@ p:StarSat
 SIC Notícias
 p:StarSat
 1e27:00312de3:10ad:00de:1:0:0
-SIC Mulher
+SIC Mulher África
 p:StarSat
 1e28:00312de3:10ad:00de:1:0:0
 Cinaf TV
@@ -361,6 +346,12 @@ Canal Hollywood Portugal
 p:StarSat
 1e34:00312de3:10ad:00de:1:0:0
 TBC 1
+p:StarSat
+1e35:00312de3:10ad:00de:1:0:0
+MNTV
+p:StarSat
+1e37:00312de3:10ad:00de:1:0:0
+TV O
 p:StarSat
 1e23:00312de3:10ad:00de:2:0:0
 TBC FM
@@ -497,6 +488,9 @@ p:Viasat Ukraina
 17ef:00312df6:000c:0055:1:0:0
 2+2 Marafon
 p:Unknown
+17f1:00312df6:000c:0055:1:0:0
+Super+
+p:Viasat Ukraina
 17f5:00312df6:000c:0055:1:0:0
 TV Bolt
 p:Viasat Ukraina
@@ -563,6 +557,9 @@ p:Viasat Ukraina
 1829:00312df6:000c:0055:1:0:0
 Rybalka Telekanal
 p:Viasat Ukraina
+182b:00312df6:000c:0055:1:0:0
+Rozpakuy Hit Line
+p:Unknown
 182e:00312df6:000c:0055:1:0:0
 ATR
 p:Unknown
@@ -611,9 +608,6 @@ p:StarSat
 1ee9:00312e09:1094:00de:1:0:0
 CNN Portugal
 p:StarSat
-1eea:00312e09:1094:00de:1:0:0
-Sasa TV
-p:StarSat
 1eeb:00312e09:1094:00de:1:0:0
 24 Kitchen Portugal
 p:StarSat
@@ -621,7 +615,7 @@ p:StarSat
 TVI Internacional
 p:StarSat
 1eee:00312e09:1094:00de:1:0:0
-Biggs
+Vin TV
 p:StarSat
 1eef:00312e09:1094:00de:1:0:0
 Gospel Music TV
@@ -707,9 +701,6 @@ p:Zuku
 0018:00312e1c:1351:0004:1:0:0
 Bukedde 2
 p:Zuku
-0019:00312e1c:1351:0004:1:0:0
-BTM TV
-p:Unknown
 001a:00312e1c:1351:0004:1:0:0
 TBC 1
 p:Zuku
@@ -752,6 +743,9 @@ p:Zuku
 002f:00312e1c:1351:0004:1:0:0
 Mibawa TV
 p:Zuku
+0030:00312e1c:1351:0004:1:0:0
+Zodiak TV
+p:Zuku
 0031:00312e1c:1351:0004:1:0:0
 BBS TV
 p:Zuku
@@ -778,15 +772,12 @@ Clouds TV
 p:Zuku
 0045:00312e1c:1351:0004:1:0:0
 TV 47
-p:Zuku
+p:Unknown
 0046:00312e1c:1351:0004:1:0:0
 King Solomon TV
 p:Zuku
 0048:00312e1c:1351:0004:1:0:0
 KBS TV
-p:Zuku
-004c:00312e1c:1351:0004:1:0:0
-MBC 2
 p:Zuku
 0052:00312e1c:1351:0004:1:0:0
 Gotabgaa TV
@@ -875,8 +866,14 @@ p:StarSat
 1e7e:00312e56:1098:00de:1:0:0
 Times TV
 p:StarSat
+1e7f:00312e56:1098:00de:1:0:0
+Lamp Fall TV
+p:StarSat
 1e81:00312e56:1098:00de:1:0:0
 Akili TV
+p:StarSat
+1e82:00312e56:1098:00de:1:0:0
+Cinaf TV
 p:StarSat
 1e83:00312e56:1098:00de:1:0:0
 Asal TV
@@ -944,9 +941,6 @@ p:StarSat
 1bbe:00312e7c:10b1:00de:1:0:0
 Walf TV
 p:StarSat
-1bbf:00312e7c:10b1:00de:1:0:0
-TV O
-p:StarSat
 1bc0:00312e7c:10b1:00de:1:0:0
 KC2
 p:StarSat
@@ -954,7 +948,7 @@ p:StarSat
 Warner TV Next
 p:StarSat
 1bc2:00312e7c:10b1:00de:1:0:0
-TV 1
+TV 1 Prime
 p:StarSat
 1bc3:00312e7c:10b1:00de:1:0:0
 Viva
@@ -978,7 +972,7 @@ p:StarSat
 Dorcel TV
 p:StarSat
 1bca:00312e7c:10b1:00de:1:0:0
-Fasso TV Kankan
+Kaback TV
 p:StarSat
 1bcb:00312e7c:10b1:00de:1:0:0
 Flash TV
@@ -1096,9 +1090,6 @@ ST Nollywood Plus
 p:StarSat
 1cf0:00312ea2:109c:00de:1:0:0
 Iqraa English
-p:StarSat
-1cf1:00312ea2:109c:00de:1:0:0
-Spark TV
 p:StarSat
 1cf2:00312ea2:109c:00de:1:0:0
 EATV 5
@@ -1226,11 +1217,17 @@ p:StarSat
 207d:00312eb6:109d:00de:1:0:0
 ST Naija
 p:StarSat
+207e:00312eb6:109d:00de:1:0:0
+TNT Africa
+p:StarSat
 207f:00312eb6:109d:00de:1:0:0
 Trace Mziki
 p:StarSat
 2080:00312eb6:109d:00de:1:0:0
 Real Madrid TV English
+p:StarSat
+2081:00312eb6:109d:00de:1:0:0
+Cartoon Network Africa
 p:StarSat
 2082:00312eb6:109d:00de:1:0:0
 RFM TV
@@ -1367,9 +1364,6 @@ p:StarSat
 1fa7:00312edc:109f:00de:1:0:0
 Boing Africa
 p:StarSat
-1fa9:00312edc:109f:00de:1:0:0
-ST Swahili
-p:StarSat
 1faa:00312edc:109f:00de:1:0:0
 Luntha TV
 p:StarSat
@@ -1403,9 +1397,6 @@ p:StarSat
 1fb4:00312edc:109f:00de:1:0:0
 TLC Africa
 p:StarSat
-1fb5:00312edc:109f:00de:1:0:0
-FilmBox Action
-p:StarSat
 1fb6:00312edc:109f:00de:1:0:0
 Zee Magic
 p:StarSat
@@ -1418,17 +1409,17 @@ p:StarSat
 1fb9:00312edc:109f:00de:1:0:0
 Discovery Channel Africa
 p:StarSat
-1fba:00312edc:109f:00de:1:0:0
-BRICS Africa Channel
-p:StarSat
 1fbb:00312edc:109f:00de:1:0:0
 Africanews Français
 p:StarSat
 1fbc:00312edc:109f:00de:1:0:0
 Mindset Learn
 p:StarSat
-1fbd:00312edc:109f:00de:1:0:0
-Arise & Shine TV
+1fbe:00312edc:109f:00de:1:0:0
+ST World Football
+p:StarSat
+1fbf:00312edc:109f:00de:1:0:0
+ST Sports Life
 p:StarSat
 04b0:00312eef:135c:0004:1:0:0
 BYU TV Global
@@ -1447,9 +1438,6 @@ France 24 English
 p:Unknown
 16be:00312eef:135c:0004:1:0:0
 TRT World
-p:Unknown
-16d1:00312eef:135c:0004:1:0:0
-Africanews English
 p:Unknown
 0342:00312eef:135c:0004:2:0:0
 RFI Langues 2
@@ -1505,6 +1493,9 @@ p:Unknown
 1f64:00312f02:135d:0004:1:0:0
 MTA 4 Africa
 p:Unknown
+1f7c:00312f02:135d:0004:1:0:0
+Africanews English
+p:Unknown
 1f80:00312f02:135d:0004:1:0:0
 Bet 9JA Stadium LaLiga
 p:Unknown
@@ -1541,9 +1532,6 @@ p:Unknown
 1720:00312f16:135e:0004:1:0:0
 Tivi5Monde
 p:Unknown
-1721:00312f16:135e:0004:1:0:0
-TV5Monde Style
-p:Unknown
 1722:00312f16:135e:0004:1:0:0
 TV5Monde Afrique
 p:Unknown
@@ -1557,7 +1545,7 @@ p:Unknown
 Bet 9JA Stadium Premier
 p:Unknown
 2008:00312f29:10a3:00de:1:0:0
-TV 3
+ST Swahili
 p:StarSat
 2009:00312f29:10a3:00de:1:0:0
 ST World Football
@@ -1685,14 +1673,14 @@ p:Unknown
 19b4:00312f29:107b:0055:1:0:0
 Tviy Serial
 p:Unknown
-19be:00312f29:107b:0055:1:0:0
-Super+
-p:Unknown
 1d74:00312f29:107b:0055:1:0:0
 Galychyna TV
 p:Unknown
 1d88:00312f29:107b:0055:1:0:0
 Novyy Khristianskiy
+p:Unknown
+1d97:00312f29:107b:0055:1:0:0
+My-Ukraina
 p:Unknown
 1d9c:00312f29:107b:0055:1:0:0
 Espreso TV
@@ -1761,7 +1749,7 @@ p:Viasat Ukraina
 Viasat Kino World
 p:Viasat Ukraina
 09d9:00312faf:0018:0044:1:0:0
-Epic Drama
+Viasat Epic Drama
 p:Viasat Ukraina
 09db:00312faf:0018:0044:1:0:0
 Tvoe Kino Xit
@@ -1817,66 +1805,6 @@ p:Viasat Ukraina
 0bc2:00312faf:0018:0044:1:0:0
 Eurosport 2 East Europe
 p:Viasat Ukraina
-0065:00312fc2:0004:0001:1:0:0
-MTN Special Events
-p:Unknown
-0067:00312fc2:0004:0001:1:0:0
-Fox News Channel
-p:Unknown
-0068:00312fc2:0004:0001:1:0:0
-Bloomberg TV Europe
-p:Unknown
-0069:00312fc2:0004:0001:1:0:0
-Sky News International
-p:Unknown
-006a:00312fc2:0004:0001:1:0:0
-BBC News
-p:Unknown
-006d:00312fc2:0004:0001:1:0:0
-Sport 24
-p:Unknown
-006e:00312fc2:0004:0001:1:0:0
-Prime One
-p:Unknown
-006f:00312fc2:0004:0001:1:0:0
-Sport 24 Extra
-p:Unknown
-0070:00312fc2:0004:0001:1:0:0
-RTL Deutschland
-p:Unknown
-0073:00312fc2:0004:0001:1:0:0
-TFC Asia-Pacific
-p:Unknown
-0074:00312fc2:0004:0001:1:0:0
-Prime Favorites
-p:Unknown
-0075:00312fc2:0004:0001:1:0:0
-BBC HD
-p:Unknown
-0076:00312fc2:0004:0001:1:0:0
-TVE Internacional Asia
-p:Unknown
-007b:00312fc2:0004:0001:1:0:0
-CNN International Europe
-p:Unknown
-007c:00312fc2:0004:0001:1:0:0
-Food Network East
-p:Unknown
-007d:00312fc2:0004:0001:1:0:0
-HGTV East
-p:Unknown
-007e:00312fc2:0004:0001:1:0:0
-Travel Channel East
-p:Unknown
-0083:00312fc2:0004:0001:1:0:0
-France 24 Français
-p:Unknown
-0084:00312fc2:0004:0001:1:0:0
-Mediaset Italia
-p:Unknown
-00a1:00312fc2:0004:0001:1:0:0
-National Geographic UK
-p:Unknown
 1db0:0031300f:10af:00de:1:0:0
 Cartoon Network France
 p:StarSat
@@ -1926,7 +1854,7 @@ p:StarSat
 DBM TV
 p:StarSat
 1dc1:0031300f:10af:00de:1:0:0
-Lamp Fall TV
+ST Sports Life
 p:StarSat
 1dc3:0031300f:10af:00de:1:0:0
 MCM Top
@@ -1958,6 +1886,15 @@ p:StarSat
 1dcf:0031300f:10af:00de:1:0:0
 Tanzania Safari Channel
 p:StarSat
+1dbf:0031300f:10af:00de:2:0:0
+ELBC Radio
+p:Unknown
+1dc9:0031300f:10af:00de:2:0:0
+Wadata Radio
+p:Unknown
+1dcc:0031300f:10af:00de:2:0:0
+Gambia Radio
+p:Unknown
 1c20:0031305c:10b3:00de:1:0:0
 Zanis TV
 p:StarSat
@@ -2062,6 +1999,9 @@ Hunan TV International
 p:StarSat
 1d51:00313082:10b5:00de:1:0:0
 CCTV 5
+p:StarSat
+1d52:00313082:10b5:00de:1:0:0
+ST World Football
 p:StarSat
 1d53:00313082:10b5:00de:1:0:0
 ST Mania

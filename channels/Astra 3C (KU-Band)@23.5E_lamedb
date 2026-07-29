@@ -308,9 +308,6 @@ p:Unknown
 5173:00eb2e8a:0c8b:0003:2:0:0
 Play
 p:Unknown
-36e3:00eb2e9e:0c8c:0003:1:0:0
-DocuBox HD
-p:Skylink
 36e5:00eb2e9e:0c8c:0003:1:0:0
 Prima Max
 p:Skylink
@@ -324,7 +321,7 @@ p:Skylink
 Prima Zoom
 p:Skylink
 36e9:00eb2e9e:0c8c:0003:1:0:0
-FilmBox Central Europe
+FilmBox+ One Central Europe
 p:Skylink
 36ea:00eb2e9e:0c8c:0003:1:0:0
 CS Film
@@ -348,13 +345,10 @@ p:Skylink
 Senzi
 p:Skylink
 36f2:00eb2e9e:0c8c:0003:1:0:0
-FilmBox Central Europe
+FilmBox+ One Central Europe
 p:Skylink
 36f3:00eb2e9e:0c8c:0003:1:0:0
 Viasat True Crime
-p:Skylink
-36f4:00eb2e9e:0c8c:0003:1:0:0
-Duck TV SD
 p:Skylink
 36f5:00eb2e9e:0c8c:0003:1:0:0
 Cartoon Network Central & Eastern Europe
@@ -371,9 +365,6 @@ p:Skylink
 36fc:00eb2e9e:0c8c:0003:1:0:0
 Disney Channel Hungary & Czechia
 p:Skylink
-36fd:00eb2e9e:0c8c:0003:1:0:0
-Duck TV SD
-p:Skylink
 36fe:00eb2e9e:0c8c:0003:1:0:0
 TV Paprika Czech Republic
 p:Skylink
@@ -381,7 +372,7 @@ p:Skylink
 CNN Prima News
 p:Skylink
 3700:00eb2e9e:0c8c:0003:1:0:0
-Epic Drama
+Viasat Epic Drama
 p:Skylink
 3701:00eb2e9e:0c8c:0003:1:0:0
 Joj Svet
@@ -456,7 +447,7 @@ p:Skylink
 Film Europe
 p:Skylink
 3c2e:00eb2eec:0c90:0003:1:0:0
-FilmBox Extra HD Czechia & Hungary
+FilmBox+ Emotion Czechia & Hungary
 p:Skylink
 3c2f:00eb2eec:0c90:0003:1:0:0
 Viasat Explore East
@@ -465,7 +456,7 @@ p:Skylink
 Sport 1 Czechia
 p:Skylink
 3c34:00eb2eec:0c90:0003:1:0:0
-FilmBox Family
+FilmBox+ Comedy
 p:Skylink
 3c37:00eb2eec:0c90:0003:1:0:0
 JimJam Europe
@@ -477,16 +468,16 @@ p:Skylink
 Retro Music TV
 p:Skylink
 3c3c:00eb2eec:0c90:0003:1:0:0
-RTVS 1
+STVR 1
 p:Skylink
 3c3d:00eb2eec:0c90:0003:1:0:0
-RTVS 2
+STVR 2
 p:Skylink
 3c3e:00eb2eec:0c90:0003:1:0:0
-RTVS 24
+STVR 24
 p:Unknown
 3c3f:00eb2eec:0c90:0003:1:0:0
-RTVS Sport
+STVR Sport
 p:Skylink
 17d8:00eb2f00:0c91:0003:1:0:0
 TVGE Internacional
@@ -543,7 +534,7 @@ p:Skylink
 Ócko Star
 p:Unknown
 030a:00eb2f3a:0c94:0003:1:0:0
-Premium
+Slágr Premium
 p:Skylink
 030b:00eb2f3a:0c94:0003:1:0:0
 Cartoonito Central & Eastern Europe
@@ -609,7 +600,7 @@ p:Skylink
 HBO 3 Central Europe
 p:Skylink
 3cf5:00eb2f4e:0c95:0003:1:0:0
-FilmBox Premium Czechia
+FilmBox+ Hits Czechia
 p:Skylink
 3cf6:00eb2f4e:0c95:0003:1:0:0
 Cinemax 2 Central Europe
@@ -621,7 +612,7 @@ p:Skylink
 Story 4 Czechia
 p:Skylink
 3cf9:00eb2f4e:0c95:0003:1:0:0
-FilmBox Stars Hungary
+FilmBox+ Love & Crime Hungary
 p:Skylink
 3cfb:00eb2f4e:0c95:0003:1:0:0
 Minimax Czechia
@@ -632,9 +623,6 @@ p:Skylink
 3cfd:00eb2f4e:0c95:0003:1:0:0
 TV Osem
 p:Unknown
-3cfe:00eb2f4e:0c95:0003:1:0:0
-Kanal 1
-p:Skylink
 3cff:00eb2f4e:0c95:0003:1:0:0
 History Europe
 p:Skylink
@@ -722,6 +710,12 @@ p:Skylink
 5316:00eb2f61:0c96:0003:1:0:0
 Nova Sport 5
 p:Skylink
+5317:00eb2f61:0c96:0003:1:0:0
+DocuBox HD
+p:Canal Digitaal
+5318:00eb2f61:0c96:0003:1:0:0
+TV Osem
+p:Unknown
 52da:00eb2f61:0c96:0003:2:0:0
 MNM
 p:Canal Digitaal
@@ -739,6 +733,9 @@ Chamber TV
 p:Unknown
 1478:00eb2f88:0c98:0003:1:0:0
 RTL
+p:Unknown
+14a6:00eb2f88:0c98:0003:1:0:0
+SBN International
 p:Unknown
 147d:00eb2f88:0c98:0003:2:0:0
 RTL Radio Lëtzebuerg
@@ -803,6 +800,9 @@ p:Skylink
 52b0:00eb2f9c:0c99:0003:1:0:0
 BBC NL
 p:Canal Digitaal
+52b1:00eb2f9c:0c99:0003:1:0:0
+Story 4
+p:Unknown
 4ed1:00eb2f9c:0c99:0003:2:0:0
 BNR Nieuwsradio
 p:Canal Digitaal
@@ -903,7 +903,7 @@ p:M:Sat TV Srbija
 Telemark
 p:M:Sat TV
 4ee7:00eb2fd6:0c9c:0003:1:0:0
-Skymusic Entertainment TV
+Arena M1 Premium
 p:M:Sat TV
 4eef:00eb2fd6:0c9c:0003:1:0:0
 Love Nature
@@ -916,6 +916,9 @@ Story 4
 p:M:Sat TV
 4efd:00eb2fd6:0c9c:0003:1:0:0
 TV Bor
+p:M:Sat TV
+4f07:00eb2fd6:0c9c:0003:1:0:0
+Arena M2 Premium
 p:M:Sat TV
 4f0f:00eb2fd6:0c9c:0003:1:0:0
 TVE Internacional Europa
@@ -933,7 +936,7 @@ p:M:Sat TV
 Elita 3
 p:M:Sat TV
 4f23:00eb2fd6:0c9c:0003:1:0:0
-Arena Premium 4
+Arena 4 Premium
 p:M:Sat TV
 4f24:00eb2fd6:0c9c:0003:1:0:0
 Baby TV Europe
@@ -945,7 +948,7 @@ p:M:Sat TV
 Dokumentarna TV
 p:M:Sat TV
 4f3f:00eb2fd6:0c9c:0003:1:0:0
-Arena Premium 5
+Arena 5 Premium
 p:M:Sat TV
 3391:00eb2fea:0c9d:0003:1:0:0
 TV Nova
@@ -1092,7 +1095,7 @@ p:M:Sat TV Srbija
 Viasat Kino
 p:M:Sat TV
 4ed3:00eb3010:0c9f:0003:1:0:0
-FilmBox Premium Adria
+FilmBox+ Hits Adria
 p:M:Sat TV
 4ed7:00eb3010:0c9f:0003:1:0:0
 Dizi
@@ -1118,9 +1121,6 @@ p:M:Sat TV
 4ef0:00eb3010:0c9f:0003:1:0:0
 Travelxp HD Europe
 p:M:Sat TV
-4efc:00eb3010:0c9f:0003:1:0:0
-Moja Happy Muzika
-p:M:Sat TV
 4f02:00eb3010:0c9f:0003:1:0:0
 Digi 24
 p:M:Sat TV
@@ -1131,7 +1131,7 @@ p:M:Sat TV
 BBC News Europe
 p:M:Sat TV
 4f19:00eb3010:0c9f:0003:1:0:0
-Epic Drama
+Viasat Epic Drama
 p:M:Sat TV
 4f20:00eb3010:0c9f:0003:1:0:0
 Elita 2
@@ -1140,10 +1140,10 @@ p:M:Sat TV
 Elita 4
 p:M:Sat TV
 4f2f:00eb3010:0c9f:0003:1:0:0
-Arena Premium 5
+Arena 5 Premium
 p:M:Sat TV
 4f3d:00eb3010:0c9f:0003:1:0:0
-Private TV
+Arena M3 Premium
 p:M:Sat TV
 4f40:00eb3010:0c9f:0003:1:0:0
 Arena Sport 7
@@ -1431,7 +1431,7 @@ p:M:Sat TV Srbija
 Viasat Explore East
 p:M:Sat TV Srbija
 4ea0:00eb3072:0ca4:0003:1:0:0
-Arena Premium 2
+Arena 2 Premium
 p:M:Sat TV Srbija
 4ea4:00eb3072:0ca4:0003:1:0:0
 Investigation Discovery Europe
@@ -1443,7 +1443,7 @@ p:M:Sat TV Srbija
 Toxic Folk
 p:M:Sat TV Bosna & Hercegovina
 4ea9:00eb3072:0ca4:0003:1:0:0
-Arena Premium 1
+Arena 1 Premium
 p:M:Sat TV Srbija
 4eac:00eb3072:0ca4:0003:1:0:0
 24 Kitchen Srbija
@@ -1452,7 +1452,7 @@ p:M:Sat TV Srbija
 Arena Sport 10
 p:M:Sat TV Srbija
 4eaf:00eb3072:0ca4:0003:1:0:0
-Arena Premium 1
+Arena 1 Premium
 p:M:Sat TV Srbija
 4eb0:00eb3072:0ca4:0003:1:0:0
 RTL Croatia World
@@ -1518,7 +1518,7 @@ p:M:Sat TV Srbija
 Arena Fight
 p:M:Sat TV Srbija
 4eca:00eb3086:0ca5:0003:1:0:0
-Arena Premium 3
+Arena 3 Premium
 p:M:Sat TV Srbija
 4ecb:00eb3086:0ca5:0003:1:0:0
 Fox News Channel
@@ -1574,11 +1574,8 @@ p:M:Sat TV
 4f06:00eb3086:0ca5:0003:1:0:0
 Etno TV
 p:M:Sat TV
-4f07:00eb3086:0ca5:0003:1:0:0
-Favorit TV
-p:M:Sat TV
 4f08:00eb3086:0ca5:0003:1:0:0
-Arena Premium 3
+Arena 3 Premium
 p:M:Sat TV Srbija
 4f09:00eb3086:0ca5:0003:1:0:0
 Arena Sport 6
@@ -1743,7 +1740,7 @@ p:M:Sat TV Bosna & Hercegovina
 Arena Sport 9
 p:M:Sat TV Srbija
 4f3e:00eb3099:0ca6:0003:1:0:0
-Arena Premium 4
+Arena 4 Premium
 p:M:Sat TV
 5157:00eb3099:0ca6:0003:2:0:0
 Radio BN
@@ -1857,7 +1854,7 @@ p:M:Sat TV Srbija
 M2
 p:M:Sat TV
 4e5b:00eb30c0:0ca8:0003:1:0:0
-Arena Premium 2
+Arena 2 Premium
 p:M:Sat TV Srbija
 4e5d:00eb30c0:0ca8:0003:1:0:0
 Muzsika TV
@@ -1921,7 +1918,7 @@ BN
 p:M:Sat TV Srbija
 4e8a:00eb30c0:0ca8:0003:1:0:0
 TVCG 1
-p:M:Sat TV Crna Gora
+p:Unknown
 4e8b:00eb30c0:0ca8:0003:1:0:0
 TVCG 2
 p:M:Sat TV

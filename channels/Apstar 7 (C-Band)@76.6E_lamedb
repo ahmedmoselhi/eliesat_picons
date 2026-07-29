@@ -1,0 +1,305 @@
+eDVB services /4/
+transponders
+02fe0e47:0000:ff00
+	s 3655000:2916000:0:0:766:2:0:1:0:2:2
+/
+02fe0e92:0001:ffff
+	s 3730000:4165000:0:0:766:2:0:1:0:2:2
+/
+02fe0e9c:0001:ffff
+	s 3740000:3750000:1:0:766:2:0:1:0:2:2
+/
+02fe0ea1:0001:0001
+	s 3745000:5000000:1:0:766:2:0:1:0:2:2
+/
+02fe0ea9:2846:053b
+	s 3753000:8330000:1:0:766:2:0:1:0:2:2
+/
+02fe0eb0:0001:ffff
+	s 3760000:3330000:0:0:766:2:0:1:0:2:2
+/
+02fe0eb4:0001:ffff
+	s 3764000:3330000:0:0:766:2:0:1:0:2:2
+/
+02fe0ebc:0000:0000
+	s 3772000:10000000:0:0:766:2:0:1:0:2:2
+/
+02fe0ec4:0001:0001
+	s 3780000:30000000:1:0:766:2:0:1:0:2:2
+/
+02fe0ecc:0008:0001
+	s 3788000:10700000:0:0:766:2:0:0:0:2:2
+/
+02fe0ee3:00f6:0001
+	s 3811000:11663000:0:0:766:2:0:1:0:2:2
+/
+02fe0eec:27da:0539
+	s 3820000:30000000:1:0:766:2:0:1:0:2:2
+/
+02fe0f21:0001:ffff
+	s 3873000:8000000:1:0:766:2:0:1:0:2:2
+/
+02fe0f78:0000:0000
+	s 3960000:30000000:0:0:766:2:0:1:0:2:2
+/
+02fe0f94:0001:0001
+	s 3988000:1600000:1:0:766:2:0:1:0:2:2
+/
+02fe0f9b:4321:1234
+	s 3995000:3200000:1:0:766:2:0:1:0:2:2
+/
+02fe0fa0:0001:765e
+	s 4000000:30000000:0:0:766:2:0:1:0:2:2
+/
+02fe0fdc:0003:0001
+	s 4060000:30000000:1:0:766:2:0:1:0:2:2
+/
+end
+services
+0065:02fe0e47:0000:ff00:1:0:0
+Kantipur TV
+p:Unknown
+0001:02fe0e92:0001:ffff:1:0:0
+Asia One News
+p:Unknown
+0001:02fe0e9c:0001:ffff:1:0:0
+Public News
+p:Unknown
+0001:02fe0ea1:0001:0001:1:0:0
+TV One
+p:Unknown
+0002:02fe0ea1:0001:0001:1:0:0
+News One
+p:Unknown
+0003:02fe0ea1:0001:0001:1:0:0
+Waseb TV
+p:Unknown
+0001:02fe0ea9:2846:053b:1:0:0
+Kids Zone
+p:Unknown
+0008:02fe0ea9:2846:053b:1:0:0
+Arsh TV
+p:Unknown
+000a:02fe0ea9:2846:053b:1:0:0
+Planet Fun
+p:Unknown
+000e:02fe0ea9:2846:053b:1:0:0
+Capital TV
+p:Unknown
+000f:02fe0ea9:2846:053b:1:0:0
+Inplus Pakistan
+p:Unknown
+001e:02fe0ea9:2846:053b:1:0:0
+God Stands TV
+p:Unknown
+0001:02fe0eb0:0001:ffff:1:0:0
+NTV Kohalpur
+p:Unknown
+0001:02fe0eb4:0001:ffff:1:0:0
+NTV Itahari
+p:Unknown
+0002:02fe0ebc:0000:0000:1:0:0
+NTV News
+p:Unknown
+0003:02fe0ebc:0000:0000:1:0:0
+NTV National
+p:Unknown
+0004:02fe0ebc:0000:0000:1:0:0
+NTV Plus
+p:Unknown
+0001:02fe0ebc:0000:0000:2:0:0
+Radio Nepal
+p:Unknown
+0003:02fe0ec4:0001:0001:1:0:0
+Ten Sports Pakistan
+p:Unknown
+0071:02fe0ec4:0001:0001:1:0:0
+AXN East Asia
+p:Unknown
+0040:02fe0ec4:0001:0001:1:0:0
+Macau Lotus TV
+p:Unknown
+0065:02fe0ec4:0001:0001:1:0:0
+HKS TV
+p:Unknown
+0066:02fe0ec4:0001:0001:1:0:0
+HKS TV Variety
+p:Unknown
+0067:02fe0ec4:0001:0001:1:0:0
+HKS TV Travel
+p:Unknown
+0068:02fe0ec4:0001:0001:1:0:0
+HKS TV Fashion
+p:Unknown
+0069:02fe0ec4:0001:0001:1:0:0
+HKS TV Finance
+p:Unknown
+006a:02fe0ec4:0001:0001:1:0:0
+HKS TV International
+p:Unknown
+03e9:02fe0ec4:0001:0001:1:0:0
+FashionTV Asia
+p:Unknown
+03ea:02fe0ec4:0001:0001:1:0:0
+FashionTV India
+p:Unknown
+0003:02fe0ecc:0008:0001:1:0:0
+CTN
+p:Unknown
+0013:02fe0ecc:0008:0001:1:0:0
+SBN International
+p:Unknown
+012d:02fe0ee3:00f6:0001:1:0:0
+Star Sports China
+p:Unknown
+012e:02fe0ee3:00f6:0001:1:0:0
+Star Sports 2 China
+p:Unknown
+012f:02fe0ee3:00f6:0001:1:0:0
+National Geographic China
+p:Unknown
+0130:02fe0ee3:00f6:0001:1:0:0
+Star Movies China
+p:Unknown
+0001:02fe0eec:27da:0539:1:0:0
+Discover Pakistan
+p:Unknown
+000f:02fe0eec:27da:0539:1:0:0
+Special TV
+p:Unknown
+0019:02fe0eec:27da:0539:1:0:0
+Sab TV
+p:Unknown
+0021:02fe0eec:27da:0539:1:0:0
+Venus HD
+p:Unknown
+0028:02fe0eec:27da:0539:1:0:0
+A Plus
+p:Unknown
+002d:02fe0eec:27da:0539:1:0:0
+Channel 5 News HD
+p:Unknown
+0032:02fe0eec:27da:0539:1:0:0
+Play Entertainment
+p:Unknown
+0037:02fe0eec:27da:0539:1:0:0
+TV Today
+p:Unknown
+003c:02fe0eec:27da:0539:1:0:0
+Aur Life HD
+p:Unknown
+0041:02fe0eec:27da:0539:1:0:0
+Global 1
+p:Unknown
+0055:02fe0eec:27da:0539:1:0:0
+Alief TV
+p:Unknown
+005a:02fe0eec:27da:0539:1:0:0
+Aur News
+p:Unknown
+005f:02fe0eec:27da:0539:1:0:0
+Sachal News Network
+p:Unknown
+0001:02fe0f21:0001:ffff:1:0:0
+Bol News
+p:Unknown
+0002:02fe0f21:0001:ffff:1:0:0
+Bol Entertainment
+p:Unknown
+0004:02fe0f78:0000:0000:1:0:0
+HBO Asia
+p:Unknown
+000b:02fe0f78:0000:0000:1:0:0
+HBO Hits Asia
+p:Unknown
+000c:02fe0f78:0000:0000:1:0:0
+HBO Signature Asia
+p:Unknown
+000d:02fe0f78:0000:0000:1:0:0
+HBO Family Asia
+p:Unknown
+0097:02fe0f78:0000:0000:1:0:0
+HBO Asia
+p:Unknown
+00a1:02fe0f78:0000:0000:1:0:0
+Cinemax Asia
+p:Unknown
+00a3:02fe0f78:0000:0000:1:0:0
+Cinemax Asia
+p:Unknown
+00a4:02fe0f78:0000:0000:1:0:0
+Cinemax Asia
+p:Unknown
+00a6:02fe0f78:0000:0000:1:0:0
+HBO Taiwan
+p:Unknown
+00a7:02fe0f78:0000:0000:1:0:0
+HBO Taiwan
+p:Unknown
+0010:02fe0f94:0001:0001:1:0:0
+BuyPass TV
+p:Unknown
+0065:02fe0f9b:4321:1234:1:0:0
+TV Maldives
+p:Unknown
+0004:02fe0f9b:4321:1234:2:0:0
+Dhivehi Raajjeyge Adu
+p:Unknown
+0006:02fe0f9b:4321:1234:2:0:0
+Dhivehi FM
+p:Unknown
+03ea:02fe0fa0:0001:765e:1:0:0
+Luxe TV
+p:Unknown
+03eb:02fe0fa0:0001:765e:1:0:0
+Love Nature
+p:Unknown
+03ec:02fe0fa0:0001:765e:1:0:0
+MyZen TV
+p:Unknown
+03ed:02fe0fa0:0001:765e:1:0:0
+Trace Sport Stars
+p:Unknown
+03ee:02fe0fa0:0001:765e:1:0:0
+Mezzo Live Asie
+p:Unknown
+03ef:02fe0fa0:0001:765e:1:0:0
+Trace Urban Southeast Asia
+p:Unknown
+03f2:02fe0fa0:0001:765e:1:0:0
+Museum TV International
+p:Unknown
+0001:02fe0fdc:0003:0001:1:0:0
+ARY Zindagi
+p:Unknown
+0003:02fe0fdc:0003:0001:1:0:0
+ARY Digital UK
+p:Unknown
+0004:02fe0fdc:0003:0001:1:0:0
+ARY Digital Asia
+p:Unknown
+0006:02fe0fdc:0003:0001:1:0:0
+ARY World
+p:Unknown
+0007:02fe0fdc:0003:0001:1:0:0
+ARY QTV
+p:Unknown
+0008:02fe0fdc:0003:0001:1:0:0
+ARY Musik
+p:Unknown
+0009:02fe0fdc:0003:0001:1:0:0
+ARY Digital UAE
+p:Unknown
+000a:02fe0fdc:0003:0001:1:0:0
+ARY News UK & Europe
+p:Unknown
+000b:02fe0fdc:0003:0001:1:0:0
+ARY News Pakistan
+p:Unknown
+000c:02fe0fdc:0003:0001:1:0:0
+A Sports
+p:Unknown
+000d:02fe0fdc:0003:0001:1:0:0
+ARY Digital USA
+p:Unknown
+end

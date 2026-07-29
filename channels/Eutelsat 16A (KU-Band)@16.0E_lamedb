@@ -106,9 +106,9 @@ transponders
 	s 12522000:10833000:1:0:160:2:0:1:0:2:2
 /
 00a030f9:14b4:2064
-	s 12537000:13910000:1:0:160:2:0:1:0:2:2
+	s 12537000:13918000:1:0:160:2:0:1:0:2:2
 /
-00a03112:eb28:016f
+00a03112:eb28:016e
 	s 12562000:30000000:0:0:160:2:0:1:0:2:2
 /
 00a03118:427e:016e
@@ -129,14 +129,11 @@ transponders
 00a03192:0001:0001
 	s 12690000:2963000:0:0:160:2:0:0:0:2:2
 /
-00a03195:0001:0001
+00a03195:000b:0001
 	s 12693000:2222000:0:0:160:2:0:1:0:2:2
 /
 00a0319c:0065:0001
 	s 12700000:9880000:0:0:160:2:0:0:0:2:2
-/
-00a031af:0064:0064
-	s 12719000:5000000:0:0:160:2:0:1:0:2:2
 /
 00a031b4:0065:ffff
 	s 12724000:4100000:0:0:160:2:0:1:0:2:2
@@ -150,23 +147,23 @@ transponders
 end
 services
 05dd:00a029e1:4e84:016e:1:0:0
-Arena Premium 3
+Arena 3 Premium
 p:M:Sat TV Srbija
 05de:00a029e1:4e84:016e:1:0:0
 Arena Tenis
-p:M:Sat TV
+p:M:Sat TV Srbija
 05df:00a029e1:4e84:016e:1:0:0
 Arena Sport 3
 p:M:Sat TV Srbija
 05e0:00a029e1:4e84:016e:1:0:0
 Arena Sport 6
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 05e1:00a029e1:4e84:016e:1:0:0
 Arena Sport 9
 p:M:Sat TV Srbija
 05e2:00a029e1:4e84:016e:1:0:0
 Premier League TV
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 05e3:00a029e1:4e84:016e:1:0:0
 Blic TV
 p:M:Sat TV Srbija
@@ -181,31 +178,31 @@ EuroNews Serbia
 p:M:Sat TV Srbija
 05e7:00a029e1:4e84:016e:1:0:0
 Superstar 3
-p:M:Sat TV
+p:M:Sat TV Srbija
 05e8:00a029e1:4e84:016e:1:0:0
 Informer TV
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 05e9:00a029e1:4e84:016e:1:0:0
 Kazbuka
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 05ea:00a029e1:4e84:016e:1:0:0
 Dox TV
 p:M:Sat TV Srbija
 05eb:00a029e1:4e84:016e:1:0:0
 HRT 3
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 05ec:00a029e1:4e84:016e:1:0:0
 RTRS Plus
 p:M:Sat TV Srbija
 05ed:00a029e1:4e84:016e:1:0:0
 Hype 2 TV
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 05ee:00a029e1:4e84:016e:1:0:0
 Toxic TV
 p:M:Sat TV Srbija
 05ef:00a029e1:4e84:016e:1:0:0
 Nis TV
-p:M:Sat TV
+p:M:Sat TV Srbija
 05f0:00a029e1:4e84:016e:1:0:0
 TV Hram
 p:M:Sat TV Srbija
@@ -217,7 +214,7 @@ Pink Action
 p:M:Sat TV Srbija
 05f3:00a029e1:4e84:016e:1:0:0
 RTS Nauka
-p:M:Sat TV
+p:M:Sat TV Srbija
 05f4:00a029e1:4e84:016e:1:0:0
 M:Sat TV Info
 p:M:Sat TV Srbija
@@ -229,7 +226,7 @@ RTS Zivot
 p:M:Sat TV Srbija
 05f7:00a029e1:4e84:016e:1:0:0
 TV Lav Plus
-p:M:Sat TV
+p:M:Sat TV Srbija
 02da:00a02a0a:4f4c:016e:1:0:0
 City News Albania
 p:DigitAlb
@@ -295,9 +292,6 @@ Film Komedi
 p:DigitAlb
 139c:00a02a0a:4f4c:016e:1:0:0
 Dorcel TV
-p:DigitAlb
-1432:00a02a0a:4f4c:016e:1:0:0
-Big Brother VIP Albania 1
 p:DigitAlb
 0708:00a02a0a:4f4c:016e:2:0:0
 Top Albania Radio
@@ -371,38 +365,23 @@ p:DigitAlb
 13ba:00a02a34:5014:016e:1:0:0
 Tring Sport 1
 p:DigitAlb
-1450:00a02a34:5014:016e:1:0:0
-Big Brother VIP Albania 2
-p:DigitAlb
 146e:00a02a34:5014:016e:1:0:0
 Tring Sport 2
 p:DigitAlb
 148c:00a02a34:5014:016e:1:0:0
 Tring Sport 3
 p:DigitAlb
-0066:00a02a34:ec54:016f:1:0:0
-Qausain TV
-p:Unknown
 0068:00a02a34:ec54:016f:1:0:0
 CRTV
 p:Unknown
-006b:00a02a34:ec54:016f:1:0:0
-Sen TV
-p:Unknown
 006c:00a02a34:ec54:016f:1:0:0
 CRTV News
-p:Unknown
-006f:00a02a34:ec54:016f:1:0:0
-URHC TV
 p:Unknown
 0073:00a02a34:ec54:016f:1:0:0
 RTB TV
 p:Unknown
 0076:00a02a34:ec54:016f:1:0:0
 CRTV Sports and Entertainment
-p:Unknown
-0079:00a02a34:ec54:016f:1:0:0
-LM TV Français
 p:Unknown
 0083:00a02a34:ec54:016f:1:0:0
 Arewa 24
@@ -413,44 +392,23 @@ p:Unknown
 00ca:00a02a34:ec54:016f:1:0:0
 BB 24
 p:Unknown
-00cd:00a02a34:ec54:016f:1:0:0
-France 24 Français
-p:Unknown
-0159:00a02a34:ec54:016f:1:0:0
-Canal 2 International
-p:Unknown
-0169:00a02a34:ec54:016f:1:0:0
-Impact TV
-p:Unknown
 0259:00a02a34:ec54:016f:1:0:0
 Africa TV 3
 p:Unknown
-0275:00a02a34:ec54:016f:1:0:0
-Malikia TV
-p:Unknown
 0280:00a02a34:ec54:016f:1:0:0
-Voxafrica Afrique
+VoxAfrica TV Français
 p:Unknown
 0281:00a02a34:ec54:016f:1:0:0
 Africa TV 3 Qur'an
 p:Unknown
-0282:00a02a34:ec54:016f:1:0:0
-Alwilayah TV Hausa
+0287:00a02a34:ec54:016f:1:0:0
+Voir + Afrique
 p:Unknown
-0283:00a02a34:ec54:016f:1:0:0
-Paradise TV
-p:Unknown
-0069:00a02a34:ec54:016f:2:0:0
-CRTV National Radio
-p:Unknown
-006d:00a02a34:ec54:016f:2:0:0
-Zik FM
+0288:00a02a34:ec54:016f:1:0:0
+Equinoxe TV
 p:Unknown
 0074:00a02a34:ec54:016f:2:0:0
 RTB Radio
-p:Unknown
-01e0:00a02a34:ec54:016f:2:0:0
-Radio Immaculée Conception
 p:Unknown
 0064:00a02a5d:50dc:016e:1:0:0
 RTV 21 Sat
@@ -533,6 +491,9 @@ p:DigitAlb
 03fe:00a02a87:51a4:016e:1:0:0
 Star Channel Srbija
 p:DigitAlb
+0401:00a02a87:51a4:016e:1:0:0
+Nicktoons Scandinavia
+p:DigitAlb
 0402:00a02a87:51a4:016e:1:0:0
 Star Life Regional
 p:DigitAlb
@@ -603,7 +564,7 @@ p:Unknown
 Viasat History East
 p:A1 Croatia
 0453:00a02ab0:526c:016e:1:0:0
-Epic Drama
+Viasat Epic Drama
 p:A1 Croatia
 0454:00a02ab0:526c:016e:1:0:0
 Viasat Explore East
@@ -612,7 +573,7 @@ p:A1 Croatia
 Viasat True Crime
 p:Unknown
 0458:00a02ab0:526c:016e:1:0:0
-Epic Drama
+Viasat Epic Drama
 p:Antik Sat
 045a:00a02ab0:526c:016e:1:0:0
 Viasat Nature East
@@ -645,7 +606,7 @@ p:Antik Sat
 CT 2
 p:Antik Sat
 0485:00a02b2f:76c0:016e:1:0:0
-Arena Sport 1
+Extasy 4K
 p:Antik Sat
 0486:00a02b2f:76c0:016e:1:0:0
 HBO Czechia
@@ -662,9 +623,6 @@ p:Antik Sat
 048a:00a02b2f:76c0:016e:1:0:0
 Prima Love SK
 p:Antik Sat
-048b:00a02b2f:76c0:016e:1:0:0
-Discovery Channel Central Europe
-p:Antik Sat
 048c:00a02b2f:76c0:016e:1:0:0
 Joj Svet
 p:Antik Sat
@@ -673,12 +631,6 @@ Prima SK
 p:Antik Sat
 048e:00a02b2f:76c0:016e:1:0:0
 Sport 1 Czechia
-p:Antik Sat
-048f:00a02b2f:76c0:016e:1:0:0
-TLC Pan Regional
-p:Antik Sat
-0490:00a02b2f:76c0:016e:1:0:0
-Joj Sport 2
 p:Antik Sat
 0491:00a02b2f:76c0:016e:1:0:0
 Auto Motor und Sport
@@ -699,10 +651,10 @@ p:Antik Sat
 Markíza Klasik
 p:Antik Sat
 04b5:00a02b56:76c1:016e:1:0:0
-RTVS 24
+STVR 24
 p:Antik Sat
 04b6:00a02b56:76c1:016e:1:0:0
-Ócko
+Discovery Channel Central Europe
 p:Antik Sat
 04b7:00a02b56:76c1:016e:1:0:0
 Minimax Czechia
@@ -712,9 +664,6 @@ CS Mystery
 p:Antik Sat
 04b9:00a02b56:76c1:016e:1:0:0
 HBO 2 Central Europe
-p:Antik Sat
-04ba:00a02b56:76c1:016e:1:0:0
-Arena Sport 2
 p:Antik Sat
 04bb:00a02b56:76c1:016e:1:0:0
 Extasy TV
@@ -737,6 +686,9 @@ p:Antik Sat
 04c1:00a02b56:76c1:016e:1:0:0
 Film + Czechia
 p:Antik Sat
+04c3:00a02b56:76c1:016e:1:0:0
+TLC Pan Regional
+p:Antik Sat
 04c5:00a02b56:76c1:016e:1:0:0
 Joj Cinema
 p:Antik Sat
@@ -747,7 +699,7 @@ p:Antik Sat
 Nickelodeon HD
 p:Antik Sat
 04c8:00a02b56:76c1:016e:1:0:0
-RTVS Sport
+STVR Sport
 p:Antik Sat
 04c9:00a02b56:76c1:016e:1:0:0
 Jojko
@@ -944,9 +896,6 @@ p:Unknown
 02ef:00a02bdf:9d08:016e:1:0:0
 O Kanal
 p:Total TV Bosna & Hercegovina
-02f0:00a02bdf:9d08:016e:1:0:0
-Nickelodeon Europe
-p:Total TV Bosna & Hercegovina
 02f1:00a02bdf:9d08:016e:1:0:0
 Sport Klub 3 Slovenija
 p:Total TV Slovenija
@@ -969,7 +918,7 @@ p:Total TV Bosna & Hercegovina
 E! Europe
 p:Total TV Bosna & Hercegovina
 02f8:00a02bdf:9d08:016e:1:0:0
-Arena Premium 3
+Arena 3 Premium
 p:Total TV
 02f9:00a02bdf:9d08:016e:1:0:0
 National Geographic Channel HD Europe
@@ -1033,13 +982,13 @@ RTS Muzika
 p:M:Sat TV Srbija
 1134:00a02be2:9ca4:016e:1:0:0
 RTS Poletarac
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 1135:00a02be2:9ca4:016e:1:0:0
 RTS Trezor
 p:M:Sat TV Srbija
 1136:00a02be2:9ca4:016e:1:0:0
 Adria TV
-p:M:Sat TV Crna Gora
+p:M:Sat TV Srbija
 0033:00a02bfe:0001:016e:1:0:0
 Alternativna TV
 p:M:Sat TV Srbija
@@ -1069,7 +1018,7 @@ V5
 p:M:Sat TV Srbija
 003c:00a02bfe:0001:016e:1:0:0
 Zona HD Plus
-p:Unknown
+p:M:Sat TV Srbija
 003d:00a02bfe:0001:016e:1:0:0
 TV Most
 p:M:Sat TV Srbija
@@ -1081,13 +1030,13 @@ TV 5 Uzice
 p:M:Sat TV Srbija
 0040:00a02bfe:0001:016e:1:0:0
 Telemark
-p:Unknown
+p:M:Sat TV Srbija
 0041:00a02bfe:0001:016e:1:0:0
 TV Novi Pazar
 p:M:Sat TV Srbija
 0042:00a02bfe:0001:016e:1:0:0
 Ona TV
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 0043:00a02bfe:0001:016e:1:0:0
 TV K3
 p:M:Sat TV Srbija
@@ -1099,13 +1048,13 @@ OBN
 p:M:Sat TV Srbija
 0067:00a02bfe:0001:016e:1:0:0
 Minimax Serbia
-p:Total TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 0074:00a02bfe:0001:016e:1:0:0
 TV Duga +
 p:Unknown
 0076:00a02bfe:0001:016e:1:0:0
 AMC Balkan
-p:Total TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 0008:00a02bfe:0001:016e:2:0:0
 Radio Stari Grad
 p:Unknown
@@ -1125,31 +1074,28 @@ p:Unknown
 Mária Rádió
 p:Unknown
 0a8d:00a02c13:9dd0:016e:1:0:0
-FilmBox Premium Adria
-p:Total TV Bosna & Hercegovina
+FilmBox+ Hits Adria
+p:M:Sat TV Srbija
 0a8e:00a02c13:9dd0:016e:1:0:0
 Dizi
-p:Unknown
+p:M:Sat TV Srbija
 0a8f:00a02c13:9dd0:016e:1:0:0
 Dizi
 p:A1 Croatia
 0a90:00a02c13:9dd0:016e:1:0:0
 Dizi
 p:DigitAlb
-0a91:00a02c13:9dd0:016e:1:0:0
-Gametoon
-p:A1 Croatia
 0a92:00a02c13:9dd0:016e:1:0:0
 FightBox HD
 p:DigitAlb
 0a94:00a02c13:9dd0:016e:1:0:0
-FilmBox Arthouse Worldwide
+FilmBox+ Festival Worldwide
 p:Total TV Bosna & Hercegovina
 0a95:00a02c13:9dd0:016e:1:0:0
-FilmBox Stars Adria
+FilmBox+ Love & Crime Adria
 p:Total TV Bosna & Hercegovina
 0a96:00a02c13:9dd0:016e:1:0:0
-FilmBox Extra HD Adria
+FilmBox+ Emotion Adria
 p:Total TV Bosna & Hercegovina
 0a97:00a02c13:9dd0:016e:1:0:0
 DocuBox HD
@@ -1166,9 +1112,6 @@ p:Total TV Bosna & Hercegovina
 0a9b:00a02c13:9dd0:016e:1:0:0
 Erox HD
 p:Total TV Bosna & Hercegovina
-0a9c:00a02c13:9dd0:016e:1:0:0
-360 Tune Box
-p:Unknown
 0aa0:00a02c13:9dd0:016e:1:0:0
 360 Tune Box
 p:Total TV Bosna & Hercegovina
@@ -1176,31 +1119,31 @@ p:Total TV Bosna & Hercegovina
 FashionBox HD
 p:Total TV Bosna & Hercegovina
 0aa3:00a02c13:9dd0:016e:1:0:0
-FilmBox Baltic
+FilmBox+ One Baltic
 p:Unknown
 0aa6:00a02c13:9dd0:016e:1:0:0
 Fast & FunBox HD
 p:DigitAlb
 0aa7:00a02c13:9dd0:016e:1:0:0
-FilmBox Stars Adria
+FilmBox+ Love & Crime Adria
 p:Unknown
 0aa8:00a02c13:9dd0:016e:1:0:0
-FilmBox Extra HD Adria
+FilmBox+ Emotion Adria
 p:Unknown
 0aa9:00a02c13:9dd0:016e:1:0:0
 Gametoon
 p:Total TV Bosna & Hercegovina
 0aaa:00a02c13:9dd0:016e:1:0:0
-FilmBox Premium Adria
+FilmBox+ Hits Adria
 p:DigitAlb
 0aab:00a02c13:9dd0:016e:1:0:0
 DocuBox HD
 p:DigitAlb
 07d1:00a02c3c:9e98:016e:1:0:0
-RTVS 1
+STVR 1
 p:Antik Sat
 07d2:00a02c3c:9e98:016e:1:0:0
-RTVS 2
+STVR 2
 p:Antik Sat
 07d3:00a02c3c:9e98:016e:1:0:0
 Markíza
@@ -1221,7 +1164,7 @@ p:Antik Sat
 Markíza Krimi
 p:Antik Sat
 07db:00a02c3c:9e98:016e:1:0:0
-Kanal 1
+Joj Sport
 p:Antik Sat
 07dc:00a02c3c:9e98:016e:1:0:0
 TA 3
@@ -1230,7 +1173,7 @@ p:Antik Sat
 MCM Top
 p:Antik Sat
 0065:00a02c66:9f60:016e:1:0:0
-Arena Premium 1
+Arena 1 Premium
 p:M:Sat TV Srbija
 0067:00a02c66:9f60:016e:1:0:0
 Arena Sport 1
@@ -1258,7 +1201,7 @@ Balkan Trip
 p:M:Sat TV Srbija
 006f:00a02c66:9f60:016e:1:0:0
 Ekovizija
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 0070:00a02c66:9f60:016e:1:0:0
 Tanjug TV
 p:M:Sat TV Srbija
@@ -1270,19 +1213,19 @@ Kurir TV
 p:M:Sat TV Srbija
 0073:00a02c66:9f60:016e:1:0:0
 Dexy TV
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 0074:00a02c66:9f60:016e:1:0:0
 HRT 2
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 0075:00a02c66:9f60:016e:1:0:0
 RTRS TV
 p:M:Sat TV Srbija
 0076:00a02c66:9f60:016e:1:0:0
 Una TV
-p:M:Sat TV
+p:M:Sat TV Srbija
 0077:00a02c66:9f60:016e:1:0:0
 Toxic Folk
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 0078:00a02c66:9f60:016e:1:0:0
 SOS Kanal Plus
 p:M:Sat TV Srbija
@@ -1305,11 +1248,11 @@ p:M:Sat TV Srbija
 BN Music
 p:M:Sat TV Srbija
 0080:00a02c66:9f60:016e:1:0:0
-Arena Premium 4
-p:M:Sat TV
+Arena 4 Premium
+p:M:Sat TV Srbija
 0081:00a02c66:9f60:016e:1:0:0
 Dokumentarna TV
-p:M:Sat TV
+p:M:Sat TV Srbija
 0673:00a02c7b:9fc4:016e:1:0:0
 Sport Klub Fight
 p:Total TV Bosna & Hercegovina
@@ -1379,6 +1322,9 @@ p:Total TV Bosna & Hercegovina
 0fa1:00a02c8a:0190:07fe:1:0:0
 O Kanal
 p:Unknown
+0fa2:00a02c8a:0190:07fe:1:0:0
+Alternativna TV
+p:Unknown
 0fa3:00a02c8a:0190:07fe:1:0:0
 Nova BH
 p:Unknown
@@ -1425,11 +1371,11 @@ p:Unknown
 TV K3
 p:Unknown
 1195:00a02ca5:a028:016e:1:0:0
-Arena Premium 2
+Arena 2 Premium
 p:M:Sat TV Srbija
 1196:00a02ca5:a028:016e:1:0:0
-Arena Premium 5
-p:M:Sat TV
+Arena 5 Premium
+p:M:Sat TV Srbija
 1197:00a02ca5:a028:016e:1:0:0
 Arena Sport 2
 p:M:Sat TV Srbija
@@ -1441,7 +1387,7 @@ Arena Sport 8
 p:M:Sat TV Srbija
 119a:00a02ca5:a028:016e:1:0:0
 Arena Adrenalin
-p:M:Sat TV
+p:M:Sat TV Srbija
 119b:00a02ca5:a028:016e:1:0:0
 Agro TV
 p:M:Sat TV Srbija
@@ -1456,7 +1402,7 @@ Bloomberg TV Adria
 p:M:Sat TV Srbija
 119f:00a02ca5:a028:016e:1:0:0
 Newsmax Balkans
-p:M:Sat TV
+p:M:Sat TV Srbija
 11a0:00a02ca5:a028:016e:1:0:0
 Superstar 2
 p:M:Sat TV Srbija
@@ -1465,7 +1411,7 @@ Hype TV
 p:M:Sat TV Srbija
 11a2:00a02ca5:a028:016e:1:0:0
 Toxic Rap
-p:M:Sat TV Bosna & Hercegovina
+p:M:Sat TV Srbija
 11a3:00a02ca5:a028:016e:1:0:0
 Studio B
 p:M:Sat TV Srbija
@@ -1477,7 +1423,7 @@ Prva Max
 p:M:Sat TV Srbija
 11a6:00a02ca5:a028:016e:1:0:0
 RTL 2
-p:M:Sat TV
+p:M:Sat TV Srbija
 11a7:00a02ca5:a028:016e:1:0:0
 RTL Croatia World
 p:M:Sat TV Srbija
@@ -1533,7 +1479,7 @@ p:Total TV Bosna & Hercegovina
 Nova Series
 p:Total TV Bosna & Hercegovina
 036a:00a02ccf:c3b4:016e:1:0:0
-Arena Premium 4
+Arena 4 Premium
 p:Total TV
 036c:00a02ccf:c3b4:016e:1:0:0
 IDJ TV
@@ -1560,11 +1506,11 @@ p:Unknown
 Radio Si
 p:Unknown
 0259:00a02ccf:c418:016e:1:0:0
-Extasy 4K
-p:Antik Sat
+Arena Sport 2
+p:Unknown
 025a:00a02ccf:c418:016e:1:0:0
-Joj Sport
-p:Antik Sat
+Kanal 1
+p:Unknown
 025b:00a02ccf:c418:016e:1:0:0
 Investigation Discovery Europe
 p:Unknown
@@ -1572,13 +1518,16 @@ p:Unknown
 National Geographic Wild Europe
 p:Unknown
 025d:00a02ccf:c418:016e:1:0:0
-Premium
+Slágr Premium
 p:Antik Sat
 025e:00a02ccf:c418:016e:1:0:0
 Eurosport 1
 p:Antik Sat
 025f:00a02ccf:c418:016e:1:0:0
 Eurosport 1
+p:Unknown
+0260:00a02ccf:c418:016e:1:0:0
+Arena Sport 1
 p:Unknown
 0261:00a02ccf:c418:016e:1:0:0
 Rik
@@ -1595,6 +1544,12 @@ p:Unknown
 0265:00a02ccf:c418:016e:1:0:0
 Suryoyo Sat
 p:Unknown
+0268:00a02ccf:c418:016e:1:0:0
+Joj Sport 2
+p:Antik Sat
+0269:00a02ccf:c418:016e:1:0:0
+Ócko
+p:Antik Sat
 026d:00a02ccf:c418:016e:1:0:0
 Baby TV Europe
 p:A1 Croatia
@@ -1605,12 +1560,6 @@ p:Antik Sat
 Duck TV SD
 p:Antik Sat
 0272:00a02ccf:c418:016e:1:0:0
-TLC Balkan
-p:Unknown
-027d:00a02ccf:c418:016e:1:0:0
-Investigation Discovery Europe
-p:Unknown
-027e:00a02ccf:c418:016e:1:0:0
 TLC Balkan
 p:Unknown
 0288:00a02ccf:c418:016e:1:0:0
@@ -1643,6 +1592,9 @@ p:Max TV
 0030:00a02cf8:0001:0040:1:0:0
 Nickelodeon Europe
 p:Max TV
+0032:00a02cf8:0001:0040:1:0:0
+Disney Channel Adria
+p:Max TV
 0033:00a02cf8:0001:0040:1:0:0
 Cartoonito Central & Eastern Europe
 p:Max TV
@@ -1653,13 +1605,16 @@ p:Max TV
 Cartoon Network Central & Eastern Europe
 p:Max TV
 003c:00a02cf8:0001:0040:1:0:0
-Epic Drama
+Viasat Epic Drama
 p:Max TV
 003d:00a02cf8:0001:0040:1:0:0
 Star Life Hrvatska
 p:Max TV
 003e:00a02cf8:0001:0040:1:0:0
 Star Crime Hrvatska
+p:Max TV
+0046:00a02cf8:0001:0040:1:0:0
+Disney Jr Adria
 p:Max TV
 0049:00a02cf8:0001:0040:1:0:0
 Nick Jr Central & Eastern Europe
@@ -1758,7 +1713,7 @@ p:Total TV Crna Gora
 Prva TV Crna Gora
 p:Total TV Crna Gora
 06df:00a02d22:c544:016e:1:0:0
-Arena Premium 5
+Arena 5 Premium
 p:Total TV
 06e2:00a02d22:c544:016e:1:0:0
 Sport Klub Golf
@@ -1974,7 +1929,7 @@ p:Total TV
 TV 24
 p:Total TV Bosna & Hercegovina
 054d:00a02d4b:75fb:016e:1:0:0
-Arena Premium 1
+Arena 1 Premium
 p:Total TV
 054e:00a02d4b:75fb:016e:1:0:0
 MRT Sobraniski kanal
@@ -1992,7 +1947,7 @@ p:Total TV Hrvatska
 Astra
 p:Total TV Slovenija
 0553:00a02d4b:75fb:016e:1:0:0
-Arena Premium 2
+Arena 2 Premium
 p:Total TV
 0554:00a02d4b:75fb:016e:1:0:0
 CineStar Premiere 1
@@ -2042,12 +1997,9 @@ p:A1 Croatia
 0772:00a02d75:c6d4:016e:1:0:0
 Travelxp HD Europe
 p:Antik Sat
-0774:00a02d75:c6d4:016e:1:0:0
-Disney Channel Romania
-p:Unknown
 0775:00a02d75:c6d4:016e:1:0:0
 History Europe
-p:Total TV Srbija
+p:M:Sat TV Srbija
 0778:00a02d75:c6d4:016e:1:0:0
 Arena Sport 10 Hrvatska
 p:Max TV
@@ -2089,7 +2041,7 @@ Cinemax 2 Central Europe
 p:Antik Sat
 0796:00a02d75:c6d4:016e:1:0:0
 HBO 3 Central Europe
-p:Total TV Bosna & Hercegovina
+p:Max TV
 079a:00a02d75:c6d4:016e:1:0:0
 Cinemax Central Europe
 p:Antik Sat
@@ -2199,7 +2151,7 @@ p:Unknown
 Radio Capodistria
 p:Unknown
 05ab:00a02d9e:75fc:016e:1:0:0
-Arena Premium 1
+Arena 1 Premium
 p:Total TV Srbija
 05ac:00a02d9e:75fc:016e:1:0:0
 Sport Klub 2 Hrvatska
@@ -2211,8 +2163,8 @@ p:Total TV Srbija
 HBO Adria
 p:Total TV Bosna & Hercegovina
 05af:00a02d9e:75fc:016e:1:0:0
-HBO 2 Central Europe
-p:Total TV Bosna & Hercegovina
+Arena Sport 1 BiH
+p:Total TV
 05b0:00a02d9e:75fc:016e:1:0:0
 Discovery Channel Srbija
 p:Total TV Bosna & Hercegovina
@@ -2309,94 +2261,82 @@ p:Unknown
 0008:00a030f9:14b4:2064:1:0:0
 Bulgaria On Air
 p:Unknown
-00c9:00a03112:eb28:016f:1:0:0
-TFM
-p:Unknown
-00ca:00a03112:eb28:016f:1:0:0
-L'Obs TV
-p:Unknown
-00cb:00a03112:eb28:016f:1:0:0
-TFM Religions
-p:Unknown
-00cd:00a03112:eb28:016f:1:0:0
+0065:00a03112:eb28:016e:1:0:0
 NW Sport 1
 p:New World TV
-00ce:00a03112:eb28:016f:1:0:0
-TVT
-p:Unknown
-00cf:00a03112:eb28:016f:1:0:0
-NW Info
-p:Unknown
-00d0:00a03112:eb28:016f:1:0:0
-NW Cinema
-p:New World TV
-00d1:00a03112:eb28:016f:1:0:0
-NW Mix
-p:Unknown
-00ea:00a03112:eb28:016f:1:0:0
-BFM TV
-p:New World TV
-00ed:00a03112:eb28:016f:1:0:0
-NW News
-p:Unknown
-00ee:00a03112:eb28:016f:1:0:0
-NW Series
-p:New World TV
-00ef:00a03112:eb28:016f:1:0:0
-NW Transnat
-p:New World TV
-00f0:00a03112:eb28:016f:1:0:0
-NW Muzik
-p:New World TV
-00f1:00a03112:eb28:016f:1:0:0
-NW Sport 2
-p:New World TV
-00f8:00a03112:eb28:016f:1:0:0
-Nina Novelas Français
-p:New World TV
-00f9:00a03112:eb28:016f:1:0:0
-Canal J
-p:New World TV
-0113:00a03112:eb28:016f:1:0:0
-NW Sport 5
-p:New World TV
-0114:00a03112:eb28:016f:1:0:0
-Green TV International
-p:Unknown
-0115:00a03112:eb28:016f:1:0:0
-Perfect TV
-p:Unknown
-0116:00a03112:eb28:016f:1:0:0
-Elohim Global TV
-p:New World TV
-0119:00a03112:eb28:016f:1:0:0
-NW Economie
-p:Unknown
-011b:00a03112:eb28:016f:1:0:0
-Educa TV
-p:Unknown
-011d:00a03112:eb28:016f:1:0:0
-TVT
-p:Unknown
-011e:00a03112:eb28:016f:1:0:0
-Bénin TV
-p:New World TV
-011f:00a03112:eb28:016f:1:0:0
+0083:00a03112:eb28:016e:1:0:0
 EPT TV
 p:Unknown
-0121:00a03112:eb28:016f:1:0:0
+0084:00a03112:eb28:016e:1:0:0
+Elohim Global TV
+p:New World TV
+008e:00a03112:eb28:016e:1:0:0
+TVT
+p:New World TV
+008f:00a03112:eb28:016e:1:0:0
+Bénin TV
+p:New World TV
+0090:00a03112:eb28:016e:1:0:0
+ORTM 1
+p:New World TV
+0091:00a03112:eb28:016e:1:0:0
+ORTM 2
+p:New World TV
+0092:00a03112:eb28:016e:1:0:0
 RTI 1
 p:New World TV
-0122:00a03112:eb28:016f:1:0:0
+0094:00a03112:eb28:016e:1:0:0
 RTI 2
 p:New World TV
-0123:00a03112:eb28:016f:1:0:0
-Fix & Foxi
+0097:00a03112:eb28:016e:1:0:0
+NW Cinema
 p:New World TV
-00cc:00a03112:eb28:016f:2:0:0
-RFM
+0098:00a03112:eb28:016e:1:0:0
+NW Series
+p:New World TV
+0099:00a03112:eb28:016e:1:0:0
+NW Transnat
+p:New World TV
+009a:00a03112:eb28:016e:1:0:0
+NW Transnat 2
+p:New World TV
+009b:00a03112:eb28:016e:1:0:0
+NW Transnat 3
+p:New World TV
+00a0:00a03112:eb28:016e:1:0:0
+NW Info
 p:Unknown
-00d2:00a03112:eb28:016f:2:0:0
+00a1:00a03112:eb28:016e:1:0:0
+NW News
+p:Unknown
+00a2:00a03112:eb28:016e:1:0:0
+NW Economie
+p:Unknown
+00ab:00a03112:eb28:016e:1:0:0
+Canal J
+p:New World TV
+00b7:00a03112:eb28:016e:1:0:0
+Nina Novelas Français
+p:New World TV
+00bb:00a03112:eb28:016e:1:0:0
+BFM TV
+p:New World TV
+00c1:00a03112:eb28:016e:1:0:0
+Green TV International
+p:Unknown
+00c2:00a03112:eb28:016e:1:0:0
+NW Muzik
+p:New World TV
+00c3:00a03112:eb28:016e:1:0:0
+NW Mix
+p:Unknown
+00ce:00a03112:eb28:016e:1:0:0
+TVT
+p:Unknown
+00d1:00a03112:eb28:016e:2:0:0
+Radio Kara
+p:Unknown
+00d2:00a03112:eb28:016e:2:0:0
 Radio Lomé
 p:Unknown
 0a37:00a03118:427e:016e:1:0:0
@@ -2411,98 +2351,74 @@ p:Unknown
 0001:00a03131:0a78:0001:1:0:0
 DM Sat
 p:Unknown
-00f1:00a0313c:eb8c:016f:1:0:0
-Aigle Champion TV
-p:Unknown
-00f5:00a0313c:eb8c:016f:1:0:0
-ST World Football
+0066:00a0313c:eb8c:016f:1:0:0
+NW Sport 2
 p:New World TV
-00f6:00a0313c:eb8c:016f:1:0:0
-ST Sports Premium
-p:New World TV
-00f7:00a0313c:eb8c:016f:1:0:0
-ST Kids
-p:New World TV
-00f8:00a0313c:eb8c:016f:1:0:0
-ST Kungfu
-p:New World TV
-00f9:00a0313c:eb8c:016f:1:0:0
-ST Sino Drama
-p:New World TV
-00fb:00a0313c:eb8c:016f:1:0:0
-Penthouse Passion
-p:New World TV
-00fc:00a0313c:eb8c:016f:1:0:0
-Baby TV Europe
-p:New World TV
-00fd:00a0313c:eb8c:016f:1:0:0
-National Geographic France
-p:New World TV
-00fe:00a0313c:eb8c:016f:1:0:0
-National Geographic Wild France
-p:New World TV
-00ff:00a0313c:eb8c:016f:1:0:0
-ESPN Africa
-p:New World TV
-0100:00a0313c:eb8c:016f:1:0:0
-ESPN 2 Africa
-p:New World TV
-0102:00a0313c:eb8c:016f:1:0:0
-Tivi5Monde
-p:New World TV
-0103:00a0313c:eb8c:016f:1:0:0
-TV5Monde Afrique
-p:New World TV
-0104:00a0313c:eb8c:016f:1:0:0
-TV5Monde Style
-p:New World TV
-0105:00a0313c:eb8c:016f:1:0:0
-ST Sports Life
-p:New World TV
-0106:00a0313c:eb8c:016f:1:0:0
-ST Sports Focus
-p:New World TV
-0107:00a0313c:eb8c:016f:1:0:0
-France 2
-p:New World TV
-0108:00a0313c:eb8c:016f:1:0:0
-France 3
-p:New World TV
-0109:00a0313c:eb8c:016f:1:0:0
-France 5
-p:New World TV
-010a:00a0313c:eb8c:016f:1:0:0
-Franceinfo:
-p:New World TV
-010b:00a0313c:eb8c:016f:1:0:0
-Dorcel XXX
-p:New World TV
-010c:00a0313c:eb8c:016f:1:0:0
-Dorcel TV Africa
-p:New World TV
-010d:00a0313c:eb8c:016f:1:0:0
-Zee Magic
-p:New World TV
-010e:00a0313c:eb8c:016f:1:0:0
-Dorcel TV
-p:New World TV
-0111:00a0313c:eb8c:016f:1:0:0
-Aforevo TV
-p:New World TV
-0112:00a0313c:eb8c:016f:1:0:0
-ARTE Français
-p:New World TV
-0113:00a0313c:eb8c:016f:1:0:0
-TFX
-p:New World TV
-0114:00a0313c:eb8c:016f:1:0:0
-Afro Novelas
-p:New World TV
-0115:00a0313c:eb8c:016f:1:0:0
+0067:00a0313c:eb8c:016f:1:0:0
 NW Sport 3
 p:New World TV
-0116:00a0313c:eb8c:016f:1:0:0
+0068:00a0313c:eb8c:016f:1:0:0
 NW Sport 4
+p:New World TV
+0069:00a0313c:eb8c:016f:1:0:0
+NW Sport 5
+p:New World TV
+006a:00a0313c:eb8c:016f:1:0:0
+NW Sport 6
+p:New World TV
+006b:00a0313c:eb8c:016f:1:0:0
+NW Sport 7
+p:New World TV
+008d:00a0313c:eb8c:016f:1:0:0
+TFX
+p:New World TV
+00a3:00a0313c:eb8c:016f:1:0:0
+TV5Monde Afrique
+p:New World TV
+00aa:00a0313c:eb8c:016f:1:0:0
+Tivi5Monde
+p:New World TV
+00ac:00a0313c:eb8c:016f:1:0:0
+Baby TV Europe
+p:New World TV
+00ae:00a0313c:eb8c:016f:1:0:0
+ST Kids
+p:New World TV
+00b4:00a0313c:eb8c:016f:1:0:0
+Zee Magic
+p:New World TV
+00b5:00a0313c:eb8c:016f:1:0:0
+Aforevo TV
+p:New World TV
+00b6:00a0313c:eb8c:016f:1:0:0
+Afro Novelas
+p:New World TV
+00ba:00a0313c:eb8c:016f:1:0:0
+ARTE Français
+p:New World TV
+00be:00a0313c:eb8c:016f:1:0:0
+National Geographic France
+p:New World TV
+00bf:00a0313c:eb8c:016f:1:0:0
+National Geographic Wild France
+p:New World TV
+00c0:00a0313c:eb8c:016f:1:0:0
+TV5Monde Style
+p:New World TV
+00d2:00a0313c:eb8c:016f:1:0:0
+Penthouse Black
+p:New World TV
+00d3:00a0313c:eb8c:016f:1:0:0
+Penthouse Passion
+p:New World TV
+00d4:00a0313c:eb8c:016f:1:0:0
+Dorcel TV
+p:New World TV
+00d5:00a0313c:eb8c:016f:1:0:0
+Dorcel XXX
+p:New World TV
+00d6:00a0313c:eb8c:016f:1:0:0
+Dorcel TV Africa
 p:New World TV
 041a:00a0318a:0001:0001:2:0:0
 Eska 2 Kielce
@@ -2732,23 +2648,26 @@ p:Unknown
 1f54:00a0318a:0001:0001:2:0:0
 Radio Emaus
 p:Unknown
+0258:00a0318f:ebf0:016f:1:0:0
+BNC TV
+p:Unknown
 0263:00a0318f:ebf0:016f:1:0:0
-Ivoire Channel
+Télé Sahel
 p:Unknown
 0264:00a0318f:ebf0:016f:1:0:0
-Ciné Max
+France 5
 p:Unknown
 0265:00a0318f:ebf0:016f:1:0:0
 Afro Magic Channel
 p:Unknown
 0266:00a0318f:ebf0:016f:1:0:0
-Novela Channel
+Passion Novelas
 p:Unknown
 0267:00a0318f:ebf0:016f:1:0:0
-Fitini TV
+RTI 2
 p:Unknown
 0268:00a0318f:ebf0:016f:1:0:0
-Serié Max
+France 2
 p:Unknown
 0269:00a0318f:ebf0:016f:1:0:0
 Redlight HD
@@ -2759,29 +2678,17 @@ p:Unknown
 026b:00a0318f:ebf0:016f:1:0:0
 West Africa TV
 p:Unknown
-0274:00a0318f:ebf0:016f:1:0:0
-As-Samadiyya TV
-p:Unknown
 026c:00a0318f:ebf0:016f:1:0:0
 Dieu TV
+p:Unknown
+026d:00a0318f:ebf0:016f:1:0:0
+Fulani Universal TV
 p:Unknown
 0277:00a0318f:ebf0:016f:1:0:0
 2S TV
 p:Unknown
 027c:00a0318f:ebf0:016f:1:0:0
 EMCI TV Afrique
-p:Unknown
-027d:00a0318f:ebf0:016f:1:0:0
-RTI 1
-p:Unknown
-027e:00a0318f:ebf0:016f:1:0:0
-RTI 2
-p:Unknown
-0280:00a0318f:ebf0:016f:1:0:0
-Tchad 24
-p:Unknown
-0281:00a0318f:ebf0:016f:1:0:0
-Equinoxe TV
 p:Unknown
 0284:00a0318f:ebf0:016f:1:0:0
 Télé Tchad
@@ -2798,14 +2705,17 @@ p:Unknown
 028d:00a0318f:ebf0:016f:1:0:0
 GRTS TV
 p:Unknown
-029c:00a0318f:ebf0:016f:1:0:0
-Galaxie TV
-p:Unknown
-029d:00a0318f:ebf0:016f:1:0:0
-Carrefour TV
-p:Unknown
 0285:00a0318f:ebf0:016f:2:0:0
 Radio Tchad
+p:Unknown
+0287:00a0318f:ebf0:016f:2:0:0
+Gambia Radio
+p:Unknown
+029e:00a0318f:ebf0:016f:2:0:0
+West Africa Democracy Radio
+p:Unknown
+02a8:00a0318f:ebf0:016f:2:0:0
+Radio Immaculée Conception
 p:Unknown
 0002:00a03192:0001:0001:1:0:0
 Hír TV
@@ -2813,8 +2723,11 @@ p:Unknown
 000a:00a03192:0001:0001:2:0:0
 Hír FM
 p:Unknown
-0001:00a03195:0001:0001:1:0:0
+0001:00a03195:000b:0001:1:0:0
 SNAI mosaic
+p:Unknown
+0002:00a03195:000b:0001:1:0:0
+SOGEI mosaic
 p:Unknown
 0001:00a0319c:0065:0001:1:0:0
 SNAI Virtuali 4
@@ -2833,21 +2746,6 @@ SNAI Virtuali 3
 p:Unknown
 0039:00a0319c:0065:0001:1:0:0
 SNAI Virtuali 1
-p:Unknown
-000a:00a031af:0064:0064:1:0:0
-National TV
-p:Unknown
-0016:00a031af:0064:0064:1:0:0
-National 24 Plus
-p:Unknown
-0020:00a031af:0064:0064:1:0:0
-Favorit TV
-p:Unknown
-000f:00a031af:0064:0064:2:0:0
-National FM
-p:Unknown
-0017:00a031af:0064:0064:2:0:0
-Favorit FM
 p:Unknown
 0065:00a031b4:0065:ffff:1:0:0
 Ippica 1

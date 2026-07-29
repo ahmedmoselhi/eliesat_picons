@@ -1,0 +1,440 @@
+eDVB services /4/
+transponders
+023a2ae9:2775:000a
+	s 10985000:45000000:0:0:570:2:0:1:0:2:2
+/
+023a2b61:2777:000a
+	s 11105000:45000000:0:0:570:2:0:1:0:2:2
+/
+023a2b9d:2778:000a
+	s 11165000:45000000:0:0:570:2:0:1:0:2:2
+/
+023a2d19:0000:0000
+	s 11545000:45000000:0:0:570:2:0:1:0:2:2
+/
+023a2d43:0006:0001
+	s 11587000:10750000:0:0:570:2:0:1:0:2:2
+/
+023a2d55:277b:000a
+	s 11605000:45000000:0:0:570:2:0:1:0:2:2
+/
+023a2d5a:0028:0001
+	s 11610000:20200000:0:0:570:2:0:1:0:2:2
+/
+end
+services
+1770:023a2ae9:2775:000a:1:0:0
+BBC News Africa
+p:Unknown
+1771:023a2ae9:2775:000a:1:0:0
+CNN International Europe
+p:Unknown
+1772:023a2ae9:2775:000a:1:0:0
+Aljazeera English
+p:Unknown
+1773:023a2ae9:2775:000a:1:0:0
+Dubai One
+p:Unknown
+1776:023a2ae9:2775:000a:1:0:0
+CGTN
+p:Unknown
+1778:023a2ae9:2775:000a:1:0:0
+Addis Media Network Plus
+p:Unknown
+177e:023a2ae9:2775:000a:1:0:0
+Quran TV
+p:Unknown
+178f:023a2ae9:2775:000a:1:0:0
+SBN International
+p:Unknown
+178e:023a2ae9:2775:000a:2:0:0
+DW-Radio 8
+p:Unknown
+17d5:023a2b61:2777:000a:1:0:0
+EBS
+p:Unknown
+17d6:023a2b61:2777:000a:1:0:0
+EBS Cinema
+p:Unknown
+17d7:023a2b61:2777:000a:1:0:0
+EBS Musika
+p:Unknown
+17d8:023a2b61:2777:000a:1:0:0
+ETV Entertainment
+p:Unknown
+17e0:023a2b61:2777:000a:1:0:0
+Black Max
+p:Unknown
+17e6:023a2b61:2777:000a:1:0:0
+Kana TV
+p:Unknown
+17ed:023a2b61:2777:000a:1:0:0
+Fana Plus
+p:Unknown
+17f0:023a2b61:2777:000a:1:0:0
+Balageru TV
+p:Unknown
+17f4:023a2b61:2777:000a:1:0:0
+France 24 English
+p:Unknown
+17f8:023a2b61:2777:000a:1:0:0
+Benishangul Gumuz Media
+p:Unknown
+17f9:023a2b61:2777:000a:1:0:0
+ETV Yelijochalem
+p:Unknown
+17fa:023a2b61:2777:000a:1:0:0
+Heywet TV
+p:Unknown
+17fc:023a2b61:2777:000a:1:0:0
+TV5Monde Afrique
+p:Unknown
+17fd:023a2b61:2777:000a:1:0:0
+Tivi5Monde
+p:Unknown
+17fe:023a2b61:2777:000a:1:0:0
+Ethiopia Orthodox TV
+p:Unknown
+1804:023a2b61:2777:000a:1:0:0
+Evangelical TV
+p:Unknown
+1805:023a2b61:2777:000a:1:0:0
+Hadiya TV
+p:Unknown
+1806:023a2b61:2777:000a:1:0:0
+Fana TV
+p:Unknown
+1815:023a2b61:2777:000a:1:0:0
+Presence TV Channel
+p:Unknown
+1829:023a2b61:2777:000a:1:0:0
+Hagerie TV
+p:Unknown
+182b:023a2b61:2777:000a:1:0:0
+Addis Media Network
+p:Unknown
+182d:023a2b61:2777:000a:1:0:0
+NBC Ethiopia
+p:Unknown
+17f1:023a2b61:2777:000a:2:0:0
+Fana FM
+p:Unknown
+17ff:023a2b61:2777:000a:2:0:0
+Fana FM
+p:Unknown
+182e:023a2b61:2777:000a:2:0:0
+Addis FM 96.3
+p:Unknown
+189c:023a2b9d:2778:000a:1:0:0
+ETV News
+p:Unknown
+18a0:023a2b9d:2778:000a:1:0:0
+OBN
+p:Unknown
+18a2:023a2b9d:2778:000a:1:0:0
+Amico TV
+p:Unknown
+18a8:023a2b9d:2778:000a:1:0:0
+Debub TV
+p:Unknown
+18a9:023a2b9d:2778:000a:1:0:0
+Addis Media Network
+p:Unknown
+18b1:023a2b9d:2778:000a:1:0:0
+ARTS TV
+p:Unknown
+18c5:023a2b9d:2778:000a:1:0:0
+ETV Afaan Oromoo
+p:Unknown
+18d0:023a2b9d:2778:000a:1:0:0
+Abbay TV
+p:Unknown
+18dd:023a2b9d:2778:000a:1:0:0
+Wolaita TV
+p:Unknown
+18df:023a2b9d:2778:000a:1:0:0
+Hope Channel Ethiopia
+p:Unknown
+18e0:023a2b9d:2778:000a:1:0:0
+Catholic TV Ethiopia
+p:Unknown
+18e3:023a2b9d:2778:000a:1:0:0
+Ethiopia Orthodox TV
+p:Unknown
+18e5:023a2b9d:2778:000a:1:0:0
+GMM TV
+p:Unknown
+18e7:023a2b9d:2778:000a:1:0:0
+OBN Horn of Africa
+p:Unknown
+18eb:023a2b9d:2778:000a:1:0:0
+Sidaama Broadcasting Corporation
+p:Unknown
+18ed:023a2b9d:2778:000a:1:0:0
+Kaffa TV
+p:Unknown
+18ee:023a2b9d:2778:000a:1:0:0
+Dire TV
+p:Unknown
+18d2:023a2b9d:2778:000a:2:0:0
+FM Bahir Dar 96.9
+p:Unknown
+18d3:023a2b9d:2778:000a:2:0:0
+EBC FM 97.1
+p:Unknown
+18d6:023a2b9d:2778:000a:2:0:0
+Radio Ethiopia National Radio
+p:Unknown
+18d7:023a2b9d:2778:000a:2:0:0
+Amhara Radio
+p:Unknown
+18db:023a2b9d:2778:000a:2:0:0
+OBN Radio
+p:Unknown
+18e4:023a2b9d:2778:000a:2:0:0
+Debub FM
+p:Unknown
+1901:023a2d19:0000:0000:1:0:0
+ETV News
+p:Unknown
+1904:023a2d19:0000:0000:1:0:0
+OBN
+p:Unknown
+1905:023a2d19:0000:0000:1:0:0
+Amico TV
+p:Unknown
+1906:023a2d19:0000:0000:1:0:0
+Debub TV
+p:Unknown
+1909:023a2d19:0000:0000:1:0:0
+ARTS TV
+p:Unknown
+190a:023a2d19:0000:0000:1:0:0
+EBS
+p:Unknown
+190d:023a2d19:0000:0000:1:0:0
+Fana TV
+p:Unknown
+190e:023a2d19:0000:0000:1:0:0
+Fana Plus
+p:Unknown
+1919:023a2d19:0000:0000:1:0:0
+Kana TV
+p:Unknown
+191a:023a2d19:0000:0000:1:0:0
+Harima TV
+p:Unknown
+191b:023a2d19:0000:0000:1:0:0
+As-Sunnah TV
+p:Unknown
+191d:023a2d19:0000:0000:1:0:0
+Minber TV
+p:Unknown
+191f:023a2d19:0000:0000:1:0:0
+Glory of God TV
+p:Unknown
+1920:023a2d19:0000:0000:1:0:0
+OBN Gaammee
+p:Unknown
+1928:023a2d19:0000:0000:1:0:0
+A Plus TV
+p:Unknown
+1929:023a2d19:0000:0000:1:0:0
+Bisrat TV
+p:Unknown
+192a:023a2d19:0000:0000:1:0:0
+KTV
+p:Unknown
+192b:023a2d19:0000:0000:1:0:0
+Oromia Clergy Network
+p:Unknown
+192c:023a2d19:0000:0000:1:0:0
+Mo'aa TV
+p:Unknown
+0001:023a2d43:0006:0001:1:0:0
+Tojikiston
+p:Unknown
+0002:023a2d43:0006:0001:1:0:0
+TV Safina
+p:Unknown
+0003:023a2d43:0006:0001:1:0:0
+TV Bahoriston
+p:Unknown
+0004:023a2d43:0006:0001:1:0:0
+Jahonnamo
+p:Unknown
+0005:023a2d43:0006:0001:1:0:0
+Varzish TV
+p:Unknown
+0006:023a2d43:0006:0001:1:0:0
+Sinamo TV
+p:Unknown
+0011:023a2d43:0006:0001:2:0:0
+Radioi Tojikiston
+p:Unknown
+0012:023a2d43:0006:0001:2:0:0
+Ovozi Tojik
+p:Unknown
+0013:023a2d43:0006:0001:2:0:0
+Sadoi Dushanbe
+p:Unknown
+0014:023a2d43:0006:0001:2:0:0
+Radioi Farhang
+p:Unknown
+1839:023a2d55:277b:000a:1:0:0
+Elshaddai TV Network
+p:Unknown
+183a:023a2d55:277b:000a:1:0:0
+Harari TV
+p:Unknown
+183b:023a2d55:277b:000a:1:0:0
+Christ Army TV
+p:Unknown
+183c:023a2d55:277b:000a:1:0:0
+Bethel TV
+p:Unknown
+183e:023a2d55:277b:000a:1:0:0
+Kale Awadi TV
+p:Unknown
+183f:023a2d55:277b:000a:1:0:0
+Anointing TV Channel
+p:Unknown
+1842:023a2d55:277b:000a:1:0:0
+Jesus Wonderful TV
+p:Unknown
+1843:023a2d55:277b:000a:1:0:0
+Heaven TV
+p:Unknown
+1847:023a2d55:277b:000a:1:0:0
+Amico TV
+p:Unknown
+1848:023a2d55:277b:000a:1:0:0
+Shilo TV
+p:Unknown
+1849:023a2d55:277b:000a:1:0:0
+Christ Mission TV
+p:Unknown
+184a:023a2d55:277b:000a:1:0:0
+Gospel TV
+p:Unknown
+184e:023a2d55:277b:000a:1:0:0
+Winners Way TV
+p:Unknown
+1850:023a2d55:277b:000a:1:0:0
+Jesus TV
+p:Unknown
+1851:023a2d55:277b:000a:1:0:0
+ERI TV 1
+p:Unknown
+1853:023a2d55:277b:000a:1:0:0
+JPS TV
+p:Unknown
+1854:023a2d55:277b:000a:1:0:0
+Somali Region TV
+p:Unknown
+185c:023a2d55:277b:000a:1:0:0
+Marsil TV
+p:Unknown
+185d:023a2d55:277b:000a:1:0:0
+LJ TV Channel Worldwide
+p:Unknown
+1869:023a2d55:277b:000a:1:0:0
+Holy Spirit TV Channel
+p:Unknown
+187b:023a2d55:277b:000a:1:0:0
+Hand of God TV
+p:Unknown
+187e:023a2d55:277b:000a:1:0:0
+ETV Languages
+p:Unknown
+1881:023a2d55:277b:000a:1:0:0
+Gamo TV
+p:Unknown
+1885:023a2d55:277b:000a:1:0:0
+MaEzer Semay TV
+p:Unknown
+1887:023a2d55:277b:000a:1:0:0
+Southwest Media Network
+p:Unknown
+1860:023a2d55:277b:000a:2:0:0
+Radio Zara FM
+p:Unknown
+1861:023a2d55:277b:000a:2:0:0
+Dimtsi Hafash
+p:Unknown
+186f:023a2d55:277b:000a:2:0:0
+Radio Ethiopia National Radio
+p:Unknown
+1870:023a2d55:277b:000a:2:0:0
+EBC FM 97.1
+p:Unknown
+1886:023a2d55:277b:000a:2:0:0
+Harari FM
+p:Unknown
+0001:023a2d5a:0028:0001:1:0:0
+O'zbekiston 1
+p:Unknown
+0002:023a2d5a:0028:0001:1:0:0
+Yoshlar
+p:Unknown
+0004:023a2d5a:0028:0001:1:0:0
+Sport TV
+p:Unknown
+0005:023a2d5a:0028:0001:1:0:0
+Madaniyat va ma'rifat
+p:Unknown
+0006:023a2d5a:0028:0001:1:0:0
+Dunyo bo'ylab
+p:Unknown
+0007:023a2d5a:0028:0001:1:0:0
+Bolajon
+p:Unknown
+0008:023a2d5a:0028:0001:1:0:0
+Navo
+p:Unknown
+0009:023a2d5a:0028:0001:1:0:0
+Mahalla
+p:Unknown
+000a:023a2d5a:0028:0001:1:0:0
+Kinoteatr
+p:Unknown
+000b:023a2d5a:0028:0001:1:0:0
+Futbol TV
+p:Unknown
+000c:023a2d5a:0028:0001:1:0:0
+O'zbekiston 24
+p:Unknown
+0013:023a2d5a:0028:0001:1:0:0
+Zo'r TV
+p:Unknown
+0014:023a2d5a:0028:0001:1:0:0
+MY 5
+p:Unknown
+0015:023a2d5a:0028:0001:1:0:0
+Sevimli TV
+p:Unknown
+0016:023a2d5a:0028:0001:1:0:0
+FTV Telekanali
+p:Unknown
+0017:023a2d5a:0028:0001:1:0:0
+Milliy TV
+p:Unknown
+0018:023a2d5a:0028:0001:1:0:0
+O'zbekiston Tarixi
+p:Unknown
+0019:023a2d5a:0028:0001:1:0:0
+Lux.TV
+p:Unknown
+000e:023a2d5a:0028:0001:2:0:0
+Mahalla FM 107.8
+p:Unknown
+000f:023a2d5a:0028:0001:2:0:0
+Radio O'zbekiston 24
+p:Unknown
+0010:023a2d5a:0028:0001:2:0:0
+O'zbekiston FM 103.1
+p:Unknown
+0011:023a2d5a:0028:0001:2:0:0
+Yoshlar FM 104
+p:Unknown
+end

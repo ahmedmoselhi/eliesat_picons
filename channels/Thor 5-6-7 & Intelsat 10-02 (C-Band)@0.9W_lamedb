@@ -1,0 +1,20 @@
+eDVB services /4/
+transponders
+0e070f89:0001:0046
+	s 3977000:17777000:2:0:-9:2:0:1:0:2:2
+/
+end
+services
+0001:0e070f89:0001:0046:1:0:0
+NBC 1
+p:Unknown
+0040:0e070f89:0001:0046:1:0:0
+NBC 1
+p:Unknown
+0041:0e070f89:0001:0046:1:0:0
+NBC 2
+p:Unknown
+0042:0e070f89:0001:0046:1:0:0
+NBC 3
+p:Unknown
+end

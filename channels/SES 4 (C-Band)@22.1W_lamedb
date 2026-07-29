@@ -1,0 +1,47 @@
+eDVB services /4/
+transponders
+0d330ee1:0065:0001
+	s 3809000:5700000:3:0:-221:2:0:1:0:2:2
+/
+0d330f1b:0000:0000
+	s 3867000:257000:3:0:-221:2:0:0:0:2:2
+/
+0d330f82:0000:0000
+	s 3970000:3332000:2:0:-221:2:0:0:0:2:2
+/
+0d330fcc:0101:0257
+	s 4044000:3360000:2:0:-221:2:0:1:0:2:2
+/
+0d33102a:0001:0001
+	s 4138000:2170000:3:0:-221:2:0:0:0:2:2
+/
+end
+services
+0001:0d330ee1:0065:0001:1:0:0
+RTP Mundo
+p:Unknown
+0002:0d330ee1:0065:0001:1:0:0
+RTP África
+p:Unknown
+000b:0d330ee1:0065:0001:2:0:0
+RTP Antena 1
+p:Unknown
+000c:0d330ee1:0065:0001:2:0:0
+RTP África
+p:Unknown
+000d:0d330ee1:0065:0001:2:0:0
+RTP Mundo
+p:Unknown
+0001:0d330f1b:0000:0000:2:0:0
+Radio Maria Sierra Leone
+p:Unknown
+0001:0d330f82:0000:0000:1:0:0
+TV Cidade São Luíz
+p:Unknown
+0101:0d330fcc:0101:0257:1:0:0
+Gabon 1ère
+p:Unknown
+0001:0d33102a:0001:0001:2:0:0
+Radio Ndarason Internationale
+p:Unknown
+end

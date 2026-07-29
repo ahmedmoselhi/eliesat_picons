@@ -9,9 +9,6 @@ transponders
 01cd0ef2:0000:0000
 	s 3826000:3333000:1:0:461:2:0:1:0:2:2
 /
-01cd0efa:0000:0000
-	s 3834000:1585000:0:0:461:2:0:1:0:2:2
-/
 01cd0efe:0000:0000
 	s 3838000:1250000:0:0:461:2:0:1:0:2:2
 /
@@ -69,9 +66,6 @@ transponders
 01cd1024:1000:2000
 	s 4132000:1843000:1:0:461:2:0:1:0:2:2
 /
-01cd1027:0000:0000
-	s 4135000:1282000:1:0:461:2:0:0:0:2:2
-/
 01cd1029:0000:0000
 	s 4137000:1603000:1:0:461:2:0:1:0:2:2
 /
@@ -92,11 +86,14 @@ transponders
 /
 end
 services
-0214:01cd0ee9:0000:0000:1:0:0
-Furaha TV
+0214:01cd0ee9:0000:0000:2:0:0
+Giornale Radio TV
 p:Unknown
 0201:01cd0ee9:0000:0000:2:0:0
 Radio Habari Njema
+p:Unknown
+0205:01cd0ee9:0000:0000:2:0:0
+Platinum FM
 p:Unknown
 0211:01cd0ee9:0000:0000:2:0:0
 Hatma FM
@@ -109,33 +106,6 @@ Wasafi TV
 p:Unknown
 0205:01cd0ef2:0000:0000:2:0:0
 Wasafi FM
-p:Unknown
-000b:01cd0efa:0000:0000:2:0:0
-Lulu FM
-p:Unknown
-000c:01cd0efa:0000:0000:2:0:0
-Urejesho FM
-p:Unknown
-000e:01cd0efa:0000:0000:2:0:0
-Soundcity Radio Kenya
-p:Unknown
-0010:01cd0efa:0000:0000:2:0:0
-Getu FM
-p:Unknown
-0011:01cd0efa:0000:0000:2:0:0
-Inka FM
-p:Unknown
-0012:01cd0efa:0000:0000:2:0:0
-Sporty FM
-p:Unknown
-0013:01cd0efa:0000:0000:2:0:0
-Akamba FM
-p:Unknown
-0014:01cd0efa:0000:0000:2:0:0
-Mwangaza wa Neno FM
-p:Unknown
-0016:01cd0efa:0000:0000:2:0:0
-Aviation FM
 p:Unknown
 0001:01cd0efe:0000:0000:1:0:0
 WRM TV
@@ -183,7 +153,7 @@ p:Unknown
 TVC News
 p:Unknown
 0003:01cd0f72:0000:0000:2:0:0
-102.3 Max FM
+Yanga FM
 p:Unknown
 1f41:01cd0f9f:0000:0000:1:0:0
 ZBC TV
@@ -277,9 +247,6 @@ Choice FM
 p:Unknown
 0004:01cd1024:1000:2000:2:0:0
 Radio Safina
-p:Unknown
-0001:01cd1027:0000:0000:1:0:0
-Salvation Ministries
 p:Unknown
 0101:01cd1029:0000:0000:1:0:0
 Upendo TV

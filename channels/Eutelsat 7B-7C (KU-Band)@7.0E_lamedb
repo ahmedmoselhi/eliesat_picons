@@ -1,0 +1,1523 @@
+eDVB services /4/
+transponders
+004629e1:0a12:007e
+	s 10721000:27500000:1:0:70:2:0:0:0:2:2
+/
+00462a0a:283c:007e
+	s 10762000:30000000:0:0:70:2:0:1:0:2:2
+/
+00462a5d:29cc:007e
+	s 10845000:30000000:0:0:70:2:0:1:0:2:2
+/
+00462a87:2a94:007e
+	s 10887000:30000000:0:0:70:2:0:1:0:2:2
+/
+00462adb:ebf0:007e
+	s 10971000:30000000:0:0:70:2:0:1:0:2:2
+/
+00462ae5:eb8e:007e
+	s 10981000:45000000:1:0:70:2:0:1:0:2:2
+/
+00462b24:eac4:007e
+	s 11044000:45000000:1:0:70:2:0:1:0:2:2
+/
+00462b62:eb8d:007e
+	s 11106000:45000000:1:0:70:2:0:1:0:2:2
+/
+00462b90:0051:0001
+	s 11152000:3000000:0:0:70:2:0:1:0:2:2
+/
+00462ba1:eb8f:007e
+	s 11169000:45000000:1:0:70:2:0:1:0:2:2
+/
+00462c15:0ce4:007e
+	s 11285000:30000000:1:0:70:2:0:1:0:2:2
+/
+00462c5c:0003:0001
+	s 11356000:35000000:0:0:70:2:0:1:0:2:2
+/
+00462c92:0ce8:007e
+	s 11410000:30000000:1:0:70:2:0:0:0:2:2
+/
+00462cb4:0001:ff00
+	s 11444000:3210000:0:0:70:2:0:0:0:2:2
+/
+00462d17:0004:0001
+	s 11543000:4165000:1:0:70:2:0:1:0:2:2
+/
+00462d22:162d:0001
+	s 11554000:30000000:0:0:70:2:0:1:0:2:2
+/
+00462d4b:eb8c:007e
+	s 11595000:30000000:0:0:70:2:0:1:0:2:2
+/
+00462d5c:1000:2000
+	s 11612000:1480000:0:0:70:2:0:1:0:2:2
+/
+00462d75:0000:0000
+	s 11637000:30000000:0:0:70:2:0:1:0:2:2
+/
+00462d93:1000:2000
+	s 11667000:3780000:1:0:70:2:0:1:0:2:2
+/
+00462d95:eac4:007e
+	s 11669000:45000000:1:0:70:2:0:1:0:2:2
+/
+00462d98:1000:2000
+	s 11672000:3780000:1:0:70:2:0:1:0:2:2
+/
+00462d9d:0001:0001
+	s 11677000:5040000:1:0:70:2:0:1:0:2:2
+/
+00462da9:0001:0001
+	s 11689000:5040000:1:0:70:2:0:1:0:2:2
+/
+0046313c:eb8c:007e
+	s 12604000:30000000:0:0:70:2:0:1:0:2:2
+/
+end
+services
+36b2:004629e1:0a12:007e:1:0:0
+NOW Global
+p:Unknown
+36b0:004629e1:0a12:007e:2:0:0
+La Radio Plus
+p:Unknown
+0a8d:00462a0a:283c:007e:1:0:0
+CCTV 1
+p:Unknown
+0a8e:00462a0a:283c:007e:1:0:0
+CCTV 2
+p:Unknown
+0a8f:00462a0a:283c:007e:1:0:0
+CCTV 3
+p:Unknown
+0a90:00462a0a:283c:007e:1:0:0
+CCTV 4 Asia
+p:Unknown
+0a91:00462a0a:283c:007e:1:0:0
+CCTV 5
+p:Unknown
+0a93:00462a0a:283c:007e:1:0:0
+CCTV 5+
+p:Unknown
+0a94:00462a0a:283c:007e:1:0:0
+CCTV 8
+p:Unknown
+0a95:00462a0a:283c:007e:1:0:0
+CCTV 7
+p:Unknown
+0a96:00462a0a:283c:007e:1:0:0
+CCTV 13
+p:Unknown
+0a97:00462a0a:283c:007e:1:0:0
+BRTV Kaku
+p:Unknown
+0a99:00462a0a:283c:007e:1:0:0
+Beijing Satellite TV
+p:Unknown
+0a9a:00462a0a:283c:007e:1:0:0
+Dragon TV International
+p:Unknown
+0a9b:00462a0a:283c:007e:1:0:0
+Hunan TV International
+p:Unknown
+0a9c:00462a0a:283c:007e:1:0:0
+Jiangsu Satellite TV
+p:Unknown
+0a9d:00462a0a:283c:007e:1:0:0
+Zhejiang Satellite TV International
+p:Unknown
+0a9e:00462a0a:283c:007e:1:0:0
+Anhui Satellite TV
+p:Unknown
+0a9f:00462a0a:283c:007e:1:0:0
+Liaoning TV
+p:Unknown
+0aa0:00462a0a:283c:007e:1:0:0
+Phoenix InfoNews Channel
+p:Unknown
+0013:00462a5d:29cc:007e:1:0:0
+B-GLS TV 1
+p:Unknown
+0014:00462a5d:29cc:007e:1:0:0
+B-GLS TV 2
+p:Unknown
+0015:00462a5d:29cc:007e:1:0:0
+B-GLS TV 3
+p:Unknown
+0016:00462a5d:29cc:007e:1:0:0
+B-GLS TV 4
+p:Unknown
+0017:00462a5d:29cc:007e:1:0:0
+B-GLS TV 5
+p:Unknown
+0870:00462a87:2a94:007e:1:0:0
+Nyota TV
+p:Unknown
+0875:00462a87:2a94:007e:1:0:0
+Sibuka TV
+p:Unknown
+0876:00462a87:2a94:007e:1:0:0
+GEB America
+p:Unknown
+0878:00462a87:2a94:007e:1:0:0
+Sauti Ya Uponyaji TV
+p:Unknown
+087a:00462a87:2a94:007e:1:0:0
+Mchongo TV
+p:Unknown
+087b:00462a87:2a94:007e:1:0:0
+Clear TV
+p:Unknown
+087c:00462a87:2a94:007e:1:0:0
+The Sniper 1 TV
+p:Unknown
+087d:00462a87:2a94:007e:1:0:0
+Sky International TV
+p:Unknown
+087e:00462a87:2a94:007e:1:0:0
+Riyadh TV
+p:Unknown
+0882:00462a87:2a94:007e:1:0:0
+Harvest TV
+p:Unknown
+0883:00462a87:2a94:007e:1:0:0
+JN Power TV
+p:Unknown
+0884:00462a87:2a94:007e:1:0:0
+Ukombozi TV
+p:Unknown
+0885:00462a87:2a94:007e:1:0:0
+TZ Gospel TV
+p:Unknown
+0886:00462a87:2a94:007e:1:0:0
+Channel 44
+p:Unknown
+0887:00462a87:2a94:007e:1:0:0
+Eternal Life TV
+p:Unknown
+0866:00462a87:2a94:007e:2:0:0
+Hope FM
+p:Unknown
+0867:00462a87:2a94:007e:2:0:0
+Radio Miraya
+p:Unknown
+0868:00462a87:2a94:007e:2:0:0
+Biblia Husema Broadcasting
+p:Unknown
+086a:00462a87:2a94:007e:2:0:0
+Nam Lolwe FM
+p:Unknown
+086c:00462a87:2a94:007e:2:0:0
+Radio Ashe
+p:Unknown
+086e:00462a87:2a94:007e:2:0:0
+ATG Radio
+p:Unknown
+086f:00462a87:2a94:007e:2:0:0
+Kigooco FM
+p:Unknown
+0873:00462a87:2a94:007e:2:0:0
+One Love Radio FM
+p:Unknown
+0874:00462a87:2a94:007e:2:0:0
+Radio Christian Voice
+p:Unknown
+0879:00462a87:2a94:007e:2:0:0
+Abood FM
+p:Unknown
+0881:00462a87:2a94:007e:2:0:0
+Passion FM
+p:Unknown
+0084:00462adb:ebf0:007e:1:0:0
+MBC + Power
+p:Azam Digital
+0085:00462adb:ebf0:007e:1:0:0
+MBC 2
+p:Azam Digital
+0086:00462adb:ebf0:007e:1:0:0
+MBC Max
+p:Azam Digital
+0087:00462adb:ebf0:007e:1:0:0
+MBC Action
+p:Azam Digital
+0088:00462adb:ebf0:007e:1:0:0
+MBC 4
+p:Azam Digital
+0092:00462adb:ebf0:007e:1:0:0
+AMC Series
+p:Azam Digital
+0093:00462adb:ebf0:007e:1:0:0
+AMC Movies
+p:Azam Digital
+00ae:00462adb:ebf0:007e:1:0:0
+Trace Mziki
+p:Azam Digital
+00bf:00462adb:ebf0:007e:1:0:0
+History Africa
+p:Azam Digital
+00b7:00462adb:ebf0:007e:1:0:0
+National Geographic South Africa
+p:Azam Digital
+00b8:00462adb:ebf0:007e:1:0:0
+National Geographic Wild South Africa
+p:Azam Digital
+00c0:00462adb:ebf0:007e:1:0:0
+Discovery Channel Africa
+p:Azam Digital
+00c8:00462adb:ebf0:007e:1:0:0
+Investigation Discovery Africa
+p:Azam Digital
+00dc:00462adb:ebf0:007e:1:0:0
+Nickelodeon Africa
+p:Azam Digital
+00dd:00462adb:ebf0:007e:1:0:0
+Boing Africa
+p:Azam Digital
+00de:00462adb:ebf0:007e:1:0:0
+Fix & Foxi
+p:Azam Digital
+00df:00462adb:ebf0:007e:1:0:0
+Baby TV Europe
+p:Azam Digital
+00e8:00462adb:ebf0:007e:1:0:0
+Fox News Channel
+p:Azam Digital
+00e9:00462adb:ebf0:007e:1:0:0
+MS Now International
+p:Azam Digital
+00ea:00462adb:ebf0:007e:1:0:0
+France 24 English
+p:Azam Digital
+00f1:00462adb:ebf0:007e:1:0:0
+EuroNews Deutsch
+p:Azam Digital
+00f5:00462adb:ebf0:007e:1:0:0
+Rai Italia Africa
+p:Azam Digital
+00fb:00462adb:ebf0:007e:1:0:0
+MBC Mood
+p:Azam Digital
+00fc:00462adb:ebf0:007e:1:0:0
+MBC Drama
+p:Azam Digital
+00fd:00462adb:ebf0:007e:1:0:0
+Aljazeera Channel
+p:Azam Digital
+00fe:00462adb:ebf0:007e:1:0:0
+MBC 3
+p:Azam Digital
+0118:00462adb:ebf0:007e:1:0:0
+ETV Telugu
+p:Azam Digital
+0119:00462adb:ebf0:007e:1:0:0
+Star Maa
+p:Azam Digital
+0132:00462adb:ebf0:007e:1:0:0
+MBC Bollywood
+p:Azam Digital
+0065:00462ae5:eb8e:007e:1:0:0
+Azam One
+p:Azam Digital
+0066:00462ae5:eb8e:007e:1:0:0
+Azam Two
+p:Azam Digital
+006a:00462ae5:eb8e:007e:1:0:0
+Sinema Zetu
+p:Azam Digital
+006c:00462ae5:eb8e:007e:1:0:0
+UTV
+p:Azam Digital
+006f:00462ae5:eb8e:007e:1:0:0
+Azam Sports 1
+p:Azam Digital
+0070:00462ae5:eb8e:007e:1:0:0
+Azam Sports 2
+p:Azam Digital
+0071:00462ae5:eb8e:007e:1:0:0
+Azam Sports 3
+p:Azam Digital
+0072:00462ae5:eb8e:007e:1:0:0
+Azam Sports 4
+p:Azam Digital
+00cf:00462ae5:eb8e:007e:1:0:0
+Travel Channel Europe
+p:Azam Digital
+00d3:00462ae5:eb8e:007e:1:0:0
+Food Network EMEA
+p:Azam Digital
+0196:00462ae5:eb8e:007e:1:0:0
+ZBC 2
+p:Azam Digital
+01f0:00462ae5:eb8e:007e:1:0:0
+Lumen TV
+p:Azam Digital
+0050:00462ae5:eb8e:007e:2:0:0
+Capital FM
+p:Unknown
+0051:00462ae5:eb8e:007e:2:0:0
+88.8 CBS FM
+p:Unknown
+0052:00462ae5:eb8e:007e:2:0:0
+93.3 KFM
+p:Unknown
+0053:00462ae5:eb8e:007e:2:0:0
+Radio West
+p:Unknown
+0054:00462ae5:eb8e:007e:2:0:0
+Radio Simba
+p:Unknown
+0064:00462b24:eac4:007e:1:0:0
+Azam Xtra
+p:Unknown
+0078:00462b24:eac4:007e:1:0:0
+ESPN Africa
+p:Azam Digital
+0079:00462b24:eac4:007e:1:0:0
+ESPN 2 Africa
+p:Azam Digital
+007d:00462b24:eac4:007e:1:0:0
+LFC TV
+p:Azam Digital
+0089:00462b24:eac4:007e:1:0:0
+Kix Africa
+p:Azam Digital
+0092:00462b24:eac4:007e:1:0:0
+AMC Movies
+p:Azam Digital
+0098:00462b24:eac4:007e:1:0:0
+BCN TV
+p:Azam Digital
+00ac:00462b24:eac4:007e:1:0:0
+Music Box Hits
+p:Azam Digital
+00cd:00462b24:eac4:007e:1:0:0
+Real Time Africa
+p:Azam Digital
+00ce:00462b24:eac4:007e:1:0:0
+Travelxp HD
+p:Azam Digital
+00d2:00462b24:eac4:007e:1:0:0
+Delicious
+p:Azam Digital
+00e1:00462b24:eac4:007e:1:0:0
+CBeebies Africa
+p:Azam Digital
+00e2:00462b24:eac4:007e:1:0:0
+Cartoon Network Africa
+p:Azam Digital
+00e3:00462b24:eac4:007e:1:0:0
+Cartoonito Africa
+p:Azam Digital
+00fa:00462b24:eac4:007e:1:0:0
+TVE Internacional Europa
+p:Azam Digital
+0122:00462b24:eac4:007e:1:0:0
+Star Plus Middle East
+p:Azam Digital
+0123:00462b24:eac4:007e:1:0:0
+Colors
+p:Azam Digital
+0124:00462b24:eac4:007e:1:0:0
+SET Asia
+p:Azam Digital
+0127:00462b24:eac4:007e:1:0:0
+Star Bharat Middle East
+p:Azam Digital
+0133:00462b24:eac4:007e:1:0:0
+Star Gold Middle East
+p:Azam Digital
+0141:00462b24:eac4:007e:1:0:0
+Zoom
+p:Azam Digital
+0145:00462b24:eac4:007e:1:0:0
+News 18 International
+p:Azam Digital
+0152:00462b24:eac4:007e:1:0:0
+Nenyon TV
+p:Azam Digital
+015c:00462b24:eac4:007e:1:0:0
+Salam TV
+p:Azam Digital
+015d:00462b24:eac4:007e:1:0:0
+Uganda Catholic TV
+p:Azam Digital
+0164:00462b24:eac4:007e:1:0:0
+Tayari West
+p:Azam Digital
+016f:00462b24:eac4:007e:1:0:0
+Baba TV
+p:Azam Digital
+0170:00462b24:eac4:007e:1:0:0
+Doxa TV
+p:Azam Digital
+0171:00462b24:eac4:007e:1:0:0
+Westnile TV
+p:Azam Digital
+0186:00462b24:eac4:007e:1:0:0
+Hope Channel Malawi
+p:Azam Digital
+018d:00462b24:eac4:007e:1:0:0
+ZBC News
+p:Azam Digital
+019f:00462b24:eac4:007e:1:0:0
+Crown TV
+p:Azam Digital
+01a0:00462b24:eac4:007e:1:0:0
+TV 3
+p:Azam Digital
+01a1:00462b24:eac4:007e:1:0:0
+Sunet TV
+p:Azam Digital
+01a2:00462b24:eac4:007e:1:0:0
+Jehova Jire TV
+p:Azam Digital
+01a3:00462b24:eac4:007e:1:0:0
+Furaha TV
+p:Azam Digital
+01e5:00462b24:eac4:007e:1:0:0
+ZNBC TV 1
+p:Azam Digital
+01e6:00462b24:eac4:007e:1:0:0
+ZNBC TV 4
+p:Azam Digital
+01ec:00462b24:eac4:007e:1:0:0
+Prime TV
+p:Azam Digital
+01ed:00462b24:eac4:007e:1:0:0
+Prime TV 2
+p:Azam Digital
+01ee:00462b24:eac4:007e:1:0:0
+Crown TV
+p:Azam Digital
+0094:00462b62:eb8d:007e:1:0:0
+Nina Novelas English
+p:Azam Digital
+0095:00462b62:eb8d:007e:1:0:0
+Romanza+ Africa
+p:Azam Digital
+00a3:00462b62:eb8d:007e:1:0:0
+StarLife
+p:Azam Digital
+00e6:00462b62:eb8d:007e:1:0:0
+BBC News Africa
+p:Azam Digital
+00e7:00462b62:eb8d:007e:1:0:0
+Aljazeera English
+p:Azam Digital
+00eb:00462b62:eb8d:007e:1:0:0
+Africanews English
+p:Azam Digital
+00ef:00462b62:eb8d:007e:1:0:0
+CNN International Europe
+p:Azam Digital
+00f0:00462b62:eb8d:007e:1:0:0
+France 24 Français
+p:Azam Digital
+0104:00462b62:eb8d:007e:1:0:0
+Vijay TV
+p:Azam Digital
+0105:00462b62:eb8d:007e:1:0:0
+Puthiya Thalaimurai
+p:Azam Digital
+010f:00462b62:eb8d:007e:1:0:0
+Asianet Middle East
+p:Azam Digital
+0110:00462b62:eb8d:007e:1:0:0
+Mazhavil Manorama International
+p:Azam Digital
+0125:00462b62:eb8d:007e:1:0:0
+Sony SAB Asia
+p:Azam Digital
+0126:00462b62:eb8d:007e:1:0:0
+Colors Rishtey Asia
+p:Azam Digital
+0134:00462b62:eb8d:007e:1:0:0
+Sony Max UK
+p:Azam Digital
+0150:00462b62:eb8d:007e:1:0:0
+Kass TV
+p:Azam Digital
+0151:00462b62:eb8d:007e:1:0:0
+Inooro TV
+p:Azam Digital
+0153:00462b62:eb8d:007e:1:0:0
+Kameme TV
+p:Azam Digital
+0155:00462b62:eb8d:007e:1:0:0
+Horizon TV
+p:Azam Digital
+0161:00462b62:eb8d:007e:1:0:0
+Bukedde 1
+p:Azam Digital
+0162:00462b62:eb8d:007e:1:0:0
+Bukedde 2
+p:Azam Digital
+0165:00462b62:eb8d:007e:1:0:0
+TV West
+p:Azam Digital
+0166:00462b62:eb8d:007e:1:0:0
+Spark TV
+p:Azam Digital
+0167:00462b62:eb8d:007e:1:0:0
+Salt TV
+p:Azam Digital
+0168:00462b62:eb8d:007e:1:0:0
+Channel 44
+p:Azam Digital
+0169:00462b62:eb8d:007e:1:0:0
+Top TV
+p:Azam Digital
+016a:00462b62:eb8d:007e:1:0:0
+Chamuka TV
+p:Azam Digital
+016c:00462b62:eb8d:007e:1:0:0
+King Solomon TV
+p:Azam Digital
+0172:00462b62:eb8d:007e:1:0:0
+Rwanda TV
+p:Azam Digital
+017c:00462b62:eb8d:007e:1:0:0
+MBC
+p:Azam Digital
+017d:00462b62:eb8d:007e:1:0:0
+Times TV
+p:Azam Digital
+017e:00462b62:eb8d:007e:1:0:0
+Zodiak TV
+p:Azam Digital
+0180:00462b62:eb8d:007e:1:0:0
+MBC 2
+p:Azam Digital
+0184:00462b62:eb8d:007e:1:0:0
+Mpira TV
+p:Azam Digital
+018e:00462b62:eb8d:007e:1:0:0
+KeYona TV
+p:Azam Digital
+0191:00462b62:eb8d:007e:1:0:0
+Tanzania Safari Channel
+p:Azam Digital
+0194:00462b62:eb8d:007e:1:0:0
+Star TV
+p:Azam Digital
+0197:00462b62:eb8d:007e:1:0:0
+TV E
+p:Azam Digital
+019a:00462b62:eb8d:007e:1:0:0
+Capital TV
+p:Azam Digital
+01d1:00462b62:eb8d:007e:1:0:0
+Upendo TV
+p:Azam Digital
+0031:00462b62:eb8d:007e:2:0:0
+U FM Radio
+p:Unknown
+0039:00462b62:eb8d:007e:2:0:0
+Wasafi FM
+p:Unknown
+005a:00462b62:eb8d:007e:2:0:0
+MBC Radio 1
+p:Unknown
+005b:00462b62:eb8d:007e:2:0:0
+MBC Radio 2
+p:Unknown
+0001:00462b90:0051:0001:1:0:0
+WGB Lucky Balls
+p:Unknown
+0005:00462b90:0051:0001:1:0:0
+WGB Lucky Greek
+p:Unknown
+0006:00462b90:0051:0001:1:0:0
+WGB EPL
+p:Unknown
+0007:00462b90:0051:0001:1:0:0
+WGB Champions League
+p:Unknown
+000b:00462b90:0051:0001:1:0:0
+WGB Lucky Color
+p:Unknown
+000e:00462ba1:eb8f:007e:1:0:0
+Africa TV 2 Quran
+p:Unknown
+00ee:00462ba1:eb8f:007e:1:0:0
+CGTN
+p:Azam Digital
+014a:00462ba1:eb8f:007e:1:0:0
+KBC Channel 1
+p:Azam Digital
+014b:00462ba1:eb8f:007e:1:0:0
+Citizen TV
+p:Azam Digital
+014c:00462ba1:eb8f:007e:1:0:0
+K24
+p:Azam Digital
+014d:00462ba1:eb8f:007e:1:0:0
+NTV
+p:Azam Digital
+014e:00462ba1:eb8f:007e:1:0:0
+KTN Home
+p:Azam Digital
+0154:00462ba1:eb8f:007e:1:0:0
+Al Huda TV
+p:Azam Digital
+0156:00462ba1:eb8f:007e:1:0:0
+Weru TV
+p:Azam Digital
+0157:00462ba1:eb8f:007e:1:0:0
+TV 47
+p:Azam Digital
+015e:00462ba1:eb8f:007e:1:0:0
+UBC TV
+p:Azam Digital
+015f:00462ba1:eb8f:007e:1:0:0
+NTV Uganda
+p:Azam Digital
+0160:00462ba1:eb8f:007e:1:0:0
+NBS TV
+p:Azam Digital
+0163:00462ba1:eb8f:007e:1:0:0
+BBS TV
+p:Azam Digital
+016d:00462ba1:eb8f:007e:1:0:0
+KBS TV
+p:Azam Digital
+016e:00462ba1:eb8f:007e:1:0:0
+Sanyuka TV
+p:Azam Digital
+0173:00462ba1:eb8f:007e:1:0:0
+TV 10
+p:Azam Digital
+0174:00462ba1:eb8f:007e:1:0:0
+KC2
+p:Azam Digital
+017f:00462ba1:eb8f:007e:1:0:0
+Mibawa TV
+p:Azam Digital
+0181:00462ba1:eb8f:007e:1:0:0
+Great Dominion TV
+p:Azam Digital
+0182:00462ba1:eb8f:007e:1:0:0
+Luntha TV
+p:Azam Digital
+0183:00462ba1:eb8f:007e:1:0:0
+TV Islam
+p:Azam Digital
+0185:00462ba1:eb8f:007e:1:0:0
+Mzati TV
+p:Azam Digital
+018b:00462ba1:eb8f:007e:1:0:0
+ZBC TV
+p:Azam Digital
+0190:00462ba1:eb8f:007e:1:0:0
+TBC 1
+p:Azam Digital
+0192:00462ba1:eb8f:007e:1:0:0
+Channel Ten
+p:Azam Digital
+0193:00462ba1:eb8f:007e:1:0:0
+Clouds TV
+p:Azam Digital
+0195:00462ba1:eb8f:007e:1:0:0
+ZBC TV
+p:Azam Digital
+0198:00462ba1:eb8f:007e:1:0:0
+ITV
+p:Azam Digital
+0199:00462ba1:eb8f:007e:1:0:0
+EATV 5
+p:Azam Digital
+019b:00462ba1:eb8f:007e:1:0:0
+Wasafi TV
+p:Azam Digital
+019c:00462ba1:eb8f:007e:1:0:0
+Channel Ten +
+p:Azam Digital
+01c7:00462ba1:eb8f:007e:1:0:0
+Mahaasin TV
+p:Azam Digital
+01c8:00462ba1:eb8f:007e:1:0:0
+TV Imaan
+p:Unknown
+01d2:00462ba1:eb8f:007e:1:0:0
+Hope Channel Tanzania
+p:Azam Digital
+01d3:00462ba1:eb8f:007e:1:0:0
+WRM TV
+p:Azam Digital
+01d5:00462ba1:eb8f:007e:1:0:0
+Arise & Shine TV
+p:Azam Digital
+01d6:00462ba1:eb8f:007e:1:0:0
+Tumaini TV
+p:Azam Digital
+0032:00462ba1:eb8f:007e:2:0:0
+Clouds FM
+p:Unknown
+0033:00462ba1:eb8f:007e:2:0:0
+EFM
+p:Unknown
+0034:00462ba1:eb8f:007e:2:0:0
+Times FM
+p:Unknown
+0035:00462ba1:eb8f:007e:2:0:0
+TBC FM
+p:Unknown
+0038:00462ba1:eb8f:007e:2:0:0
+Uhuru FM
+p:Unknown
+003a:00462ba1:eb8f:007e:2:0:0
+Magic FM
+p:Unknown
+003b:00462ba1:eb8f:007e:2:0:0
+Radio Free Africa
+p:Unknown
+003c:00462ba1:eb8f:007e:2:0:0
+Kiss FM
+p:Unknown
+003d:00462ba1:eb8f:007e:2:0:0
+Radio One
+p:Unknown
+003f:00462ba1:eb8f:007e:2:0:0
+BBC World Service Swahili
+p:Unknown
+0040:00462ba1:eb8f:007e:2:0:0
+Capital Radio
+p:Unknown
+0042:00462ba1:eb8f:007e:2:0:0
+Radio Imaan FM
+p:Unknown
+0043:00462ba1:eb8f:007e:2:0:0
+Crown FM
+p:Unknown
+0044:00462ba1:eb8f:007e:2:0:0
+Radio Tumaini
+p:Unknown
+005f:00462ba1:eb8f:007e:2:0:0
+ZBC Radio
+p:Unknown
+0060:00462ba1:eb8f:007e:2:0:0
+Radio Zimbabwe
+p:Unknown
+0002:00462c15:0ce4:007e:1:0:0
+AVA Family
+p:Unknown
+0003:00462c15:0ce4:007e:1:0:0
+Home+
+p:Unknown
+0005:00462c15:0ce4:007e:1:0:0
+Persiana +
+p:Unknown
+0006:00462c15:0ce4:007e:1:0:0
+Simay-Azadi Iran National TV
+p:Unknown
+0007:00462c15:0ce4:007e:1:0:0
+Project Leon
+p:Unknown
+0008:00462c15:0ce4:007e:1:0:0
+Iran National Revolution TV
+p:Unknown
+0009:00462c15:0ce4:007e:1:0:0
+Sat 7 Pars
+p:Unknown
+000a:00462c15:0ce4:007e:1:0:0
+Kalemeh TV
+p:Unknown
+000b:00462c15:0ce4:007e:1:0:0
+BBC News Persian
+p:Unknown
+000c:00462c15:0ce4:007e:1:0:0
+Persiana Travel
+p:Unknown
+000d:00462c15:0ce4:007e:1:0:0
+Iran International
+p:Unknown
+000e:00462c15:0ce4:007e:1:0:0
+Nour TV
+p:Unknown
+000f:00462c15:0ce4:007e:1:0:0
+Setareh TV
+p:Unknown
+0011:00462c15:0ce4:007e:1:0:0
+YourTime TV
+p:Unknown
+0012:00462c15:0ce4:007e:1:0:0
+Dej TV
+p:Unknown
+0013:00462c15:0ce4:007e:1:0:0
+Araz News
+p:Unknown
+0014:00462c15:0ce4:007e:2:0:0
+Radio Payam Azadi
+p:Unknown
+0065:00462c5c:0003:0001:1:0:0
+ZBC TV
+p:Unknown
+0066:00462c5c:0003:0001:1:0:0
+ZBC News
+p:Unknown
+0067:00462c5c:0003:0001:1:0:0
+Jive TV
+p:Unknown
+006a:00462c5c:0003:0001:1:0:0
+Southern African Development Community
+p:Unknown
+00cb:00462c5c:0003:0001:1:0:0
+KeYona TV
+p:Unknown
+00cc:00462c5c:0003:0001:1:0:0
+3K TV
+p:Unknown
+00cd:00462c5c:0003:0001:1:0:0
+Nkululeko Rusununguko TV
+p:Unknown
+00ce:00462c5c:0003:0001:1:0:0
+ZTN Prime
+p:Unknown
+006b:00462c5c:0003:0001:2:0:0
+National FM
+p:Unknown
+006c:00462c5c:0003:0001:2:0:0
+Radio Zimbabwe
+p:Unknown
+006d:00462c5c:0003:0001:2:0:0
+Classic 263
+p:Unknown
+006e:00462c5c:0003:0001:2:0:0
+Power FM
+p:Unknown
+006f:00462c5c:0003:0001:2:0:0
+Star FM
+p:Unknown
+0070:00462c5c:0003:0001:2:0:0
+Zi FM
+p:Unknown
+0005:00462c92:0ce8:007e:1:0:0
+Erfan Halgheh TV
+p:Unknown
+0006:00462c92:0ce8:007e:1:0:0
+Iran National Revolution TV
+p:Unknown
+0008:00462c92:0ce8:007e:1:0:0
+4U TV
+p:Unknown
+0009:00462c92:0ce8:007e:1:0:0
+Iran International
+p:Unknown
+000a:00462c92:0ce8:007e:1:0:0
+4U Family
+p:Unknown
+000b:00462c92:0ce8:007e:1:0:0
+Kanal Jadid
+p:Unknown
+0028:00462c92:0ce8:007e:1:0:0
+VoA 365
+p:Unknown
+0029:00462c92:0ce8:007e:1:0:0
+MBC Persia
+p:Unknown
+0001:00462cb4:0001:ff00:1:0:0
+MBC 1
+p:Unknown
+0003:00462cb4:0001:ff00:1:0:0
+MBC 2
+p:Unknown
+0001:00462d17:0004:0001:2:0:0
+Zodiak Radio
+p:Unknown
+0002:00462d17:0004:0001:2:0:0
+Timveni Radio
+p:Unknown
+0003:00462d17:0004:0001:2:0:0
+EBS Radio
+p:Unknown
+0005:00462d17:0004:0001:2:0:0
+Tuntufye FM
+p:Unknown
+0008:00462d17:0004:0001:2:0:0
+TWR Africa
+p:Unknown
+0009:00462d17:0004:0001:2:0:0
+JoJo FM
+p:Unknown
+000a:00462d17:0004:0001:2:0:0
+Radio Kwizera
+p:Unknown
+9ccc:00462d22:162d:0001:1:0:0
+Elbet Rocketman
+p:Unknown
+9ccd:00462d22:162d:0001:1:0:0
+Elbet Lucky Balls Deluxe
+p:Unknown
+9cce:00462d22:162d:0001:1:0:0
+Elbet Lucky Greek
+p:Unknown
+9cfe:00462d22:162d:0001:1:0:0
+GoBet247 Football
+p:Unknown
+9cff:00462d22:162d:0001:1:0:0
+GoBet247 Multi
+p:Unknown
+9d00:00462d22:162d:0001:1:0:0
+GoBet247 Lucky Balls
+p:Unknown
+9d1c:00462d22:162d:0001:1:0:0
+BetBiga Premier League
+p:Unknown
+9d1e:00462d22:162d:0001:1:0:0
+BetBiga Multi
+p:Unknown
+9d1f:00462d22:162d:0001:1:0:0
+BetBiga Lucky Balls
+p:Unknown
+9d6f:00462d22:162d:0001:1:0:0
+Voice of One TV
+p:Unknown
+9e39:00462d22:162d:0001:1:0:0
+AccessBet 4in1
+p:Unknown
+9e47:00462d22:162d:0001:1:0:0
+Parico Spin2Win
+p:Unknown
+9e48:00462d22:162d:0001:1:0:0
+Parico League
+p:Unknown
+9eac:00462d22:162d:0001:1:0:0
+Global Bet Virtual Football League
+p:Unknown
+9eb0:00462d22:162d:0001:1:0:0
+Betgr8 2 Mix
+p:Unknown
+9eb1:00462d22:162d:0001:1:0:0
+Betgr8 1 League
+p:Unknown
+9eb2:00462d22:162d:0001:1:0:0
+Betgr8 3 Numbers
+p:Unknown
+9ed1:00462d22:162d:0001:1:0:0
+Parico 24
+p:Unknown
+9efd:00462d22:162d:0001:1:0:0
+Greater Love TV
+p:Unknown
+9f11:00462d22:162d:0001:1:0:0
+GoldenRace Dog Horse
+p:Unknown
+9f12:00462d22:162d:0001:1:0:0
+GoldenRace England League
+p:Unknown
+9f25:00462d22:162d:0001:1:0:0
+Meridianbet Lucky's 6
+p:Unknown
+9f5b:00462d22:162d:0001:1:0:0
+DeevBet Lucky Balls
+p:Unknown
+9f61:00462d22:162d:0001:1:0:0
+AccessBet EPL
+p:Unknown
+9f62:00462d22:162d:0001:1:0:0
+AccessBet Color
+p:Unknown
+9f63:00462d22:162d:0001:1:0:0
+Elbet Jackpot
+p:Unknown
+0002:00462d4b:eb8c:007e:1:0:0
+Peace TV English
+p:Unknown
+0003:00462d4b:eb8c:007e:1:0:0
+Quran TV
+p:Unknown
+0004:00462d4b:eb8c:007e:1:0:0
+Sunna TV
+p:Unknown
+0009:00462d4b:eb8c:007e:1:0:0
+Emmanuel TV
+p:Unknown
+000c:00462d4b:eb8c:007e:1:0:0
+World Evangelism TV
+p:Unknown
+000d:00462d4b:eb8c:007e:1:0:0
+Eden TV International
+p:Unknown
+000e:00462d4b:eb8c:007e:1:0:0
+Joy Gospel TV
+p:Unknown
+009a:00462d4b:eb8c:007e:1:0:0
+IBN TV Africa
+p:Unknown
+00c4:00462d4b:eb8c:007e:1:0:0
+Haleluya TV
+p:Unknown
+00ed:00462d4b:eb8c:007e:1:0:0
+Bloomberg TV Africa
+p:Azam Digital
+0177:00462d4b:eb8c:007e:1:0:0
+Universal TV
+p:Azam Digital
+01c9:00462d4b:eb8c:007e:1:0:0
+Africa TV 2
+p:Unknown
+17d9:00462d4b:eb8c:007e:1:0:0
+Efatha TV
+p:Unknown
+17dc:00462d4b:eb8c:007e:1:0:0
+2M TV
+p:Unknown
+17ee:00462d4b:eb8c:007e:1:0:0
+Jehova Jire TV
+p:Unknown
+17f2:00462d4b:eb8c:007e:1:0:0
+AfroTurk TV
+p:Unknown
+17f8:00462d4b:eb8c:007e:1:0:0
+Thunder TV
+p:Unknown
+17fa:00462d4b:eb8c:007e:1:0:0
+GMCL TV
+p:Unknown
+17fb:00462d4b:eb8c:007e:1:0:0
+Holiness TV
+p:Unknown
+1800:00462d4b:eb8c:007e:1:0:0
+ROC TV
+p:Unknown
+1801:00462d4b:eb8c:007e:1:0:0
+Habari Maalum TV
+p:Unknown
+1802:00462d4b:eb8c:007e:1:0:0
+Christ Mandate TV
+p:Unknown
+1807:00462d4b:eb8c:007e:1:0:0
+Usambara Mountain TV
+p:Unknown
+1808:00462d4b:eb8c:007e:1:0:0
+Salvation TV Global
+p:Unknown
+180a:00462d4b:eb8c:007e:1:0:0
+Deep Life TV
+p:Unknown
+180c:00462d4b:eb8c:007e:1:0:0
+Jesus Light TV
+p:Unknown
+180d:00462d4b:eb8c:007e:1:0:0
+AfroTurk Agro TV
+p:Unknown
+180e:00462d4b:eb8c:007e:1:0:0
+Abood TV Plus
+p:Unknown
+1811:00462d4b:eb8c:007e:1:0:0
+Zoe TV
+p:Unknown
+1813:00462d4b:eb8c:007e:1:0:0
+Inland TV
+p:Unknown
+1815:00462d4b:eb8c:007e:1:0:0
+Biafra TV
+p:Unknown
+1818:00462d4b:eb8c:007e:1:0:0
+Oromia Media Network
+p:Unknown
+1819:00462d4b:eb8c:007e:1:0:0
+Anton TV
+p:Unknown
+009b:00462d4b:eb8c:007e:2:0:0
+Radio Maarifa
+p:Unknown
+17d7:00462d4b:eb8c:007e:2:0:0
+Radio Vaovao Mahasoa
+p:Unknown
+17f7:00462d4b:eb8c:007e:2:0:0
+Radio 2M
+p:Unknown
+1805:00462d4b:eb8c:007e:2:0:0
+Ukombozi FM Radio
+p:Unknown
+1810:00462d4b:eb8c:007e:2:0:0
+Thunder FM
+p:Unknown
+1816:00462d4b:eb8c:007e:2:0:0
+Radio Biafra
+p:Unknown
+0101:00462d5c:1000:2000:1:0:0
+Or Hachaim
+p:Unknown
+0840:00462d75:0000:0000:1:0:0
+Sibuka TV
+p:Unknown
+0841:00462d75:0000:0000:1:0:0
+GEB America
+p:Unknown
+0843:00462d75:0000:0000:1:0:0
+Restoration Gospel Commission Ministry
+p:Unknown
+0844:00462d75:0000:0000:1:0:0
+The Sniper 1 TV
+p:Unknown
+0845:00462d75:0000:0000:1:0:0
+Sky International TV
+p:Unknown
+0847:00462d75:0000:0000:1:0:0
+Harvest TV
+p:Unknown
+0848:00462d75:0000:0000:1:0:0
+JN Power TV
+p:Unknown
+0849:00462d75:0000:0000:1:0:0
+Ukombozi TV
+p:Unknown
+084a:00462d75:0000:0000:1:0:0
+TZ Gospel TV
+p:Unknown
+084c:00462d75:0000:0000:1:0:0
+Eternal Life TV
+p:Unknown
+084d:00462d75:0000:0000:1:0:0
+Heaven Channel
+p:Unknown
+0850:00462d75:0000:0000:1:0:0
+King James TV
+p:Unknown
+0857:00462d75:0000:0000:1:0:0
+MDS TV
+p:Unknown
+0858:00462d75:0000:0000:1:0:0
+Glorious Times TV
+p:Unknown
+0a8d:00462d75:0000:0000:1:0:0
+CCTV 1
+p:Unknown
+0a8e:00462d75:0000:0000:1:0:0
+CCTV 2
+p:Unknown
+0a8f:00462d75:0000:0000:1:0:0
+CCTV 3
+p:Unknown
+0a90:00462d75:0000:0000:1:0:0
+CCTV 4 Asia
+p:Unknown
+0a91:00462d75:0000:0000:1:0:0
+CCTV 5
+p:Unknown
+0a92:00462d75:0000:0000:1:0:0
+CHC Fan Movies
+p:Unknown
+0a93:00462d75:0000:0000:1:0:0
+CCTV 5+
+p:Unknown
+0a94:00462d75:0000:0000:1:0:0
+CCTV 8
+p:Unknown
+0a95:00462d75:0000:0000:1:0:0
+CCTV 7
+p:Unknown
+0a96:00462d75:0000:0000:1:0:0
+CCTV 13
+p:Unknown
+0a97:00462d75:0000:0000:1:0:0
+BRTV Kaku
+p:Unknown
+0a99:00462d75:0000:0000:1:0:0
+Beijing Satellite TV
+p:Unknown
+0a9a:00462d75:0000:0000:1:0:0
+Dragon TV International
+p:Unknown
+0a9b:00462d75:0000:0000:1:0:0
+Hunan TV International
+p:Unknown
+0a9c:00462d75:0000:0000:1:0:0
+Jiangsu Satellite TV
+p:Unknown
+0a9d:00462d75:0000:0000:1:0:0
+Zhejiang Satellite TV International
+p:Unknown
+0a9e:00462d75:0000:0000:1:0:0
+Anhui Satellite TV
+p:Unknown
+0a9f:00462d75:0000:0000:1:0:0
+Liaoning TV
+p:Unknown
+0aa0:00462d75:0000:0000:1:0:0
+Phoenix InfoNews Channel
+p:Unknown
+0836:00462d75:0000:0000:2:0:0
+Hope FM
+p:Unknown
+0837:00462d75:0000:0000:2:0:0
+Radio Miraya
+p:Unknown
+0838:00462d75:0000:0000:2:0:0
+Biblia Husema Broadcasting
+p:Unknown
+0839:00462d75:0000:0000:2:0:0
+Capital FM
+p:Unknown
+083a:00462d75:0000:0000:2:0:0
+Nam Lolwe FM
+p:Unknown
+083b:00462d75:0000:0000:2:0:0
+Radio Ashe
+p:Unknown
+083c:00462d75:0000:0000:2:0:0
+ATG Radio
+p:Unknown
+083d:00462d75:0000:0000:2:0:0
+Kigooco FM
+p:Unknown
+083e:00462d75:0000:0000:2:0:0
+One Love Radio FM
+p:Unknown
+083f:00462d75:0000:0000:2:0:0
+Radio Christian Voice
+p:Unknown
+0842:00462d75:0000:0000:2:0:0
+Abood FM
+p:Unknown
+0846:00462d75:0000:0000:2:0:0
+Passion FM
+p:Unknown
+0001:00462d93:1000:2000:1:0:0
+Shams TV
+p:Unknown
+0064:00462d95:eac4:007e:1:0:0
+Azam Xtra
+p:Unknown
+0078:00462d95:eac4:007e:1:0:0
+ESPN Africa
+p:Azam Digital
+0079:00462d95:eac4:007e:1:0:0
+ESPN 2 Africa
+p:Azam Digital
+007d:00462d95:eac4:007e:1:0:0
+LFC TV
+p:Azam Digital
+0089:00462d95:eac4:007e:1:0:0
+Kix Africa
+p:Azam Digital
+0092:00462d95:eac4:007e:1:0:0
+AMC Movies
+p:Azam Digital
+0098:00462d95:eac4:007e:1:0:0
+BCN TV
+p:Azam Digital
+00ac:00462d95:eac4:007e:1:0:0
+Music Box Hits
+p:Azam Digital
+00cd:00462d95:eac4:007e:1:0:0
+Real Time Africa
+p:Azam Digital
+00ce:00462d95:eac4:007e:1:0:0
+Travelxp HD
+p:Azam Digital
+00d2:00462d95:eac4:007e:1:0:0
+Delicious
+p:Azam Digital
+00e1:00462d95:eac4:007e:1:0:0
+CBeebies Africa
+p:Azam Digital
+00e2:00462d95:eac4:007e:1:0:0
+Cartoon Network Africa
+p:Azam Digital
+00e3:00462d95:eac4:007e:1:0:0
+Cartoonito Africa
+p:Azam Digital
+00fa:00462d95:eac4:007e:1:0:0
+TVE Internacional Europa
+p:Azam Digital
+0122:00462d95:eac4:007e:1:0:0
+Star Plus Middle East
+p:Azam Digital
+0123:00462d95:eac4:007e:1:0:0
+Colors
+p:Azam Digital
+0124:00462d95:eac4:007e:1:0:0
+SET Asia
+p:Azam Digital
+0127:00462d95:eac4:007e:1:0:0
+Star Bharat Middle East
+p:Azam Digital
+0133:00462d95:eac4:007e:1:0:0
+Star Gold Middle East
+p:Azam Digital
+0141:00462d95:eac4:007e:1:0:0
+Zoom
+p:Azam Digital
+0145:00462d95:eac4:007e:1:0:0
+News 18 International
+p:Azam Digital
+0152:00462d95:eac4:007e:1:0:0
+Nenyon TV
+p:Azam Digital
+015c:00462d95:eac4:007e:1:0:0
+Salam TV
+p:Azam Digital
+015d:00462d95:eac4:007e:1:0:0
+Uganda Catholic TV
+p:Azam Digital
+0164:00462d95:eac4:007e:1:0:0
+Tayari West
+p:Azam Digital
+016f:00462d95:eac4:007e:1:0:0
+Baba TV
+p:Azam Digital
+0170:00462d95:eac4:007e:1:0:0
+Doxa TV
+p:Azam Digital
+0171:00462d95:eac4:007e:1:0:0
+Westnile TV
+p:Azam Digital
+0186:00462d95:eac4:007e:1:0:0
+Hope Channel Malawi
+p:Azam Digital
+018d:00462d95:eac4:007e:1:0:0
+ZBC News
+p:Azam Digital
+019f:00462d95:eac4:007e:1:0:0
+Crown TV
+p:Azam Digital
+01a0:00462d95:eac4:007e:1:0:0
+TV 3
+p:Azam Digital
+01a1:00462d95:eac4:007e:1:0:0
+Sunet TV
+p:Azam Digital
+01a2:00462d95:eac4:007e:1:0:0
+Jehova Jire TV
+p:Azam Digital
+01a3:00462d95:eac4:007e:1:0:0
+Furaha TV
+p:Azam Digital
+01e5:00462d95:eac4:007e:1:0:0
+ZNBC TV 1
+p:Azam Digital
+01e6:00462d95:eac4:007e:1:0:0
+ZNBC TV 4
+p:Azam Digital
+01ec:00462d95:eac4:007e:1:0:0
+TV 1 Prime
+p:Azam Digital
+01ee:00462d95:eac4:007e:1:0:0
+Crown TV
+p:Azam Digital
+0001:00462d98:1000:2000:1:0:0
+Kurdistan TV
+p:Unknown
+0001:00462d9d:0001:0001:1:0:0
+Kurdistan 24
+p:Unknown
+0001:00462da9:0001:0001:1:0:0
+Ava News
+p:Unknown
+0002:0046313c:eb8c:007e:1:0:0
+Peace TV English
+p:Unknown
+0003:0046313c:eb8c:007e:1:0:0
+Quran TV
+p:Unknown
+0004:0046313c:eb8c:007e:1:0:0
+Sunna TV
+p:Unknown
+0009:0046313c:eb8c:007e:1:0:0
+Emmanuel TV
+p:Unknown
+000c:0046313c:eb8c:007e:1:0:0
+World Evangelism TV
+p:Unknown
+000d:0046313c:eb8c:007e:1:0:0
+Eden TV International
+p:Unknown
+000e:0046313c:eb8c:007e:1:0:0
+Joy Gospel TV
+p:Unknown
+009a:0046313c:eb8c:007e:1:0:0
+IBN TV Africa
+p:Unknown
+00bb:0046313c:eb8c:007e:1:0:0
+JW Broadcasting
+p:Unknown
+00c3:0046313c:eb8c:007e:1:0:0
+JW Broadcasting
+p:Unknown
+00c4:0046313c:eb8c:007e:1:0:0
+Haleluya TV
+p:Unknown
+00ed:0046313c:eb8c:007e:1:0:0
+Bloomberg TV Africa
+p:Azam Digital
+0177:0046313c:eb8c:007e:1:0:0
+Universal TV
+p:Azam Digital
+01c9:0046313c:eb8c:007e:1:0:0
+Africa TV 2
+p:Unknown
+17d9:0046313c:eb8c:007e:1:0:0
+Efatha TV
+p:Unknown
+17dc:0046313c:eb8c:007e:1:0:0
+2M TV
+p:Unknown
+17ee:0046313c:eb8c:007e:1:0:0
+Jehova Jire TV
+p:Unknown
+17ef:0046313c:eb8c:007e:1:0:0
+Top Plus
+p:Unknown
+17f2:0046313c:eb8c:007e:1:0:0
+AfroTurk TV
+p:Unknown
+17f8:0046313c:eb8c:007e:1:0:0
+Thunder TV
+p:Unknown
+17fa:0046313c:eb8c:007e:1:0:0
+GMCL TV
+p:Unknown
+17fb:0046313c:eb8c:007e:1:0:0
+Holiness TV
+p:Unknown
+1800:0046313c:eb8c:007e:1:0:0
+ROC TV
+p:Unknown
+1801:0046313c:eb8c:007e:1:0:0
+Habari Maalum TV
+p:Unknown
+1802:0046313c:eb8c:007e:1:0:0
+Christ Mandate TV
+p:Unknown
+1807:0046313c:eb8c:007e:1:0:0
+Usambara Mountain TV
+p:Unknown
+1808:0046313c:eb8c:007e:1:0:0
+Salvation TV Global
+p:Unknown
+180a:0046313c:eb8c:007e:1:0:0
+Deep Life TV
+p:Unknown
+180d:0046313c:eb8c:007e:1:0:0
+AfroTurk Agro TV
+p:Unknown
+180e:0046313c:eb8c:007e:1:0:0
+Abood TV Plus
+p:Unknown
+1811:0046313c:eb8c:007e:1:0:0
+Zoe TV
+p:Unknown
+1813:0046313c:eb8c:007e:1:0:0
+Inland TV
+p:Unknown
+009b:0046313c:eb8c:007e:2:0:0
+Radio Maarifa
+p:Unknown
+17d7:0046313c:eb8c:007e:2:0:0
+Radio Vaovao Mahasoa
+p:Unknown
+17f7:0046313c:eb8c:007e:2:0:0
+Radio 2M
+p:Unknown
+1805:0046313c:eb8c:007e:2:0:0
+Ukombozi FM Radio
+p:Unknown
+1810:0046313c:eb8c:007e:2:0:0
+Thunder FM
+p:Unknown
+end

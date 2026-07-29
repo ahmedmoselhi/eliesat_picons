@@ -1,5 +1,8 @@
 eDVB services /4/
 transponders
+00c029e9:041a:0001
+	s 10729000:23500000:1:0:192:2:0:1:0:2:2
+/
 00c02a06:041c:0001
 	s 10758000:22000000:1:0:192:2:0:1:0:2:2
 /
@@ -96,6 +99,9 @@ transponders
 00c02c36:03f0:0001
 	s 11318000:22000000:1:0:192:2:0:0:0:2:2
 /
+00c02c53:03f2:0001
+	s 11347000:22000000:1:0:192:2:0:1:0:2:2
+/
 00c02c62:03f3:0001
 	s 11362000:22000000:0:0:192:2:0:1:0:2:2
 /
@@ -105,20 +111,11 @@ transponders
 00c02c7f:03f5:0001
 	s 11391000:22000000:0:0:192:2:0:0:0:2:2
 /
-00c02c8e:03f6:0001
-	s 11406000:23500000:1:0:192:2:0:1:0:2:2
-/
-00c02c9d:03f7:0001
-	s 11421000:22000000:0:0:192:2:0:0:0:2:2
-/
 00c02cc8:03f9:0001
 	s 11464000:22000000:0:0:192:2:0:1:0:2:2
 /
 00c02ce6:03fb:0001
 	s 11494000:22000000:0:0:192:2:0:1:0:2:2
-/
-00c02cf5:03fc:0001
-	s 11509000:22000000:1:0:192:2:0:0:0:2:2
 /
 00c02d03:03fd:0001
 	s 11523000:22000000:0:0:192:2:0:1:0:2:2
@@ -128,6 +125,9 @@ transponders
 /
 00c02d21:03ff:0001
 	s 11553000:22000000:0:0:192:2:0:1:0:2:2
+/
+00c02d3e:0401:0001
+	s 11582000:22000000:0:0:192:2:0:1:0:2:2
 /
 00c02d97:0407:0001
 	s 11671000:22000000:0:0:192:2:0:1:0:2:2
@@ -192,11 +192,20 @@ transponders
 00c02f74:0007:0085
 	s 12148000:27500000:0:0:192:2:0:0:0:2:2
 /
+00c02f88:0440:0001
+	s 12168000:29700000:1:0:192:2:0:1:0:2:2
+/
+00c02f9c:0441:0001
+	s 12188000:27500000:0:0:192:2:0:0:0:2:2
+/
 00c02faf:0442:0001
 	s 12207000:29700000:1:0:192:2:0:1:0:2:2
 /
 00c02fc2:0443:0001
 	s 12226000:27500000:0:0:192:2:0:0:0:2:2
+/
+00c02ffd:0446:0001
+	s 12285000:29700000:1:0:192:2:0:1:0:2:2
 /
 00c03010:000c:0085
 	s 12304000:27500000:0:0:192:2:0:1:0:2:2
@@ -209,6 +218,9 @@ transponders
 /
 00c0305e:000b:0085
 	s 12382000:27500000:0:0:192:2:0:1:0:2:2
+/
+00c03072:044c:0001
+	s 12402000:29700000:1:0:192:2:0:1:0:2:2
 /
 00c03086:04b1:0001
 	s 12422000:27500000:0:0:192:2:0:0:0:2:2
@@ -251,6 +263,39 @@ transponders
 /
 end
 services
+2c88:00c029e9:041a:0001:1:0:0
+TVE La 1
+p:Astra TV
+2c89:00c029e9:041a:0001:1:0:0
+TVE La 2
+p:Astra TV
+2c8a:00c029e9:041a:0001:1:0:0
+Canal 24 Horas
+p:Astra TV
+2c8b:00c029e9:041a:0001:1:0:0
+Clan
+p:Astra TV
+2c8c:00c029e9:041a:0001:1:0:0
+Teledeporte
+p:Astra TV
+2c8d:00c029e9:041a:0001:1:0:0
+Trece
+p:Astra TV
+2c8e:00c029e9:041a:0001:1:0:0
+DKiss
+p:Astra TV
+2c8f:00c029e9:041a:0001:1:0:0
+À Punt
+p:Astra TV
+2c90:00c029e9:041a:0001:1:0:0
+ETB 1
+p:Astra TV
+2c91:00c029e9:041a:0001:1:0:0
+TPA
+p:Astra TV
+2c92:00c029e9:041a:0001:1:0:0
+Canal Sur Andalucía
+p:Astra TV
 749a:00c02a06:041c:0001:1:0:0
 Movistar Plus+
 p:Movistar+
@@ -258,7 +303,7 @@ p:Movistar+
 LaLiga TV Hypermotion
 p:Movistar+
 749d:00c02a06:041c:0001:1:0:0
-DAZN LaLiga 2
+DAZN Mundial 2
 p:Movistar+
 749e:00c02a06:041c:0001:1:0:0
 M+ Liga de Campeones 2
@@ -293,14 +338,20 @@ p:HD+
 527e:00c02a15:041d:0001:1:0:0
 Welt
 p:Canal+ Austria
+768e:00c02a24:041e:0001:1:0:0
+M+ Baloncesto
+p:Movistar+
 7691:00c02a24:041e:0001:1:0:0
-DAZN LaLiga 2
+DAZN Mundial 2
 p:Movistar+
 7692:00c02a24:041e:0001:1:0:0
 Multideporte
 p:Movistar+
 7695:00c02a24:041e:0001:1:0:0
 DAZN Baloncesto 3
+p:Movistar+
+7696:00c02a24:041e:0001:1:0:0
+M+ Orgullo
 p:Movistar+
 7697:00c02a24:041e:0001:1:0:0
 Nick Jr España
@@ -336,7 +387,7 @@ p:HD+
 HSE Extra
 p:Unknown
 157e:00c02a33:041f:0001:1:0:0
-1-2-3 TV
+123 Live TV
 p:Unknown
 157f:00c02a33:041f:0001:1:0:0
 Deluxe Music
@@ -395,7 +446,7 @@ p:HD+
 ef17:00c02a50:0421:0001:1:0:0
 Voxup
 p:HD+
-75c6:00c02a5f:0422:0001:1:0:0
+759c:00c02a5f:0422:0001:1:0:0
 Canal Portada
 p:Unknown
 7789:00c02a7c:0424:0001:1:0:0
@@ -468,7 +519,7 @@ p:Unknown
 HR 4
 p:Unknown
 28e5:00c02a8b:0425:0001:2:0:0
-You FM
+HR Dasding
 p:Unknown
 28e6:00c02a8b:0425:0001:2:0:0
 HR Info
@@ -525,10 +576,13 @@ p:Movistar+
 M+ Indie
 p:Movistar+
 7534:00c02a9a:0426:0001:1:0:0
-DAZN LaLiga
+DAZN Mundial
 p:Movistar+
 7535:00c02a9a:0426:0001:1:0:0
 Eurosport 1
+p:Movistar+
+7536:00c02a9a:0426:0001:1:0:0
+M+ Baloncesto 2
 p:Movistar+
 7537:00c02a9a:0426:0001:1:0:0
 M+ Comedia
@@ -542,41 +596,17 @@ p:Unknown
 0026:00c02aa9:000f:0085:1:0:0
 HGTV Deutschland
 p:Unknown
-7820:00c02ab8:0428:0001:1:0:0
-M+ Liga de Campeones 11
-p:Movistar+
-7821:00c02ab8:0428:0001:1:0:0
-M+ Liga de Campeones 12
-p:Movistar+
-7822:00c02ab8:0428:0001:1:0:0
-M+ Liga de Campeones 7
-p:Movistar+
-7824:00c02ab8:0428:0001:1:0:0
-M+ Liga de Campeones 8
-p:Movistar+
 7825:00c02ab8:0428:0001:1:0:0
 LaLiga TV Hypermotion
 p:Movistar+
 7827:00c02ab8:0428:0001:1:0:0
 DAZN Baloncesto
 p:Movistar+
-7829:00c02ab8:0428:0001:1:0:0
-M+ Liga de Campeones 6
-p:Movistar+
 782a:00c02ab8:0428:0001:1:0:0
 LaLiga TV Hypermotion 3
 p:Movistar+
-782b:00c02ab8:0428:0001:1:0:0
-M+ Liga de Campeones 13
-p:Movistar+
-782c:00c02ab8:0428:0001:1:0:0
-M+ Liga de Campeones 9
-p:Movistar+
 782d:00c02ab8:0428:0001:1:0:0
 M+ Deportes 7
-p:Movistar+
-782f:00c02ab8:0428:0001:1:0:0
-M+ Liga de Campeones 10
 p:Movistar+
 7830:00c02ab8:0428:0001:1:0:0
 LaLiga TV Bar 4
@@ -591,7 +621,7 @@ p:HD+
 Handystar
 p:Unknown
 2778:00c02ad4:0409:0001:1:0:0
-Channel 21
+HSE Trend
 p:Unknown
 2779:00c02ad4:0409:0001:1:0:0
 QVC Style Deutschland
@@ -717,7 +747,7 @@ p:Movistar+
 Comedy Central España
 p:Movistar+
 76c9:00c02b1e:040e:0001:1:0:0
-DAZN LaLiga
+DAZN Mundial
 p:Movistar+
 76ca:00c02b1e:040e:0001:1:0:0
 M+ Hits
@@ -763,9 +793,6 @@ BR Klassik
 p:Unknown
 28a4:00c02b2d:040f:0001:2:0:0
 BR 24
-p:Unknown
-28a5:00c02b2d:040f:0001:2:0:0
-BR 24 Live
 p:Unknown
 28a6:00c02b2d:040f:0001:2:0:0
 BR Schlager
@@ -846,7 +873,7 @@ p:Unknown
 SWR 4 Mainz
 p:Unknown
 28ce:00c02b2d:040f:0001:2:0:0
-Das Ding
+SWR Dasding
 p:Unknown
 28cf:00c02b2d:040f:0001:2:0:0
 SWR Aktuell
@@ -920,6 +947,9 @@ p:Movistar+
 7569:00c02b59:0412:0001:1:0:0
 DAZN Moto GP
 p:Movistar+
+756b:00c02b59:0412:0001:1:0:0
+M+ Baloncesto 2
+p:Movistar+
 756c:00c02b59:0412:0001:1:0:0
 M+ Vamos Bar 2
 p:Movistar+
@@ -956,12 +986,21 @@ p:Movistar+
 30d6:00c02b68:0413:0001:1:0:0
 Eurosport 1 Germany
 p:HD+
+30d8:00c02b68:0413:0001:1:0:0
+DFB TV
+p:HD+
 30ea:00c02b68:0413:0001:1:0:0
 Eurosport 1 Germany
 p:Unknown
 30f2:00c02b68:0413:0001:1:0:0
 K-TV
 p:Unknown
+7884:00c02b77:0414:0001:1:0:0
+DAZN Mundial 4
+p:Movistar+
+7885:00c02b77:0414:0001:1:0:0
+M+ Vacaciones
+p:Movistar+
 7888:00c02b77:0414:0001:1:0:0
 Boing España
 p:Movistar+
@@ -975,13 +1014,16 @@ p:Movistar+
 MTV España
 p:Movistar+
 7890:00c02b77:0414:0001:1:0:0
-Gol Play
+Gol
 p:Movistar+
 7891:00c02b77:0414:0001:1:0:0
 Be Mad
 p:Movistar+
 7892:00c02b77:0414:0001:1:0:0
 M+ LaLiga 4
+p:Movistar+
+7894:00c02b77:0414:0001:1:0:0
+DAZN Mundial 3
 p:Movistar+
 7729:00c02b94:0416:0001:1:0:0
 Canal Sur Andalucía
@@ -1052,6 +1094,21 @@ p:Unknown
 13a7:00c02bdd:03ea:0001:1:0:0
 Aljazeera English
 p:Unknown
+13ba:00c02bdd:03ea:0001:1:0:0
+Aragón TV
+p:Astra TV
+13bb:00c02bdd:03ea:0001:1:0:0
+IB3 TV
+p:Astra TV
+13bc:00c02bdd:03ea:0001:1:0:0
+CyL La 7
+p:Astra TV
+13bd:00c02bdd:03ea:0001:1:0:0
+Canal Extremadura TV
+p:Astra TV
+13be:00c02bdd:03ea:0001:1:0:0
+TV de Galicia
+p:Astra TV
 33a6:00c02bec:03eb:0001:1:0:0
 Lilo TV
 p:Unknown
@@ -1145,9 +1202,6 @@ p:Unknown
 3405:00c02c09:03ed:0001:1:0:0
 Melodie Express
 p:Unknown
-1086:00c02c18:03ee:0001:1:0:0
-QVC Deutschland
-p:Unknown
 1090:00c02c18:03ee:0001:1:0:0
 TV TRWAM
 p:Unknown
@@ -1156,6 +1210,15 @@ La 7
 p:Astra TV
 109b:00c02c18:03ee:0001:1:0:0
 TV 3 Cat
+p:Astra TV
+109c:00c02c18:03ee:0001:1:0:0
+TeleMadrid
+p:Astra TV
+109d:00c02c18:03ee:0001:1:0:0
+TV Canaria
+p:Astra TV
+109e:00c02c18:03ee:0001:1:0:0
+CMM TV
 p:Astra TV
 1091:00c02c18:03ee:0001:2:0:0
 Radio Maryja
@@ -1259,6 +1322,15 @@ p:Movistar+
 7478:00c02c36:03f0:0001:1:0:0
 M+ Originales
 p:Movistar+
+2b8e:00c02c53:03f2:0001:1:0:0
+3sat
+p:Unknown
+2b98:00c02c53:03f2:0001:1:0:0
+KIKA
+p:Unknown
+2ba2:00c02c53:03f2:0001:1:0:0
+ZDF Info
+p:Unknown
 2b66:00c02c62:03f3:0001:1:0:0
 ZDF
 p:Unknown
@@ -1304,39 +1376,6 @@ p:Unknown
 307a:00c02c7f:03f5:0001:1:0:0
 RTL UHD
 p:Canal+ Austria
-2c24:00c02c8e:03f6:0001:1:0:0
-TVE La 1
-p:Astra TV
-2c25:00c02c8e:03f6:0001:1:0:0
-TVE La 2
-p:Astra TV
-2c26:00c02c8e:03f6:0001:1:0:0
-Canal 24 Horas
-p:Astra TV
-2c27:00c02c8e:03f6:0001:1:0:0
-Clan
-p:Astra TV
-2c28:00c02c8e:03f6:0001:1:0:0
-Teledeporte
-p:Astra TV
-2c29:00c02c8e:03f6:0001:1:0:0
-Trece
-p:Astra TV
-2c2a:00c02c8e:03f6:0001:1:0:0
-DKiss
-p:Astra TV
-2c2b:00c02c8e:03f6:0001:1:0:0
-À Punt
-p:Astra TV
-2c2c:00c02c8e:03f6:0001:1:0:0
-ETB 1
-p:Astra TV
-2c2d:00c02c8e:03f6:0001:1:0:0
-TPA
-p:Astra TV
-1260:00c02c9d:03f7:0001:1:0:0
-3+
-p:Unknown
 ef74:00c02cc8:03f9:0001:1:0:0
 Sat. 1 Deutschland
 p:HD+
@@ -1384,9 +1423,6 @@ SWR Fernsehen Baden-Württemberg
 p:Unknown
 2840:00c02ce6:03fb:0001:1:0:0
 SWR Fernsehen Rheinland-Pfalz
-p:Unknown
-1b64:00c02cf5:03fc:0001:1:0:0
-Arirang World
 p:Unknown
 6eac:00c02d03:03fd:0001:1:0:0
 WDR Fernsehen Köln
@@ -1454,6 +1490,27 @@ p:Unknown
 16b1:00c02d21:03ff:0001:1:0:0
 Franken Plus
 p:Unknown
+2855:00c02d3e:0401:0001:1:0:0
+Bayerisches Fernsehen Süd
+p:Unknown
+2856:00c02d3e:0401:0001:1:0:0
+Bayerisches Fernsehen Nord
+p:Unknown
+2857:00c02d3e:0401:0001:1:0:0
+NDR Fernsehen Niedersachsen
+p:Unknown
+2858:00c02d3e:0401:0001:1:0:0
+NDR Fernsehen Mecklenburg-Vorpommern
+p:Unknown
+2859:00c02d3e:0401:0001:1:0:0
+NDR Fernsehen Hamburg
+p:Unknown
+285a:00c02d3e:0401:0001:1:0:0
+NDR Fernsehen Schleswig-Holstein
+p:Unknown
+285b:00c02d3e:0401:0001:1:0:0
+Phoenix
+p:Unknown
 14b4:00c02d97:0407:0001:1:0:0
 Sat. 1 Österreich
 p:Canal+ Austria
@@ -1497,16 +1554,13 @@ p:Sky Deutschland
 Beate Uhse TV
 p:Sky Deutschland
 008b:00c02dee:0002:0085:1:0:0
-Sky Cinema Family
+Sky Cinema Feelgood
 p:Sky Deutschland
 008d:00c02dee:0002:0085:1:0:0
 Sky Sport Mix
 p:Sky Deutschland
 0093:00c02dee:0002:0085:1:0:0
 Sky One
-p:Sky Deutschland
-0116:00c02dee:0002:0085:1:0:0
-Sky Sport Bundesliga 2
 p:Sky Deutschland
 0192:00c02dee:0002:0085:1:0:0
 Crime + Investigation Deutschland
@@ -1532,14 +1586,8 @@ p:Sky Deutschland
 007b:00c02e16:0010:0085:1:0:0
 Warner TV Serie
 p:Sky Deutschland
-0089:00c02e16:0010:0085:1:0:0
-Sky Sport Bundesliga 8
-p:Sky Deutschland
 0228:00c02e16:0010:0085:1:0:0
 Sky Sport Bundesliga UHD
-p:Sky Deutschland
-0229:00c02e16:0010:0085:1:0:0
-Sky Sport UHD
 p:Sky Deutschland
 6dca:00c02e3c:044d:0001:1:0:0
 Dokusat
@@ -1549,9 +1597,6 @@ Volksmusik TV
 p:Unknown
 6dce:00c02e3c:044d:0001:1:0:0
 Astra Demo
-p:Unknown
-6dd1:00c02e3c:044d:0001:1:0:0
-Genius Family
 p:Unknown
 200c:00c02e50:0430:0001:1:0:0
 NRJ Hits
@@ -1637,20 +1682,8 @@ p:Sky Deutschland
 0083:00c02e8a:0006:0085:1:0:0
 Sky Cinema Premiere
 p:Sky Deutschland
-0106:00c02e8a:0006:0085:1:0:0
-Sky Sport Austria 8
-p:Sky Deutschland
-010b:00c02e8a:0006:0085:1:0:0
-Sky Sport Bundesliga 1
-p:Sky Deutschland
 010c:00c02e8a:0006:0085:1:0:0
 Sky Sport 1
-p:Sky Deutschland
-013d:00c02e8a:0006:0085:1:0:0
-Sky Sport Bundesliga 6
-p:Sky Deutschland
-013e:00c02e8a:0006:0085:1:0:0
-Sky Sport 6
 p:Sky Deutschland
 22c5:00c02e9e:0434:0001:1:0:0
 MTV France
@@ -1718,7 +1751,7 @@ p:Canal+ France
 22e1:00c02e9e:0434:0001:1:0:0
 France 3 Côte d'Azur
 p:Canal+ France
-6d66:00c02eb2:0437:0001:1:0:0
+6d67:00c02eb2:0437:0001:1:0:0
 Astra Demo
 p:Unknown
 6fec:00c02ec5:0436:0001:1:0:0
@@ -1758,10 +1791,10 @@ p:Sky Deutschland
 Sky Atlantic
 p:Sky Deutschland
 006f:00c02ed8:000d:0085:1:0:0
-Sky Cinema Highlights
+Sky Cinema Blockbuster
 p:Sky Deutschland
 0070:00c02ed8:000d:0085:1:0:0
-Sky Documentaries
+Sky Docs
 p:Sky Deutschland
 0072:00c02ed8:000d:0085:1:0:0
 Sky Sport Tennis
@@ -1771,9 +1804,6 @@ p:Sky Deutschland
 p:Sky Deutschland
 0090:00c02ed8:000d:0085:1:0:0
 Sky Sport Golf
-p:Sky Deutschland
-0149:00c02ed8:000d:0085:1:0:0
-Sky Sport Austria 2
 p:Sky Deutschland
 2261:00c02eec:0438:0001:1:0:0
 Canal + France
@@ -1822,15 +1852,6 @@ Sky Sport Austria 1
 p:Sky Deutschland
 0091:00c02f00:0004:0085:1:0:0
 Sky Sport Premier League
-p:Sky Deutschland
-0129:00c02f00:0004:0085:1:0:0
-Sky Sport Bundesliga 4
-p:Sky Deutschland
-0133:00c02f00:0004:0085:1:0:0
-Sky Sport Bundesliga 5
-p:Sky Deutschland
-0155:00c02f00:0004:0085:1:0:0
-Prime Video Sportsbar Deutschland
 p:Sky Deutschland
 4e22:00c02f13:043a:0001:1:0:0
 ProSieben Austria
@@ -1895,9 +1916,6 @@ p:Canal+ France
 24d3:00c02f3a:043c:0001:1:0:0
 RFM TV
 p:Canal+ France
-24d4:00c02f3a:043c:0001:1:0:0
-TV Breizh
-p:Canal+ France
 24d5:00c02f3a:043c:0001:1:0:0
 Planète + Aventure
 p:Canal+ France
@@ -1941,7 +1959,7 @@ p:Unknown
 DMAX Austria
 p:Unknown
 0301:00c02f74:0007:0085:1:0:0
-Channel 21
+Shop LC Deutschland
 p:Unknown
 0307:00c02f74:0007:0085:1:0:0
 Meine Einkaufswelt
@@ -1957,6 +1975,84 @@ Antenne Bayern
 p:Unknown
 00b4:00c02f74:0007:0085:2:0:0
 Oldie Antenne
+p:Unknown
+2456:00c02f88:0440:0001:1:0:0
+OCS
+p:Canal+ France
+2457:00c02f88:0440:0001:1:0:0
+M6
+p:Canal+ France
+2458:00c02f88:0440:0001:1:0:0
+W9
+p:Canal+ France
+245a:00c02f88:0440:0001:1:0:0
+France 2
+p:Canal+ France
+245c:00c02f88:0440:0001:1:0:0
+Public Sénat
+p:Unknown
+245d:00c02f88:0440:0001:1:0:0
+France 3
+p:Canal+ France
+2460:00c02f88:0440:0001:1:0:0
+TF 1
+p:Canal+ France
+2461:00c02f88:0440:0001:1:0:0
+Eurosport 1 France
+p:Canal+ France
+2462:00c02f88:0440:0001:1:0:0
+BeIn Sports 1 France
+p:Canal+ France
+2464:00c02f88:0440:0001:1:0:0
+France 3 Languedoc-Roussillon
+p:Canal+ France
+2468:00c02f88:0440:0001:1:0:0
+France 4
+p:Canal+ France
+2469:00c02f88:0440:0001:1:0:0
+France 3 Rhône-Alpes
+p:Canal+ France
+246a:00c02f88:0440:0001:1:0:0
+France 3 Nord Pas-de-Calais
+p:Canal+ France
+2ee3:00c02f9c:0441:0001:1:0:0
+RTL Deutschland
+p:Unknown
+2ee4:00c02f9c:0441:0001:1:0:0
+RTL West
+p:Unknown
+2ee5:00c02f9c:0441:0001:1:0:0
+RTL Nord Niedersachsen & Bremen
+p:Unknown
+2ee6:00c02f9c:0441:0001:1:0:0
+TV Bayern
+p:Unknown
+2ee9:00c02f9c:0441:0001:1:0:0
+RTL Nord Hamburg & Schleswig-Holstein
+p:Unknown
+2ef4:00c02f9c:0441:0001:1:0:0
+RTL Zwei Deutschland
+p:Unknown
+2efe:00c02f9c:0441:0001:1:0:0
+Toggo Plus
+p:Unknown
+2f08:00c02f9c:0441:0001:1:0:0
+Toggo Deutschland
+p:Unknown
+2f1c:00c02f9c:0441:0001:1:0:0
+Vox Deutschland
+p:Unknown
+2f1d:00c02f9c:0441:0001:1:0:0
+Nitro Deutschland
+p:Unknown
+2f30:00c02f9c:0441:0001:1:0:0
+RTL Up
+p:Unknown
+2f3a:00c02f9c:0441:0001:1:0:0
+N-TV
+p:Unknown
+2f3b:00c02f9c:0441:0001:2:0:0
+Toggo Radio
 p:Unknown
 232a:00c02faf:0442:0001:1:0:0
 T18
@@ -1994,6 +2090,9 @@ p:Unknown
 2338:00c02faf:0442:0001:1:0:0
 XXL TV
 p:Canal+ France
+2339:00c02faf:0442:0001:1:0:0
+Canal + Foot
+p:Canal+ France
 7080:00c02fc2:0443:0001:1:0:0
 RTL Austria
 p:Unknown
@@ -2015,6 +2114,123 @@ p:Unknown
 79ea:00c02fc2:0443:0001:1:0:0
 HSE Extra
 p:Unknown
+427c:00c02ffd:0446:0001:1:0:0
+Automoto la chaîne
+p:Canal+ France
+427d:00c02ffd:0446:0001:1:0:0
+AB 1
+p:Canal+ France
+427e:00c02ffd:0446:0001:1:0:0
+Animaux
+p:Canal+ France
+4282:00c02ffd:0446:0001:1:0:0
+Toute l'Histoire
+p:Canal+ France
+4285:00c02ffd:0446:0001:1:0:0
+Seasons
+p:Canal+ France
+4286:00c02ffd:0446:0001:1:0:0
+Action
+p:Canal+ France
+428b:00c02ffd:0446:0001:1:0:0
+RTL 9
+p:Canal+ France
+428c:00c02ffd:0446:0001:1:0:0
+Chasse & Pêche
+p:Canal+ France
+428e:00c02ffd:0446:0001:1:0:0
+Canal J
+p:Canal+ France
+428f:00c02ffd:0446:0001:1:0:0
+6ter
+p:Canal+ France
+4290:00c02ffd:0446:0001:1:0:0
+Franceinfo:
+p:Canal+ France
+4291:00c02ffd:0446:0001:1:0:0
+TF 1 Séries Films
+p:Canal+ France
+2395:00c02ffd:0446:0001:2:0:0
+Sud Radio
+p:Unknown
+23b6:00c02ffd:0446:0001:2:0:0
+BBC World Service English Europe
+p:Unknown
+23b8:00c02ffd:0446:0001:2:0:0
+Melody Vintage Radio
+p:Unknown
+23c1:00c02ffd:0446:0001:2:0:0
+Mouv'
+p:Unknown
+23c2:00c02ffd:0446:0001:2:0:0
+France Musique
+p:Unknown
+23c3:00c02ffd:0446:0001:2:0:0
+FIP
+p:Unknown
+23c4:00c02ffd:0446:0001:2:0:0
+Franceinfo:
+p:Unknown
+23c5:00c02ffd:0446:0001:2:0:0
+France Inter
+p:Unknown
+23c6:00c02ffd:0446:0001:2:0:0
+France Culture
+p:Unknown
+23c7:00c02ffd:0446:0001:2:0:0
+Ici Paris Île-de-France
+p:Unknown
+23cb:00c02ffd:0446:0001:2:0:0
+Radio France Internationale
+p:Unknown
+23cc:00c02ffd:0446:0001:2:0:0
+Radio Classique
+p:Unknown
+23ce:00c02ffd:0446:0001:2:0:0
+Europe 1
+p:Unknown
+23d0:00c02ffd:0446:0001:2:0:0
+Rire & Chansons
+p:Unknown
+23d7:00c02ffd:0446:0001:2:0:0
+TSF Jazz
+p:Unknown
+23d9:00c02ffd:0446:0001:2:0:0
+Jazz Radio
+p:Unknown
+23da:00c02ffd:0446:0001:2:0:0
+Radio Nova
+p:Unknown
+23db:00c02ffd:0446:0001:2:0:0
+Radio FG
+p:Unknown
+23dc:00c02ffd:0446:0001:2:0:0
+Radio Contact
+p:Unknown
+23dd:00c02ffd:0446:0001:2:0:0
+Nostalgie
+p:Unknown
+23de:00c02ffd:0446:0001:2:0:0
+NRJ France
+p:Unknown
+23df:00c02ffd:0446:0001:2:0:0
+RFM
+p:Unknown
+23e0:00c02ffd:0446:0001:2:0:0
+Europe 2
+p:Unknown
+23e1:00c02ffd:0446:0001:2:0:0
+Chérie FM
+p:Unknown
+23e3:00c02ffd:0446:0001:2:0:0
+Skyrock
+p:Unknown
+23ea:00c02ffd:0446:0001:2:0:0
+Radio Notre Dame
+p:Unknown
+23ee:00c02ffd:0446:0001:2:0:0
+Beur FM
+p:Unknown
 001c:00c03010:000c:0085:1:0:0
 Cartoonito Deutschland
 p:Sky Deutschland
@@ -2030,24 +2246,9 @@ p:Sky Deutschland
 007e:00c03010:000c:0085:1:0:0
 Sky Sci-Fi
 p:Sky Deutschland
-00ed:00c03010:000c:0085:1:0:0
-Sky Sport Austria 7
+07eb:00c03010:000c:0085:1:0:0
+AXN Black Deutschland
 p:Sky Deutschland
-011f:00c03010:000c:0085:1:0:0
-Sky Sport Bundesliga 3
-p:Sky Deutschland
-0120:00c03010:000c:0085:1:0:0
-Sky Sport 3
-p:Sky Deutschland
-0147:00c03010:000c:0085:1:0:0
-Sky Sport Bundesliga 7
-p:Sky Deutschland
-0148:00c03010:000c:0085:1:0:0
-Sky Sport 7
-p:Sky Deutschland
-2581:00c03024:0448:0001:1:0:0
-Olympia TV
-p:Canal+ France
 2582:00c03024:0448:0001:1:0:0
 BeIn Sports Max 4 France
 p:Canal+ France
@@ -2088,7 +2289,7 @@ p:Canal+ France
 Union TV
 p:Canal+ France
 2590:00c03024:0448:0001:1:0:0
-Novelas TV
+Novelas+
 p:Canal+ France
 2591:00c03024:0448:0001:1:0:0
 La Chaîne Météo
@@ -2141,18 +2342,54 @@ p:Sky Deutschland
 00a8:00c0305e:000b:0085:1:0:0
 Motorvision+
 p:Sky Deutschland
-0101:00c0305e:000b:0085:1:0:0
-Sky Sport Bundesliga 9
-p:Sky Deutschland
-010f:00c0305e:000b:0085:1:0:0
-Sky Sport Bundesliga 10
-p:Sky Deutschland
 0191:00c0305e:000b:0085:1:0:0
 Jukebox
 p:Sky Deutschland
 0194:00c0305e:000b:0085:1:0:0
 Cartoon Network Northern Europe
 p:Sky Deutschland
+07ec:00c0305e:000b:0085:1:0:0
+AXN White Deutschland
+p:Sky Deutschland
+2711:00c03072:044c:0001:1:0:0
+Canal + Live 1
+p:Canal+ France
+2712:00c03072:044c:0001:1:0:0
+A la une
+p:Unknown
+2714:00c03072:044c:0001:1:0:0
+Polar +
+p:Canal+ France
+2715:00c03072:044c:0001:1:0:0
+Nicktoons France
+p:Canal+ France
+2716:00c03072:044c:0001:1:0:0
+Nickelodeon Junior France
+p:Canal+ France
+2717:00c03072:044c:0001:1:0:0
+Equidia
+p:Canal+ France
+2718:00c03072:044c:0001:1:0:0
+Mezzo Live
+p:Canal+ France
+2719:00c03072:044c:0001:1:0:0
+Man-X
+p:Canal+ France
+271a:00c03072:044c:0001:1:0:0
+Téva
+p:Canal+ France
+271b:00c03072:044c:0001:1:0:0
+Pink X
+p:Canal+ France
+271d:00c03072:044c:0001:1:0:0
+Canal + Live 2
+p:Canal+ France
+271e:00c03072:044c:0001:1:0:0
+Europe 2 Pop TV
+p:Canal+ France
+2720:00c03072:044c:0001:1:0:0
+Europe 1 TV
+p:Unknown
 6e92:00c03086:04b1:0001:1:0:0
 Astra Demo
 p:Unknown
@@ -2166,7 +2403,7 @@ p:Unknown
 Handystar
 p:Unknown
 0296:00c030ac:0005:0085:1:0:0
-1-2-3 TV
+Telegold
 p:Unknown
 02fc:00c030ac:0005:0085:1:0:0
 Anixe +
@@ -2240,14 +2477,11 @@ p:Canal+ Austria
 101c:00c030e3:0451:0035:1:0:0
 Canal+ Action
 p:Canal+ Austria
-101e:00c030e3:0451:0035:1:0:0
-TVRI World
-p:Unknown
 101f:00c030e3:0451:0035:1:0:0
 Canal+ Action B2B
 p:Canal+ Austria
 1020:00c030e3:0451:0035:1:0:0
-Canal+ Golf
+Canal+ Golf Austria
 p:
 1012:00c030e3:0451:0035:2:0:0
 Nostalgie Vlaanderen
@@ -2443,9 +2677,6 @@ Crime Time
 p:HD+
 29d1:00c0317e:045c:0001:1:0:0
 Serien +
-p:HD+
-29d2:00c0317e:045c:0001:1:0:0
-Deluxe Lounge
 p:HD+
 29d3:00c0317e:045c:0001:1:0:0
 Höhenrausch

@@ -1,0 +1,3872 @@
+eDVB services /4/
+transponders
+008229df:2af8:013e
+	s 10719000:27500000:1:0:130:2:0:1:0:2:2
+/
+008229e7:2b5c:013e
+	s 10727000:30000000:0:0:130:2:0:1:0:2:2
+/
+00822a06:2bc0:013e
+	s 10758000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822a17:2c24:013e
+	s 10775000:29900000:0:0:130:2:0:1:0:2:2
+/
+00822a2c:2c88:013e
+	s 10796000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822a79:2e18:00b0
+	s 10873000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822a8c:2e7c:013f
+	s 10892000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822a9f:2ee0:013e
+	s 10911000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822ab2:2f44:013e
+	s 10930000:30000000:0:0:130:2:0:1:0:2:2
+/
+00822ac5:2fa8:013e
+	s 10949000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822adb:300c:013e
+	s 10971000:29700000:0:0:130:2:0:1:0:2:2
+/
+00822af0:3070:013e
+	s 10992000:27500000:1:0:130:2:0:0:0:2:2
+/
+00822b05:30d4:013e
+	s 11013000:29900000:0:0:130:2:0:1:0:2:2
+/
+00822b1a:3138:013e
+	s 11034000:27500000:1:0:130:2:0:0:0:2:2
+/
+00822b58:3264:013e
+	s 11096000:30000000:0:0:130:2:0:1:0:2:2
+/
+00822b6d:32c8:013e
+	s 11117000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822b81:332c:013e
+	s 11137000:27500000:0:0:130:2:0:0:0:2:2
+/
+00822b96:3390:0071
+	s 11158000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822bab:33f4:013e
+	s 11179000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822bfa:012c:013e
+	s 11258000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822c0e:0190:013e
+	s 11278000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822c20:01f4:00fc
+	s 11296000:27500000:0:0:130:2:0:0:0:2:2
+/
+00822c46:02bc:013e
+	s 11334000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822c6d:0384:013e
+	s 11373000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822c81:03e8:013e
+	s 11393000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822c93:044c:013e
+	s 11411000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822ca8:04b0:0110
+	s 11432000:29900000:1:0:130:2:0:1:0:2:2
+/
+00822cb9:0514:013e
+	s 11449000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822ce0:05dc:013e
+	s 11488000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822cf4:0640:013e
+	s 11508000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822d2e:3bc4:013e
+	s 11566000:29900000:0:0:130:2:0:1:0:2:2
+/
+00822d41:3c28:013e
+	s 11585000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822d8e:3db8:013e
+	s 11662000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822dcf:1388:013e
+	s 11727000:29900000:1:0:130:2:0:1:0:2:2
+/
+00822de3:13ef:013e
+	s 11747000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822df6:1450:013e
+	s 11766000:29900000:1:0:130:2:0:1:0:2:2
+/
+00822e09:14b4:013e
+	s 11785000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822e1c:1518:013e
+	s 11804000:30000000:1:0:130:2:0:1:0:2:2
+/
+00822e2f:157c:013e
+	s 11823000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822e43:15e0:fbff
+	s 11843000:29900000:1:0:130:2:0:1:0:2:2
+/
+00822e56:1644:013e
+	s 11862000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822e69:16a8:fbff
+	s 11881000:27500000:1:0:130:2:0:0:0:2:2
+/
+00822e7c:170c:013f
+	s 11900000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822e8f:1770:00be
+	s 11919000:29900000:1:0:130:2:0:1:0:2:2
+/
+00822ea2:17d4:013e
+	s 11938000:30000000:0:0:130:2:0:1:0:2:2
+/
+00822eb6:1838:fbff
+	s 11958000:27500000:1:0:130:2:0:0:0:2:2
+/
+00822edc:1900:fbff
+	s 11996000:29900000:1:0:130:2:0:1:0:2:2
+/
+00822eef:1964:013e
+	s 12015000:27500000:0:0:130:2:0:1:0:2:2
+/
+00822f02:19c8:fbff
+	s 12034000:29900000:1:0:130:2:0:1:0:2:2
+/
+00822f29:1a90:fbff
+	s 12073000:29900000:1:0:130:2:0:1:0:2:2
+/
+00822f4f:1b58:013e
+	s 12111000:27500000:1:0:130:2:0:0:0:2:2
+/
+00822f62:1bbc:013e
+	s 12130000:30000000:0:0:130:2:0:1:0:2:2
+/
+00822f75:1c20:013e
+	s 12149000:27500000:1:0:130:2:0:0:0:2:2
+/
+00822f89:1c84:013e
+	s 12169000:30000000:0:0:130:2:0:1:0:2:2
+/
+00822f9c:1ce8:0071
+	s 12188000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822fe9:1e78:0071
+	s 12265000:27500000:1:0:130:2:0:1:0:2:2
+/
+00822ffc:1edc:0071
+	s 12284000:27500000:0:0:130:2:0:1:0:2:2
+/
+0082300f:1f40:013e
+	s 12303000:27500000:1:0:130:2:0:1:0:2:2
+/
+00823022:1fa4:013e
+	s 12322000:27500000:0:0:130:2:0:0:0:2:2
+/
+00823035:2008:fbff
+	s 12341000:29900000:1:0:130:2:0:1:0:2:2
+/
+0082305c:20d0:013e
+	s 12380000:30000000:1:0:130:2:0:1:0:2:2
+/
+0082306f:2134:013e
+	s 12399000:29700000:0:0:130:2:0:1:0:2:2
+/
+008230b2:2260:fbff
+	s 12466000:29900000:1:0:130:2:0:1:0:2:2
+/
+008230bc:22c4:013e
+	s 12476000:29900000:0:0:130:2:0:1:0:2:2
+/
+008230e8:2328:013e
+	s 12520000:27500000:1:0:130:2:0:1:0:2:2
+/
+0082310e:23f0:013e
+	s 12558000:27500000:1:0:130:2:0:1:0:2:2
+/
+00823121:2454:013e
+	s 12577000:27500000:0:0:130:2:0:1:0:2:2
+/
+00823148:251c:00d5
+	s 12616000:30000000:0:0:130:2:0:1:0:2:2
+/
+0082315b:2580:00d5
+	s 12635000:30000000:1:0:130:2:0:1:0:2:2
+/
+0082316e:25e4:00d5
+	s 12654000:30000000:0:0:130:2:0:1:0:2:2
+/
+00823181:2648:00d5
+	s 12673000:30000000:1:0:130:2:0:1:0:2:2
+/
+008231a9:2710:00d5
+	s 12713000:30000000:1:0:130:2:0:1:0:2:2
+/
+008231bb:2774:013e
+	s 12731000:30000000:0:0:130:2:0:1:0:2:2
+/
+end
+services
+1131:008229df:2af8:013e:1:0:0
+Canal + 360
+p:Canal+ Polska
+1133:008229df:2af8:013e:1:0:0
+BBC First Polska
+p:Canal+ Polska
+1134:008229df:2af8:013e:1:0:0
+BBC Earth Polska
+p:Canal+ Polska
+1136:008229df:2af8:013e:1:0:0
+Canal + Extra 1
+p:Canal+ Polska
+1138:008229df:2af8:013e:1:0:0
+TVP HD
+p:Canal+ Polska
+1139:008229df:2af8:013e:1:0:0
+TVP Info
+p:Unknown
+113a:008229df:2af8:013e:1:0:0
+Sport Klub Polska
+p:Canal+ Polska
+113b:008229df:2af8:013e:1:0:0
+Fight Klub
+p:Canal+ Polska
+113f:008229df:2af8:013e:1:0:0
+Hustler HD Europe
+p:Canal+ Polska
+1140:008229df:2af8:013e:1:0:0
+Blue Hustler Europe
+p:Canal+ Polska
+1141:008229df:2af8:013e:1:0:0
+Private TV
+p:Canal+ Polska
+1142:008229df:2af8:013e:1:0:0
+TVP Seriale
+p:Canal+ Polska
+1147:008229df:2af8:013e:1:0:0
+Hustler HD Europe
+p:Canal+ Polska
+1148:008229df:2af8:013e:1:0:0
+Hustler HD Europe
+p:Canal+ Polska
+1149:008229df:2af8:013e:1:0:0
+Private TV
+p:Canal+ Polska
+114a:008229df:2af8:013e:1:0:0
+Blue Hustler Europe
+p:Canal+ Polska
+114b:008229df:2af8:013e:1:0:0
+Private TV
+p:Canal+ Polska
+1154:008229df:2af8:013e:1:0:0
+Blue Hustler Europe
+p:Canal+ Polska
+11fb:008229e7:2b5c:013e:1:0:0
+Travelxp 4K Europe
+p:Unknown
+11fc:008229e7:2b5c:013e:1:0:0
+Museum TV International
+p:Canal+ Polska
+11fd:008229e7:2b5c:013e:1:0:0
+MyZen TV 4K
+p:Unknown
+11fe:008229e7:2b5c:013e:1:0:0
+Simay-Azadi Iran National TV
+p:Unknown
+1200:008229e7:2b5c:013e:1:0:0
+Daystar TV
+p:Unknown
+1201:008229e7:2b5c:013e:1:0:0
+Zed TV
+p:Unknown
+1203:008229e7:2b5c:013e:1:0:0
+Greater Love TV
+p:Unknown
+1202:008229e7:2b5c:013e:2:0:0
+Radio Payam Azadi
+p:Unknown
+4279:00822a06:2bc0:013e:1:0:0
+W Polsce 24
+p:Polsat Box
+427b:00822a06:2bc0:013e:1:0:0
+Stopklatka TV
+p:Polsat Box
+427f:00822a06:2bc0:013e:1:0:0
+Stars TV
+p:Unknown
+4280:00822a06:2bc0:013e:1:0:0
+Da Vinci Polska
+p:Polsat Box
+4284:00822a06:2bc0:013e:1:0:0
+Polsat Games
+p:Polsat Box
+4285:00822a06:2bc0:013e:1:0:0
+Polsat Games
+p:Polsat Box
+4288:00822a06:2bc0:013e:1:0:0
+TVP Rozrywka
+p:Polsat Box
+4289:00822a06:2bc0:013e:1:0:0
+TV Republika
+p:Polsat Box
+428a:00822a06:2bc0:013e:1:0:0
+FilmBox+ Festival Worldwide
+p:Polsat Box
+428d:00822a06:2bc0:013e:1:0:0
+4 Fun TV
+p:Unknown
+428e:00822a06:2bc0:013e:1:0:0
+4 Fun Kids
+p:Unknown
+428f:00822a06:2bc0:013e:1:0:0
+4 Fun Dance
+p:Unknown
+4290:00822a06:2bc0:013e:1:0:0
+Viasat Epic Drama
+p:Polsat Box
+4291:00822a06:2bc0:013e:1:0:0
+Zoom
+p:Polsat Box
+4293:00822a06:2bc0:013e:1:0:0
+Polsat Music
+p:Polsat Box
+4294:00822a06:2bc0:013e:1:0:0
+Polsat Music
+p:Polsat Box
+429a:00822a06:2bc0:013e:1:0:0
+Polo TV
+p:Polsat Box
+429c:00822a06:2bc0:013e:1:0:0
+Eska TV
+p:Polsat Box
+429d:00822a06:2bc0:013e:1:0:0
+Fokus TV
+p:Polsat Box
+429e:00822a06:2bc0:013e:1:0:0
+Nowa TV
+p:Polsat Box
+42c2:00822a06:2bc0:013e:1:0:0
+Polo TV
+p:Polsat Box
+42c5:00822a06:2bc0:013e:1:0:0
+Fokus TV
+p:Polsat Box
+00c9:00822a17:2c24:013e:1:0:0
+TeleBärn
+p:Kabelio
+00ca:00822a17:2c24:013e:1:0:0
+TeleBasel
+p:Kabelio
+00cb:00822a17:2c24:013e:1:0:0
+Tele 1
+p:Kabelio
+00cc:00822a17:2c24:013e:1:0:0
+TVO
+p:Kabelio
+00cd:00822a17:2c24:013e:1:0:0
+Südostschweiz
+p:Kabelio
+00ce:00822a17:2c24:013e:1:0:0
+Tele M1
+p:Kabelio
+00cf:00822a17:2c24:013e:1:0:0
+Léman Bleu TV
+p:Kabelio
+00d0:00822a17:2c24:013e:1:0:0
+Carac 1
+p:Kabelio
+00d3:00822a17:2c24:013e:1:0:0
+Swiss 1
+p:Kabelio
+00d4:00822a17:2c24:013e:1:0:0
+Auftanken TV
+p:Kabelio
+00d5:00822a17:2c24:013e:1:0:0
+Blue Zoom D
+p:Kabelio
+00dd:00822a17:2c24:013e:1:0:0
+BBC One
+p:Kabelio
+00de:00822a17:2c24:013e:1:0:0
+BBC Two
+p:Kabelio
+00df:00822a17:2c24:013e:1:0:0
+BBC Three
+p:Kabelio
+00e0:00822a17:2c24:013e:1:0:0
+BBC Four
+p:Kabelio
+00e1:00822a17:2c24:013e:1:0:0
+ITV 1 London
+p:Kabelio
+00e2:00822a17:2c24:013e:1:0:0
+ITV 2
+p:Kabelio
+00e3:00822a17:2c24:013e:1:0:0
+ITV 3
+p:Kabelio
+00e4:00822a17:2c24:013e:1:0:0
+ITV 4
+p:Kabelio
+00e5:00822a17:2c24:013e:1:0:0
+Channel 4 UK
+p:Kabelio
+00e6:00822a17:2c24:013e:1:0:0
+5
+p:Kabelio
+00e7:00822a17:2c24:013e:1:0:0
+Film 4 UK
+p:Kabelio
+00f1:00822a17:2c24:013e:1:0:0
+TF 1 Suisse
+p:Kabelio
+00f2:00822a17:2c24:013e:1:0:0
+M6 Music
+p:Kabelio
+00f3:00822a17:2c24:013e:1:0:0
+RTL 9 Suisse
+p:Kabelio
+00fb:00822a17:2c24:013e:1:0:0
+Canale 5
+p:Kabelio
+00fc:00822a17:2c24:013e:1:0:0
+BVN Europa
+p:Unknown
+00fd:00822a17:2c24:013e:1:0:0
+S1
+p:Kabelio
+00fe:00822a17:2c24:013e:1:0:0
+TMC Suisse
+p:Kabelio
+0100:00822a17:2c24:013e:1:0:0
+Sky News International
+p:Kabelio
+0101:00822a17:2c24:013e:1:0:0
+TV 8
+p:Kabelio
+0104:00822a17:2c24:013e:1:0:0
+WedoTV Movies
+p:Unknown
+0105:00822a17:2c24:013e:1:0:0
+WedoTV Sports
+p:Unknown
+0106:00822a17:2c24:013e:1:0:0
+WedoTV Big Stories
+p:Unknown
+3d55:00822a2c:2c88:013e:1:0:0
+Canal + »1
+p:Canal+ Polska
+3d56:00822a2c:2c88:013e:1:0:0
+Motowizja
+p:Canal+ Polska
+3d57:00822a2c:2c88:013e:1:0:0
+Canal + Seriale
+p:Canal+ Polska
+3d58:00822a2c:2c88:013e:1:0:0
+Canal + Dokument
+p:Canal+ Polska
+3d59:00822a2c:2c88:013e:1:0:0
+TVP Kultura
+p:Canal+ Polska
+3d5a:00822a2c:2c88:013e:1:0:0
+WP TV
+p:Canal+ Polska
+3d5c:00822a2c:2c88:013e:1:0:0
+TVP Seriale
+p:Canal+ Polska
+3d5e:00822a2c:2c88:013e:1:0:0
+Puls 2
+p:Canal+ Polska
+3d5f:00822a2c:2c88:013e:1:0:0
+TVP ABC
+p:Canal+ Polska
+3d66:00822a2c:2c88:013e:1:0:0
+TV Puls
+p:Canal+ Polska
+3d67:00822a2c:2c88:013e:1:0:0
+TVP Historia
+p:Canal+ Polska
+3d69:00822a2c:2c88:013e:1:0:0
+Eleven Sports 1 Polska
+p:Canal+ Polska
+3d6a:00822a2c:2c88:013e:1:0:0
+Eleven Sports 2 Polska
+p:Canal+ Polska
+3d6b:00822a2c:2c88:013e:1:0:0
+Eleven Sports 3 Polska
+p:Canal+ Polska
+3d6c:00822a2c:2c88:013e:1:0:0
+Eleven Sports 4 Polska
+p:Canal+ Polska
+0001:00822a79:2e18:00b0:1:0:0
+Al Maghribia
+p:Unknown
+0002:00822a79:2e18:00b0:1:0:0
+Laayoune TV
+p:Unknown
+0003:00822a79:2e18:00b0:1:0:0
+Al Aoula Inter
+p:Unknown
+0004:00822a79:2e18:00b0:1:0:0
+Athaqafia
+p:Unknown
+0005:00822a79:2e18:00b0:1:0:0
+Al Aoula Inter
+p:Unknown
+0006:00822a79:2e18:00b0:1:0:0
+Assadissa
+p:Unknown
+0007:00822a79:2e18:00b0:1:0:0
+2M TV
+p:Unknown
+000a:00822a79:2e18:00b0:1:0:0
+Arryadia
+p:Unknown
+00f1:00822a79:2e18:00b0:1:0:0
+Tamazight
+p:Unknown
+000b:00822a79:2e18:00b0:2:0:0
+Idaa al Watania
+p:Unknown
+000c:00822a79:2e18:00b0:2:0:0
+Sud Radio
+p:Unknown
+000e:00822a79:2e18:00b0:2:0:0
+Chaîne Inter
+p:Unknown
+000f:00822a79:2e18:00b0:2:0:0
+Idaa al Amazighia
+p:Unknown
+0010:00822a79:2e18:00b0:2:0:0
+Idaa Mohammed Assadiss
+p:Unknown
+0032:00822a79:2e18:00b0:2:0:0
+Radio Agadir
+p:Unknown
+0035:00822a79:2e18:00b0:2:0:0
+Radio Oujda
+p:Unknown
+0036:00822a79:2e18:00b0:2:0:0
+Radio Casablanca
+p:Unknown
+003c:00822a79:2e18:00b0:2:0:0
+Radio Houceima
+p:Unknown
+0046:00822a79:2e18:00b0:2:0:0
+Radio Tétouan
+p:Unknown
+0050:00822a79:2e18:00b0:2:0:0
+Radio Meknes
+p:Unknown
+005a:00822a79:2e18:00b0:2:0:0
+Radio Laayoune
+p:Unknown
+005b:00822a79:2e18:00b0:2:0:0
+Radio Dakhla
+p:Unknown
+00b1:00822a79:2e18:00b0:2:0:0
+Radio Tanger
+p:Unknown
+00b2:00822a79:2e18:00b0:2:0:0
+Radio Fes
+p:Unknown
+00b3:00822a79:2e18:00b0:2:0:0
+Radio Marrakech
+p:Unknown
+0515:00822a8c:2e7c:013f:1:0:0
+TF 1
+p:Bis TV
+0516:00822a8c:2e7c:013f:1:0:0
+France 2
+p:Bis TV
+0517:00822a8c:2e7c:013f:1:0:0
+France 3
+p:Bis TV
+0519:00822a8c:2e7c:013f:1:0:0
+France 5
+p:Bis TV
+051a:00822a8c:2e7c:013f:1:0:0
+M6
+p:Bis TV
+051b:00822a8c:2e7c:013f:1:0:0
+ARTE Français
+p:Unknown
+051c:00822a8c:2e7c:013f:1:0:0
+T18
+p:Bis TV
+051d:00822a8c:2e7c:013f:1:0:0
+W9
+p:Bis TV
+051e:00822a8c:2e7c:013f:1:0:0
+TMC
+p:Bis TV
+051f:00822a8c:2e7c:013f:1:0:0
+TFX
+p:Bis TV
+0520:00822a8c:2e7c:013f:1:0:0
+Novo 19
+p:Bis TV
+0521:00822a8c:2e7c:013f:1:0:0
+LCP Assemblée Nationale
+p:Bis TV
+0522:00822a8c:2e7c:013f:1:0:0
+France 4
+p:Bis TV
+0524:00822a8c:2e7c:013f:1:0:0
+C News
+p:Bis TV
+0528:00822a8c:2e7c:013f:1:0:0
+TF 1 Séries Films
+p:Bis TV
+0529:00822a8c:2e7c:013f:1:0:0
+L'Équipe
+p:Bis TV
+052a:00822a8c:2e7c:013f:1:0:0
+6ter
+p:Bis TV
+052b:00822a8c:2e7c:013f:1:0:0
+RMC Story
+p:Bis TV
+052c:00822a8c:2e7c:013f:1:0:0
+RMC Découverte
+p:Bis TV
+052d:00822a8c:2e7c:013f:1:0:0
+RMC Life
+p:Bis TV
+052e:00822a8c:2e7c:013f:1:0:0
+LCI
+p:Bis TV
+3e1d:00822a9f:2ee0:013e:1:0:0
+Sundance TV Europe
+p:Polsat Box
+3e1e:00822a9f:2ee0:013e:1:0:0
+E! Polska
+p:Polsat Box
+3e1f:00822a9f:2ee0:013e:1:0:0
+Polsat Film 2
+p:Polsat Box
+3e20:00822a9f:2ee0:013e:1:0:0
+Scifi Polska
+p:Polsat Box
+3e21:00822a9f:2ee0:013e:1:0:0
+Polsat Reality
+p:Polsat Box
+3e22:00822a9f:2ee0:013e:1:0:0
+History 2 Polska
+p:Polsat Box
+3e23:00822a9f:2ee0:013e:1:0:0
+Golf Zone
+p:Polsat Box
+3e24:00822a9f:2ee0:013e:1:0:0
+FightBox HD
+p:Polsat Box
+3e26:00822a9f:2ee0:013e:1:0:0
+13 Ulica
+p:Polsat Box
+3e27:00822a9f:2ee0:013e:1:0:0
+SkyShowtime 1
+p:Polsat Box
+3e28:00822a9f:2ee0:013e:1:0:0
+SkyShowtime 2
+p:Polsat Box
+3e2b:00822a9f:2ee0:013e:1:0:0
+Polsat Sport Extra 3
+p:Polsat Box
+3e2c:00822a9f:2ee0:013e:1:0:0
+Polsat Sport Extra 4
+p:Polsat Box
+4206:00822ab2:2f44:013e:1:0:0
+Dorcel TV
+p:Bis TV
+421c:00822ab2:2f44:013e:1:0:0
+Freedom
+p:Unknown
+422b:00822ab2:2f44:013e:1:0:0
+Mezzo
+p:Canal+ Polska
+422c:00822ab2:2f44:013e:1:0:0
+Brazzers TV Europe
+p:Unknown
+422d:00822ab2:2f44:013e:1:0:0
+Class TV Moda
+p:Unknown
+422e:00822ab2:2f44:013e:1:0:0
+Horse TV
+p:Sky Italia
+422f:00822ab2:2f44:013e:1:0:0
+Brazzers TV Europe
+p:Unknown
+4230:00822ab2:2f44:013e:1:0:0
+Brazzers TV Europe
+p:Nova
+4231:00822ab2:2f44:013e:1:0:0
+Salvation TV Europe
+p:Unknown
+4232:00822ab2:2f44:013e:1:0:0
+Dla Ciebie TV
+p:Unknown
+4233:00822ab2:2f44:013e:1:0:0
+Super!
+p:Sky Italia
+4235:00822ab2:2f44:013e:1:0:0
+BeJoy Kids
+p:Unknown
+4236:00822ab2:2f44:013e:1:0:0
+Dim
+p:Unknown
+4239:00822ab2:2f44:013e:1:0:0
+TVP Polonia
+p:Unknown
+423a:00822ab2:2f44:013e:1:0:0
+TVP World
+p:Unknown
+0065:00822ac5:2fa8:013e:1:0:0
+Svoboda
+p:Unknown
+0066:00822ac5:2fa8:013e:1:0:0
+Svoboda News
+p:Unknown
+0067:00822ac5:2fa8:013e:1:0:0
+Gordon Live
+p:Unknown
+0068:00822ac5:2fa8:013e:1:0:0
+Russia's Future
+p:Unknown
+0069:00822ac5:2fa8:013e:1:0:0
+Svoboda+
+p:Unknown
+006a:00822ac5:2fa8:013e:1:0:0
+Belarus Tomorrow
+p:Unknown
+006e:00822ac5:2fa8:013e:1:0:0
+TV 8
+p:Unknown
+006f:00822ac5:2fa8:013e:1:0:0
+Ost West 24
+p:Unknown
+0070:00822ac5:2fa8:013e:1:0:0
+Nastoyashcheye Vremya
+p:Unknown
+0071:00822ac5:2fa8:013e:1:0:0
+DW Russkom
+p:Unknown
+0072:00822ac5:2fa8:013e:1:0:0
+EQTV
+p:Unknown
+0073:00822ac5:2fa8:013e:1:0:0
+Belsat TV
+p:Unknown
+00c9:00822ac5:2fa8:013e:2:0:0
+Echo
+p:Unknown
+00ca:00822ac5:2fa8:013e:2:0:0
+Radio Sakharov
+p:Unknown
+00cb:00822ac5:2fa8:013e:2:0:0
+Euroradio FM
+p:Unknown
+4331:00822adb:300c:013e:1:0:0
+SRF 1
+p:Kabelio
+4332:00822adb:300c:013e:1:0:0
+SRF Zwei
+p:Kabelio
+4333:00822adb:300c:013e:1:0:0
+RTS 1
+p:Kabelio
+4334:00822adb:300c:013e:1:0:0
+RTS 2
+p:Kabelio
+4336:00822adb:300c:013e:1:0:0
+SRF Info
+p:Unknown
+4337:00822adb:300c:013e:1:0:0
+RSI La 1
+p:Kabelio
+4338:00822adb:300c:013e:1:0:0
+RSI La 2
+p:Kabelio
+4345:00822adb:300c:013e:2:0:0
+Radio SRF 1
+p:Unknown
+4346:00822adb:300c:013e:2:0:0
+Radio SRF 2 Kultur
+p:Unknown
+4347:00822adb:300c:013e:2:0:0
+Radio SRF 3
+p:Unknown
+4348:00822adb:300c:013e:2:0:0
+Radio SRF Virus
+p:Unknown
+4349:00822adb:300c:013e:2:0:0
+Radio SRF Musikwelle
+p:Unknown
+434a:00822adb:300c:013e:2:0:0
+Radio RTR
+p:Unknown
+434b:00822adb:300c:013e:2:0:0
+RTS Première
+p:Unknown
+434c:00822adb:300c:013e:2:0:0
+RTS Espace 2
+p:Unknown
+434d:00822adb:300c:013e:2:0:0
+RTS Couleur 3
+p:Unknown
+434e:00822adb:300c:013e:2:0:0
+RTS Option Musique
+p:Unknown
+434f:00822adb:300c:013e:2:0:0
+RSI Rete Uno
+p:Unknown
+4350:00822adb:300c:013e:2:0:0
+RSI Rete Due
+p:Unknown
+4351:00822adb:300c:013e:2:0:0
+RSI Rete Tre
+p:Unknown
+4352:00822adb:300c:013e:2:0:0
+Radio Swiss Classic Deutsch
+p:Unknown
+4353:00822adb:300c:013e:2:0:0
+Radio Swiss Pop
+p:Unknown
+4354:00822adb:300c:013e:2:0:0
+Radio Swiss Jazz
+p:Unknown
+4355:00822adb:300c:013e:2:0:0
+Radio SRF 4 News
+p:Unknown
+4357:00822adb:300c:013e:2:0:0
+Radio Swiss Classic Français
+p:Unknown
+4358:00822adb:300c:013e:2:0:0
+Radio SRF 1 Aargau Solothurn
+p:Unknown
+4359:00822adb:300c:013e:2:0:0
+Radio SRF 1 Basel Baselland
+p:Unknown
+435a:00822adb:300c:013e:2:0:0
+Radio SRF 1 Bern Freiburg Wallis
+p:Unknown
+435b:00822adb:300c:013e:2:0:0
+Radio SRF 1 Zentralschweiz
+p:Unknown
+435c:00822adb:300c:013e:2:0:0
+Radio SRF 1 Ostschweiz
+p:Unknown
+435d:00822adb:300c:013e:2:0:0
+Radio SRF 1 Zürich Schaffhausen
+p:Unknown
+435e:00822adb:300c:013e:2:0:0
+Radio SRF 1 Graubünden
+p:Unknown
+435f:00822adb:300c:013e:2:0:0
+Radio Swiss Classic Italiano
+p:Unknown
+213f:00822af0:3070:013e:1:0:0
+Rai Yoyo
+p:Unknown
+2140:00822af0:3070:013e:2:0:0
+Rai Radio 2 Visual
+p:Unknown
+2146:00822af0:3070:013e:1:0:0
+Rai Storia
+p:Unknown
+2147:00822af0:3070:013e:1:0:0
+Camera dei Deputati
+p:Unknown
+2149:00822af0:3070:013e:1:0:0
+Rai Scuola
+p:Unknown
+214a:00822af0:3070:013e:1:0:0
+Rai Premium
+p:Unknown
+214c:00822af0:3070:013e:2:0:0
+Rai Radio 3 Classica
+p:Unknown
+214d:00822af0:3070:013e:2:0:0
+Rai Gr Parlamento
+p:Unknown
+214e:00822af0:3070:013e:2:0:0
+Rai Isoradio
+p:Unknown
+214f:00822af0:3070:013e:2:0:0
+Rai Radio Techete'
+p:Unknown
+2150:00822af0:3070:013e:2:0:0
+Rai Radio Live Napoli
+p:Unknown
+2151:00822af0:3070:013e:2:0:0
+Rai Radio Kids
+p:Unknown
+2152:00822af0:3070:013e:2:0:0
+No Name Radio
+p:Unknown
+2153:00822af0:3070:013e:2:0:0
+Rai Radio Tutta Italiana
+p:Unknown
+2154:00822af0:3070:013e:2:0:0
+Rai Radio 1 Friuli Venezia Giulia
+p:Unknown
+2155:00822af0:3070:013e:2:0:0
+Rai Radio 1 Sport
+p:Unknown
+2156:00822af0:3070:013e:2:0:0
+Rai Radio Trst A
+p:Unknown
+2157:00822af0:3070:013e:2:0:0
+Rai Radio Südtirol
+p:Unknown
+452f:00822b05:30d4:013e:1:0:0
+Rai News 24
+p:Unknown
+4530:00822b05:30d4:013e:1:0:0
+Rai Gulp
+p:Unknown
+4532:00822b05:30d4:013e:1:0:0
+Rai Sport
+p:Unknown
+4534:00822b05:30d4:013e:1:0:0
+Rai 5
+p:Unknown
+4536:00822b05:30d4:013e:1:0:0
+Uninettuno University TV
+p:Unknown
+4543:00822b05:30d4:013e:1:0:0
+Rai 3 Puglia
+p:Unknown
+4544:00822b05:30d4:013e:1:0:0
+Rai 3 Basilicata
+p:Unknown
+4545:00822b05:30d4:013e:1:0:0
+Rai 3 Calabria
+p:Unknown
+4546:00822b05:30d4:013e:1:0:0
+Rai 3 Sicilia
+p:Unknown
+4547:00822b05:30d4:013e:1:0:0
+Rai 3 Liguria
+p:Unknown
+4548:00822b05:30d4:013e:1:0:0
+Rai 3 Toscana
+p:Unknown
+4549:00822b05:30d4:013e:1:0:0
+Rai 3 Umbria
+p:Unknown
+454a:00822b05:30d4:013e:1:0:0
+Rai 3 Marche
+p:Unknown
+454b:00822b05:30d4:013e:1:0:0
+Rai 3 Piemonte
+p:Unknown
+454c:00822b05:30d4:013e:1:0:0
+Rai 3 Lombardia
+p:Unknown
+454d:00822b05:30d4:013e:1:0:0
+Rai 3 Emilia Romagna
+p:Unknown
+454e:00822b05:30d4:013e:1:0:0
+Rai 3 Veneto
+p:Unknown
+454f:00822b05:30d4:013e:1:0:0
+Rai Südtirol
+p:Unknown
+4550:00822b05:30d4:013e:1:0:0
+Rai 3 Valle d'Aosta
+p:Unknown
+4551:00822b05:30d4:013e:1:0:0
+Rai 3 Sardegna
+p:Unknown
+4552:00822b05:30d4:013e:1:0:0
+Rai 3 Abruzzo
+p:Unknown
+4553:00822b05:30d4:013e:1:0:0
+Rai 3 Molise
+p:Unknown
+4554:00822b05:30d4:013e:1:0:0
+Rai 3 Campania
+p:Unknown
+4555:00822b05:30d4:013e:1:0:0
+Rai 3 Friuli Venezia Giulia
+p:Unknown
+4556:00822b05:30d4:013e:1:0:0
+Rai 3 Bis
+p:Unknown
+4557:00822b05:30d4:013e:1:0:0
+Rai 3 Trentino-Alto Adige Trento
+p:Unknown
+4558:00822b05:30d4:013e:1:0:0
+Rai 3 Trentino-Alto Adige Bolzano
+p:Unknown
+4559:00822b05:30d4:013e:1:0:0
+Rai 3 Lazio
+p:Unknown
+06a5:00822b1a:3138:013e:1:0:0
+TV 5 Coran
+p:Unknown
+06a6:00822b1a:3138:013e:1:0:0
+TV 4 Amazigh
+p:Unknown
+06a7:00822b1a:3138:013e:1:0:0
+TNT International Europe
+p:Unknown
+06aa:00822b1a:3138:013e:1:0:0
+CGTN
+p:Unknown
+06ab:00822b1a:3138:013e:1:0:0
+TV Rus
+p:Unknown
+06ac:00822b1a:3138:013e:1:0:0
+TV Rus +
+p:Unknown
+06b1:00822b1a:3138:013e:1:0:0
+RTVi FTA
+p:Unknown
+06b9:00822b1a:3138:013e:1:0:0
+Eko TV
+p:Unknown
+06ba:00822b1a:3138:013e:1:0:0
+Milady TV
+p:Unknown
+06bb:00822b1a:3138:013e:1:0:0
+Natali
+p:Unknown
+06bc:00822b1a:3138:013e:1:0:0
+Provence
+p:Unknown
+06bd:00822b1a:3138:013e:1:0:0
+Karavan TV
+p:Unknown
+06ad:00822b1a:3138:013e:2:0:0
+National Prison Radio
+p:Unknown
+06af:00822b1a:3138:013e:2:0:0
+Chaîne 2
+p:Unknown
+06c3:00822b1a:3138:013e:2:0:0
+Chaîne 3
+p:Unknown
+06d7:00822b1a:3138:013e:2:0:0
+Chaîne 1
+p:Unknown
+06d8:00822b1a:3138:013e:2:0:0
+Bahai Radio
+p:Unknown
+06d9:00822b1a:3138:013e:2:0:0
+WRN Russkij
+p:Unknown
+06da:00822b1a:3138:013e:2:0:0
+WRN English Europe
+p:Unknown
+06db:00822b1a:3138:013e:2:0:0
+Radio Jahani
+p:Unknown
+06dd:00822b1a:3138:013e:2:0:0
+Sawt Al Alam
+p:Unknown
+0064:00822b58:3264:013e:1:0:0
+3+
+p:Kabelio
+0065:00822b58:3264:013e:1:0:0
+4+
+p:Kabelio
+0066:00822b58:3264:013e:1:0:0
+5+
+p:Kabelio
+0067:00822b58:3264:013e:1:0:0
+TV 24
+p:Kabelio
+0068:00822b58:3264:013e:1:0:0
+TV 25
+p:Kabelio
+0069:00822b58:3264:013e:1:0:0
+6+
+p:Kabelio
+006b:00822b58:3264:013e:1:0:0
+TeleZüri
+p:Kabelio
+006c:00822b58:3264:013e:1:0:0
+Puls Acht
+p:Kabelio
+006d:00822b58:3264:013e:1:0:0
+ORF 1 Südtirol
+p:Kabelio
+006e:00822b58:3264:013e:1:0:0
+ORF 2 Tirol
+p:Kabelio
+006f:00822b58:3264:013e:1:0:0
+RTL Schweiz
+p:Kabelio
+0070:00822b58:3264:013e:1:0:0
+RTL Zwei Schweiz
+p:Kabelio
+0071:00822b58:3264:013e:1:0:0
+Vox Schweiz
+p:Kabelio
+0072:00822b58:3264:013e:1:0:0
+Sat. 1 Schweiz
+p:Kabelio
+0073:00822b58:3264:013e:1:0:0
+ProSieben Schweiz
+p:Kabelio
+0074:00822b58:3264:013e:1:0:0
+ORF III
+p:Kabelio
+0075:00822b58:3264:013e:1:0:0
+Servus TV
+p:Kabelio
+0076:00822b58:3264:013e:1:0:0
+ORF Sport +
+p:Kabelio
+007f:00822b58:3264:013e:1:0:0
+Kabel Eins Schweiz
+p:Kabelio
+0082:00822b58:3264:013e:1:0:0
+Toggo Schweiz
+p:Kabelio
+0084:00822b58:3264:013e:1:0:0
+Das Erste
+p:Kabelio
+0085:00822b58:3264:013e:1:0:0
+ZDF
+p:Kabelio
+0087:00822b58:3264:013e:1:0:0
+N-TV
+p:Kabelio
+0709:00822b6d:32c8:013e:1:0:0
+Polsat Sport Premium 1 PPV Super HD
+p:Polsat Box
+070a:00822b6d:32c8:013e:1:0:0
+Polsat Sport Premium 2
+p:Polsat Box
+070f:00822b6d:32c8:013e:1:0:0
+Eleven Sports 1 Polska
+p:Polsat Box
+1c85:00822b81:332c:013e:1:0:0
+Daystar TV
+p:Unknown
+1c86:00822b81:332c:013e:1:0:0
+Bloomberg TV Europe
+p:Unknown
+1c8a:00822b81:332c:013e:1:0:0
+Aljazeera English
+p:Unknown
+1c8b:00822b81:332c:013e:1:0:0
+Iran International
+p:Unknown
+1c8c:00822b81:332c:013e:1:0:0
+1TV Satellite
+p:Unknown
+1c8e:00822b81:332c:013e:1:0:0
+GNC Evropa
+p:Unknown
+1c8f:00822b81:332c:013e:1:0:0
+TBN Rossiya
+p:Unknown
+3333:00822b96:3390:0071:1:0:0
+Polsat News 2
+p:Polsat Box
+3391:00822b96:3390:0071:1:0:0
+Polsat
+p:Polsat Box
+3392:00822b96:3390:0071:1:0:0
+Polsat Play
+p:Polsat Box
+3393:00822b96:3390:0071:1:0:0
+TV 4
+p:Polsat Box
+3394:00822b96:3390:0071:1:0:0
+TV 6
+p:Polsat Box
+3396:00822b96:3390:0071:1:0:0
+Polsat Café
+p:Polsat Box
+3398:00822b96:3390:0071:1:0:0
+Polsat Film
+p:Polsat Box
+3399:00822b96:3390:0071:1:0:0
+Polsat News
+p:Polsat Box
+339a:00822b96:3390:0071:1:0:0
+Polsat 2
+p:Polsat Box
+339b:00822b96:3390:0071:1:0:0
+Super Polsat
+p:Polsat Box
+1325:00822bab:33f4:013e:1:0:0
+KBS World
+p:Unknown
+1326:00822bab:33f4:013e:1:0:0
+CNBC Europe
+p:Unknown
+1328:00822bab:33f4:013e:1:0:0
+Alkarma TV Middle East
+p:Unknown
+132e:00822bab:33f4:013e:1:0:0
+New Jerusalem
+p:Unknown
+134b:00822bab:33f4:013e:1:0:0
+Hadi TV 3
+p:Unknown
+1364:00822bab:33f4:013e:1:0:0
+Canale Italia
+p:Unknown
+1381:00822bab:33f4:013e:1:0:0
+Arte Investimenti
+p:Unknown
+1382:00822bab:33f4:013e:1:0:0
+Telecupole
+p:Unknown
+1384:00822bab:33f4:013e:1:0:0
+Sportitalia SoloCalcio
+p:Unknown
+135a:00822bab:33f4:013e:2:0:0
+Radio Supersound
+p:Unknown
+135d:00822bab:33f4:013e:2:0:0
+Radio Margherita
+p:Unknown
+135e:00822bab:33f4:013e:2:0:0
+Radio Cusano Campus
+p:Unknown
+1360:00822bab:33f4:013e:2:0:0
+RDS Relax
+p:Unknown
+3b61:00822bfa:012c:013e:1:0:0
+Real Time Italia
+p:Sky Italia
+3b62:00822bfa:012c:013e:1:0:0
+DMAX Italia
+p:Sky Italia
+3b63:00822bfa:012c:013e:1:0:0
+Food Network Italia
+p:Sky Italia
+3b64:00822bfa:012c:013e:1:0:0
+K2
+p:Sky Italia
+3b65:00822bfa:012c:013e:1:0:0
+Frisbee
+p:Sky Italia
+3b66:00822bfa:012c:013e:1:0:0
+Animal Planet Polska
+p:Polsat Box
+3b67:00822bfa:012c:013e:1:0:0
+Eurosport 1 Polska
+p:Polsat Box
+3b68:00822bfa:012c:013e:1:0:0
+Eurosport 2 Polska
+p:Polsat Box
+3b69:00822bfa:012c:013e:1:0:0
+Investigation Discovery Polska
+p:Polsat Box
+3b6a:00822bfa:012c:013e:1:0:0
+Discovery Science Polska
+p:Polsat Box
+3b6b:00822bfa:012c:013e:1:0:0
+DTX Polska
+p:Polsat Box
+3b6c:00822bfa:012c:013e:1:0:0
+Discovery Channel Italia
+p:Sky Italia
+3b6d:00822bfa:012c:013e:1:0:0
+CNN International Europe
+p:Polsat Box
+32cb:00822c0e:0190:013e:1:0:0
+Ale Kino +
+p:Canal+ Polska
+32ce:00822c0e:0190:013e:1:0:0
+Canal + Film
+p:Canal+ Polska
+32d7:00822c0e:0190:013e:1:0:0
+TVP Kultura
+p:Canal+ Polska
+32db:00822c0e:0190:013e:1:0:0
+Canal + 4K Ultra HD
+p:Canal+ Polska
+32dc:00822c0e:0190:013e:1:0:0
+Canal + Premium
+p:Canal+ Polska
+32de:00822c0e:0190:013e:1:0:0
+Canal + Sport Polska
+p:Canal+ Polska
+32df:00822c0e:0190:013e:1:0:0
+National Geographic Polska
+p:Canal+ Polska
+32e0:00822c0e:0190:013e:1:0:0
+MiniMini +
+p:Canal+ Polska
+32e1:00822c0e:0190:013e:1:0:0
+Canal + Extra 1
+p:Canal+ Polska
+32e3:00822c0e:0190:013e:1:0:0
+Canal + Extra 3
+p:Canal+ Polska
+32e4:00822c0e:0190:013e:1:0:0
+Canal + Extra 4
+p:Canal+ Polska
+089a:00822c20:01f4:00fc:1:0:0
+CBC
+p:Unknown
+089b:00822c20:01f4:00fc:1:0:0
+Iran e Aryaee TV
+p:Unknown
+089d:00822c20:01f4:00fc:1:0:0
+Amazing Facts TV
+p:Unknown
+089f:00822c20:01f4:00fc:1:0:0
+God TV United Kingdom
+p:Unknown
+08a0:00822c20:01f4:00fc:2:0:0
+Teleradiopace Satellite
+p:Unknown
+08a1:00822c20:01f4:00fc:1:0:0
+K-TV English
+p:Unknown
+08a2:00822c20:01f4:00fc:1:0:0
+Nûçe TV
+p:Unknown
+08a6:00822c20:01f4:00fc:1:0:0
+Medya Haber
+p:Unknown
+08b5:00822c20:01f4:00fc:1:0:0
+Love Nature
+p:Unknown
+0604:00822c20:01f4:00fc:2:0:0
+Rûdaw Radio
+p:Unknown
+08b2:00822c20:01f4:00fc:2:0:0
+Radio Novaya Zhizn
+p:Unknown
+08b4:00822c20:01f4:00fc:2:0:0
+Radio 2000
+p:Unknown
+02bd:00822c46:02bc:013e:1:0:0
+Eurosport 1
+p:Orange Polska
+02be:00822c46:02bc:013e:1:0:0
+Eurosport 2
+p:Unknown
+02ef:00822c46:02bc:013e:1:0:0
+Eurosport 1
+p:Nova
+02f0:00822c46:02bc:013e:1:0:0
+Eurosport 1
+p:Unknown
+02f1:00822c46:02bc:013e:1:0:0
+Eurosport 2
+p:Unknown
+02f2:00822c46:02bc:013e:1:0:0
+Eurosport 2
+p:Nova
+01f5:00822c6d:0384:013e:1:0:0
+Iran International
+p:Unknown
+01f7:00822c6d:0384:013e:1:0:0
+Bayyinat TV
+p:Unknown
+01f9:00822c6d:0384:013e:1:0:0
+MC EU
+p:Unknown
+01fa:00822c6d:0384:013e:1:0:0
+Rûdaw
+p:Unknown
+01fb:00822c6d:0384:013e:1:0:0
+Al Mayadeen TV
+p:Unknown
+01fc:00822c6d:0384:013e:1:0:0
+Kurdistan 24
+p:Unknown
+01fe:00822c6d:0384:013e:1:0:0
+Parole di Vita
+p:Unknown
+0202:00822c6d:0384:013e:2:0:0
+RTL 102.5 RadioVisione
+p:Unknown
+0203:00822c6d:0384:013e:2:0:0
+Radio Freccia TV
+p:Unknown
+0204:00822c6d:0384:013e:2:0:0
+Radio Zeta Radiovisione
+p:Unknown
+0205:00822c6d:0384:013e:1:0:0
+RTL 102.5 Caliente
+p:Unknown
+0206:00822c6d:0384:013e:1:0:0
+ReteSette
+p:Unknown
+0215:00822c6d:0384:013e:1:0:0
+NHK World Japan
+p:Unknown
+0207:00822c6d:0384:013e:2:0:0
+RVS Italia
+p:Unknown
+10dd:00822c81:03e8:013e:1:0:0
+Discovery Channel Polska
+p:Polsat Box
+10de:00822c81:03e8:013e:1:0:0
+TLC Polska
+p:Polsat Box
+10df:00822c81:03e8:013e:1:0:0
+Discovery Historia
+p:Polsat Box
+10e0:00822c81:03e8:013e:1:0:0
+Discovery Life Polska
+p:Polsat Box
+10e1:00822c81:03e8:013e:1:0:0
+Discovery Turbo Italia
+p:Sky Italia
+10e2:00822c81:03e8:013e:1:0:0
+Giallo
+p:Sky Italia
+10e3:00822c81:03e8:013e:1:0:0
+Nove
+p:Sky Italia
+10e4:00822c81:03e8:013e:1:0:0
+Cartoonito Polska
+p:Polsat Box
+10e5:00822c81:03e8:013e:1:0:0
+Cartoon Network Polska
+p:Polsat Box
+10ea:00822c81:03e8:013e:1:0:0
+TVN 24 BiS
+p:Polsat Box
+10eb:00822c81:03e8:013e:1:0:0
+HGTV Polska
+p:Polsat Box
+10ee:00822c81:03e8:013e:1:0:0
+HGTV Italia
+p:Sky Italia
+3779:00822c93:044c:013e:1:0:0
+Canal + Film
+p:Canal+ Polska
+3781:00822c93:044c:013e:1:0:0
+Ale Kino +
+p:Canal+ Polska
+3783:00822c93:044c:013e:1:0:0
+Canal + Extra 2
+p:Unknown
+3784:00822c93:044c:013e:1:0:0
+Kino Polska
+p:Polsat Box
+3785:00822c93:044c:013e:1:0:0
+Kino Polska Muzyka
+p:Polsat Box
+3786:00822c93:044c:013e:1:0:0
+FilmBox+ Action
+p:Polsat Box
+3787:00822c93:044c:013e:1:0:0
+FilmBox+ Emotion Polska
+p:Polsat Box
+3788:00822c93:044c:013e:1:0:0
+FilmBox+ Comedy
+p:Polsat Box
+3789:00822c93:044c:013e:1:0:0
+FilmBox+ Hits Polska
+p:Polsat Box
+378a:00822c93:044c:013e:1:0:0
+FilmBox+ One Polska
+p:Polsat Box
+378c:00822c93:044c:013e:1:0:0
+RTBF La Trois
+p:Unknown
+378d:00822c93:044c:013e:1:0:0
+RTL TVI
+p:Unknown
+378e:00822c93:044c:013e:1:0:0
+RTBF La Une
+p:Unknown
+378f:00822c93:044c:013e:1:0:0
+RTBF Tipik
+p:Unknown
+3790:00822c93:044c:013e:1:0:0
+RTL Club
+p:Unknown
+3791:00822c93:044c:013e:1:0:0
+RTL Plug
+p:Unknown
+379f:00822c93:044c:013e:1:0:0
+Ale Kino +
+p:Canal+ Polska
+3792:00822c93:044c:013e:2:0:0
+RTBF Tipik
+p:Unknown
+3793:00822c93:044c:013e:2:0:0
+RTBF Classic 21
+p:Unknown
+3794:00822c93:044c:013e:2:0:0
+RTBF Vivacité BXL
+p:Unknown
+3795:00822c93:044c:013e:2:0:0
+RTBF Musiq3
+p:Unknown
+3796:00822c93:044c:013e:2:0:0
+RTBF La 1ère
+p:Unknown
+3797:00822c93:044c:013e:2:0:0
+Mint
+p:Unknown
+3798:00822c93:044c:013e:2:0:0
+Bel RTL
+p:Unknown
+3799:00822c93:044c:013e:2:0:0
+Radio Contact
+p:Unknown
+006f:00822ca8:04b0:0110:1:0:0
+Cine 34
+p:Sky Italia
+0076:00822ca8:04b0:0110:2:0:0
+Virgin Radio TV
+p:Sky Italia
+0077:00822ca8:04b0:0110:2:0:0
+Radio Monte Carlo TV
+p:Sky Italia
+0078:00822ca8:04b0:0110:1:0:0
+20 Mediaset
+p:Sky Italia
+0079:00822ca8:04b0:0110:1:0:0
+Italia 1
+p:Sky Italia
+007a:00822ca8:04b0:0110:1:0:0
+Canale 5
+p:Sky Italia
+007b:00822ca8:04b0:0110:1:0:0
+Rete 4
+p:Sky Italia
+007c:00822ca8:04b0:0110:1:0:0
+Iris
+p:Sky Italia
+007e:00822ca8:04b0:0110:1:0:0
+Boing Italia
+p:Unknown
+007f:00822ca8:04b0:0110:1:0:0
+La 5
+p:Sky Italia
+0080:00822ca8:04b0:0110:1:0:0
+TGCom 24
+p:Unknown
+0081:00822ca8:04b0:0110:1:0:0
+Mediaset Extra
+p:Sky Italia
+0082:00822ca8:04b0:0110:1:0:0
+Italia 2
+p:Sky Italia
+0084:00822ca8:04b0:0110:1:0:0
+Top Crime
+p:Sky Italia
+0085:00822ca8:04b0:0110:1:0:0
+Cartoonito Italia
+p:Unknown
+0086:00822ca8:04b0:0110:1:0:0
+Focus
+p:Sky Italia
+0087:00822ca8:04b0:0110:1:0:0
+27 Twentyseven
+p:Sky Italia
+3a99:00822cb9:0514:013e:1:0:0
+Planete + Polska
+p:Canal+ Polska
+3a9a:00822cb9:0514:013e:1:0:0
+Novelas+
+p:Canal+ Polska
+3a9b:00822cb9:0514:013e:1:0:0
+Teletoon + HD Polska
+p:Canal+ Polska
+3a9d:00822cb9:0514:013e:1:0:0
+TVP Dokument
+p:Canal+ Polska
+3a9e:00822cb9:0514:013e:1:0:0
+TVP Sport
+p:Canal+ Polska
+3a9f:00822cb9:0514:013e:1:0:0
+Cinemax Central Europe
+p:Canal+ Polska
+3aa0:00822cb9:0514:013e:1:0:0
+Canal + Sport 3 Polska
+p:Canal+ Polska
+3aa1:00822cb9:0514:013e:1:0:0
+Canal + Sport 4 Polska
+p:Canal+ Polska
+3aa5:00822cb9:0514:013e:1:0:0
+Canal + Sport 5 Polska
+p:Canal+ Polska
+3ab9:00822cb9:0514:013e:1:0:0
+Canal + Sport 5 Polska
+p:Canal+ Polska
+3abd:00822cb9:0514:013e:1:0:0
+TVP 1
+p:Canal+ Polska
+3abe:00822cb9:0514:013e:1:0:0
+Romance TV Polska
+p:Canal+ Polska
+3acb:00822cb9:0514:013e:1:0:0
+Planete + Polska
+p:Canal+ Polska
+3acc:00822cb9:0514:013e:1:0:0
+Novelas+
+p:Canal+ Polska
+3acd:00822cb9:0514:013e:1:0:0
+Teletoon + HD Polska
+p:Canal+ Polska
+3ad2:00822cb9:0514:013e:1:0:0
+Canal + Sport 3 Polska
+p:Canal+ Polska
+3ad3:00822cb9:0514:013e:1:0:0
+Canal + Sport 4 Polska
+p:Canal+ Polska
+3adb:00822cb9:0514:013e:1:0:0
+TVP 1
+p:Canal+ Polska
+3ae1:00822cb9:0514:013e:1:0:0
+Canal + Sport 5 Polska
+p:Canal+ Polska
+13ee:00822ce0:05dc:013e:1:0:0
+Canal + Sport 2 Polska
+p:Canal+ Polska
+13ef:00822ce0:05dc:013e:1:0:0
+Canal + Domo Polska
+p:Canal+ Polska
+13f0:00822ce0:05dc:013e:1:0:0
+Canal + Kuchnia
+p:Canal+ Polska
+13f4:00822ce0:05dc:013e:1:0:0
+HBO 2 Polska
+p:Canal+ Polska
+13f6:00822ce0:05dc:013e:1:0:0
+National Geographic Wild Polska
+p:Canal+ Polska
+13f7:00822ce0:05dc:013e:1:0:0
+TVP 3 Warszawa
+p:Canal+ Polska
+13f9:00822ce0:05dc:013e:1:0:0
+HBO 3 Polska
+p:Canal+ Polska
+13fb:00822ce0:05dc:013e:1:0:0
+StudioMed TV
+p:Canal+ Polska
+13fc:00822ce0:05dc:013e:1:0:0
+TeenNick Polska
+p:Canal+ Polska
+13fd:00822ce0:05dc:013e:1:0:0
+Viasat True Crime
+p:Canal+ Polska
+13fe:00822ce0:05dc:013e:1:0:0
+AXN Spin Polska
+p:Canal+ Polska
+13ff:00822ce0:05dc:013e:1:0:0
+Active Family
+p:Canal+ Polska
+1401:00822ce0:05dc:013e:1:0:0
+AMC Polska
+p:Canal+ Polska
+1403:00822ce0:05dc:013e:1:0:0
+TVS
+p:Unknown
+140b:00822ce0:05dc:013e:1:0:0
+Adventure HD
+p:Canal+ Polska
+140c:00822ce0:05dc:013e:1:0:0
+Antena HD
+p:Unknown
+140d:00822ce0:05dc:013e:1:0:0
+Home TV
+p:Unknown
+140e:00822ce0:05dc:013e:1:0:0
+Nuta Gold
+p:Unknown
+140f:00822ce0:05dc:013e:1:0:0
+Nuta TV
+p:Unknown
+1410:00822ce0:05dc:013e:1:0:0
+Power TV
+p:Unknown
+1411:00822ce0:05dc:013e:1:0:0
+Szlagier TV
+p:Unknown
+1412:00822ce0:05dc:013e:1:0:0
+TVC
+p:Unknown
+1413:00822ce0:05dc:013e:1:0:0
+TVC Super
+p:Unknown
+1419:00822ce0:05dc:013e:2:0:0
+Radio Jasna Góra
+p:Unknown
+3dcd:00822cf4:0640:013e:1:0:0
+TVN
+p:Polsat Box
+3dce:00822cf4:0640:013e:1:0:0
+TVN Style
+p:Polsat Box
+3dcf:00822cf4:0640:013e:1:0:0
+TVN Style
+p:Polsat Box
+3dd0:00822cf4:0640:013e:1:0:0
+TVN Turbo
+p:Polsat Box
+3dd1:00822cf4:0640:013e:1:0:0
+TVN Turbo
+p:Polsat Box
+3dd2:00822cf4:0640:013e:1:0:0
+TVN 24
+p:Polsat Box
+3dd3:00822cf4:0640:013e:1:0:0
+TVN 7
+p:Polsat Box
+3dd4:00822cf4:0640:013e:1:0:0
+Metro TV
+p:Polsat Box
+3dd5:00822cf4:0640:013e:1:0:0
+Warner TV Polska
+p:Polsat Box
+3dd6:00822cf4:0640:013e:1:0:0
+TVN Fabula
+p:Polsat Box
+3dd7:00822cf4:0640:013e:1:0:0
+TTV
+p:Polsat Box
+3dd8:00822cf4:0640:013e:1:0:0
+Travel Channel Polska
+p:Polsat Box
+3dd9:00822cf4:0640:013e:1:0:0
+Food Network Polska
+p:Polsat Box
+3dea:00822cf4:0640:013e:1:0:0
+TVN
+p:Unknown
+3deb:00822cf4:0640:013e:1:0:0
+TVN 7
+p:Polsat Box
+3dec:00822cf4:0640:013e:1:0:0
+Food Network Polska
+p:Polsat Box
+3ded:00822cf4:0640:013e:1:0:0
+TVN 24
+p:Polsat Box
+031e:00822d2e:3bc4:013e:1:0:0
+Qatar TV
+p:Unknown
+031f:00822d2e:3bc4:013e:1:0:0
+TRT Arabi
+p:Unknown
+0323:00822d2e:3bc4:013e:1:0:0
+TRT World
+p:Unknown
+0326:00822d2e:3bc4:013e:1:0:0
+Bahrain TV
+p:Unknown
+0327:00822d2e:3bc4:013e:1:0:0
+France 24 Français
+p:Unknown
+0328:00822d2e:3bc4:013e:1:0:0
+France 24 English
+p:Unknown
+0367:00822d41:3c28:013e:1:0:0
+CCTV 4 Europe
+p:Unknown
+0368:00822d41:3c28:013e:1:0:0
+CGTN
+p:Unknown
+0369:00822d41:3c28:013e:1:0:0
+CGTN Documentary
+p:Unknown
+036a:00822d41:3c28:013e:1:0:0
+CGTN Español
+p:Unknown
+036b:00822d41:3c28:013e:1:0:0
+CGTN Français
+p:Unknown
+036c:00822d41:3c28:013e:1:0:0
+CGTN Russkij
+p:Unknown
+036d:00822d41:3c28:013e:1:0:0
+CGTN Arabic
+p:Unknown
+421a:00822d8e:3db8:013e:1:0:0
+TRM h24
+p:Unknown
+4224:00822d8e:3db8:013e:1:0:0
+Redlight HD
+p:Polsat Box
+4238:00822d8e:3db8:013e:1:0:0
+Padre Pio TV
+p:Unknown
+423b:00822d8e:3db8:013e:1:0:0
+Tele 5
+p:Unknown
+423c:00822d8e:3db8:013e:1:0:0
+Polonia 1
+p:Unknown
+423d:00822d8e:3db8:013e:1:0:0
+Water Planet TV
+p:Polsat Box
+423f:00822d8e:3db8:013e:1:0:0
+Novela TV
+p:Polsat Box
+4241:00822d8e:3db8:013e:1:0:0
+TVR International
+p:Unknown
+4242:00822d8e:3db8:013e:2:0:0
+Radio Italia TV
+p:Unknown
+4243:00822d8e:3db8:013e:1:0:0
+Equ TV
+p:Unknown
+4246:00822d8e:3db8:013e:2:0:0
+Radio Italia Live TV
+p:Unknown
+424b:00822d8e:3db8:013e:1:0:0
+MarcoPolo Travel TV
+p:Unknown
+424f:00822d8e:3db8:013e:1:0:0
+RDS Social TV
+p:Unknown
+4250:00822d8e:3db8:013e:1:0:0
+Kiss Kiss TV
+p:Unknown
+425c:00822d8e:3db8:013e:1:0:0
+TVA Vicenza
+p:Unknown
+425e:00822d8e:3db8:013e:1:0:0
+Med.TV
+p:Unknown
+4260:00822d8e:3db8:013e:1:0:0
+Videolina
+p:Unknown
+4255:00822d8e:3db8:013e:2:0:0
+Radio Number One
+p:Unknown
+4256:00822d8e:3db8:013e:2:0:0
+Canzoni Napoletane
+p:Unknown
+4259:00822d8e:3db8:013e:2:0:0
+Radio Cusano Campus
+p:Unknown
+425a:00822d8e:3db8:013e:2:0:0
+Radio Cusano Campus
+p:Unknown
+425b:00822d8e:3db8:013e:2:0:0
+Radio Cusano Campus
+p:Unknown
+332d:00822dcf:1388:013e:1:0:0
+DW English
+p:Unknown
+332e:00822dcf:1388:013e:1:0:0
+BBC News Arabic
+p:Unknown
+332f:00822dcf:1388:013e:1:0:0
+BBC News Persian
+p:Unknown
+3330:00822dcf:1388:013e:1:0:0
+BBC News Europe
+p:Unknown
+3331:00822dcf:1388:013e:1:0:0
+TV5Monde Europe
+p:Unknown
+3332:00822dcf:1388:013e:1:0:0
+Arirang World
+p:Unknown
+3341:00822dcf:1388:013e:2:0:0
+DW-Radio 8
+p:Unknown
+3342:00822dcf:1388:013e:2:0:0
+DW-Radio 9
+p:Unknown
+3343:00822dcf:1388:013e:2:0:0
+DW-Radio FM 1
+p:Unknown
+3344:00822dcf:1388:013e:2:0:0
+DW-Radio FM 2
+p:Unknown
+3346:00822dcf:1388:013e:2:0:0
+BBC World Service Horn of Africa
+p:Unknown
+3347:00822dcf:1388:013e:2:0:0
+BBC World Service Arabic
+p:Unknown
+3348:00822dcf:1388:013e:2:0:0
+BBC World Service English Europe
+p:Unknown
+334a:00822dcf:1388:013e:2:0:0
+RFI Français
+p:Unknown
+334c:00822dcf:1388:013e:2:0:0
+RFI Langues Diverse
+p:Unknown
+334d:00822dcf:1388:013e:2:0:0
+RFI Afrique
+p:Unknown
+334e:00822dcf:1388:013e:2:0:0
+RFI Diverse 7
+p:Unknown
+334f:00822dcf:1388:013e:2:0:0
+Monte Carlo Doualiya
+p:Unknown
+2520:00822de3:13ef:013e:1:0:0
+Sharjah TV
+p:Unknown
+2525:00822de3:13ef:013e:1:0:0
+Zad TV
+p:Unknown
+2526:00822de3:13ef:013e:1:0:0
+Alsharqiya TV
+p:Unknown
+2529:00822de3:13ef:013e:1:0:0
+Alarabiya
+p:Unknown
+252a:00822de3:13ef:013e:1:0:0
+Al Hadath
+p:Unknown
+252c:00822de3:13ef:013e:1:0:0
+Sky News Arabia
+p:Unknown
+252f:00822de3:13ef:013e:1:0:0
+Asharq News
+p:Unknown
+2530:00822de3:13ef:013e:1:0:0
+Al-Mashhad
+p:Unknown
+2531:00822de3:13ef:013e:2:0:0
+Sharjah Radio
+p:Unknown
+0d49:00822df6:1450:013e:1:0:0
+Rai 1
+p:Unknown
+0d4a:00822df6:1450:013e:1:0:0
+Rai 2
+p:Unknown
+0d4b:00822df6:1450:013e:1:0:0
+Rai 3
+p:Unknown
+0d4d:00822df6:1450:013e:1:0:0
+Rai 4
+p:Unknown
+0d4e:00822df6:1450:013e:1:0:0
+Rai Movie
+p:Unknown
+0d4f:00822df6:1450:013e:1:0:0
+Rai 4K
+p:Unknown
+0d50:00822df6:1450:013e:1:0:0
+Senato TV
+p:Unknown
+0d71:00822df6:1450:013e:2:0:0
+Rai Radio 1
+p:Unknown
+0d72:00822df6:1450:013e:2:0:0
+Rai Radio 2
+p:Unknown
+0d73:00822df6:1450:013e:2:0:0
+Rai Radio 3
+p:Unknown
+02bd:00822e09:14b4:013e:1:0:0
+World Poker Tour
+p:Unknown
+02be:00822e09:14b4:013e:1:0:0
+Outdoor Channel International
+p:Unknown
+02bf:00822e09:14b4:013e:1:0:0
+Cricket Gold
+p:Unknown
+02c0:00822e09:14b4:013e:1:0:0
+Ayozat TV
+p:Unknown
+02c3:00822e09:14b4:013e:1:0:0
+Sports First
+p:Unknown
+02c4:00822e09:14b4:013e:1:0:0
+Bare Knuckle Fighting Championship TV
+p:Unknown
+02c5:00822e09:14b4:013e:1:0:0
+The Grappling Network
+p:Unknown
+02c7:00822e09:14b4:013e:1:0:0
+Wild TV
+p:Unknown
+02c8:00822e09:14b4:013e:1:0:0
+World Fishing Network
+p:Unknown
+02c9:00822e09:14b4:013e:1:0:0
+WedoTV Film al Femminile
+p:Unknown
+0193:00822e1c:1518:013e:1:0:0
+Cosmote Sport Highlights
+p:Nova
+0194:00822e1c:1518:013e:1:0:0
+Travel Channel Europe
+p:Nova
+0195:00822e1c:1518:013e:1:0:0
+National Geographic Wild Europe
+p:Nova
+0197:00822e1c:1518:013e:1:0:0
+Nova Sports 1
+p:Nova
+0198:00822e1c:1518:013e:1:0:0
+Nova Sports Extra 2
+p:Nova
+0199:00822e1c:1518:013e:1:0:0
+Nova Sports 6
+p:Nova
+019b:00822e1c:1518:013e:1:0:0
+Nova Sports Start
+p:Nova
+019d:00822e1c:1518:013e:1:0:0
+IDJ Kids
+p:Nova
+019e:00822e1c:1518:013e:1:0:0
+Disney Jr Middle East
+p:Nova
+019f:00822e1c:1518:013e:1:0:0
+Nova Sports Premier League
+p:Nova
+01a0:00822e1c:1518:013e:1:0:0
+Nova Sports 5
+p:Nova
+01a1:00822e1c:1518:013e:1:0:0
+Disney Channel Middle East
+p:Nova
+01a2:00822e1c:1518:013e:1:0:0
+Animal Planet Africa
+p:Nova
+01a4:00822e1c:1518:013e:1:0:0
+Nova Sports Prime
+p:Nova
+01a7:00822e1c:1518:013e:1:0:0
+Smile TV
+p:Nova
+0134:00822e2f:157c:013e:1:0:0
+Ant1
+p:Nova
+0139:00822e2f:157c:013e:1:0:0
+ERT Cosmos
+p:Unknown
+013b:00822e2f:157c:013e:1:0:0
+Mad Greekz
+p:Nova
+013e:00822e2f:157c:013e:1:0:0
+Mega TV
+p:Nova
+013f:00822e2f:157c:013e:1:0:0
+Vouli TV
+p:Unknown
+0149:00822e2f:157c:013e:1:0:0
+Makedonia TV
+p:Nova
+0151:00822e2f:157c:013e:1:0:0
+Alpha TV
+p:Nova
+0168:00822e2f:157c:013e:1:0:0
+BNT 4
+p:Unknown
+0135:00822e2f:157c:013e:2:0:0
+Love Radio 97.5
+p:Nova
+0136:00822e2f:157c:013e:2:0:0
+Ecclesia Radio
+p:Unknown
+0137:00822e2f:157c:013e:2:0:0
+SKAÏ 100.3 FM
+p:Nova
+0138:00822e2f:157c:013e:2:0:0
+Melodia 99.2
+p:Nova
+013c:00822e2f:157c:013e:2:0:0
+I Foni tis Elladas
+p:Unknown
+0dea:00822e43:15e0:fbff:1:0:0
+Sky Sport Business 2
+p:Sky Italia
+0dec:00822e43:15e0:fbff:1:0:0
+Sky Cinema Stories
+p:Sky Italia
+0dee:00822e43:15e0:fbff:1:0:0
+DAZN 1 Italia
+p:Sky Italia
+1016:00822e43:15e0:fbff:1:0:0
+Prime Video Sportsbar Italia
+p:Sky Italia
+106a:00822e43:15e0:fbff:1:0:0
+Sky Cinema Uno
+p:Sky Italia
+1e54:00822e43:15e0:fbff:1:0:0
+Sky Sport Basket
+p:Sky Italia
+1e5f:00822e43:15e0:fbff:1:0:0
+Sky Sport 7
+p:Sky Italia
+2c29:00822e43:15e0:fbff:1:0:0
+Super Tennis
+p:Sky Italia
+2d5d:00822e43:15e0:fbff:1:0:0
+Sky Sport 9
+p:Sky Italia
+2da4:00822e43:15e0:fbff:1:0:0
+Sky Serie
+p:Sky Italia
+2da6:00822e43:15e0:fbff:1:0:0
+Sky Investigation
+p:Sky Italia
+3792:00822e43:15e0:fbff:1:0:0
+Sky Atlantic
+p:Sky Italia
+0064:00822e56:1644:013e:1:0:0
+3+
+p:Kabelio
+0065:00822e56:1644:013e:1:0:0
+4+
+p:Kabelio
+0066:00822e56:1644:013e:1:0:0
+5+
+p:Kabelio
+0067:00822e56:1644:013e:1:0:0
+TV 24
+p:Kabelio
+0068:00822e56:1644:013e:1:0:0
+TV 25
+p:Kabelio
+0069:00822e56:1644:013e:1:0:0
+6+
+p:Kabelio
+006b:00822e56:1644:013e:1:0:0
+TeleZüri
+p:Kabelio
+006c:00822e56:1644:013e:1:0:0
+Puls Acht
+p:Kabelio
+006d:00822e56:1644:013e:1:0:0
+ORF 1 Südtirol
+p:Kabelio
+006e:00822e56:1644:013e:1:0:0
+ORF 2 Tirol
+p:Kabelio
+006f:00822e56:1644:013e:1:0:0
+RTL Schweiz
+p:Kabelio
+0070:00822e56:1644:013e:1:0:0
+RTL Zwei Schweiz
+p:Kabelio
+0071:00822e56:1644:013e:1:0:0
+Vox Schweiz
+p:Kabelio
+0072:00822e56:1644:013e:1:0:0
+Sat. 1 Schweiz
+p:Kabelio
+0073:00822e56:1644:013e:1:0:0
+ProSieben Schweiz
+p:Kabelio
+0074:00822e56:1644:013e:1:0:0
+ORF III
+p:Kabelio
+0075:00822e56:1644:013e:1:0:0
+Servus TV
+p:Kabelio
+0076:00822e56:1644:013e:1:0:0
+ORF Sport +
+p:Kabelio
+007f:00822e56:1644:013e:1:0:0
+Kabel Eins Schweiz
+p:Kabelio
+0082:00822e56:1644:013e:1:0:0
+Toggo Schweiz
+p:Kabelio
+0084:00822e56:1644:013e:1:0:0
+Das Erste
+p:Kabelio
+0085:00822e56:1644:013e:1:0:0
+ZDF
+p:Kabelio
+0087:00822e56:1644:013e:1:0:0
+N-TV
+p:Kabelio
+0089:00822e56:1644:013e:1:0:0
+Sat. 1 Gold Schweiz
+p:Kabelio
+008b:00822e56:1644:013e:1:0:0
+Vantage Music
+p:Unknown
+0dbf:00822e69:16a8:fbff:1:0:0
+Sky TG 24
+p:Sky Italia
+0de9:00822e69:16a8:fbff:1:0:0
+Sky Sport Business 1
+p:Sky Italia
+0587:00822e7c:170c:013f:1:0:0
+BFM TV
+p:Bis TV
+0589:00822e7c:170c:013f:1:0:0
+C Star
+p:Bis TV
+058a:00822e7c:170c:013f:1:0:0
+Gulli
+p:Bis TV
+058b:00822e7c:170c:013f:1:0:0
+Franceinfo:
+p:Unknown
+058c:00822e7c:170c:013f:1:0:0
+Ushuaïa TV
+p:Unknown
+058d:00822e7c:170c:013f:1:0:0
+Equidia
+p:Bis TV
+05ab:00822e7c:170c:013f:1:0:0
+RTL 9
+p:Bis TV
+05ac:00822e7c:170c:013f:1:0:0
+AB 1
+p:Bis TV
+05ad:00822e7c:170c:013f:1:0:0
+Automoto la chaîne
+p:Bis TV
+05ae:00822e7c:170c:013f:1:0:0
+Animaux
+p:Bis TV
+05af:00822e7c:170c:013f:1:0:0
+Chasse & Pêche
+p:Bis TV
+05b0:00822e7c:170c:013f:1:0:0
+TV Breizh
+p:Unknown
+05b1:00822e7c:170c:013f:1:0:0
+Crime District
+p:Unknown
+05b2:00822e7c:170c:013f:1:0:0
+Trek
+p:Bis TV
+05b3:00822e7c:170c:013f:1:0:0
+Toute l'Histoire
+p:Bis TV
+05b5:00822e7c:170c:013f:1:0:0
+Action
+p:Bis TV
+05b6:00822e7c:170c:013f:1:0:0
+Mangas
+p:Bis TV
+05b7:00822e7c:170c:013f:1:0:0
+Science & Vie TV
+p:Bis TV
+05ba:00822e7c:170c:013f:1:0:0
+Téva
+p:Bis TV
+05bc:00822e7c:170c:013f:1:0:0
+XXL TV
+p:Bis TV
+05be:00822e7c:170c:013f:1:0:0
+PadelTime TV
+p:Unknown
+0049:00822e8f:1770:00be:1:0:0
+La 7 Cinema
+p:Sky Italia
+004f:00822e8f:1770:00be:1:0:0
+La 7
+p:Sky Italia
+0050:00822e8f:1770:00be:1:0:0
+Telesardegna
+p:Unknown
+0051:00822e8f:1770:00be:2:0:0
+Radio Norba TV
+p:Unknown
+005b:00822e8f:1770:00be:1:0:0
+TV 2000
+p:Sky Italia
+005c:00822e8f:1770:00be:2:0:0
+InBlu 2000
+p:Unknown
+005d:00822e8f:1770:00be:2:0:0
+Radio InBlu
+p:Unknown
+0065:00822e8f:1770:00be:2:0:0
+R101
+p:Unknown
+0066:00822e8f:1770:00be:2:0:0
+Radio Monte Carlo
+p:Unknown
+0068:00822e8f:1770:00be:2:0:0
+Virgin Radio Italy
+p:Unknown
+0069:00822e8f:1770:00be:2:0:0
+Radio 105
+p:Unknown
+006a:00822e8f:1770:00be:2:0:0
+Radio Subasio
+p:Unknown
+006e:00822e8f:1770:00be:2:0:0
+Radiolina
+p:Unknown
+1bbd:00822ea2:17d4:013e:1:0:0
+ERT News
+p:Nova
+1bbe:00822ea2:17d4:013e:1:0:0
+Nova Sports Extra 4
+p:Nova
+1bbf:00822ea2:17d4:013e:1:0:0
+Viasat True Crime
+p:Nova
+1bc0:00822ea2:17d4:013e:1:0:0
+Duck TV SD
+p:Nova
+1bc2:00822ea2:17d4:013e:1:0:0
+Nova Cinema 3
+p:Nova
+1bc4:00822ea2:17d4:013e:1:0:0
+Nova Sports News
+p:Nova
+1bc5:00822ea2:17d4:013e:1:0:0
+One Channel
+p:Nova
+1bc8:00822ea2:17d4:013e:1:0:0
+Viasat Epic Drama
+p:Nova
+1bc9:00822ea2:17d4:013e:1:0:0
+Mega News
+p:Nova
+1bca:00822ea2:17d4:013e:1:0:0
+Nova Cinema 2
+p:Nova
+1bcb:00822ea2:17d4:013e:1:0:0
+Cosmote Sport 4
+p:Nova
+1bcc:00822ea2:17d4:013e:1:0:0
+Cosmote Sport 5
+p:Nova
+1bce:00822ea2:17d4:013e:1:0:0
+Cosmote Sport 6
+p:Nova
+1bd2:00822ea2:17d4:013e:1:0:0
+Cartoonito Middle East
+p:Nova
+1bd3:00822ea2:17d4:013e:1:0:0
+Cosmote Sport 2
+p:Nova
+1bcd:00822ea2:17d4:013e:2:0:0
+Mad Radio 106.2
+p:Nova
+0de7:00822eb6:1838:fbff:1:0:0
+Sky Sport Tennis
+p:Sky Italia
+1c29:00822eb6:1838:fbff:1:0:0
+Sky Sport Calcio
+p:Sky Italia
+2505:00822eb6:1838:fbff:1:0:0
+Sky Uno
+p:Sky Italia
+2b0f:00822eb6:1838:fbff:1:0:0
+Sky Sport Uno
+p:Sky Italia
+2b1b:00822eb6:1838:fbff:1:0:0
+Sky Sport 24
+p:Sky Italia
+2506:00822edc:1900:fbff:1:0:0
+Sky Sport F1
+p:Sky Italia
+250b:00822edc:1900:fbff:1:0:0
+Sky Sport Moto GP
+p:Sky Italia
+2b10:00822edc:1900:fbff:1:0:0
+Sky Sport Arena
+p:Sky Italia
+2d6c:00822edc:1900:fbff:1:0:0
+Sky Sport 4K
+p:Sky Italia
+0003:00822eef:1964:013e:1:0:0
+Nick Jr Central & Eastern Europe
+p:Polsat Box
+0009:00822eef:1964:013e:1:0:0
+Nickelodeon Polska
+p:Polsat Box
+000c:00822eef:1964:013e:1:0:0
+Comedy Central Polska
+p:Polsat Box
+000d:00822eef:1964:013e:1:0:0
+Paramount Network Polska
+p:Polsat Box
+000e:00822eef:1964:013e:1:0:0
+Nicktoons Polska
+p:Polsat Box
+000f:00822eef:1964:013e:1:0:0
+MTV Polska
+p:Polsat Box
+0010:00822eef:1964:013e:1:0:0
+Comedy Central Extra Polsat
+p:Polsat Box
+0020:00822eef:1964:013e:1:0:0
+Comedy Central Polska
+p:Polsat Box
+0021:00822eef:1964:013e:1:0:0
+Paramount Network Polska
+p:Polsat Box
+003f:00822eef:1964:013e:1:0:0
+VOD 205
+p:Polsat Box
+0040:00822eef:1964:013e:1:0:0
+VOD 206
+p:Polsat Box
+0041:00822eef:1964:013e:1:0:0
+VOD 207
+p:Polsat Box
+0042:00822eef:1964:013e:1:0:0
+VOD 208
+p:Polsat Box
+0045:00822eef:1964:013e:1:0:0
+Nicktoons Polska
+p:Polsat Box
+057c:00822f02:19c8:fbff:1:0:0
+Comedy Central Italia
+p:Sky Italia
+0590:00822f02:19c8:fbff:1:0:0
+Nick Jr Italia
+p:Sky Italia
+0597:00822f02:19c8:fbff:1:0:0
+Sky Collection
+p:Sky Italia
+0598:00822f02:19c8:fbff:1:0:0
+Sky Uno+
+p:Sky Italia
+0599:00822f02:19c8:fbff:1:0:0
+Class CNBC
+p:Sky Italia
+0f79:00822f02:19c8:fbff:1:0:0
+Sky Adventure
+p:Sky Italia
+104a:00822f02:19c8:fbff:1:0:0
+Sky Classica
+p:Sky Italia
+10e8:00822f02:19c8:fbff:1:0:0
+Sky TG 24 Primo Piano
+p:Sky Italia
+1c38:00822f02:19c8:fbff:1:0:0
+Sky Cinema Uno +24
+p:Sky Italia
+1c3f:00822f02:19c8:fbff:1:0:0
+Sky Cinema Romance
+p:Sky Italia
+1fac:00822f02:19c8:fbff:1:0:0
+Sky News International
+p:Sky Italia
+2b42:00822f02:19c8:fbff:1:0:0
+Sky Arte
+p:Sky Italia
+2bcb:00822f02:19c8:fbff:1:0:0
+CNN International Europe
+p:Sky Italia
+2c31:00822f02:19c8:fbff:1:0:0
+DeA Junior
+p:Sky Italia
+2cc4:00822f02:19c8:fbff:1:0:0
+DeA Kids
+p:Sky Italia
+37b5:00822f02:19c8:fbff:1:0:0
+Milan TV
+p:Sky Italia
+3bf0:00822f02:19c8:fbff:1:0:0
+Caccia
+p:Sky Italia
+3c07:00822f02:19c8:fbff:1:0:0
+Boomerang Italia
+p:Sky Italia
+0db9:00822f29:1a90:fbff:1:0:0
+History Italia
+p:Sky Italia
+0dcf:00822f29:1a90:fbff:1:0:0
+DAZN 2 Italia
+p:Sky Italia
+0dfb:00822f29:1a90:fbff:1:0:0
+Sky Sport Mix
+p:Sky Italia
+0f4d:00822f29:1a90:fbff:1:0:0
+Sky Sport
+p:Sky Italia
+1018:00822f29:1a90:fbff:1:0:0
+Cielo
+p:Sky Italia
+1089:00822f29:1a90:fbff:1:0:0
+Sky Sport 3
+p:Sky Italia
+108a:00822f29:1a90:fbff:1:0:0
+Sky Sport 4
+p:Sky Italia
+1c50:00822f29:1a90:fbff:1:0:0
+Sky Sport Max
+p:Sky Italia
+1c5c:00822f29:1a90:fbff:1:0:0
+TV 8
+p:Sky Italia
+2b16:00822f29:1a90:fbff:1:0:0
+Sky Cinema Comedy
+p:Sky Italia
+02c1:00822f4f:1b58:013e:1:0:0
+Aljazeera Documentary
+p:Unknown
+02c2:00822f4f:1b58:013e:1:0:0
+Aljazeera Mubasher
+p:Unknown
+02c9:00822f4f:1b58:013e:1:0:0
+RTP Mundo
+p:Unknown
+0314:00822f4f:1b58:013e:1:0:0
+MTA 2 Europe
+p:Unknown
+0315:00822f4f:1b58:013e:1:0:0
+MTA 3 Al-Arabia
+p:Unknown
+02ca:00822f4f:1b58:013e:2:0:0
+RTP Mundo
+p:Unknown
+02cb:00822f4f:1b58:013e:2:0:0
+RTP Antena 1
+p:Unknown
+02dc:00822f4f:1b58:013e:2:0:0
+Radio Maria Italia
+p:Unknown
+02e0:00822f4f:1b58:013e:2:0:0
+Radio Dimensione Suono
+p:Unknown
+02e1:00822f4f:1b58:013e:2:0:0
+Dimensione Suono Roma
+p:Unknown
+02e2:00822f4f:1b58:013e:2:0:0
+Radio Italia Anni 60
+p:Unknown
+02e4:00822f4f:1b58:013e:2:0:0
+Radio Italia
+p:Unknown
+02e6:00822f4f:1b58:013e:2:0:0
+Radio Kiss Kiss
+p:Unknown
+02f9:00822f4f:1b58:013e:2:0:0
+Radio Radicale
+p:Unknown
+02fe:00822f4f:1b58:013e:2:0:0
+Dimensione Suono Soft Nord
+p:Unknown
+02ff:00822f4f:1b58:013e:2:0:0
+Dimensione Suono Soft Centro
+p:Unknown
+0300:00822f4f:1b58:013e:2:0:0
+DiscoRadio
+p:Unknown
+3c8e:00822f62:1bbc:013e:1:0:0
+Nova Stars
+p:Nova
+3c8f:00822f62:1bbc:013e:1:0:0
+Baby TV Europe
+p:Nova
+3c90:00822f62:1bbc:013e:1:0:0
+Nova Sports 2
+p:Nova
+3c91:00822f62:1bbc:013e:1:0:0
+Star Channel
+p:Nova
+3c92:00822f62:1bbc:013e:1:0:0
+TLC Pan Regional
+p:Nova
+3c93:00822f62:1bbc:013e:1:0:0
+Cosmote Sport 7
+p:Nova
+3c94:00822f62:1bbc:013e:1:0:0
+Cosmote Sport 8
+p:Nova
+3c95:00822f62:1bbc:013e:1:0:0
+Nova Cinema 1
+p:Nova
+3c96:00822f62:1bbc:013e:1:0:0
+Cosmote Sport 9
+p:Nova
+3c97:00822f62:1bbc:013e:1:0:0
+E! Europe
+p:Nova
+3c98:00822f62:1bbc:013e:1:0:0
+Attica TV
+p:Nova
+3c9a:00822f62:1bbc:013e:1:0:0
+Food Network EMEA
+p:Nova
+3c9c:00822f62:1bbc:013e:1:0:0
+EuroNews Ellinika
+p:Nova
+3c9d:00822f62:1bbc:013e:1:0:0
+Cosmote Sport 1
+p:Nova
+3c9e:00822f62:1bbc:013e:1:0:0
+Marquee TV
+p:Nova
+3c9f:00822f62:1bbc:013e:1:0:0
+Blue Sky
+p:Nova
+3ca0:00822f62:1bbc:013e:1:0:0
+Nova Sports 3
+p:Nova
+1c22:00822f75:1c20:013e:1:0:0
+Watania 1
+p:Unknown
+1c56:00822f75:1c20:013e:1:0:0
+San Marino RTV
+p:Unknown
+1c71:00822f75:1c20:013e:1:0:0
+Simay-Azadi Iran National TV
+p:Unknown
+1c73:00822f75:1c20:013e:1:0:0
+VoA 365
+p:Unknown
+29cd:00822f75:1c20:013e:1:0:0
+Télé Congo
+p:Unknown
+29d1:00822f75:1c20:013e:1:0:0
+EWTN Europe
+p:Unknown
+1c52:00822f75:1c20:013e:2:0:0
+Radio Nationale
+p:Unknown
+1c53:00822f75:1c20:013e:2:0:0
+Radio Tunis Chaîne Internationale
+p:Unknown
+0e2e:00822f75:1c20:013e:2:0:0
+Radio Freccia
+p:Unknown
+0e30:00822f75:1c20:013e:2:0:0
+Radio Italia
+p:Unknown
+0e31:00822f75:1c20:013e:2:0:0
+Giornale Radio
+p:Unknown
+0e35:00822f75:1c20:013e:2:0:0
+Radio Sportiva
+p:Unknown
+0e3a:00822f75:1c20:013e:2:0:0
+RTL 102.5
+p:Unknown
+0e3b:00822f75:1c20:013e:2:0:0
+Radio Zeta FM
+p:Unknown
+0e3c:00822f75:1c20:013e:2:0:0
+Radio 24
+p:Unknown
+0e3d:00822f75:1c20:013e:2:0:0
+Radio Onda d'Urto
+p:Unknown
+0e43:00822f75:1c20:013e:2:0:0
+Radio Deejay
+p:Unknown
+0e44:00822f75:1c20:013e:2:0:0
+Radio Capital
+p:Unknown
+0e45:00822f75:1c20:013e:2:0:0
+M2o
+p:Unknown
+0e46:00822f75:1c20:013e:2:0:0
+Radio Iglesias
+p:Unknown
+0e48:00822f75:1c20:013e:2:0:0
+Radio Popolare
+p:Unknown
+1c57:00822f75:1c20:013e:2:0:0
+Radio San Marino
+p:Unknown
+1c70:00822f75:1c20:013e:2:0:0
+Radio Mater
+p:Unknown
+1c72:00822f75:1c20:013e:2:0:0
+Radio Buon Consiglio
+p:Unknown
+2905:00822f75:1c20:013e:2:0:0
+Radio Congo
+p:Unknown
+015f:00822f89:1c84:013e:1:0:0
+Discovery Channel Europe
+p:Nova
+0160:00822f89:1c84:013e:1:0:0
+Naftemporiki TV
+p:Nova
+0162:00822f89:1c84:013e:1:0:0
+Nova Sports 4
+p:Nova
+0165:00822f89:1c84:013e:1:0:0
+Cosmote Sport 3
+p:Nova
+0166:00822f89:1c84:013e:1:0:0
+Open Beyond TV
+p:Nova
+0169:00822f89:1c84:013e:1:0:0
+Nova Sports Extra 1
+p:Nova
+016a:00822f89:1c84:013e:1:0:0
+History Europe
+p:Nova
+016b:00822f89:1c84:013e:1:0:0
+Kontra
+p:Nova
+016e:00822f89:1c84:013e:1:0:0
+Nova Cinema 4
+p:Nova
+0170:00822f89:1c84:013e:1:0:0
+Nova Life
+p:Nova
+0172:00822f89:1c84:013e:1:0:0
+Da Vinci
+p:Nova
+0175:00822f89:1c84:013e:1:0:0
+Action 24
+p:Nova
+0179:00822f89:1c84:013e:1:0:0
+Mad TV
+p:Nova
+017a:00822f89:1c84:013e:1:0:0
+ERT 1
+p:Nova
+017d:00822f89:1c84:013e:1:0:0
+Nova Sports Extra 3
+p:Nova
+017f:00822f89:1c84:013e:1:0:0
+SKAÏ
+p:Nova
+0183:00822f89:1c84:013e:1:0:0
+ERT 3
+p:Nova
+0185:00822f89:1c84:013e:1:0:0
+ERT 2 Spor
+p:Nova
+016c:00822f89:1c84:013e:2:0:0
+Real FM
+p:Nova
+0174:00822f89:1c84:013e:2:0:0
+Sto Kokkino
+p:Nova
+0176:00822f89:1c84:013e:2:0:0
+Parapolitika 90.1 FM
+p:Nova
+017b:00822f89:1c84:013e:2:0:0
+Spor FM
+p:Nova
+1c86:00822f9c:1ce8:0071:1:0:0
+AXN White Polska
+p:Polsat Box
+1c87:00822f9c:1ce8:0071:1:0:0
+AXN Black Polska
+p:Polsat Box
+1c8a:00822f9c:1ce8:0071:1:0:0
+Newsmax Polska
+p:Unknown
+1c8b:00822f9c:1ce8:0071:1:0:0
+Polsat X
+p:Polsat Box
+1c8c:00822f9c:1ce8:0071:1:0:0
+Disco Polo Music
+p:Polsat Box
+1c8d:00822f9c:1ce8:0071:1:0:0
+TV Okazje
+p:Unknown
+1c8e:00822f9c:1ce8:0071:1:0:0
+Disco Polo Music
+p:Polsat Box
+1c8f:00822f9c:1ce8:0071:1:0:0
+Polsat Rodzina
+p:Polsat Box
+1c96:00822f9c:1ce8:0071:1:0:0
+AXN Polska
+p:Polsat Box
+1cac:00822f9c:1ce8:0071:1:0:0
+Polsat Seriale
+p:Polsat Box
+1cad:00822f9c:1ce8:0071:1:0:0
+Polsat Seriale
+p:Polsat Box
+1cb5:00822f9c:1ce8:0071:1:0:0
+Disney XD Polska
+p:Polsat Box
+1cb6:00822f9c:1ce8:0071:1:0:0
+Disney Channel Polska
+p:Polsat Box
+1cb7:00822f9c:1ce8:0071:1:0:0
+JimJam Polsat
+p:Polsat Box
+1cbe:00822f9c:1ce8:0071:1:0:0
+Polsat News Polityka
+p:Polsat Box
+1cc5:00822f9c:1ce8:0071:1:0:0
+Disney Channel Polska
+p:Polsat Box
+1cca:00822f9c:1ce8:0071:1:0:0
+Viasat Explore Polsat
+p:Polsat Box
+1c98:00822f9c:1ce8:0071:2:0:0
+RMF FM
+p:Polsat Box
+1c9a:00822f9c:1ce8:0071:2:0:0
+RMF Classic
+p:Unknown
+1c9b:00822f9c:1ce8:0071:2:0:0
+Polskie Radio Jedynka
+p:Polsat Box
+1c9c:00822f9c:1ce8:0071:2:0:0
+Polskie Radio Trójka
+p:Polsat Box
+1c9e:00822f9c:1ce8:0071:2:0:0
+RMF Maxx
+p:Unknown
+1ca0:00822f9c:1ce8:0071:2:0:0
+Radio Zlote Przeboje
+p:Unknown
+1ca1:00822f9c:1ce8:0071:2:0:0
+Polskie Radio dla zagranicy
+p:Unknown
+1ca2:00822f9c:1ce8:0071:2:0:0
+RMF FM
+p:Polsat Box
+1ca5:00822f9c:1ce8:0071:2:0:0
+Polskie Radio Jedynka
+p:Polsat Box
+1ca6:00822f9c:1ce8:0071:2:0:0
+Polskie Radio Trójka
+p:Polsat Box
+0c1d:00822fe9:1e78:0071:1:0:0
+Polsat Sport 1
+p:Polsat Box
+0c1f:00822fe9:1e78:0071:1:0:0
+FX Comedy Polska
+p:Polsat Box
+0c20:00822fe9:1e78:0071:1:0:0
+Viasat History Polsat
+p:Polsat Box
+0c22:00822fe9:1e78:0071:1:0:0
+TVP 2
+p:Polsat Box
+0c23:00822fe9:1e78:0071:1:0:0
+Polsat Doku
+p:Polsat Box
+0c24:00822fe9:1e78:0071:1:0:0
+Polsat Sport 2
+p:Polsat Box
+0c25:00822fe9:1e78:0071:1:0:0
+AXN Polska
+p:Polsat Box
+0c26:00822fe9:1e78:0071:1:0:0
+Cinemax 2 Central Europe
+p:Polsat Box
+0c27:00822fe9:1e78:0071:1:0:0
+FX Polska
+p:Polsat Box
+0c29:00822fe9:1e78:0071:1:0:0
+Cinemax 2 Central Europe
+p:Polsat Box
+0c2a:00822fe9:1e78:0071:1:0:0
+AXN Polska
+p:Polsat Box
+0c2b:00822fe9:1e78:0071:1:0:0
+FX Comedy Polska
+p:Polsat Box
+0c2d:00822fe9:1e78:0071:1:0:0
+FX Polska
+p:Polsat Box
+0c2f:00822fe9:1e78:0071:1:0:0
+History Polska
+p:Polsat Box
+0c30:00822fe9:1e78:0071:1:0:0
+Crime + Investigation Polsat
+p:Polsat Box
+0c32:00822fe9:1e78:0071:1:0:0
+History Polska
+p:Polsat Box
+0c33:00822fe9:1e78:0071:1:0:0
+Polsat Sport Extra 1
+p:Polsat Box
+0c34:00822fe9:1e78:0071:1:0:0
+Polsat Sport Extra 2
+p:Polsat Box
+0c37:00822fe9:1e78:0071:1:0:0
+Polsat Doku
+p:Polsat Box
+2907:00822ffc:1edc:0071:1:0:0
+Nat Geo People Polska
+p:Polsat Box
+2908:00822ffc:1edc:0071:1:0:0
+Viasat Nature Polsat
+p:Polsat Box
+2909:00822ffc:1edc:0071:1:0:0
+Eska Rock TV
+p:Polsat Box
+290a:00822ffc:1edc:0071:1:0:0
+Extreme Sports Channel Polska
+p:Polsat Box
+290b:00822ffc:1edc:0071:1:0:0
+Kanal Zero
+p:Unknown
+290c:00822ffc:1edc:0071:1:0:0
+Wydarzenia 24
+p:Polsat Box
+290d:00822ffc:1edc:0071:1:0:0
+Eska TV Extra
+p:Polsat Box
+290e:00822ffc:1edc:0071:1:0:0
+HBO Polska
+p:Polsat Box
+290f:00822ffc:1edc:0071:1:0:0
+HBO Polska
+p:Polsat Box
+2910:00822ffc:1edc:0071:1:0:0
+Vox Music TV
+p:Polsat Box
+2911:00822ffc:1edc:0071:1:0:0
+Polsat Sport Fight
+p:Polsat Box
+2913:00822ffc:1edc:0071:1:0:0
+Polsat Sport 3
+p:Polsat Box
+2914:00822ffc:1edc:0071:1:0:0
+Mango
+p:Unknown
+2938:00822ffc:1edc:0071:1:0:0
+Disney Jr Türkiye & Polska
+p:Polsat Box
+030f:0082300f:1f40:013e:1:0:0
+Telesur
+p:Unknown
+0dad:0082300f:1f40:013e:1:0:0
+TVE Internacional Europa
+p:Unknown
+0dae:0082300f:1f40:013e:1:0:0
+Canal 24 Horas
+p:Unknown
+0dfd:0082300f:1f40:013e:2:0:0
+RNE Radio Nacional
+p:Unknown
+0dfe:0082300f:1f40:013e:2:0:0
+RNE Radio Clásica
+p:Unknown
+0dff:0082300f:1f40:013e:2:0:0
+RNE Radio 3
+p:Unknown
+0e00:0082300f:1f40:013e:2:0:0
+RNE Radio 5
+p:Unknown
+0e01:0082300f:1f40:013e:2:0:0
+Radio Exterior
+p:Unknown
+0e02:0082300f:1f40:013e:2:0:0
+RNE Ràdio 4
+p:Unknown
+39d4:00823022:1fa4:013e:1:0:0
+TV 4 Amazigh
+p:Unknown
+39d5:00823022:1fa4:013e:1:0:0
+TV 5 Coran
+p:Unknown
+39d9:00823022:1fa4:013e:1:0:0
+SBN International
+p:Unknown
+39d1:00823022:1fa4:013e:2:0:0
+Chaîne 1
+p:Unknown
+39d2:00823022:1fa4:013e:2:0:0
+Chaîne 2
+p:Unknown
+39d3:00823022:1fa4:013e:2:0:0
+Chaîne 3
+p:Unknown
+0ded:00823035:2008:fbff:1:0:0
+Sky Sport Business 3
+p:Sky Italia
+0dfa:00823035:2008:fbff:1:0:0
+Sky Sport Legend
+p:Sky Italia
+0f46:00823035:2008:fbff:1:0:0
+Sky Sport 5
+p:Sky Italia
+0f48:00823035:2008:fbff:1:0:0
+Sky Sport 6
+p:Sky Italia
+0f6f:00823035:2008:fbff:1:0:0
+Sky Sport 2
+p:Sky Italia
+106e:00823035:2008:fbff:1:0:0
+Sky Cinema Action
+p:Sky Italia
+10e1:00823035:2008:fbff:1:0:0
+Sky Meteo 24
+p:Sky Italia
+1c57:00823035:2008:fbff:1:0:0
+Sky Cinema Family
+p:Sky Italia
+1e58:00823035:2008:fbff:1:0:0
+Sky Sport Golf
+p:Sky Italia
+1e59:00823035:2008:fbff:1:0:0
+Sky Cinema Drama
+p:Sky Italia
+2b27:00823035:2008:fbff:1:0:0
+Sky Cinema Suspense
+p:Sky Italia
+2daf:00823035:2008:fbff:1:0:0
+Sky Nature
+p:Sky Italia
+0bea:0082305c:20d0:013e:1:0:0
+Inultra
+p:Polsat Box
+0389:0082306f:2134:013e:1:0:0
+Dubai TV International
+p:Unknown
+038b:0082306f:2134:013e:1:0:0
+Sudan TV
+p:Unknown
+038e:0082306f:2134:013e:1:0:0
+Egyptian TV 2
+p:Unknown
+0392:0082306f:2134:013e:1:0:0
+Jordan TV
+p:Unknown
+0394:0082306f:2134:013e:1:0:0
+Alwatania TV
+p:Unknown
+0395:0082306f:2134:013e:1:0:0
+KTV 1
+p:Unknown
+0398:0082306f:2134:013e:1:0:0
+Oman TV
+p:Unknown
+0388:0082306f:2134:013e:2:0:0
+Noor Dubai Radio
+p:Unknown
+0393:0082306f:2134:013e:2:0:0
+Jordan Radio
+p:Unknown
+0396:0082306f:2134:013e:2:0:0
+Kuwait Radio One
+p:Unknown
+0397:0082306f:2134:013e:2:0:0
+AlQuran Alkarem
+p:Unknown
+0399:0082306f:2134:013e:2:0:0
+Radio Oman
+p:Unknown
+039a:0082306f:2134:013e:2:0:0
+Radio Oman FM
+p:Unknown
+039b:0082306f:2134:013e:2:0:0
+Al-Shabab
+p:Unknown
+039c:0082306f:2134:013e:2:0:0
+Holy Quran Radio
+p:Unknown
+038f:0082306f:2134:013e:2:0:0
+Sout Al-Arab
+p:Unknown
+0390:0082306f:2134:013e:2:0:0
+El-Bernameg Al-Aam
+p:Unknown
+0391:0082306f:2134:013e:2:0:0
+El-Quran El-Karim
+p:Unknown
+0dfd:008230b2:2260:fbff:1:0:0
+Disney Jr Italia
+p:Sky Italia
+1020:008230b2:2260:fbff:1:0:0
+Sky Crime
+p:Sky Italia
+106c:008230b2:2260:fbff:1:0:0
+Sky Cinema Collection
+p:Sky Italia
+10fe:008230b2:2260:fbff:1:0:0
+Pesca
+p:Sky Italia
+1e53:008230b2:2260:fbff:1:0:0
+MTV Italia
+p:Sky Italia
+1e5c:008230b2:2260:fbff:1:0:0
+Sky Sport 8
+p:Sky Italia
+250f:008230b2:2260:fbff:1:0:0
+Inter TV
+p:Sky Italia
+2c38:008230b2:2260:fbff:1:0:0
+Nickelodeon Italia
+p:Sky Italia
+2db1:008230b2:2260:fbff:1:0:0
+Sky Documentaries
+p:Sky Italia
+2fc4:008230b2:2260:fbff:1:0:0
+Gambero Rosso Channel
+p:Sky Italia
+37b2:008230b2:2260:fbff:1:0:0
+Cartoon Network Italia
+p:Sky Italia
+07d4:008230bc:22c4:013e:1:0:0
+Vatican Media
+p:Unknown
+07d6:008230bc:22c4:013e:1:0:0
+BBC Brit Polska
+p:Polsat Box
+07d9:008230bc:22c4:013e:1:0:0
+CBeebies Polska
+p:Polsat Box
+07db:008230bc:22c4:013e:1:0:0
+BBC Lifestyle Polska
+p:Polsat Box
+0830:008230bc:22c4:013e:1:0:0
+Equidia Pro 1
+p:Unknown
+0831:008230bc:22c4:013e:1:0:0
+Equidia Pro 2
+p:Unknown
+07de:008230bc:22c4:013e:2:0:0
+Radio Vaticana Europa
+p:Unknown
+232b:008230e8:2328:013e:1:0:0
+Ronahî TV
+p:Unknown
+232c:008230e8:2328:013e:1:0:0
+Jin TV
+p:Unknown
+232d:008230e8:2328:013e:1:0:0
+Orler TV
+p:Unknown
+2331:008230e8:2328:013e:1:0:0
+Angel TV Europe
+p:Unknown
+2332:008230e8:2328:013e:1:0:0
+BogBlag TV
+p:Unknown
+2333:008230e8:2328:013e:1:0:0
+Stêrk
+p:Unknown
+2334:008230e8:2328:013e:1:0:0
+Çira TV
+p:Unknown
+2336:008230e8:2328:013e:1:0:0
+Go-TV Channel
+p:Unknown
+2338:008230e8:2328:013e:1:0:0
+Somaliland National TV
+p:Unknown
+233a:008230e8:2328:013e:1:0:0
+The Kingdom Sat
+p:Unknown
+233b:008230e8:2328:013e:1:0:0
+AnewZ
+p:Unknown
+233c:008230e8:2328:013e:1:0:0
+TBN Europe
+p:Unknown
+233e:008230e8:2328:013e:1:0:0
+EuroNews English
+p:Unknown
+233f:008230e8:2328:013e:1:0:0
+EuroNews Italiano
+p:Unknown
+2340:008230e8:2328:013e:1:0:0
+Silk Way
+p:Unknown
+2342:008230e8:2328:013e:1:0:0
+Supreme Master TV
+p:Unknown
+04b1:0082310e:23f0:013e:1:0:0
+SBC
+p:Unknown
+04b2:0082310e:23f0:013e:1:0:0
+Sunna TV
+p:Unknown
+04b3:0082310e:23f0:013e:1:0:0
+Quran TV
+p:Unknown
+04b4:0082310e:23f0:013e:1:0:0
+Ekhbariya TV
+p:Unknown
+04b5:0082310e:23f0:013e:1:0:0
+Saudi TV
+p:Unknown
+04b9:0082310e:23f0:013e:1:0:0
+Hotbird 4K1
+p:Unknown
+0641:00823121:2454:013e:1:0:0
+Aljazeera Channel
+p:Unknown
+064d:00823121:2454:013e:1:0:0
+ACI Sport TV
+p:Unknown
+0654:00823121:2454:013e:1:0:0
+Nour Kids
+p:Unknown
+0656:00823121:2454:013e:1:0:0
+GNC Evropa
+p:Unknown
+0657:00823121:2454:013e:1:0:0
+Primaset
+p:Unknown
+0653:00823121:2454:013e:2:0:0
+Radio Mariam Armenia
+p:Unknown
+0065:00823148:251c:00d5:1:0:0
+Travel Channel Europe
+p:Vivacom
+0067:00823148:251c:00d5:1:0:0
+BNT 1
+p:Vivacom
+0068:00823148:251c:00d5:1:0:0
+Dizi
+p:Vivacom
+006f:00823148:251c:00d5:1:0:0
+Balkanika Music TV
+p:Vivacom
+0071:00823148:251c:00d5:1:0:0
+Investigation Discovery Europe
+p:Vivacom
+0072:00823148:251c:00d5:1:0:0
+BNT 2
+p:Vivacom
+0074:00823148:251c:00d5:1:0:0
+Diema
+p:Vivacom
+0075:00823148:251c:00d5:1:0:0
+Diema Family
+p:Vivacom
+0078:00823148:251c:00d5:1:0:0
+Viasat Explore East
+p:Vivacom
+0079:00823148:251c:00d5:1:0:0
+Viasat History East
+p:Vivacom
+007a:00823148:251c:00d5:1:0:0
+Viasat Epic Drama
+p:Vivacom
+007e:00823148:251c:00d5:1:0:0
+Viasat Kino Balkan
+p:Vivacom
+007f:00823148:251c:00d5:1:0:0
+Hustler TV Europe
+p:Vivacom
+0080:00823148:251c:00d5:1:0:0
+Nickelodeon Europe
+p:Vivacom
+0082:00823148:251c:00d5:1:0:0
+Disney Channel Bulgaria
+p:Vivacom
+0083:00823148:251c:00d5:1:0:0
+Disney Jr Romania & Bulgaria
+p:Vivacom
+0086:00823148:251c:00d5:1:0:0
+Lovno-Ribarski Klub
+p:Vivacom
+0087:00823148:251c:00d5:1:0:0
+Dom Kino Premium
+p:Vivacom
+0088:00823148:251c:00d5:1:0:0
+Kino Nova
+p:Vivacom
+008b:00823148:251c:00d5:1:0:0
+Chasse & Pêche
+p:Vivacom
+008c:00823148:251c:00d5:1:0:0
+History 2 Europe
+p:Vivacom
+008d:00823148:251c:00d5:1:0:0
+DW English
+p:Vivacom
+008e:00823148:251c:00d5:1:0:0
+Peretz International
+p:Vivacom
+0092:00823148:251c:00d5:1:0:0
+Nova News
+p:Vivacom
+0093:00823148:251c:00d5:1:0:0
+CineStar 1
+p:Vivacom
+0094:00823148:251c:00d5:1:0:0
+CineStar Action
+p:Vivacom
+0095:00823148:251c:00d5:1:0:0
+Super Toons
+p:Vivacom
+00e2:00823148:251c:00d5:1:0:0
+Cinemax Central Europe
+p:Vivacom
+00e5:00823148:251c:00d5:1:0:0
+HBO Adria
+p:Vivacom
+00e6:00823148:251c:00d5:1:0:0
+HBO 2 Central Europe
+p:Vivacom
+0259:00823148:251c:00d5:1:0:0
+Arena Life
+p:Vivacom
+025a:00823148:251c:00d5:1:0:0
+Arena Comedy
+p:Vivacom
+025b:00823148:251c:00d5:1:0:0
+Arena Action
+p:Vivacom
+0001:0082315b:2580:00d5:1:0:0
+BTV
+p:Vivacom
+0002:0082315b:2580:00d5:1:0:0
+Nova TV
+p:Vivacom
+0003:0082315b:2580:00d5:1:0:0
+BTV Comedy
+p:Vivacom
+0004:0082315b:2580:00d5:1:0:0
+BTV Cinema
+p:Vivacom
+0005:0082315b:2580:00d5:1:0:0
+Nova TV
+p:Vivacom
+0006:0082315b:2580:00d5:1:0:0
+BTV Story
+p:Vivacom
+0007:0082315b:2580:00d5:1:0:0
+BTV Action
+p:Vivacom
+0008:0082315b:2580:00d5:1:0:0
+City TV
+p:Vivacom
+0010:0082315b:2580:00d5:1:0:0
+Ring
+p:Vivacom
+0015:0082315b:2580:00d5:1:0:0
+Star Life Bulgaria
+p:Vivacom
+0016:0082315b:2580:00d5:1:0:0
+Star Crime Bulgaria
+p:Vivacom
+001c:0082315b:2580:00d5:1:0:0
+24 Kitchen Bulgaria
+p:Vivacom
+001d:0082315b:2580:00d5:1:0:0
+Telenews
+p:Unknown
+0020:0082315b:2580:00d5:1:0:0
+Star Channel Bulgaria
+p:Vivacom
+0021:0082315b:2580:00d5:1:0:0
+BNT 4
+p:Unknown
+0022:0082315b:2580:00d5:1:0:0
+Bulgaria On Air
+p:Vivacom
+0023:0082315b:2580:00d5:1:0:0
+Bloomberg TV Bulgaria
+p:Vivacom
+0024:0082315b:2580:00d5:1:0:0
+National Geographic Bulgaria
+p:Vivacom
+0029:0082315b:2580:00d5:1:0:0
+Plovdivska Pravoslavna TV
+p:Unknown
+002a:0082315b:2580:00d5:1:0:0
+National Geographic Wild Europe
+p:Vivacom
+002b:0082315b:2580:00d5:1:0:0
+Bulgarska Khristiyanska TV
+p:Unknown
+0009:0082315b:2580:00d5:2:0:0
+Radio 1
+p:Unknown
+000a:0082315b:2580:00d5:2:0:0
+BG Radio
+p:Unknown
+000b:0082315b:2580:00d5:2:0:0
+Radio City
+p:Unknown
+000c:0082315b:2580:00d5:2:0:0
+NRJ Bulgaria
+p:Unknown
+000d:0082315b:2580:00d5:2:0:0
+Radio Veronika
+p:Unknown
+000e:0082315b:2580:00d5:2:0:0
+Radio 1 Rock
+p:Unknown
+000f:0082315b:2580:00d5:2:0:0
+Avtoradio
+p:Unknown
+0011:0082315b:2580:00d5:2:0:0
+Radio Focus Sofia
+p:Unknown
+0012:0082315b:2580:00d5:2:0:0
+Radio Focus Pirin
+p:Unknown
+0013:0082315b:2580:00d5:2:0:0
+BNR Horizont
+p:Unknown
+0014:0082315b:2580:00d5:2:0:0
+BNR Hristo Botev
+p:Unknown
+0017:0082315b:2580:00d5:2:0:0
+Darik Radio
+p:Unknown
+0018:0082315b:2580:00d5:2:0:0
+Darik Radio Plovdiv
+p:Unknown
+0019:0082315b:2580:00d5:2:0:0
+Darik Radio Burgas
+p:Unknown
+001b:0082315b:2580:00d5:2:0:0
+BNR Radio Kardzali
+p:Unknown
+001e:0082315b:2580:00d5:2:0:0
+Radio Bulgaria On Air
+p:Unknown
+001f:0082315b:2580:00d5:2:0:0
+B Radio
+p:Unknown
+0025:0082315b:2580:00d5:2:0:0
+BNR Radio Burgas
+p:Unknown
+0026:0082315b:2580:00d5:2:0:0
+BNR Radio Vidin
+p:Unknown
+0027:0082315b:2580:00d5:2:0:0
+BNR Radio Stara Zagora
+p:Unknown
+0028:0082315b:2580:00d5:2:0:0
+BNR Radio Varna
+p:Unknown
+002c:0082315b:2580:00d5:2:0:0
+BNR Horizont
+p:Unknown
+002d:0082315b:2580:00d5:2:0:0
+BNR Radio Plovdiv
+p:Unknown
+002e:0082315b:2580:00d5:2:0:0
+Radio Fresh!
+p:Unknown
+002f:0082315b:2580:00d5:2:0:0
+Radio FM+
+p:Unknown
+0030:0082315b:2580:00d5:2:0:0
+BNR Radio Blagoevgrad
+p:Unknown
+0031:0082315b:2580:00d5:2:0:0
+BNR Radio Shumen
+p:Unknown
+0032:0082315b:2580:00d5:2:0:0
+BNR Radio Sofia
+p:Unknown
+003b:0082315b:2580:00d5:2:0:0
+Radio Focus Veliko Tarnovo
+p:Unknown
+003c:0082315b:2580:00d5:2:0:0
+Radio Vitosha East
+p:Unknown
+003d:0082315b:2580:00d5:2:0:0
+The Voice Bulgaria
+p:Unknown
+003e:0082315b:2580:00d5:2:0:0
+Radio Veselina South
+p:Unknown
+003f:0082315b:2580:00d5:2:0:0
+Magic FM
+p:Unknown
+0040:0082315b:2580:00d5:2:0:0
+Radio N-Joy
+p:Unknown
+0041:0082315b:2580:00d5:2:0:0
+Radio Z-Rock
+p:Unknown
+0042:0082315b:2580:00d5:2:0:0
+Darik Radio Sofia
+p:Unknown
+0043:0082315b:2580:00d5:2:0:0
+Radio Nova News
+p:Unknown
+004c:0082315b:2580:00d5:2:0:0
+Radio Focus Burgas
+p:Unknown
+004d:0082315b:2580:00d5:2:0:0
+Radio Focus Varna
+p:Unknown
+0051:0082315b:2580:00d5:2:0:0
+Jazz FM
+p:Unknown
+0053:0082315b:2580:00d5:2:0:0
+B Radio
+p:Unknown
+0054:0082315b:2580:00d5:2:0:0
+Radio N-Joy
+p:Unknown
+0055:0082315b:2580:00d5:2:0:0
+Radio Z-Rock
+p:Unknown
+0056:0082315b:2580:00d5:2:0:0
+Darik Radio Varna
+p:Unknown
+0058:0082315b:2580:00d5:2:0:0
+Darik Radio Ruse
+p:Unknown
+0059:0082315b:2580:00d5:2:0:0
+Darik Radio Vraca
+p:Unknown
+005a:0082315b:2580:00d5:2:0:0
+Darik Nostalgie
+p:Unknown
+005b:0082315b:2580:00d5:2:0:0
+Radio Vitosha West
+p:Unknown
+005c:0082315b:2580:00d5:2:0:0
+Radio Veselina North
+p:Unknown
+005d:0082315b:2580:00d5:2:0:0
+Radio Veselina West
+p:Unknown
+005e:0082315b:2580:00d5:2:0:0
+Radio Veselina East
+p:Unknown
+006a:0082316e:25e4:00d5:1:0:0
+DSTV
+p:Vivacom
+0076:0082316e:25e4:00d5:1:0:0
+AMC Balkan
+p:Vivacom
+007b:0082316e:25e4:00d5:1:0:0
+TLC Balkan
+p:Vivacom
+00c8:0082316e:25e4:00d5:1:0:0
+Agro TV
+p:Vivacom
+00c9:0082316e:25e4:00d5:1:0:0
+Cartoon Network Bulgaria
+p:Vivacom
+00ca:0082316e:25e4:00d5:1:0:0
+FilmBox+ Love & Crime Adria
+p:Vivacom
+00cb:0082316e:25e4:00d5:1:0:0
+Food Network EMEA
+p:Vivacom
+00cc:0082316e:25e4:00d5:1:0:0
+Tiankov Folk
+p:Vivacom
+00cd:0082316e:25e4:00d5:1:0:0
+Fantazzy TV
+p:Vivacom
+00d0:0082316e:25e4:00d5:1:0:0
+Nova Sport
+p:Vivacom
+00d1:0082316e:25e4:00d5:1:0:0
+Planeta Folk
+p:Vivacom
+00d2:0082316e:25e4:00d5:1:0:0
+7/8 TV
+p:Vivacom
+00d3:0082316e:25e4:00d5:1:0:0
+Folklor TV
+p:Unknown
+00d4:0082316e:25e4:00d5:1:0:0
+Viasat Nature East
+p:Vivacom
+00d6:0082316e:25e4:00d5:1:0:0
+Bez Bagaj
+p:Vivacom
+00d7:0082316e:25e4:00d5:1:0:0
+Eurosport 2
+p:Vivacom
+00d8:0082316e:25e4:00d5:1:0:0
+Evrokom
+p:Unknown
+00db:0082316e:25e4:00d5:1:0:0
+TV 1000 Russkoe Kino
+p:Vivacom
+00dc:0082316e:25e4:00d5:1:0:0
+Nostalgia
+p:Vivacom
+00df:0082316e:25e4:00d5:1:0:0
+Animal Planet Europe
+p:Vivacom
+00e0:0082316e:25e4:00d5:1:0:0
+HBO 3 Central Europe
+p:Vivacom
+00e1:0082316e:25e4:00d5:1:0:0
+Pickbox TV Bulgaria
+p:Vivacom
+00e3:0082316e:25e4:00d5:1:0:0
+Okhota i Rybalka
+p:Vivacom
+00e4:0082316e:25e4:00d5:1:0:0
+Cartoonito Central & Eastern Europe
+p:Vivacom
+00e8:0082316e:25e4:00d5:1:0:0
+Baby TV Europe
+p:Vivacom
+00e9:0082316e:25e4:00d5:1:0:0
+Eurosport 1
+p:Vivacom
+00ea:0082316e:25e4:00d5:1:0:0
+SKAT
+p:Vivacom
+00ed:0082316e:25e4:00d5:1:0:0
+Box TV
+p:Vivacom
+00f0:0082316e:25e4:00d5:1:0:0
+MTV Global
+p:Vivacom
+00f1:0082316e:25e4:00d5:1:0:0
+Auto Motor und Sport
+p:Vivacom
+00f5:0082316e:25e4:00d5:1:0:0
+Fen TV
+p:Vivacom
+00f7:0082316e:25e4:00d5:1:0:0
+Movie Star
+p:Vivacom
+00f8:0082316e:25e4:00d5:1:0:0
+Marquee TV
+p:Vivacom
+00fa:0082316e:25e4:00d5:1:0:0
+Kanal 3
+p:Vivacom
+0104:0082316e:25e4:00d5:1:0:0
+EKids
+p:Vivacom
+0105:0082316e:25e4:00d5:1:0:0
+Cinemax 2 Central Europe
+p:Vivacom
+0106:0082316e:25e4:00d5:1:0:0
+EuroNews Bulgaria
+p:Vivacom
+0109:0082316e:25e4:00d5:1:0:0
+Bulgaria 24
+p:Unknown
+010a:0082316e:25e4:00d5:1:0:0
+The Voice TV
+p:Vivacom
+010b:0082316e:25e4:00d5:1:0:0
+Magic TV
+p:Unknown
+010c:0082316e:25e4:00d5:1:0:0
+TV 8 International
+p:Vivacom
+010d:0082316e:25e4:00d5:1:0:0
+History HD Europe
+p:Vivacom
+010e:0082316e:25e4:00d5:1:0:0
+Nicktoons Bulgaria
+p:Vivacom
+010f:0082316e:25e4:00d5:1:0:0
+Rodina
+p:Unknown
+0110:0082316e:25e4:00d5:1:0:0
+Vivid TV Europe
+p:Vivacom
+012e:0082316e:25e4:00d5:1:0:0
+Crime + Investigation UK
+p:Vivacom
+0136:0082316e:25e4:00d5:1:0:0
+DM Sat
+p:Vivacom
+00d5:00823181:2648:00d5:1:0:0
+RTG International
+p:Vivacom
+00de:00823181:2648:00d5:1:0:0
+Fight Klub
+p:Vivacom
+0130:00823181:2648:00d5:1:0:0
+Diema Sport
+p:Vivacom
+0131:00823181:2648:00d5:1:0:0
+Viasat True Crime
+p:Vivacom
+0134:00823181:2648:00d5:1:0:0
+SkyShowtime 1
+p:Vivacom
+0135:00823181:2648:00d5:1:0:0
+SkyShowtime 2
+p:Vivacom
+0137:00823181:2648:00d5:1:0:0
+HGTV Pan Regional
+p:Vivacom
+0138:00823181:2648:00d5:1:0:0
+BNT 3
+p:Vivacom
+0139:00823181:2648:00d5:1:0:0
+Max Sport 3
+p:Vivacom
+013b:00823181:2648:00d5:1:0:0
+National Geographic Wild Europe
+p:Vivacom
+013c:00823181:2648:00d5:1:0:0
+National Geographic Bulgaria
+p:Vivacom
+013d:00823181:2648:00d5:1:0:0
+Planeta
+p:Vivacom
+013e:00823181:2648:00d5:1:0:0
+BTV
+p:Vivacom
+013f:00823181:2648:00d5:1:0:0
+BTV Action
+p:Vivacom
+0140:00823181:2648:00d5:1:0:0
+Ring
+p:Vivacom
+0145:00823181:2648:00d5:1:0:0
+Diema Sport 3
+p:Vivacom
+0146:00823181:2648:00d5:1:0:0
+Domashniy International
+p:Vivacom
+0147:00823181:2648:00d5:1:0:0
+STS Kids
+p:Vivacom
+014a:00823181:2648:00d5:1:0:0
+Diema Sport 2
+p:Vivacom
+1389:008231a9:2710:00d5:1:0:0
+TV 1
+p:Unknown
+138a:008231a9:2710:00d5:1:0:0
+Max Sport 4
+p:Vivacom
+138b:008231a9:2710:00d5:1:0:0
+CNN International Europe
+p:Vivacom
+138c:008231a9:2710:00d5:1:0:0
+BeIn Movies Turk
+p:Vivacom
+138d:008231a9:2710:00d5:1:0:0
+Show Turk
+p:Vivacom
+138f:008231a9:2710:00d5:1:0:0
+Vivacom Arena
+p:Vivacom
+1390:008231a9:2710:00d5:1:0:0
+Mediaset Italia
+p:Vivacom
+1392:008231a9:2710:00d5:1:0:0
+Nick Jr Central & Eastern Europe
+p:Vivacom
+1393:008231a9:2710:00d5:1:0:0
+Da Vinci
+p:Vivacom
+1394:008231a9:2710:00d5:1:0:0
+English Club TV
+p:Vivacom
+1396:008231a9:2710:00d5:1:0:0
+Freedom
+p:Vivacom
+1397:008231a9:2710:00d5:1:0:0
+XY Plus
+p:Vivacom
+1398:008231a9:2710:00d5:1:0:0
+Cinemania
+p:Vivacom
+139a:008231a9:2710:00d5:1:0:0
+BG+
+p:Vivacom
+139b:008231a9:2710:00d5:1:0:0
+Fen Folk
+p:Unknown
+139c:008231a9:2710:00d5:1:0:0
+BG Music Channel
+p:Vivacom
+139d:008231a9:2710:00d5:1:0:0
+BBC Earth Türkiye
+p:Vivacom
+139e:008231a9:2710:00d5:1:0:0
+Travel TV
+p:Vivacom
+139f:008231a9:2710:00d5:1:0:0
+CodeHealth
+p:Vivacom
+13a0:008231a9:2710:00d5:1:0:0
+Dorcel XXX
+p:Vivacom
+13a1:008231a9:2710:00d5:1:0:0
+Hit Mix Music
+p:Vivacom
+13a3:008231a9:2710:00d5:1:0:0
+Wness TV
+p:Vivacom
+13a4:008231a9:2710:00d5:1:0:0
+FilmBox+ Emotion Bulgaria
+p:Vivacom
+13a5:008231a9:2710:00d5:1:0:0
+Love Nature
+p:Vivacom
+13a6:008231a9:2710:00d5:1:0:0
+Antena 3 Internacional
+p:Vivacom
+13a8:008231a9:2710:00d5:1:0:0
+Private TV
+p:Vivacom
+13a9:008231a9:2710:00d5:1:0:0
+FilmBox+ One Central Europe
+p:Vivacom
+13aa:008231a9:2710:00d5:1:0:0
+TV 21
+p:Vivacom
+13ab:008231a9:2710:00d5:1:0:0
+RTL Deutschland
+p:Vivacom
+13ac:008231a9:2710:00d5:1:0:0
+Max Sport 1
+p:Vivacom
+13ad:008231a9:2710:00d5:1:0:0
+Max Sport 2
+p:Vivacom
+13ae:008231a9:2710:00d5:1:0:0
+Kanal 7 Avrupa
+p:Vivacom
+13af:008231a9:2710:00d5:1:0:0
+Show Max
+p:Vivacom
+13b0:008231a9:2710:00d5:1:0:0
+Habertürk
+p:Vivacom
+13b1:008231a9:2710:00d5:1:0:0
+Yaban
+p:Vivacom
+13b2:008231a9:2710:00d5:1:0:0
+Nastoyashcheye Vremya
+p:Vivacom
+13b3:008231a9:2710:00d5:1:0:0
+Discovery Channel Bulgaria
+p:Vivacom
+13b4:008231a9:2710:00d5:1:0:0
+Mate Kitchen TV
+p:Vivacom
+13b5:008231a9:2710:00d5:1:0:0
+Daystar TV
+p:Unknown
+0259:008231bb:2774:013e:1:0:0
+FX Life Greece
+p:Nova
+025a:008231bb:2774:013e:1:0:0
+FX Greece
+p:Nova
+025b:008231bb:2774:013e:1:0:0
+MyZen TV
+p:Nova
+025c:008231bb:2774:013e:1:0:0
+Number 1 Greece
+p:Nova
+025d:008231bb:2774:013e:1:0:0
+Inplus
+p:Nova
+025e:008231bb:2774:013e:1:0:0
+Crime + Investigation UK
+p:Nova
+025f:008231bb:2774:013e:1:0:0
+National Geographic Ellada
+p:Nova
+0260:008231bb:2774:013e:1:0:0
+Viasat History East
+p:Nova
+0261:008231bb:2774:013e:1:0:0
+Viasat Nature East
+p:Nova
+0262:008231bb:2774:013e:1:0:0
+Viasat Explore East
+p:Nova
+0263:008231bb:2774:013e:1:0:0
+Vivid Red
+p:Nova
+end
